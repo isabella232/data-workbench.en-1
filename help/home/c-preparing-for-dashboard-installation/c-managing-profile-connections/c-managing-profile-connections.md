@@ -1,0 +1,18 @@
+---
+description: null
+seo-description: null
+seo-title: Managing Profile Connections
+solution: Analytics
+title: Managing Profile Connections
+topic: Data workbench
+uuid: d6c096c4-f082-4b24-870b-e91b1f483b72
+index: y
+internal: n
+snippet: y
+---
+
+# Managing Profile Connections{#managing-profile-connections}
+
+Connections between the data workbench Dashboard Server and data workbench data profiles are managed using the Profile Manager within the Administration Console. Data workbench profiles used within the dashboard do not need to be centrally located, and can be hosted anywhere if there is appropriate connectivity between the dashboard server and the data workbench server(s) hosting the profile(s).
+
+Only administrators have the privilege to create and modify profile connections. To manage profile connections, use the Profiles tab in the Administration Console. 

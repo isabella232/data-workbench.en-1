@@ -1,0 +1,25 @@
+---
+description: null
+seo-description: null
+seo-title: Deleting Folders
+solution: Analytics
+title: Deleting Folders
+topic: Data workbench
+uuid: 20098949-cc99-4d2a-b3c9-06b9239e7011
+index: y
+internal: n
+snippet: y
+---
+
+# Deleting Folders{#deleting-folders}
+
+1. Right-click a folder to delete and select **[!UICONTROL Delete]**.
+
+   ![](assets/delete_folder.png)
+
+   >[!NOTE]
+   >
+   >The folder must be empty before you can delete it.
+
+1. You will be prompted to make sure you wish to delete the folder.
+1. If the operation was successful, you will also see a prompt indicating that the folder has been deleted.

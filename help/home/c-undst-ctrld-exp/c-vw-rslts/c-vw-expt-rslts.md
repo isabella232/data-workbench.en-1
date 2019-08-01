@@ -1,0 +1,36 @@
+---
+description: After you have added the new field to Log Processing.cfg and created the new Split transformation and extended dimension, you can view the new extended dimension that you created as soon as the Fast Input stage of data reprocessing has finished.
+seo-description: After you have added the new field to Log Processing.cfg and created the new Split transformation and extended dimension, you can view the new extended dimension that you created as soon as the Fast Input stage of data reprocessing has finished.
+seo-title: Viewing the Experiment Results
+solution: Insight,Analytics
+title: Viewing the Experiment Results
+topic: Data workbench
+uuid: 76114fbb-7da7-4fdf-8838-44524ea52c2b
+index: y
+internal: n
+snippet: y
+---
+
+# Viewing the Experiment Results{#viewing-the-experiment-results}
+
+After you have added the new field to Log Processing.cfg and created the new Split transformation and extended dimension, you can view the new extended dimension that you created as soon as the Fast Input stage of data reprocessing has finished.
+
+ This dimension, by default, displays the number of sessions for each of your experiment groups.
+
+**To view the experiment dimension**
+
+* Within any workspace in [!DNL Insight], open a table with the experiment dimension that you created.
+
+  The experiment dimension elements, which represent each experiment you are currently running and each group within each experiment, display with the current number of sessions for each group. Each group is named in the following format using the experiment name followed by the group name:
+
+  *Experiment Name.Group Name*
+
+  For example: [!DNL New Homepage.Control]
+
+The following table shows the Controlled Experiment Groups dimension that was created in [!DNL Transformation.cfg] and each of the experiments and their groups.
+
+The New Homepage experiment is shown at the bottom of the table with its two groups: Control and index2.
+
+![](assets/controlledexpgrps.png)
+
+You now can use the experiment dimension and any relevant metrics to explore and interpret the experiment results, as well as create useful reports detailing those results. 

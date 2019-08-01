@@ -1,0 +1,18 @@
+---
+description: The URI transformations modify the internal fields used to create the URI dimension provided with the Site application.
+seo-description: The URI transformations modify the internal fields used to create the URI dimension provided with the Site application.
+seo-title: URI Transformations
+solution: Analytics
+title: URI Transformations
+topic: Data workbench
+uuid: f0e09b1e-6c1e-4541-a918-1d21a9991454
+index: y
+internal: n
+snippet: y
+---
+
+# URI Transformations{#uri-transformations}
+
+The URI transformations modify the internal fields used to create the URI dimension provided with the Site application.
+
+ These transformations enable you to modify the [!DNL URI] elements to create values that are more useful and meaningful to your site analysts. In general, these transformations have the same basic operational principles as the standard transformations. See [Standard Transformations](../../../../../home/c-dataset-const-proc/c-data-trans/c-transf-types/c-standard-transf/c-standard-transf.md#concept-25f4bdbf8fe74c4aaeb2fcd226243886). 
