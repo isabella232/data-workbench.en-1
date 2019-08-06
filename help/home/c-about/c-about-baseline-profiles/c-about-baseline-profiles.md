@@ -17,7 +17,7 @@ A set of standard profiles for each application has been created to allow for on
 
  These baseline profiles include the definitions of standard metrics, dimensions, filters, reports, workspaces, and dashboards. Adobe continuously updates these profiles and makes them available to its licensees through its Software Support program. Additionally, users of Adobe applications can define additional profiles and use them with or instead of the profiles provided by Adobe.
 
-The profile management system allows the overriding of a profile’s configurations by higher level profiles. This feature should be used by users or administrators who want to override any of the definitions incorporated in these profiles after they are installed. Installing new releases of these profiles will overwrite any prior versions. As a result, any changes made to these profiles directly would be overwritten when the new profiles are installed.
+The profile management system allows the overriding of a profile’s configurations by higher level profiles. Use this feature when you want to override any of the definitions incorporated in these profiles after they are installed. Installing new releases of these profiles will overwrite any prior versions. As a result, any changes made to these profiles directly would be overwritten when the new profiles are installed.
 
 Profiles for vertical markets or specific types of companies or industries also may be available from Adobe ClientCare. The following are descriptions of the baseline profiles:
 
