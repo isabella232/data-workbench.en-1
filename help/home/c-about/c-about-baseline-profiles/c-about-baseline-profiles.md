@@ -13,7 +13,7 @@ snippet: y
 
 # Baseline Profiles{#baseline-profiles}
 
-A set of standard profiles for each application has been created to allow for one or more of the profiles to be installed at any given time.
+A set of standard profiles for each application has been created to enable one or more of the profiles to be installed at any given time.
 
  These baseline profiles include the definitions of standard metrics, dimensions, filters, reports, workspaces, and dashboards. Adobe continuously updates these profiles and makes them available to its licensees through its Software Support program. Additionally, users of Adobe applications can define additional profiles and use them with or instead of the profiles provided by Adobe.
 
