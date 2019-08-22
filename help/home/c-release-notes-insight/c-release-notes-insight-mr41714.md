@@ -1,6 +1,6 @@
 ---
-description: Adobe Analytics will update and enhance its data feed powering Data Workbench to take advantage of the Master Marketing Profile within the Adobe Marketing Cloud. All Data Workbench users are required to be prepared to transition to this new data feed format by April 21, 2014.
-seo-description: Adobe Analytics will update and enhance its data feed powering Data Workbench to take advantage of the Master Marketing Profile within the Adobe Marketing Cloud. All Data Workbench users are required to be prepared to transition to this new data feed format by April 21, 2014.
+description: Adobe Analytics will update and enhance its data feed powering Data Workbench to take advantage of Profiles and Audiences within the Adobe Experience Cloud. All Data Workbench users are required to be prepared to transition to this new data feed format by April 21, 2014.
+seo-description: Adobe Analytics will update and enhance its data feed powering Data Workbench to take advantage of Profiles and Audiences within the Adobe Experience Cloud. All Data Workbench users are required to be prepared to transition to this new data feed format by April 21, 2014.
 seo-title: Updates for April MR 2014
 title: Updates for April MR 2014
 uuid: 119bcf2e-8a09-413e-8bb6-d479cc979256
@@ -11,15 +11,15 @@ snippet: y
 
 # Updates for April MR 2014{#updates-for-april-mr}
 
-Adobe Analytics will update and enhance its data feed powering Data Workbench to take advantage of the Master Marketing Profile within the Adobe Marketing Cloud. All Data Workbench users are required to be prepared to transition to this new data feed format by April 21, 2014.
+Adobe Analytics will update and enhance its data feed powering Data Workbench to take advantage of Profiles and Audiences within the Adobe Experience Cloud. All Data Workbench users are required to be prepared to transition to this new data feed format by April 21, 2014.
 
-The Master Marketing Profile provides a complete and fully actionable view of customers for use across the Adobe Marketing Cloud and third-party services. To start establishing the foundation for new features within Analytics, the new marketing cloud visitor identifier will be added to the data feed in this upcoming April MR release along with other enhancements and improvements. This new service is available to any customer using the Adobe Marketing Cloud.
+Profiles and Audiences provides a complete and fully actionable view of customers for use across the Adobe Experience Cloud and third-party services. To start establishing the foundation for new features within Analytics, the new Experience Cloud ID Service will be added to the data feed in this upcoming April MR release along with other enhancements and improvements. This new service is available to any customer using the Adobe Experience Cloud.
 
 Additional enhancements and bug fixes provided with this new data feed are listed below in this topic, as well as instructions for preparing your Data Workbench configuration.
 
 ## Enhancements and Bug Fixes for the New Data Feed {#section-0013de07da93411d929a1dfd0417f61b}
 
-* Addition of the Marketing Cloud Visitor ID. 
+* Addition of the Experience Cloud ID Service. 
 * Addition of the Target Action field to support Target reporting and analysis within Analytics. 
 * Improved alignment with Report & Analytics by incorporating the [!DNL bot_id] value on the product row types. 
 * Reduction in size of merchandising eVars without the loss of integrity on the data values. 
@@ -28,7 +28,7 @@ Additional enhancements and bug fixes provided with this new data feed are liste
 
 ## Updating the Data Workbench Configuration {#section-381fcd185af6474bb656501c096c451d}
 
-Changes to Data Workbench will ensure uninterrupted integration of the data feed after the transition. During your next scheduled reprocess update, the current Decoder Group within the Log Processing phase of the configuration. The team responsible for managing the Data Workbench architecture will be able to perform additional tasks to help expose and take advantage of the new marketing cloud visitor identifier.
+Changes to Data Workbench will ensure uninterrupted integration of the data feed after the transition. During your next scheduled reprocess update, the current Decoder Group within the Log Processing phase of the configuration. The team responsible for managing the Data Workbench architecture will be able to perform additional tasks to help expose and take advantage of the new Experience Cloud visitor identifier.
 
 **Tasks to update Data Workbench**
 

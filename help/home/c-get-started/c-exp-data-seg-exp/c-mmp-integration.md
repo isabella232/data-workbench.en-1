@@ -1,6 +1,6 @@
 ---
-description: Data Workbench lets you export files to integrate with the Master Marketing Profile as part of an integrated Adobe Marketing Cloud.
-seo-description: Data Workbench lets you export files to integrate with the Master Marketing Profile as part of an integrated Adobe Marketing Cloud.
+description: Data Workbench lets you export files to integrate with the Profiles and Audiences Export as part of an integrated Adobe Experience Cloud.
+seo-description: Data Workbench lets you export files to integrate with Profiles and Audiences as part of an integrated Adobe Experience Cloud.
 seo-title: Master Marketing Profile Export
 title: Master Marketing Profile Export
 uuid: bae0f0c5-a452-4afd-9f2c-5f3ab69a12d2
@@ -11,13 +11,13 @@ snippet: y
 
 # Master Marketing Profile Export{#master-marketing-profile-export}
 
-Data Workbench lets you export files to integrate with the Master Marketing Profile as part of an integrated Adobe Marketing Cloud.
+Data Workbench lets you export files to integrate with Profiles and Audiences as part of an integrated Adobe Experience Cloud.
 
 <a id="section_731922BC8628479198A41EF3EA72F2FF"></a>
 
-The Master Marketing Profile (MMP) is part of the [Visitor ID service](http://marketing.adobe.com/resources/help/en_US/mcvid/?f=mcvid_service), a core service of the [Adobe Marketing Cloud](http://www.adobe.com/solutions/?f=digital-marketing). The MMP allows audiences to be shared across the Marketing Cloud using a unique visitor ID (MCID) that is assigned to every visitor and then used by [Audience Manager](http://marketing.adobe.com/resources/help/en_US/em/). The [!DNL ExportIntegration.exe] application ( [!DNL E:\Server\Scripts]) is employed to generate both MMP and Adobe Target exports.
+Profiles and Audiences is part of the [Experience Cloud Identity Service](https://docs.adobe.com/content/help/en/id-service/using/home.html), a core service of the [!DNL Adobe Experience Cloud]. The MMP allows audiences to be shared across the Experience Cloud using a unique Experience Cloud ID (ECID) that is assigned to every visitor and then used by [Audience Manager](http://marketing.adobe.com/resources/help/en_US/em/). The [!DNL ExportIntegration.exe] application ( [!DNL E:\Server\Scripts]) is employed to generate both MMP and Adobe Target exports.
 
-**Configuring the FSU Server to use the Master Marketing Profile**
+**Configuring the FSU Server to use Profiles and Audiences**
 
 1. Access your FSU server. 
 1. Open the MMPExport.cfg file. ( [!DNL Server/Admin/Export/MMPExport.cfg]). 
@@ -169,5 +169,5 @@ Time Limit (sec) = double: 1800
 |  Configuration Details  | Description  |
 |---|---|
 |  MMP Segment ID  | Required. This is an identifier you would define first in Audience Manager.  |
-|  MMP Visitor ID Field  | Map the MCID.  |
+|  MMP Visitor ID Field  | Map the ECID.  |
 

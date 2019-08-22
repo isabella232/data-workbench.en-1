@@ -88,7 +88,7 @@ The following table describes the Tables parameter and all of the sub-parameters
 
 To use an XML file as a log source for a dataset, XML decoder groups and tables must be defined to extract the information that is to be processed into the dataset. In this example, you can see how to define decoder groups and tables for a sample XML log source for a web dataset.
 
-The following XML file contains information about a website visitor, including a visitor ID, email address, physical address, and information about the visitor's page views.
+The following XML file contains information about a website visitor, including a Experience Cloud ID, email address, physical address, and information about the visitor's page views.
 
 ![](assets/xmlFile_LogSource.png)
 

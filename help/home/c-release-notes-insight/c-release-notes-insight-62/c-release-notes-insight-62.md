@@ -75,9 +75,9 @@ Data Workbench 6.2 includes these new features:
 * Workstation connection error displaying "412 Configuration Conflict" message is now replaced with user friendly message that identifies system action. 
 * The "post" command can now be executed in Report Server. 
 * Fixed user interface errors in client user interface for Simplified Chinese. 
-* Adobe Analytics updated the data feed that powers Data Workbench to take advantage of the Master Marketing Profile that integrates with the Adobe Marketing Cloud. All Data Workbench users were required to prepare their environment for this transition by April 21, 2014.
+* Adobe Analytics updated the data feed that powers Data Workbench to take advantage of Profiles and Audiences that integrates with the Adobe Experience Cloud. All Data Workbench users were required to prepare their environment for this transition by April 21, 2014.
 
-  The master marketing profile was introduced to provide a complete view of customers across Adobe Analytics. This new service is available within the Adobe Marketing Cloud to drive further value across analytics tools to start establishing the foundation for these features within Analytics. The new Marketing Cloud visitor identifier will be added to the data feed, along with other enhancements and improvements to adapt to the new data feed and global visitor identifier. 
+  Profiles and Audiences was introduced to provide a complete view of customers across Adobe Analytics. This new service is available within the Adobe Experience Cloud to drive further value across analytics tools to start establishing the foundation for these features within Analytics. The new Experience Cloud visitor identifier will be added to the data feed, along with other enhancements and improvements to adapt to the new data feed and global visitor identifier. 
 * When importing a workspace, an error message is displayed even though the import was successful.
 
 ## Upgrade Requirement {#section-3cc74d08f7454d698b5a6d3f1dcde282}

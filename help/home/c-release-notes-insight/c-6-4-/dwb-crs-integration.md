@@ -15,9 +15,9 @@ The Customer Record Service (CRS) export feature lets you export Data Workbench 
 
 >[!NOTE]
 >
->In order for the CRS export feature to work, a visitor's Analytics Visitor ID (AVID) must be based on the Marketing Cloud Visitor ID (MCID). Although MCID may be populated in Data Workbench for a visitor, if the client is in the grace period or the visitor's cookie has not been replaced with MCID, the CRS export will not work for that visitor. For more information, see [Identifying Visitors](https://marketing.adobe.com/resources/help/en_US/reference/datafeeds-visid.html) and [ID Service Grace Period](https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid_grace_period.html).
+>In order for the CRS export feature to work, a visitor's Analytics ID must be based on the Experience Cloud ID Service (ECID). Although ECID may be populated in Data Workbench for a visitor, if the client is in the grace period or the visitor's cookie has not been replaced with ECID, the CRS export will not work for that visitor. For more information, see [Identifying Visitors](https://docs.adobe.com/content/help/en/analytics/export/analytics-data-feed/data-feed-contents/datafeeds-visid.html) and [ID Service Grace Period](https://docs.adobe.com/content/help/en/id-service/using/reference/analytics-reference/grace-period.html).
 
-From a **Detail Table** (right-click **[!DNL Tools > Detail Table]** in a workspace), you can set attribute values and the variables required to integrate with Analytics' Reports & Analytics (using Adobe Pipeline Services).
+From a **Detail Table** (right-click **[!UICONTROL Tools]** > **[!UICONTROL Detail Table]** in a workspace), you can set attribute values and the variables required to integrate with Analytics' Reports & Analytics (using Adobe Pipeline Services).
 
 1. **Right-click the table header and click New Customer Record Service. ** 
 
@@ -57,8 +57,8 @@ From a **Detail Table** (right-click **[!DNL Tools > Detail Table]** in a worksp
  </tbody> 
 </table>
 
-1. ** Right-click Report Suite > Add New. ** 
-1. **Enter the *Report Suite ID***.
+1. Right-click **[!UICONTROL Report Suite]** > **[!UICONTROL Add New]**.
+1. Enter the **[!UICONTROL Report Suite ID]**.
 
    Open the new entry and enter or verify values in the *Report Suite* section of the export file: 
 
@@ -71,13 +71,12 @@ From a **Detail Table** (right-click **[!DNL Tools > Detail Table]** in a worksp
  </tbody> 
 </table>
 
-1. ** Enter *MCID Field* parameter.** 
+1. Enter ECID Field parameter.
 
-   | **MCID field** |Name of the dimension in your profile that represents the *Adobe Marketing Cloud I*D. This is a mandatory field and any invalid dimension value entered will not export.  |
+   | **ECID field** |Name of the dimension in your profile that represents the Adobe Experience Cloud ID. This is a mandatory field and any invalid dimension value entered will not export.  |
    |---|---|
 
-1. **(optional) Enter *Visitor ID Field* parameter.** 
+1. (optional) Complete the Visitor ID Field parameter.
 
    | **Visitor ID Field** | If the user wishes to send any other custom ID for a visitor in his/her data, this is where they enter the name of the dimension which represents the custom visitor id. This is an optional field an can be left empty.  |
    |---|---|
-
