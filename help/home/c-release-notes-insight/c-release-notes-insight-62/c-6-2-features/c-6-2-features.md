@@ -13,6 +13,14 @@ snippet: y
 
 Data Workbench 6.2 includes the following features.
 
+* [Data Workbench Client UI Updates](home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-ui-upgrades-6-2.md)
+* [Decision Tree Builder](home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-decision-trees/c-decision-trees.md)
+* [Finders](home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-query-panels.md)
+* [Density Map](home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-density-map.md)
+* [Attribution Profile](home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-rules-attrib/c-rules-attrib.md)
+* [3D Scatter Plots](home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-3d-scatterplots.md)
+* [Analytics Reports](home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-template-report-types.md)
+
 ## Upgrade Requirement {#section-3cc74d08f7454d698b5a6d3f1dcde282}
 
 * The Attribution profile is configured for users who have implemented the Adobe SC profile to employ the Analytics (SC/Insight) data feed. By default, the Marketing and Conversion events are employed as the default interactions evaluated in the rules-based models. See [Deploying the Attribution Profile](http://marketing.adobe.com/resources/help/en_US/insight/whatsnew/?f=c_attrib_profile_deploy) for additional information. 
