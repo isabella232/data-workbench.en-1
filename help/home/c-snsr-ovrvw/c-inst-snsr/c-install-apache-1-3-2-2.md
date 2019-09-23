@@ -69,8 +69,6 @@ To install and configure Sensor, you must perform the following steps:
 >
 >The installation package contains a spreadsheet file called TestExperiment.xls. This spreadsheet is a tool that architects use to configure a controlled experiment. Sensor itself does not use this file, so it is not necessary to install the file on the machine where Sensor is running (although you can choose to do so). You might want to, instead, copy the file to a location where your architects can access it or simply extract the file from the installation package as needed. For more information about controlled experimentation, see the Insight Controlled Experiments Guide.
 
-****
-
 ## Edit the Sensor Configuration File {#section-2e2f1875a5304cdfa2cbcd0680683cfd}
 
 The [!DNL txlogd.conf] file contains the configuration parameters for Sensor.

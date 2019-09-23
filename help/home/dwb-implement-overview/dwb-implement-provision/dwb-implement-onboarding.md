@@ -69,8 +69,6 @@ Your managed servers are identified in the Insight.cfg file that you receive fro
 >
 >In the Workstation Configuration workspace on the DWB client workstation, you will be able to see your connected servers and profiles.
 
-****
-
 **Adobe Managed Services**
 
 • Adobe TechOps manages the infrastructure including network, data center, servers, and storage. Infrastructure monitoring and response to alerts occurs on a 24x7 basis for alerts requiring TechOps action. For other alerts, TechOps will notify Adobe Customer Care to coordinate with you.

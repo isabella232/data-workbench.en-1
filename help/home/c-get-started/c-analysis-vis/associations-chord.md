@@ -26,7 +26,7 @@ The Associations Table compares values with Cramer's V calculation rather than u
 
    Right-click the chord visualization and select **Add Metric** or **Add Dimension**. Select items from the menu to add to the chord.
 
-   You can also drag metrics and dimensions from the **[!UICONTROL Finder]** by clicking ****[!UICONTROL Ctrl-Alt]**** and dragging metrics and dimensions to the chord. Or drag dimension elements directly from an open table to the chord visualization. 
+   You can also drag metrics and dimensions from the **[!UICONTROL Finder]** by clicking **[!UICONTROL Ctrl-Alt]** and dragging metrics and dimensions to the chord. Or drag dimension elements directly from an open table to the chord visualization. 
 
 1. **Choose additional metrics, dimensions, and elements to associate**.
 

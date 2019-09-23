@@ -18,7 +18,7 @@ To define an element point layer using dynamic points, you must create or alread
 
   For steps to create a dimension, see the *Dataset Configuration Guide*. 
 
-* ****A layer file**** that specifies the related dimension.
+* **A layer file** that specifies the related dimension.
 
   For more information about the required format of the layer file, see [Element Point Layer File Format](../../../../../../home/c-geo-oview/c-wk-img-lyrs/c-elmt-pt-lyrs/c-elmt-pt-lyrs-ref-lkp-files/c-elmt-pt-lyr-file-frmt/c-elmt-pt-lyr-file-frmt.md#concept-678a95cb69644105a7af1b86ad5a5981).
 

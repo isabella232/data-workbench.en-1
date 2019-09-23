@@ -25,8 +25,6 @@ When communicating between the Data Workbench client (workstation) and server, y
 
   This file polls the *Server*\*EncryptStrings* folder for encryption configuration files.
 
-****
-
 **To encrypt a string**:
 
 1. Create an **EncryptedStrings.cfg** configuration file for a string with these fields set:

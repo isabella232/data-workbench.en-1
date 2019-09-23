@@ -26,7 +26,7 @@ The Chord visualization lets you see identify correlations between metrics, allo
 
 1. **Choose metrics to correlate**.
 
-   Drag metrics from the **[!UICONTROL Finder]** by clicking ****[!UICONTROL Ctrl-Alt]****to drag metrics from the table to the chart. After two or more metrics are selected, the chart will automatically refresh and begin displaying correlation data. Continue adding metrics as needed to correlate data points. ![](assets/chord_drag_metric.png)
+   Drag metrics from the **[!UICONTROL Finder]** by clicking **[!UICONTROL Ctrl-Alt]** to drag metrics from the table to the chart. After two or more metrics are selected, the chart will automatically refresh and begin displaying correlation data. Continue adding metrics as needed to correlate data points. ![](assets/chord_drag_metric.png)
 
    The Chord visualization displays the proportion of the whole represented by the area of each segment. Continue to add metrics as need to identify and investigate significant relationships.
 

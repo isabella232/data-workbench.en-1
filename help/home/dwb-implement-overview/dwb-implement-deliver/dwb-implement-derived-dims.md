@@ -180,20 +180,17 @@ Here offset is -1, Level is Campaign Response, Dim is Campaign Response Attribut
 
 *Creating Shift Dimension -Via Workstation*
 
-- Mark one of the OOB shift dimension as local
+* Mark one of the OOB shift dimension as local
+* Rename that dimension with a custom name
+* Open newly created dimension in the workstation to make changes
+* Change following parameters of the metric dimension based on the requirements.
 
-- Rename that dimension with a custom name
+  * Level-Countable dimension 
+  * Offset-You want to look forward of backwards 
+  * Dim -Dimension whose elements you want to analyze 
+  * Clip-Countable in you want to view.
 
-- Open newly created dimension in the workstation to make changes
-
-- Change following parameters of the metric dimension based on the requirements.
-
-* Level-Countable dimension 
-* Offset-You want to look forward of backwards 
-* Dim -Dimension whose elements you want to analyze 
-* Clip-Countable in you want to view.
-
-Save the newly created dimension on the server if you want to share it with others.
+* Save the newly created dimension on the server if you want to share it with others.
 
 **Last N Dimension**
 

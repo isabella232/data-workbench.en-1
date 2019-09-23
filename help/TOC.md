@@ -512,7 +512,8 @@ user-guide: null
    + Transform Functionality {#transform-functionality}
       + [About Transformation Functionality](home/c-dataset-const-proc/c-transf-func/c-abt-transf-func.md)
       + [Configuration Files for Transform](home/c-dataset-const-proc/c-transf-func/c-config-files-transf/c-config-files-transf.md)
-         + [The Transform.cfg File](home/c-dataset-const-proc/c-transf-func/c-config-files-transf/t-ins-transf-file/t-ins-transf-file.md)
+         + Transform.cfg File {#transform-cfg-file}
+            + [The Transform.cfg File](home/c-dataset-const-proc/c-transf-func/c-config-files-transf/t-ins-transf-file/t-ins-transf-file.md)
             + [Defining Exporters](home/c-dataset-const-proc/c-transf-func/c-config-files-transf/t-ins-transf-file/t-def-exp.md)
             + [Sample Data Workbench Transform.cfg Files](home/c-dataset-const-proc/c-transf-func/c-config-files-transf/t-ins-transf-file/c-sample-transf-files.md)
          + [The Transform Mode.cfg File](home/c-dataset-const-proc/c-transf-func/c-config-files-transf/t-transf-mode-file.md)
