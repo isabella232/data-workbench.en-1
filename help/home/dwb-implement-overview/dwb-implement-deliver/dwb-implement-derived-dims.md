@@ -142,19 +142,15 @@ They also give you the ability to look back at -Nth element of any dimension wit
 
 Example 1:
 
-- The Nth page within a session -Next Page Dimension
-
-- The Nth page for a visitor -Next Page for Visitor -across all Sessions
-
-- The Nth call for a user
+* The Nth page within a session -Next Page Dimension
+* The Nth page for a visitor -Next Page for Visitor -across all Sessions
+* The Nth call for a user
 
 Why it is important to know Nth element of the countable dimension?
 
-- You want to know the 5thPage Viewed in a Session.
-
-- You want to do pathingon Campaigns to understand which was 2ndcampaign viewed after viewing " Free Checking Account" campaign?
-
-- You want to understand which link visitor clicked before clicking "Chat with an Agent" link? ![](assets/dwb_impl_derived_dims7.png)
+* You want to know the 5thPage Viewed in a Session.
+* You want to do pathingon Campaigns to understand which was 2ndcampaign viewed after viewing " Free Checking Account" campaign?
+* You want to understand which link visitor clicked before clicking "Chat with an Agent" link? ![](assets/dwb_impl_derived_dims7.png)
 
 The Next URI is one of the OOB Shift dimensions which can be used as template. The example above is giving you 2nd(Offset = 1) element of the Campaign (Dim = Campaign) in the Engagement Event (Clip = Engagement Event)
 
