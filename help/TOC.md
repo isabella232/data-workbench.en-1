@@ -51,8 +51,8 @@ user-guide: null
       + [Data Workbench Client UI Updates](home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-ui-upgrades-6-2.md)
       + Decision Tree Builder {#decision-tree-builder}
          + [Decision Tree Builder Overview](home/c-get-started/c-analysis-vis/c-decision-trees/c-decision-trees.md)
-         + [Building a Decision Tree](home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-decision-trees/c-decision-trees-setting-up.md)
-         + [Decision Tree Options](home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-decision-trees/c-decision-trees-menu.md)
+         + [Building a Decision Tree](home/c-get-started/c-analysis-vis/c-decision-trees/c-decision-trees-setting-up.md)
+         + [Decision Tree Options](home/c-get-started/c-analysis-vis/c-decision-trees/c-decision-trees-menu.md)
       + [Finders](home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-query-panels.md)
       + [Density Map](home/c-get-started/c-analysis-vis/c-density-map.md)
       + Attribution Profile {#attribution-profile}
@@ -674,7 +674,8 @@ user-guide: null
       + [Marketing Profile Dimensions](home/c-about/c-about-baseline-profiles/c-marketing-profile.md)
 + Geography {#geography}
    + [About Data Workbench Geography](home/c-geo-oview/c-geo-oview.md)
-   + [Installing Data Workbench Geography](home/c-geo-oview/c-inst-geo/c-inst-geo.md)
+   + Installing Data Workbench Geography {#install-geography}
+      + [Installing Data Workbench Geography](home/c-geo-oview/c-inst-geo/c-inst-geo.md)
       + [Installing the Geography Profile](home/c-geo-oview/c-inst-geo/t-inst-geo-prof.md)
       + [Installing the Geography Lookup Files](home/c-geo-oview/c-inst-geo/t-inst-lkp-files.md)
       + [Installing the Terrain Images.cfg File](home/c-geo-oview/c-inst-geo/t-inst-trn-imgs-file.md)

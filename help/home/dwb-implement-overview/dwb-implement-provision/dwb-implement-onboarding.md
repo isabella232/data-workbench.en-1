@@ -81,4 +81,4 @@ Your managed servers are identified in the Insight.cfg file that you receive fro
 
 • Adobe TechOps will configure the primary production cluster to contain three months of rolling data to be reset and reprocessed monthly. Updates to lookups (Geography, DeviceAtlas, Standard Classifications) will also occur as part of the reprocessing task. By default, the task runs on the first Friday of each month. If necessary, the schedule can be modified by Customer Care.
 
-For additional information contact Adobe Customer Care by [email](dataworkbench@adobe.com) or call 800.497.0335.
+For additional information contact [Adobe Customer Care](https://helpx.adobe.com/support/programs/enterprise-support-terms.html).
