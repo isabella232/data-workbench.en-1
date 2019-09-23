@@ -509,7 +509,7 @@ user-guide: null
          + [Numeric Dimensions](home/c-dataset-const-proc/c-ex-dim/c-types-ex-dim/c-num-dim.md)
          + [Denormal Dimensions](home/c-dataset-const-proc/c-ex-dim/c-types-ex-dim/c-denormal-dim.md)
          + [Time Dimensions](home/c-dataset-const-proc/c-ex-dim/c-types-ex-dim/c-time-dim.md)
-   + [Transform Functionality](home/c-dataset-const-proc/c-transf-func/c-transf-func.md)
+   + Transform Functionality {#transform-functionality}
       + [About Transformation Functionality](home/c-dataset-const-proc/c-transf-func/c-abt-transf-func.md)
       + [Configuration Files for Transform](home/c-dataset-const-proc/c-transf-func/c-config-files-transf/c-config-files-transf.md)
          + [The Transform.cfg File](home/c-dataset-const-proc/c-transf-func/c-config-files-transf/t-ins-transf-file/t-ins-transf-file.md)
