@@ -5,9 +5,6 @@ seo-title: Downloading and Installing the Digital Certificates
 solution: Insight
 title: Downloading and Installing the Digital Certificates
 uuid: ac484e96-21dc-4643-ae74-01ac957e30ee
-index: y
-internal: n
-snippet: y
 ---
 
 # Downloading and Installing the Digital Certificates{#downloading-and-installing-the-digital-certificates}

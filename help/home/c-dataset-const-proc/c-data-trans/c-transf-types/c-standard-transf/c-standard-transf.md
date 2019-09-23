@@ -6,9 +6,6 @@ solution: Analytics
 title: Standard Transformations
 topic: Data workbench
 uuid: ed7e7525-c1bf-47f6-9287-3dc3de644732
-index: y
-internal: n
-snippet: y
 ---
 
 # Standard Transformations{#standard-transformations}

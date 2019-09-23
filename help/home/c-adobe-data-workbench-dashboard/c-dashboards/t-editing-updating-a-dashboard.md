@@ -6,9 +6,6 @@ solution: Analytics
 title: Editing or Updating a Dashboard
 topic: Data workbench
 uuid: 643f24f5-78ce-4876-8c01-889bfae5735e
-index: y
-internal: n
-snippet: y
 ---
 
 # Editing or Updating a Dashboard{#editing-or-updating-a-dashboard}

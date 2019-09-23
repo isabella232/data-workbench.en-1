@@ -6,9 +6,6 @@ solution: Analytics
 title: Acquiring Dynamic Page Names
 topic: Data workbench
 uuid: eaa35023-bbfa-4eb9-9ab7-3986187e5537
-index: y
-internal: n
-snippet: y
 ---
 
 # Acquiring Dynamic Page Names{#acquiring-dynamic-page-names}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Other Files
 topic: Data workbench
 uuid: 87d83fa5-df25-4da1-8b11-16639902d8d7
-index: y
-internal: n
-snippet: y
 ---
 
 # Other Files{#other-files}

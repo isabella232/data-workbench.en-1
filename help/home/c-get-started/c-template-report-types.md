@@ -6,9 +6,6 @@ solution: Analytics
 title: Analytics Reports
 topic: Data workbench
 uuid: 5fc26922-0687-464f-8c5d-d72d2a6078f0
-index: y
-internal: n
-snippet: y
 ---
 
 # Analytics Reports{#analytics-reports}

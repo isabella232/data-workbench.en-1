@@ -5,9 +5,6 @@ seo-title: Monitoring Disk Space
 solution: Insight
 title: Monitoring Disk Space
 uuid: 13248e36-4e88-4212-816e-bcc12deefcb4
-index: y
-internal: n
-snippet: y
 ---
 
 # Monitoring Disk Space{#monitoring-disk-space}

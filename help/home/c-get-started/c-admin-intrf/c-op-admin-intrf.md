@@ -6,9 +6,6 @@ solution: Analytics
 title: Open administrative interfaces
 topic: Data workbench
 uuid: ff8daa4e-9ac1-40ef-81ca-14a1cee4ded6
-index: y
-internal: n
-snippet: y
 ---
 
 # Open administrative interfaces{#open-administrative-interfaces}

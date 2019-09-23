@@ -5,9 +5,6 @@ seo-title: Sensor Overview
 solution: Insight
 title: Sensor Overview
 uuid: 75833d47-dda1-4fdc-9a07-e63342a15b11
-index: y
-internal: n
-snippet: y
 ---
 
 # Sensor Overview{#sensor-overview}

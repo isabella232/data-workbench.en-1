@@ -6,9 +6,6 @@ solution: Analytics
 title: Understanding subsets
 topic: Data workbench
 uuid: ed185b63-dbb3-4ed4-9403-cf4dc8be2ff1
-index: y
-internal: n
-snippet: y
 ---
 
 # Understanding subsets{#understanding-subsets}

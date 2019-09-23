@@ -6,9 +6,6 @@ solution: Analytics
 title: Dataset components
 topic: Data workbench
 uuid: a5dde039-3b79-4543-9953-995eefc73b5f
-index: y
-internal: n
-snippet: y
 ---
 
 # Dataset components{#dataset-components}

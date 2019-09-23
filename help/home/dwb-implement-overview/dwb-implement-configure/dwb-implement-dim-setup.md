@@ -4,9 +4,6 @@ seo-description: This section explains the different types of Dimensions and how
 seo-title: Dimension Setup
 title: Dimension Setup
 uuid: 5b40cb43-7790-4b87-a0bb-be395a420157
-index: y
-internal: n
-snippet: y
 ---
 
 # Dimension Setup{#dimension-setup}

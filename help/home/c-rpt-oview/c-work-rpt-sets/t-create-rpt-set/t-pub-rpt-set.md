@@ -6,9 +6,6 @@ solution: Analytics
 title: Publish the Report Set to the Data Workbench Server
 topic: Data workbench
 uuid: 373323f8-d6d7-4696-b361-ce514f0ccff0
-index: y
-internal: n
-snippet: y
 ---
 
 # Publish the Report Set to the Data Workbench Server{#publish-the-report-set-to-the-data-workbench-server}

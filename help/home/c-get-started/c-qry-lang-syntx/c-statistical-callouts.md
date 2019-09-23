@@ -6,9 +6,6 @@ solution: Analytics
 title: Statistical Callouts
 topic: Data workbench
 uuid: 04911ac4-bc3f-4813-800b-087d9668a782
-index: y
-internal: n
-snippet: y
 ---
 
 # Statistical Callouts{#statistical-callouts}

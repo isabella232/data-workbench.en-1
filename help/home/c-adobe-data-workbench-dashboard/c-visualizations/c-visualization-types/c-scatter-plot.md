@@ -6,9 +6,6 @@ solution: Analytics
 title: Scatter Plot
 topic: Data workbench
 uuid: a07efa89-0d1f-4ab9-96fa-d1239c82f16c
-index: y
-internal: n
-snippet: y
 ---
 
 # Scatter Plot{#scatter-plot}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Display a workspace
 topic: Data workbench
 uuid: 45840157-e3a1-4ad9-8f62-a49db3d6d26c
-index: y
-internal: n
-snippet: y
 ---
 
 # Display a workspace{#display-a-workspace}

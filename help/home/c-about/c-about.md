@@ -6,9 +6,6 @@ solution: Analytics
 title: Data Workbench Metrics, Dimensions, and Filters
 topic: Data workbench
 uuid: 3c0300a0-ae19-4817-aab8-7294e0eabdd9
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench Metrics, Dimensions, and Filters{#data-workbench-metrics-dimensions-and-filters}

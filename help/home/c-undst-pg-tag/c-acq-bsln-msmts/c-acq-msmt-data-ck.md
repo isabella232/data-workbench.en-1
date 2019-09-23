@@ -6,9 +6,6 @@ solution: Analytics
 title: Acquiring Measurement Data Through Cookies
 topic: Data workbench
 uuid: 34cd6baf-6317-4774-8165-58208698b53c
-index: y
-internal: n
-snippet: y
 ---
 
 # Acquiring Measurement Data Through Cookies{#acquiring-measurement-data-through-cookies}

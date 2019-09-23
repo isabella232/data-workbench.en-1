@@ -6,9 +6,6 @@ solution: Analytics
 title: Customize the Report Portal User Interface
 topic: Data workbench
 uuid: d1ea88e2-7b9e-4b1e-a826-dbe7c2e75976
-index: y
-internal: n
-snippet: y
 ---
 
 # Customize the Report Portal User Interface{#customize-the-report-portal-user-interface}

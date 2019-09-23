@@ -5,9 +5,6 @@ seo-title: Upgrading Insight Server
 solution: Insight
 title: Upgrading Insight Server
 uuid: b83dd5fe-f91b-43e3-9f5e-68ea88ed2132
-index: y
-internal: n
-snippet: y
 ---
 
 # Upgrading Insight Server{#upgrading-insight-server}

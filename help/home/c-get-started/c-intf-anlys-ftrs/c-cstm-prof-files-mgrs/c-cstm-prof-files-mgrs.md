@@ -6,9 +6,6 @@ solution: Analytics
 title: Customize the profile manager and server file manager
 topic: Data workbench
 uuid: df2408f3-1d2b-4b03-8c68-b57d88e2d3de
-index: y
-internal: n
-snippet: y
 ---
 
 # Customize the profile manager and server file manager{#customize-the-profile-manager-and-server-file-manager}

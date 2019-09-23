@@ -6,9 +6,6 @@ solution: Analytics
 title: Reviewing Report Set Status
 topic: Data workbench
 uuid: bbe00fcd-0ce1-4607-b1a2-002733cf4736
-index: y
-internal: n
-snippet: y
 ---
 
 # Reviewing Report Set Status{#reviewing-report-set-status}

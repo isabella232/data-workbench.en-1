@@ -5,9 +5,6 @@ seo-title: Configuring Access Control
 solution: Insight
 title: Configuring Access Control
 uuid: e0206b43-3c8c-48ec-b663-814f5b663b96
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring Access Control{#configuring-access-control}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Attribution Profile
 topic: Data workbench
 uuid: 500e9e86-cffc-4f0d-a397-6521b493bf9a
-index: y
-internal: n
-snippet: y
 ---
 
 # Attribution Profile{#attribution-profile}

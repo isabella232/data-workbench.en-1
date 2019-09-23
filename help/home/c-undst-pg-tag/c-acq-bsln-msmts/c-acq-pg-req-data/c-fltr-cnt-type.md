@@ -6,9 +6,6 @@ solution: Analytics
 title: Filtering By Content Type
 topic: Data workbench
 uuid: 8a3b567b-8c7b-4ca2-bfcb-74a1addda2bd
-index: y
-internal: n
-snippet: y
 ---
 
 # Filtering By Content Type{#filtering-by-content-type}

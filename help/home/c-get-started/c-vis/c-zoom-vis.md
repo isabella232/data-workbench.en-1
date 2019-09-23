@@ -6,9 +6,6 @@ solution: Analytics
 title: Zoom in or out in a visualization
 topic: Data workbench
 uuid: bc28f759-c4d3-4340-8ec7-27cf6aaf21e6
-index: y
-internal: n
-snippet: y
 ---
 
 # Zoom in or out in a visualization{#zoom-in-or-out-in-a-visualization}

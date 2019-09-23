@@ -6,9 +6,6 @@ solution: Analytics
 title: Sample Report Index
 topic: Data workbench
 uuid: 38711240-8434-4f8f-81da-6c223064613b
-index: y
-internal: n
-snippet: y
 ---
 
 # Sample Report Index{#sample-report-index}

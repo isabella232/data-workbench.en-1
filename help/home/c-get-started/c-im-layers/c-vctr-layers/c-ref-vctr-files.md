@@ -6,9 +6,6 @@ solution: Analytics
 title: Define vector layers referencing vector files
 topic: Data workbench
 uuid: fe6639fb-98fb-4246-9cc1-1a928df6ae0a
-index: y
-internal: n
-snippet: y
 ---
 
 # Define vector layers referencing vector files{#define-vector-layers-referencing-vector-files}

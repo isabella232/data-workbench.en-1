@@ -6,9 +6,6 @@ solution: Analytics
 title: Working with globes
 topic: Data workbench
 uuid: 8aa3ad86-8129-47f6-8af9-d645ff9c566b
-index: y
-internal: n
-snippet: y
 ---
 
 # Working with globes{#working-with-globes}

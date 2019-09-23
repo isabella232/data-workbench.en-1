@@ -6,9 +6,6 @@ solution: Analytics
 title: Working With Dataset Configuration Interfaces
 topic: Data workbench
 uuid: c29faccd-0402-4982-9e5b-7379e2590246
-index: y
-internal: n
-snippet: y
 ---
 
 # Working With Dataset Configuration Interfaces{#working-with-dataset-configuration-interfaces}

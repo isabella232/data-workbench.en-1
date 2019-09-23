@@ -5,9 +5,6 @@ seo-title: Adding an Insight Server DPU to an Existing Cluster
 solution: Insight
 title: Adding an Insight Server DPU to an Existing Cluster
 uuid: 1977a90e-bd51-4838-9498-f7692891109f
-index: y
-internal: n
-snippet: y
 ---
 
 # Adding an Insight Server DPU to an Existing Cluster{#adding-an-insight-server-dpu-to-an-existing-cluster}

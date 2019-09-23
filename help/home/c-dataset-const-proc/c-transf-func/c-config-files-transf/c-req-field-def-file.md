@@ -6,9 +6,6 @@ solution: Analytics
 title: The Required Field Definitions.cfg File
 topic: Data workbench
 uuid: b6fd8b13-83d2-4060-b59c-96452236da54
-index: y
-internal: n
-snippet: y
 ---
 
 # The Required Field Definitions.cfg File{#the-required-field-definitions-cfg-file}

@@ -5,9 +5,6 @@ seo-title: Time Zone Codes
 solution: Insight
 title: Time Zone Codes
 uuid: dcc8aa15-5846-4f24-8b82-e25ff89871ba
-index: y
-internal: n
-snippet: y
 ---
 
 # Time Zone Codes{#time-zone-codes}

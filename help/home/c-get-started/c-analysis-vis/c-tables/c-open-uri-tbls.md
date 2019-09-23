@@ -6,9 +6,6 @@ solution: Analytics
 title: Open a URI from a table
 topic: Data workbench
 uuid: d863e621-96ae-4dc0-80ab-621fa2019c4b
-index: y
-internal: n
-snippet: y
 ---
 
 # Open a URI from a table{#open-a-uri-from-a-table}

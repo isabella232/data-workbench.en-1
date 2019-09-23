@@ -6,9 +6,6 @@ solution: Analytics
 title: Resetting a User's Password
 topic: Data workbench
 uuid: a256c5f1-f2c7-4982-a066-248eef5587f4
-index: y
-internal: n
-snippet: y
 ---
 
 # Resetting a User's Password{#resetting-a-user-s-password}

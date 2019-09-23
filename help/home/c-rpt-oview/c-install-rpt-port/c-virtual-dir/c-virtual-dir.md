@@ -6,9 +6,6 @@ solution: Analytics
 title: Map the Report Portal Pages to Virtual Directories
 topic: Data workbench
 uuid: 75ca85d5-d526-48f9-b2c4-ca77c903c6af
-index: y
-internal: n
-snippet: y
 ---
 
 # Map the Report Portal Pages to Virtual Directories{#map-the-report-portal-pages-to-virtual-directories}

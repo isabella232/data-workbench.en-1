@@ -6,9 +6,6 @@ solution: Analytics
 title: Bar Charts
 topic: Data workbench
 uuid: 1baac7b3-7918-4de6-81f3-1aba7e9b8e20
-index: y
-internal: n
-snippet: y
 ---
 
 # Bar Charts{#bar-charts}

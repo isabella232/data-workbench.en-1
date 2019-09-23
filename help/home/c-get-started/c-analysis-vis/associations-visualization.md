@@ -4,9 +4,6 @@ seo-description: The Association Table visualization let you associate metrics w
 seo-title: Association Table visualization
 title: Association Table visualization
 uuid: 4563c336-3377-4929-8694-8c0d00866825
-index: y
-internal: n
-snippet: y
 ---
 
 # Association Table visualization{#association-table-visualization}

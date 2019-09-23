@@ -6,9 +6,6 @@ solution: Analytics
 title: Configuration parameters
 topic: Data workbench
 uuid: 6e1248c1-3eae-44a3-8b19-f595d79e8d0d
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuration parameters{#configuration-parameters}

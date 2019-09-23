@@ -4,9 +4,6 @@ seo-description: The Presentation Layer lets you mark up and annotate your works
 seo-title: Presentation Layer
 title: Presentation Layer
 uuid: a2da9fd9-733a-449e-b7fd-1f328d1108a4
-index: y
-internal: n
-snippet: y
 ---
 
 # Presentation Layer{#presentation-layer}

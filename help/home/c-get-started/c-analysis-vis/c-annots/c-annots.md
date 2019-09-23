@@ -6,9 +6,6 @@ solution: Analytics
 title: Annotations
 topic: Data workbench
 uuid: 3e69ce74-26f7-49f2-bb86-e94f96c02672
-index: y
-internal: n
-snippet: y
 ---
 
 # Annotations{#annotations}

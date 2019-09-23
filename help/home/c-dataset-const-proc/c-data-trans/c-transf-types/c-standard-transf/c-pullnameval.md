@@ -6,9 +6,6 @@ solution: Analytics
 title: PullNameValues
 topic: Data workbench
 uuid: b24db987-78e8-4afc-9113-89aedc0170b2
-index: y
-internal: n
-snippet: y
 ---
 
 # PullNameValues{#pullnamevalues}

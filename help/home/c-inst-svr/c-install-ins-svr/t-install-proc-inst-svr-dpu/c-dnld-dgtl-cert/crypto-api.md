@@ -4,9 +4,6 @@ seo-description: The Windows Certificate Store fallows you to store the client's
 seo-title: Windows Certificate Store
 title: Windows Certificate Store
 uuid: a8021295-375a-460b-8686-acf3bc43cd17
-index: y
-internal: n
-snippet: y
 ---
 
 # Windows Certificate Store{#windows-certificate-store}

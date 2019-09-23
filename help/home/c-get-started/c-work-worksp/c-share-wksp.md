@@ -6,9 +6,6 @@ solution: Analytics
 title: Share a workspace
 topic: Data workbench
 uuid: 6100143a-d602-42d7-b742-987fe5f835d6
-index: y
-internal: n
-snippet: y
 ---
 
 # Share a workspace{#share-a-workspace}

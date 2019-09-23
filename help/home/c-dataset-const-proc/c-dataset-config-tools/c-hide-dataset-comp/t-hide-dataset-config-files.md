@@ -6,9 +6,6 @@ solution: Analytics
 title: Hiding Dataset Configuration Files
 topic: Data workbench
 uuid: eb33cf54-e067-4af2-a10e-7ffe43910e4f
-index: y
-internal: n
-snippet: y
 ---
 
 # Hiding Dataset Configuration Files{#hiding-dataset-configuration-files}

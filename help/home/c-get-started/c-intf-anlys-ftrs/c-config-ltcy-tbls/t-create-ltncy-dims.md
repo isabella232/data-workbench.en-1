@@ -6,9 +6,6 @@ solution: Analytics
 title: Create a latency dimension
 topic: Data workbench
 uuid: 531d8bf6-a66f-4b02-9d81-05664fb9c988
-index: y
-internal: n
-snippet: y
 ---
 
 # Create a latency dimension{#create-a-latency-dimension}

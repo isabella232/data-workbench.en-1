@@ -6,9 +6,6 @@ solution: Analytics
 title: Decision Tree Builder
 topic: Data workbench
 uuid: 1f7e91ea-e5d9-4d8e-9fcf-cae4de42dfdd
-index: y
-internal: n
-snippet: y
 ---
 
 # Decision Tree Builder{#decision-tree-builder}

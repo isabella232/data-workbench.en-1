@@ -5,9 +5,6 @@ seo-title: Report Server Requirements
 solution: Analytics
 title: Report Server Requirements
 uuid: 590f6836-1954-4356-9e3c-ee9c246e62a6
-index: y
-internal: n
-snippet: y
 ---
 
 # Report Server Requirements{#report-server-requirements}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Installing Data Workbench Geography
 topic: Data workbench
 uuid: 2c3d2e4a-97a7-4afc-b72d-c012db77e535
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing Data Workbench Geography{#installing-data-workbench-geography}

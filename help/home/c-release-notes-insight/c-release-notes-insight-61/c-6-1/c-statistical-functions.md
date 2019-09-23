@@ -6,9 +6,6 @@ solution: Analytics
 title: Syntax for Math Functions
 topic: Data workbench
 uuid: fab3fa43-a624-4d9d-8f71-21c658acaff7
-index: y
-internal: n
-snippet: y
 ---
 
 # Syntax for Math Functions{#syntax-for-math-functions}

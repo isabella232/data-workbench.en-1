@@ -6,9 +6,6 @@ solution: Analytics
 title: Unlocking a workspace
 topic: Data workbench
 uuid: 07e7ee09-36f1-4990-8e6d-5ec356f8cf0d
-index: y
-internal: n
-snippet: y
 ---
 
 # Unlocking a workspace{#unlocking-a-workspace}

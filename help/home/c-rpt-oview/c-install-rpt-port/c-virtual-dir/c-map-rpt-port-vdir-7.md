@@ -6,9 +6,6 @@ solution: Analytics
 title: Mapping Report Portal to a Virtual Directory (IIS 7.0 or higher)
 topic: Data workbench
 uuid: 9d18fb85-f9d7-48b6-a19b-1e7b68a5adca
-index: y
-internal: n
-snippet: y
 ---
 
 # Mapping Report Portal to a Virtual Directory (IIS 7.0 or higher){#mapping-report-portal-to-a-virtual-directory-iis-or-higher}

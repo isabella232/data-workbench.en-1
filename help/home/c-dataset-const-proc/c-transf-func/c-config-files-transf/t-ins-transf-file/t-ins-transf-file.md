@@ -6,9 +6,6 @@ solution: Analytics
 title: The Transform.cfg File
 topic: Data workbench
 uuid: eab5bb70-6de7-4f08-85db-a6cb00abd3ed
-index: y
-internal: n
-snippet: y
 ---
 
 # The Transform.cfg File{#the-transform-cfg-file}

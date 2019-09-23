@@ -6,9 +6,6 @@ solution: Analytics
 title: Deleting Folders
 topic: Data workbench
 uuid: 26126769-efa5-41a0-b9b1-dddb0bda149b
-index: y
-internal: n
-snippet: y
 ---
 
 # Deleting Folders{#deleting-folders}

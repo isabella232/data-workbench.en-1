@@ -6,9 +6,6 @@ solution: Analytics
 title: Installation Prerequisites
 topic: Data workbench
 uuid: 3f7ee690-ff91-4c4d-8d78-4dfb42856e8c
-index: y
-internal: n
-snippet: y
 ---
 
 # Installation Prerequisites{#installation-prerequisites}

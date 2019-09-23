@@ -6,9 +6,6 @@ solution: Analytics
 title: Re-validating the Digital Certificate
 topic: Data workbench
 uuid: 6c8533df-f459-41eb-84ac-344bad9fecdc
-index: y
-internal: n
-snippet: y
 ---
 
 # Re-validating the Digital Certificate{#re-validating-the-digital-certificate}

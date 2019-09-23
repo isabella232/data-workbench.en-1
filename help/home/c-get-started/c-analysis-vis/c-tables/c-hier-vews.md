@@ -6,9 +6,6 @@ solution: Analytics
 title: Apply hierarchy views
 topic: Data workbench
 uuid: 859a92af-4f7e-4bb5-9a98-917006894301
-index: y
-internal: n
-snippet: y
 ---
 
 # Apply hierarchy views{#apply-hierarchy-views}

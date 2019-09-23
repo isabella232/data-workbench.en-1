@@ -6,9 +6,6 @@ solution: Analytics
 title: Query Status Legend
 topic: Data workbench
 uuid: 6a0285c8-3ced-4c12-8f0c-e86d70d9e044
-index: y
-internal: n
-snippet: y
 ---
 
 # Query Status Legend{#query-status-legend}

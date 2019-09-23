@@ -6,9 +6,6 @@ solution: Analytics
 title: P3P Considerations for Third-Party Page Tagging
 topic: Data workbench
 uuid: b88d0d22-0ff8-4b63-9be9-7acc12061146
-index: y
-internal: n
-snippet: y
 ---
 
 # P3P Considerations for Third-Party Page Tagging{#p-p-considerations-for-third-party-page-tagging}

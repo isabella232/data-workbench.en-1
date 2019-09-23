@@ -6,9 +6,6 @@ solution: Analytics
 title: Dimensions in the Data Workbench Server Status profile
 topic: Data workbench
 uuid: 4cfe882a-2797-4af9-bd6d-75bc31ee909c
-index: y
-internal: n
-snippet: y
 ---
 
 # Dimensions in the Data Workbench Server Status profile{#dimensions-in-the-data-workbench-server-status-profile}

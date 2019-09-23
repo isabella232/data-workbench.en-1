@@ -6,9 +6,6 @@ solution: Analytics
 title: Configure a path browser
 topic: Data workbench
 uuid: 1ba3fb6e-b76f-428f-b6ec-077669c3b305
-index: y
-internal: n
-snippet: y
 ---
 
 # Configure a path browser{#configure-a-path-browser}

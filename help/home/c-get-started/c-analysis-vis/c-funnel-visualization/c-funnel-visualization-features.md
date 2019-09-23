@@ -6,9 +6,6 @@ solution: Analytics
 title: Funnel Features
 topic: Data workbench
 uuid: 7d2f5ff9-95d3-41f5-931c-689f140714c2
-index: y
-internal: n
-snippet: y
 ---
 
 # Funnel Features{#funnel-features}

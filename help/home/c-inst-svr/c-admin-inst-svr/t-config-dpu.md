@@ -5,9 +5,6 @@ seo-title: Configuring DPU.cfg
 solution: Insight
 title: Configuring DPU.cfg
 uuid: c348622b-7d4b-4cfa-a8f8-a07d91e440d5
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring DPU.cfg{#configuring-dpu-cfg}

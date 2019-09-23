@@ -6,9 +6,6 @@ solution: Analytics
 title: Copy
 topic: Data workbench
 uuid: 073f53bf-befb-4fba-a8f8-260ffcdd007c
-index: y
-internal: n
-snippet: y
 ---
 
 # Copy{#copy}

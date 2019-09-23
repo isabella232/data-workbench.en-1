@@ -6,9 +6,6 @@ solution: Analytics
 title: Configure a page overlay
 topic: Data workbench
 uuid: c4c612ed-5154-4b20-96ab-24b74fba19a2
-index: y
-internal: n
-snippet: y
 ---
 
 # Configure a page overlay{#configure-a-page-overlay}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Create a segment dimensions
 topic: Data workbench
 uuid: 68dcf3bf-fbc9-4924-a0dd-d112cf366131
-index: y
-internal: n
-snippet: y
 ---
 
 # Create a segment dimensions{#create-a-segment-dimensions}

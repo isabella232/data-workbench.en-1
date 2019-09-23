@@ -6,9 +6,6 @@ solution: Analytics
 title: Open a field viewer
 topic: Data workbench
 uuid: fcc839cd-21dc-4eb0-9b8e-55fc92e6d400
-index: y
-internal: n
-snippet: y
 ---
 
 # Open a field viewer{#open-a-field-viewer}

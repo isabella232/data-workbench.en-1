@@ -6,9 +6,6 @@ solution: Analytics
 title: ODBC Data Sources
 topic: Data workbench
 uuid: 5b37cd41-2d79-472c-8e6d-00ff894991a9
-index: y
-internal: n
-snippet: y
 ---
 
 # ODBC Data Sources{#odbc-data-sources}

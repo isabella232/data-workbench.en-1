@@ -4,9 +4,6 @@ seo-description: You install the Terrain Images.cfg file only if you want to mak
 seo-title: Installing the Terrain Images.cfg File
 title: Installing the Terrain Images.cfg File
 uuid: eba5eb17-2161-43a9-8df2-74058b9b636b
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing the Terrain Images.cfg File{#installing-the-terrain-images-cfg-file}

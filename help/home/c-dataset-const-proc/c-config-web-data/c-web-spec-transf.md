@@ -6,9 +6,6 @@ solution: Analytics
 title: Web-Specific Settings for Transformation
 topic: Data workbench
 uuid: 282f0f4d-43d7-41cf-bae8-5cac6b4d81a0
-index: y
-internal: n
-snippet: y
 ---
 
 # Web-Specific Settings for Transformation{#web-specific-settings-for-transformation}

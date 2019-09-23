@@ -6,9 +6,6 @@ solution: Analytics
 title: Add Dashboard License Key
 topic: Data workbench
 uuid: 51ec87a8-e9cc-4aa1-8d13-a79612a13d17
-index: y
-internal: n
-snippet: y
 ---
 
 # Add Dashboard License Key{#add-dashboard-license-key}

@@ -4,9 +4,6 @@ seo-description: Overview of the Data Workbench architecture.
 seo-title: Data Workbench Architecture
 title: Data Workbench Architecture
 uuid: 68b3f20b-7707-49bd-a212-399227bd2fad
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench Architecture{#data-workbench-architecture}

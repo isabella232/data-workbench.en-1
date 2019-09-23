@@ -5,9 +5,6 @@ seo-title: How Does Sensor Identify Visitors and Sessions?
 solution: Insight
 title: How Does Sensor Identify Visitors and Sessions?
 uuid: 3735ed2d-67c4-469b-8b3e-0fac90cc4c09
-index: y
-internal: n
-snippet: y
 ---
 
 # How Does Sensor Identify Visitors and Sessions?{#how-does-sensor-identify-visitors-and-sessions}

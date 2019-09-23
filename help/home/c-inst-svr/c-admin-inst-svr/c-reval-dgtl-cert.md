@@ -5,9 +5,6 @@ seo-title: Re-validating the Digital Certificate
 solution: Insight
 title: Re-validating the Digital Certificate
 uuid: 8cc6ec17-c565-4276-809a-a7c4fc9919f7
-index: y
-internal: n
-snippet: y
 ---
 
 # Re-validating the Digital Certificate{#re-validating-the-digital-certificate}

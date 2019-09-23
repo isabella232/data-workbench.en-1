@@ -6,9 +6,6 @@ solution: Analytics
 title: Understanding the v1st Cookie
 topic: Data workbench
 uuid: 6112cafe-51e3-42f0-8554-4a653dea782a
-index: y
-internal: n
-snippet: y
 ---
 
 # Understanding the v1st Cookie{#understanding-the-v-st-cookie}

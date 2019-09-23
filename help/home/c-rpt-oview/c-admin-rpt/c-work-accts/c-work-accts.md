@@ -6,9 +6,6 @@ solution: Analytics
 title: Working with Accounts
 topic: Data workbench
 uuid: 0ede26d8-0e35-4a11-a46e-d429e5223733
-index: y
-internal: n
-snippet: y
 ---
 
 # Working with Accounts{#working-with-accounts}

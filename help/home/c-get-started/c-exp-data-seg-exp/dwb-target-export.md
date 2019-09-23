@@ -4,9 +4,6 @@ seo-description: Export Data Workbench data to Adobe Target using TargetBulkUplo
 seo-title: Export to Adobe Target
 title: Export to Adobe Target
 uuid: 0eb99e6f-f0b5-495e-a3b6-df30f61378a7
-index: y
-internal: n
-snippet: y
 ---
 
 # Export to Adobe Target{#export-to-adobe-target}

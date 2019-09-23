@@ -6,9 +6,6 @@ solution: Analytics
 title: Universal Transverse Mercator Projections
 topic: Data workbench
 uuid: 55421412-5c68-4a4f-88d6-650d5999a77c
-index: y
-internal: n
-snippet: y
 ---
 
 # Universal Transverse Mercator Projections{#universal-transverse-mercator-projections}

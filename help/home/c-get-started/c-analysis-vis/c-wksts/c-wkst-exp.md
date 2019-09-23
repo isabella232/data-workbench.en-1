@@ -6,9 +6,6 @@ solution: Analytics
 title: Worksheet expressions
 topic: Data workbench
 uuid: be57d6bd-3e13-4c90-9034-8e0f2b8315aa
-index: y
-internal: n
-snippet: y
 ---
 
 # Worksheet expressions{#worksheet-expressions}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Making a Copy of a Dashboard
 topic: Data workbench
 uuid: ba47ded4-8676-48a7-853f-6321ea6eb601
-index: y
-internal: n
-snippet: y
 ---
 
 # Making a Copy of a Dashboard{#making-a-copy-of-a-dashboard}

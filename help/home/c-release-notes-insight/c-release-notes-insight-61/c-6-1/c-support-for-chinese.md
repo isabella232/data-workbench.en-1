@@ -6,9 +6,6 @@ solution: Analytics
 title: Simplified Chinese localization
 topic: Data workbench
 uuid: ddf4eade-7c5f-4ccf-aa9f-dd8d109a059f
-index: y
-internal: n
-snippet: y
 ---
 
 # Simplified Chinese localization{#simplified-chinese-localization}

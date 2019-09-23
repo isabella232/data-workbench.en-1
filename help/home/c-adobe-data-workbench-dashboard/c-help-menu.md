@@ -6,9 +6,6 @@ solution: Analytics
 title: Help Menu
 topic: Data workbench
 uuid: d94f8b9f-bfaa-43b4-ab64-1bd75ff54c7d
-index: y
-internal: n
-snippet: y
 ---
 
 # Help Menu{#help-menu}

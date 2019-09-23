@@ -6,9 +6,6 @@ solution: Analytics
 title: Add a tab to the worktop
 topic: Data workbench
 uuid: 3c8b459d-4824-4678-871d-1a577235957a
-index: y
-internal: n
-snippet: y
 ---
 
 # Add a tab to the worktop{#add-a-tab-to-the-worktop}

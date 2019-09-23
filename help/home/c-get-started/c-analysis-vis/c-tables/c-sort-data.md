@@ -6,9 +6,6 @@ solution: Analytics
 title: Sort data in a table
 topic: Data workbench
 uuid: 66869478-922d-41e1-915d-3ed7bff3b08d
-index: y
-internal: n
-snippet: y
 ---
 
 # Sort data in a table{#sort-data-in-a-table}

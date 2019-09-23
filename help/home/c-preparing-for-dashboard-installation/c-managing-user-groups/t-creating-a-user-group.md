@@ -6,9 +6,6 @@ solution: Analytics
 title: Creating a User Group
 topic: Data workbench
 uuid: 8a474480-81fa-4a86-9937-2fb82e949436
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating a User Group{#creating-a-user-group}

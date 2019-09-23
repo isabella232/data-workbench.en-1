@@ -5,9 +5,6 @@ seo-title: Upgrading and Uninstalling Adobe Software
 solution: Insight
 title: Upgrading and Uninstalling Adobe Software
 uuid: 6b4d7dd8-58d6-449f-9048-46f23af255ea
-index: y
-internal: n
-snippet: y
 ---
 
 # Upgrading and Uninstalling Adobe Software{#upgrading-and-uninstalling-adobe-software}

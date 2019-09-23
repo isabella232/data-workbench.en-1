@@ -6,9 +6,6 @@ solution: Analytics
 title: Propensity Gain and Lift Charts
 topic: Data workbench
 uuid: 4f08277e-deea-48d3-ab15-214c43ad6664
-index: y
-internal: n
-snippet: y
 ---
 
 # Propensity Gain and Lift Charts{#propensity-gain-and-lift-charts}

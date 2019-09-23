@@ -4,9 +4,6 @@ seo-description: Instructions about how to install and configure Sensor for Lotu
 seo-title: Lotus Sametime on Windows Server 2000 or Later
 title: Lotus Sametime on Windows Server 2000 or Later
 uuid: 5e24da54-7ef6-42cf-b693-cc4fd267af93
-index: y
-internal: n
-snippet: y
 ---
 
 # Lotus Sametime on Windows Server 2000 or Later{#lotus-sametime-on-windows-server-or-later}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Installing a Data Service on a Data Workbench Server
 topic: Data workbench
 uuid: afe8e259-7fef-4327-9afc-18f36a1934db
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing a Data Service on a Data Workbench Server{#installing-a-data-service-on-a-data-workbench-server}

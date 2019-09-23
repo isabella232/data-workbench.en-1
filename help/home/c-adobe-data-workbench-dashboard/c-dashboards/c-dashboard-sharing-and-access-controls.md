@@ -6,9 +6,6 @@ solution: Analytics
 title: Dashboard Sharing and Access Controls
 topic: Data workbench
 uuid: 8bc64cfb-3cda-4d28-8a34-cbefd38f1b70
-index: y
-internal: n
-snippet: y
 ---
 
 # Dashboard Sharing and Access Controls{#dashboard-sharing-and-access-controls}

@@ -6,9 +6,6 @@ solution: Analytics
 title: URI Transformations
 topic: Data workbench
 uuid: 7e78b63f-5a9d-47d9-839f-20e145b7f931
-index: y
-internal: n
-snippet: y
 ---
 
 # URI Transformations{#uri-transformations}

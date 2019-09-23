@@ -6,9 +6,6 @@ solution: Analytics
 title: Sizing Visualizations
 topic: Data workbench
 uuid: ba8ceab2-61bc-4996-80cb-7a507e728efa
-index: y
-internal: n
-snippet: y
 ---
 
 # Sizing Visualizations{#sizing-visualizations}

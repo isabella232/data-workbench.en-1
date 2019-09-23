@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: How Do Controlled Experiments Work?
 topic: Data workbench
 uuid: 9549e2ab-dca9-4fb1-9729-65072f951900
-index: y
-internal: n
-snippet: y
 ---
 
 # How Do Controlled Experiments Work?{#how-do-controlled-experiments-work}

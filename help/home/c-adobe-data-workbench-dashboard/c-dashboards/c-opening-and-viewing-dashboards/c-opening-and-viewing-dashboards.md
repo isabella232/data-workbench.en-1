@@ -6,9 +6,6 @@ solution: Analytics
 title: Opening and Viewing Dashboards
 topic: Data workbench
 uuid: 2df829b8-87ea-4230-9887-a348464f1b2b
-index: y
-internal: n
-snippet: y
 ---
 
 # Opening and Viewing Dashboards{#opening-and-viewing-dashboards}

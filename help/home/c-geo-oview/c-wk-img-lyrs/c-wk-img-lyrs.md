@@ -6,9 +6,6 @@ solution: Analytics
 title: Working with Imagery Layers
 topic: Data workbench
 uuid: 3f687c5e-eadf-41e1-a39a-51e017ac32d5
-index: y
-internal: n
-snippet: y
 ---
 
 # Working with Imagery Layers{#working-with-imagery-layers}

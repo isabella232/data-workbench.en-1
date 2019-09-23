@@ -6,9 +6,6 @@ solution: Analytics
 title: Hide or remove a tab
 topic: Data workbench
 uuid: 38af5ddc-798f-4969-aadd-d72b80b368f6
-index: y
-internal: n
-snippet: y
 ---
 
 # Hide or remove a tab{#hide-or-remove-a-tab}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Acquiring Embedded Object Requests (Page Tags)
 topic: Data workbench
 uuid: 7fe561d1-aa5a-4ac9-82ba-aa27c7d208dd
-index: y
-internal: n
-snippet: y
 ---
 
 # Acquiring Embedded Object Requests (Page Tags){#acquiring-embedded-object-requests-page-tags}

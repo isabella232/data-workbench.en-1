@@ -6,9 +6,6 @@ solution: Analytics
 title: Dimension Types
 topic: Data workbench
 uuid: 07659373-8d9b-473d-8daa-ca8e7ac4afe8
-index: y
-internal: n
-snippet: y
 ---
 
 # Dimension Types{#dimension-types}

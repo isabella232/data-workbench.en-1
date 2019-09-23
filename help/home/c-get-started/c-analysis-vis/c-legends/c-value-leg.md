@@ -6,9 +6,6 @@ solution: Analytics
 title: Value legends
 topic: Data workbench
 uuid: 7779f442-2f45-4bf8-a62a-585aaceaeb3a
-index: y
-internal: n
-snippet: y
 ---
 
 # Value legends{#value-legends}

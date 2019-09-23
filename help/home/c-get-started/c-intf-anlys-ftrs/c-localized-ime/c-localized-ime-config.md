@@ -4,9 +4,6 @@ seo-description: Set up insight.zbin file to set the language of the client appl
 seo-title: Setting up Localized Languages
 title: Setting up Localized Languages
 uuid: 97baf281-32fd-4df0-81a6-c2c7126b053c
-index: y
-internal: n
-snippet: y
 ---
 
 # Setting up Localized Languages{#setting-up-localized-languages}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Searching within the Dashboard Browser
 topic: Data workbench
 uuid: b11b024e-3876-48f2-85e2-a4af047e4985
-index: y
-internal: n
-snippet: y
 ---
 
 # Searching within the Dashboard Browser{#searching-within-the-dashboard-browser}

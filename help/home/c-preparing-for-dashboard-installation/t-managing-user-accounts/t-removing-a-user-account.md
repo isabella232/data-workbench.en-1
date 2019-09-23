@@ -6,9 +6,6 @@ solution: Analytics
 title: Removing a User Account
 topic: Data workbench
 uuid: 9cbb0e65-2251-420e-bde4-2ca9e8387f58
-index: y
-internal: n
-snippet: y
 ---
 
 # Removing a User Account{#removing-a-user-account}

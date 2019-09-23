@@ -6,9 +6,6 @@ solution: Analytics
 title: Types of process maps
 topic: Data workbench
 uuid: 19473b77-13c1-4829-b018-d3316e434ba4
-index: y
-internal: n
-snippet: y
 ---
 
 # Types of process maps{#types-of-process-maps}

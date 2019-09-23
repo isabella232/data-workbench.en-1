@@ -6,9 +6,6 @@ solution: Analytics
 title: Configure a process map
 topic: Data workbench
 uuid: e629191e-48b9-4b58-b6aa-3705ff7b387e
-index: y
-internal: n
-snippet: y
 ---
 
 # Configure a process map{#configure-a-process-map}

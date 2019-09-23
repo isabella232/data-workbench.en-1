@@ -6,9 +6,6 @@ solution: Analytics
 title: Label a node
 topic: Data workbench
 uuid: ded00cc8-2958-4aca-9d45-92afc441e9e2
-index: y
-internal: n
-snippet: y
 ---
 
 # Label a node{#label-a-node}

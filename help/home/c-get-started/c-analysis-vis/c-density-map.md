@@ -6,9 +6,6 @@ solution: Analytics
 title: Density Map
 topic: Data workbench
 uuid: c13cecee-f322-4757-aa90-12039173ff9f
-index: y
-internal: n
-snippet: y
 ---
 
 # Density Map{#density-map}

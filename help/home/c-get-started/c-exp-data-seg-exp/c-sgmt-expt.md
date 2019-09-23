@@ -6,9 +6,6 @@ solution: Analytics
 title: Segment export
 topic: Data workbench
 uuid: 85c8aa72-23fe-424b-9580-6759dc8f8681
-index: y
-internal: n
-snippet: y
 ---
 
 # Segment export{#segment-export}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Save a dimension from a process map
 topic: Data workbench
 uuid: 9af8e5c5-9c20-47c5-8c30-221583b0b3c2
-index: y
-internal: n
-snippet: y
 ---
 
 # Save a dimension from a process map{#save-a-dimension-from-a-process-map}

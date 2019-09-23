@@ -6,9 +6,6 @@ solution: Analytics
 title: Moving Visualizations
 topic: Data workbench
 uuid: 2a2e0b31-79e9-450b-89b6-5654758176f6
-index: y
-internal: n
-snippet: y
 ---
 
 # Moving Visualizations{#moving-visualizations}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Installing the Data Service Lookup Files
 topic: Data workbench
 uuid: a3fe8a14-2c74-4105-bc5b-2298f0f4b61e
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing the Data Service Lookup Files{#installing-the-data-service-lookup-files}

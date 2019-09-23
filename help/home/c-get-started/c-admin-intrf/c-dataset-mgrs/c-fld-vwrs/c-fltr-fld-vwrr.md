@@ -6,9 +6,6 @@ solution: Analytics
 title: Filter within a field viewer
 topic: Data workbench
 uuid: 3788fa03-c898-4e9d-81a0-ecf90376cac6
-index: y
-internal: n
-snippet: y
 ---
 
 # Filter within a field viewer{#filter-within-a-field-viewer}

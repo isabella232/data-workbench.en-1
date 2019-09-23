@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: Validating the Experiment
 topic: Data workbench
 uuid: 59769f5b-4175-479e-ad7d-7226e9c666af
-index: y
-internal: n
-snippet: y
 ---
 
 # Validating the Experiment{#validating-the-experiment}

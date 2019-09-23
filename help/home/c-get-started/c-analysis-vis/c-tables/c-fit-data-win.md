@@ -6,9 +6,6 @@ solution: Analytics
 title: Fit data to a window
 topic: Data workbench
 uuid: a45283e1-56df-4110-a052-2135baeaf709
-index: y
-internal: n
-snippet: y
 ---
 
 # Fit data to a window{#fit-data-to-a-window}

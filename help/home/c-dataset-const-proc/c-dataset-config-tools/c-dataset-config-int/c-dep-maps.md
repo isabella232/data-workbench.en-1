@@ -6,9 +6,6 @@ solution: Analytics
 title: Dependency Maps
 topic: Data workbench
 uuid: c869267c-5fa9-43b8-b4d4-06c7a36bfa8e
-index: y
-internal: n
-snippet: y
 ---
 
 # Dependency Maps{#dependency-maps}

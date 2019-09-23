@@ -6,9 +6,6 @@ solution: Analytics
 title: Verifying Query API Enablement
 topic: Data workbench
 uuid: deedd1a4-c476-49f6-9278-556d914d2b93
-index: y
-internal: n
-snippet: y
 ---
 
 # Verifying Query API Enablement{#verifying-query-api-enablement}

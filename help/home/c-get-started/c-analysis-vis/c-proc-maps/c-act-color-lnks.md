@@ -6,9 +6,6 @@ solution: Analytics
 title: Activate a color link
 topic: Data workbench
 uuid: 7046128e-6d52-4875-9979-c4c7bad59c9d
-index: y
-internal: n
-snippet: y
 ---
 
 # Activate a color link{#activate-a-color-link}

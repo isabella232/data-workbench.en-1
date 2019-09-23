@@ -6,9 +6,6 @@ solution: Analytics
 title: Integrating Lookup Data
 topic: Data workbench
 uuid: 35fd48f7-c0c4-4a83-919d-c15902f27495
-index: y
-internal: n
-snippet: y
 ---
 
 # Integrating Lookup Data{#integrating-lookup-data}

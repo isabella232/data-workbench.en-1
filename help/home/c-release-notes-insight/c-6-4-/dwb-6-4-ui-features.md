@@ -4,9 +4,6 @@ seo-description: Data Workbench 6.4 adds new workspace icons, tool tips, splash 
 seo-title: New User Interface Features
 title: New User Interface Features
 uuid: cda1f15f-5a78-438d-b5a5-bf6573f0e0f4
-index: y
-internal: n
-snippet: y
 ---
 
 # New User Interface Features{#new-user-interface-features}

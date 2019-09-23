@@ -4,9 +4,6 @@ seo-description: Information about the required and optional Sensor txlogd.conf 
 seo-title: Sensor Txlogd.conf File Parameters
 title: Sensor Txlogd.conf File Parameters
 uuid: 5a7d8b74-7e67-46e8-9df7-edccdf6ae70b
-index: y
-internal: n
-snippet: y
 ---
 
 # Sensor Txlogd.conf File Parameters{#sensor-txlogd-conf-file-parameters}

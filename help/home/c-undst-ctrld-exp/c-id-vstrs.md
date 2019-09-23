@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: How Does Site Identify Visitors?
 topic: Data workbench
 uuid: e1e451b8-e827-4010-bda9-9147c3b09958
-index: y
-internal: n
-snippet: y
 ---
 
 # How Does Site Identify Visitors?{#how-does-site-identify-visitors}

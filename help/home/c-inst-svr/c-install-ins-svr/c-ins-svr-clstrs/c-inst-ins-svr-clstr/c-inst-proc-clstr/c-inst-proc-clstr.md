@@ -5,9 +5,6 @@ seo-title: Installation Procedures for a Cluster
 solution: Insight
 title: Installation Procedures for a Cluster
 uuid: 11eb77a6-ad01-47da-bca1-c76107af21c1
-index: y
-internal: n
-snippet: y
 ---
 
 # Installation Procedures for a Cluster{#installation-procedures-for-a-cluster}

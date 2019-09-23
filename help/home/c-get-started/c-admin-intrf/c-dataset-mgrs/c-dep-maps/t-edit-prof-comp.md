@@ -6,9 +6,6 @@ solution: Analytics
 title: Edit profile components
 topic: Data workbench
 uuid: e71adfae-afaa-4cd4-b7c5-a71e6a1b5459
-index: y
-internal: n
-snippet: y
 ---
 
 # Edit profile components{#edit-profile-components}

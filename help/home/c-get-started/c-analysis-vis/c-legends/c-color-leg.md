@@ -6,9 +6,6 @@ solution: Analytics
 title: Color legends
 topic: Data workbench
 uuid: 4f5ad93e-9128-464c-b5b7-9db454fa71a6
-index: y
-internal: n
-snippet: y
 ---
 
 # Color legends{#color-legends}

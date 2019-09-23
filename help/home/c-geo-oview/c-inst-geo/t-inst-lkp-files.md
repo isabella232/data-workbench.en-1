@@ -6,9 +6,6 @@ solution: Analytics
 title: Installing the Geography Lookup Files
 topic: Data workbench
 uuid: 5e47921b-a8e6-4e12-a029-bfa1538515a1
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing the Geography Lookup Files{#installing-the-geography-lookup-files}

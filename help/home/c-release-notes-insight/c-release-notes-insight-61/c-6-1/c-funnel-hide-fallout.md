@@ -6,9 +6,6 @@ solution: Analytics
 title: Hide Fallout Labels in Funnel
 topic: Data workbench
 uuid: 9fdc743a-366a-493a-ac08-1e2253fde466
-index: y
-internal: n
-snippet: y
 ---
 
 # Hide Fallout Labels in Funnel{#hide-fallout-labels-in-funnel}

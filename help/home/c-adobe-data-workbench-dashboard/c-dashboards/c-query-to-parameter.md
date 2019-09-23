@@ -6,9 +6,6 @@ solution: Analytics
 title: Query-To Parameter
 topic: Data workbench
 uuid: 0035f005-ed23-4b60-9615-8a512e3dca53
-index: y
-internal: n
-snippet: y
 ---
 
 # Query-To Parameter{#query-to-parameter}

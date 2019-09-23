@@ -5,9 +5,6 @@ seo-title: DWB Server upgrade  5.4 to 5.5
 solution: Insight
 title: DWB Server upgrade  5.4 to 5.5
 uuid: 9cf9f493-f098-4c6d-a8b5-786833496557
-index: y
-internal: n
-snippet: y
 ---
 
 # DWB Server upgrade: 5.4 to 5.5{#dwb-server-upgrade-to}

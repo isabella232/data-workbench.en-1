@@ -6,9 +6,6 @@ solution: Analytics
 title: Work with derived dimensions
 topic: Data workbench
 uuid: 3a955fdc-6666-40ab-aee0-bd23c260c009
-index: y
-internal: n
-snippet: y
 ---
 
 # Work with derived dimensions{#work-with-derived-dimensions}

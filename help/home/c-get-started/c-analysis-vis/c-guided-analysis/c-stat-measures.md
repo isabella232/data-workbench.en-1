@@ -6,9 +6,6 @@ solution: Analytics
 title: Statistical measures
 topic: Data workbench
 uuid: a8782cd2-d657-4c04-9c5d-8e0af2a3b76e
-index: y
-internal: n
-snippet: y
 ---
 
 # Statistical measures{#statistical-measures}

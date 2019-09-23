@@ -6,9 +6,6 @@ solution: Analytics
 title: Supported Browsers
 topic: Data workbench
 uuid: 7add01cc-905f-46e8-8e0d-3e9d458c466c
-index: y
-internal: n
-snippet: y
 ---
 
 # Supported Browsers{#supported-browsers}

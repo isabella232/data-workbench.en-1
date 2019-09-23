@@ -6,9 +6,6 @@ solution: Analytics
 title: Defining Extended Dimensions
 topic: Data workbench
 uuid: 25946998-54ca-4595-a2f9-9c593917643a
-index: y
-internal: n
-snippet: y
 ---
 
 # Defining Extended Dimensions{#defining-extended-dimensions}

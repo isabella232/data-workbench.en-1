@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: Creating the Test Content
 topic: Data workbench
 uuid: d7996522-38a6-4bb8-9736-d71157c17b45
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating the Test Content{#creating-the-test-content}

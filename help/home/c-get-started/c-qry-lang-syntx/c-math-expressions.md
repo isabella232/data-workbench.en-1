@@ -6,9 +6,6 @@ solution: Analytics
 title: Syntax for math expressions
 topic: Data workbench
 uuid: 63eee559-edfc-4efc-a6c8-66689d156701
-index: y
-internal: n
-snippet: y
 ---
 
 # Syntax for math expressions{#syntax-for-math-expressions}

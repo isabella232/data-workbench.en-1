@@ -6,9 +6,6 @@ solution: Analytics
 title: Installing the Geography Profile
 topic: Data workbench
 uuid: afc0699d-e58b-481b-a3f2-ab6d6998bdd8
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing the Geography Profile{#installing-the-geography-profile}

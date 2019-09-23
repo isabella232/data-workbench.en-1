@@ -6,9 +6,6 @@ solution: Analytics
 title: Expanding Metrics, Dimensions, and Filters
 topic: Data workbench
 uuid: eaec0731-1916-4063-9fda-3a92ee325024
-index: y
-internal: n
-snippet: y
 ---
 
 # Expanding Metrics, Dimensions, and Filters{#expanding-metrics-dimensions-and-filters}

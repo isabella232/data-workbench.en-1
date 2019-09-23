@@ -6,9 +6,6 @@ solution: Analytics
 title: Graphs
 topic: Data workbench
 uuid: 6029cd1a-4fe1-41fa-9594-2c5cee1f4882
-index: y
-internal: n
-snippet: y
 ---
 
 # Graphs{#graphs}

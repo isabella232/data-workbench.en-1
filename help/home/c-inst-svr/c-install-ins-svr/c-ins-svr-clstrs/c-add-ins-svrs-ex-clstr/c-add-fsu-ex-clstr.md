@@ -5,9 +5,6 @@ seo-title: Adding an Insight Server FSU to an Existing Cluster
 solution: Insight
 title: Adding an Insight Server FSU to an Existing Cluster
 uuid: 57d6ef52-eef9-4425-943a-331e4c9c4207
-index: y
-internal: n
-snippet: y
 ---
 
 # Adding an Insight Server FSU to an Existing Cluster{#adding-an-insight-server-fsu-to-an-existing-cluster}

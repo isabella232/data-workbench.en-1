@@ -6,9 +6,6 @@ solution: Analytics
 title: Data Workbench Help
 topic: Reports and analytics
 uuid: 987b69f1-b82a-4719-a71d-b0250a4a4f92
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench Help{#data-workbench-help}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Folder.lock and workspace.lock files
 topic: Data workbench
 uuid: d4c69e16-0596-4542-854f-bc614167ae80
-index: y
-internal: n
-snippet: y
 ---
 
 # Folder.lock and workspace.lock files{#folder-lock-and-workspace-lock-files}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Locking and Unlocking Visualizations
 topic: Data workbench
 uuid: 968f1a1d-8de7-4738-9a8d-db9179192478
-index: y
-internal: n
-snippet: y
 ---
 
 # Locking and Unlocking Visualizations{#locking-and-unlocking-visualizations}

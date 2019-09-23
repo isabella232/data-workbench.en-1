@@ -6,9 +6,6 @@ solution: Analytics
 title: Use callouts with worksheets
 topic: Data workbench
 uuid: f2f137ba-0ea2-464c-8d4c-057a265cdaf7
-index: y
-internal: n
-snippet: y
 ---
 
 # Use callouts with worksheets{#use-callouts-with-worksheets}

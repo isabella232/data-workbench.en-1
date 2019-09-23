@@ -6,9 +6,6 @@ solution: Analytics
 title: Features
 topic: Data workbench
 uuid: 89f52af1-10a7-4510-838e-3b759f9c7d7b
-index: y
-internal: n
-snippet: y
 ---
 
 # Features{#features}

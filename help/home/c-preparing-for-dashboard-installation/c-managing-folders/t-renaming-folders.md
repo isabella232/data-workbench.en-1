@@ -6,9 +6,6 @@ solution: Analytics
 title: Renaming Folders
 topic: Data workbench
 uuid: 803bad4a-8fe9-48e5-9629-ddc2c5430e2d
-index: y
-internal: n
-snippet: y
 ---
 
 # Renaming Folders{#renaming-folders}

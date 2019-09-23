@@ -6,9 +6,6 @@ solution: Analytics
 title: Installing the Report Portal
 topic: Data workbench
 uuid: 6aeb6038-b0b0-48b9-a020-bc9dfd703c43
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing the Report Portal{#installing-the-report-portal}

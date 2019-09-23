@@ -6,9 +6,6 @@ solution: Analytics
 title: Export to Microsoft Excel
 topic: Data workbench
 uuid: a54578b1-f468-41bf-b098-70eed305b496
-index: y
-internal: n
-snippet: y
 ---
 
 # Export to Microsoft Excel{#export-to-microsoft-excel}

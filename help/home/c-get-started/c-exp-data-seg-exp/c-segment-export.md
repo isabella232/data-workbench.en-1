@@ -4,9 +4,6 @@ seo-description: Create custom column export headers for your segment export fil
 seo-title: Segment Export with Custom Headers
 title: Segment Export with Custom Headers
 uuid: 186e7868-13b2-42e1-b83f-5a752ee9b407
-index: y
-internal: n
-snippet: y
 ---
 
 # Segment Export with Custom Headers{#segment-export-with-custom-headers}

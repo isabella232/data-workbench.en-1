@@ -6,9 +6,6 @@ solution: Analytics
 title: Understanding the Query String
 topic: Data workbench
 uuid: 7403277d-fbce-4e98-bd42-894142e38d0d
-index: y
-internal: n
-snippet: y
 ---
 
 # Understanding the Query String{#understanding-the-query-string}

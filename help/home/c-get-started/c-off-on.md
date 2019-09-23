@@ -6,9 +6,6 @@ solution: Analytics
 title: Working offline and online
 topic: Data workbench
 uuid: 613699d4-6d06-4c3c-b0aa-620933ae4d67
-index: y
-internal: n
-snippet: y
 ---
 
 # Working offline and online{#working-offline-and-online}

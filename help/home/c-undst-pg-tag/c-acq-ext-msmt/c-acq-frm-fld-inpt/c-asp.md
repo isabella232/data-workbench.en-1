@@ -6,9 +6,6 @@ solution: Analytics
 title: ASP-Specific Information
 topic: Data workbench
 uuid: 552288cb-b775-4121-8869-322f2a26932b
-index: y
-internal: n
-snippet: y
 ---
 
 # ASP-Specific Information{#asp-specific-information}

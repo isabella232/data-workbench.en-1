@@ -6,9 +6,6 @@ solution: Analytics
 title: Line Charts
 topic: Data workbench
 uuid: 6f525c49-6679-4234-886b-52a3c7df98ff
-index: y
-internal: n
-snippet: y
 ---
 
 # Line Charts{#line-charts}

@@ -6,9 +6,6 @@ solution: Analytics
 title: ReplaceURI
 topic: Data workbench
 uuid: f9fc6d51-6eb6-4ace-8c19-2c0200555363
-index: y
-internal: n
-snippet: y
 ---
 
 # ReplaceURI{#replaceuri}

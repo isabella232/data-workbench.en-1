@@ -6,9 +6,6 @@ solution: Analytics
 title: Adding a User Account
 topic: Data workbench
 uuid: c322eeaa-a3f4-41e8-b38c-dd892ec29a87
-index: y
-internal: n
-snippet: y
 ---
 
 # Adding a User Account{#adding-a-user-account}

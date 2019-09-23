@@ -6,9 +6,6 @@ solution: Analytics
 title: Creating New Dataset Include Files
 topic: Data workbench
 uuid: 707bdd84-b12b-4226-b6aa-43c9fc7ec9fe
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating New Dataset Include Files{#creating-new-dataset-include-files}

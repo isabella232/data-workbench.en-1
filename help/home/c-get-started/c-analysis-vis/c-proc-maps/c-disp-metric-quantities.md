@@ -6,9 +6,6 @@ solution: Analytics
 title: Display a metric quantity
 topic: Data workbench
 uuid: ec336af1-ff5b-4c0a-86a5-8186d76cdf07
-index: y
-internal: n
-snippet: y
 ---
 
 # Display a metric quantity{#display-a-metric-quantity}

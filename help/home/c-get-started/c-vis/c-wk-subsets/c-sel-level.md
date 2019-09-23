@@ -6,9 +6,6 @@ solution: Analytics
 title: Select a level
 topic: Data workbench
 uuid: 18c2bee7-a70f-4510-978f-830b56780f47
-index: y
-internal: n
-snippet: y
 ---
 
 # Select a level{#select-a-level}

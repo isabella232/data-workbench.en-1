@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: Modifying the ExpCookieURL Paramter (Optional)
 topic: Data workbench
 uuid: 0c160c26-f9de-4e41-a05d-bf7bb32395bb
-index: y
-internal: n
-snippet: y
 ---
 
 # Modifying the ExpCookieURL Paramter (Optional){#modifying-the-expcookieurl-paramter-optional}

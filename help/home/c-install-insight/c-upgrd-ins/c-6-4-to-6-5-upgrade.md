@@ -4,9 +4,6 @@ seo-description: Follow these steps to upgrade to Data Workbench v6.5.
 seo-title: Upgrading 6.4 to 6.5
 title: Upgrading 6.4 to 6.5
 uuid: b90b7b0c-7467-405f-a5ca-c40e69975d49
-index: y
-internal: n
-snippet: y
 ---
 
 # Upgrading 6.4 to 6.5{#upgrading-to}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Many-to-Many Dimensions
 topic: Data workbench
 uuid: 42c909e8-1228-4210-9406-ffc0d92372fa
-index: y
-internal: n
-snippet: y
 ---
 
 # Many-to-Many Dimensions{#many-to-many-dimensions}

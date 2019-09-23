@@ -5,9 +5,6 @@ seo-title: Defining the Server's Network Location
 solution: Insight
 title: Defining the Server's Network Location
 uuid: 9cf2f268-6fde-4427-b832-a238d126d697
-index: y
-internal: n
-snippet: y
 ---
 
 # Defining the Server's Network Location{#defining-the-server-s-network-location}

@@ -5,9 +5,6 @@ seo-title: Restarting the Service
 solution: Insight
 title: Restarting the Service
 uuid: fda05e5a-9527-43e0-86c8-c4adba51955c
-index: y
-internal: n
-snippet: y
 ---
 
 # Restarting the Service{#restarting-the-service}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Confirming that the Report Server is Running
 topic: Data workbench
 uuid: 596c9646-20d1-4ef7-82c9-af14e05d7d69
-index: y
-internal: n
-snippet: y
 ---
 
 # Confirming that the Report Server is Running{#confirming-that-the-report-server-is-running}

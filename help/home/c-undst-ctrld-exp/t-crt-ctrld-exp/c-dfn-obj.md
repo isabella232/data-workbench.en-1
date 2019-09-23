@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: Defining the Objective
 topic: Data workbench
 uuid: 4957b249-8790-4275-98ab-9c6398039a63
-index: y
-internal: n
-snippet: y
 ---
 
 # Defining the Objective{#defining-the-objective}

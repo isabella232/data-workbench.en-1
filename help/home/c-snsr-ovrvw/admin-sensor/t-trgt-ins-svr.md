@@ -5,9 +5,6 @@ seo-title: Changing the Target Data Workbench Server
 solution: Insight
 title: Changing the Target Data Workbench Server
 uuid: 931d376d-8622-4858-8290-19ce91538570
-index: y
-internal: n
-snippet: y
 ---
 
 # Changing the Target Data Workbench Server{#changing-the-target-data-workbench-server}

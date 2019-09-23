@@ -6,9 +6,6 @@ solution: Analytics
 title: Workspaces and visualizations
 topic: Data workbench
 uuid: dc7fab6c-d8b4-4ed7-bad6-b3df14b9ebbf
-index: y
-internal: n
-snippet: y
 ---
 
 # Workspaces and visualizations{#workspaces-and-visualizations}

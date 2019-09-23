@@ -6,9 +6,6 @@ solution: Analytics
 title: Email Notification of Completed Report
 topic: Data workbench
 uuid: 567e0423-a17a-407c-87ea-735c1c8aef96
-index: y
-internal: n
-snippet: y
 ---
 
 # Email Notification of Completed Report{#email-notification-of-completed-report}

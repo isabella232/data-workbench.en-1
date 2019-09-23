@@ -6,9 +6,6 @@ solution: Analytics
 title: Interface and analysis features
 topic: Data workbench
 uuid: a0298c35-1be6-4491-b3d0-e374bd75a542
-index: y
-internal: n
-snippet: y
 ---
 
 # Interface and analysis features{#interface-and-analysis-features}

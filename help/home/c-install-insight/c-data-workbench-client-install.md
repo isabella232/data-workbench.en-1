@@ -6,9 +6,6 @@ solution: Analytics
 title: Workstation requirements
 topic: Data workbench
 uuid: 3c4ba2e8-efbc-45fe-8ac1-923d070bc710
-index: y
-internal: n
-snippet: y
 ---
 
 # Workstation requirements{#workstation-requirements}

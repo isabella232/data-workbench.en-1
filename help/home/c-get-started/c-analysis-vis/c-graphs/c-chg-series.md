@@ -6,9 +6,6 @@ solution: Analytics
 title: Change a series
 topic: Data workbench
 uuid: 4e9630c6-a663-486d-ae82-f6d25f74a41c
-index: y
-internal: n
-snippet: y
 ---
 
 # Change a series{#change-a-series}

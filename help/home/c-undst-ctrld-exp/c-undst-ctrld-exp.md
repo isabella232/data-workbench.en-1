@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: Data Workbench Controlled Experiments
 topic: Data workbench
 uuid: 5fce2d9e-4975-44e4-a7c0-11064d8d28b4
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench Controlled Experiments{#data-workbench-controlled-experiments}

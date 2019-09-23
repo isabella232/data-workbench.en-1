@@ -6,9 +6,6 @@ solution: Analytics
 title: Traffic Profile Metrics
 topic: Data workbench
 uuid: 7dfa18ef-d2cd-44ae-8c56-a0630a9d5cf2
-index: y
-internal: n
-snippet: y
 ---
 
 # Traffic Profile Metrics{#traffic-profile-metrics}

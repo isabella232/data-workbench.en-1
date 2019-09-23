@@ -6,9 +6,6 @@ solution: Analytics
 title: Adding callouts to a workspace
 topic: Data workbench
 uuid: fb3dd74d-da20-40cb-bc96-e56d25003e48
-index: y
-internal: n
-snippet: y
 ---
 
 # Adding callouts to a workspace{#adding-callouts-to-a-workspace}

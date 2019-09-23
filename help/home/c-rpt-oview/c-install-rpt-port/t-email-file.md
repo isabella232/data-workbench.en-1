@@ -6,9 +6,6 @@ solution: Analytics
 title: Edit the Email.asp File
 topic: Data workbench
 uuid: 18251170-0317-4a32-b9e1-4ebf2d7ad123
-index: y
-internal: n
-snippet: y
 ---
 
 # Edit the Email.asp File{#edit-the-email-asp-file}

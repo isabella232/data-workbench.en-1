@@ -6,9 +6,6 @@ solution: Analytics
 title: Window Controls menu
 topic: Data workbench
 uuid: 9a7c24a7-c591-4d73-94f5-bba79b2aa848
-index: y
-internal: n
-snippet: y
 ---
 
 # Window Controls menu{#window-controls-menu}

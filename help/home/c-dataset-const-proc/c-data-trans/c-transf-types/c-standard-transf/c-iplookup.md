@@ -6,9 +6,6 @@ solution: Analytics
 title: IPLookup
 topic: Data workbench
 uuid: 6fccee39-761f-4854-a7fd-3f8b453e0698
-index: y
-internal: n
-snippet: y
 ---
 
 # IPLookup{#iplookup}

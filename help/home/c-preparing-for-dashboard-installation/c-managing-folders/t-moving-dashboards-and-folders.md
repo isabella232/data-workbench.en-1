@@ -6,9 +6,6 @@ solution: Analytics
 title: Moving Dashboards and Folders
 topic: Data workbench
 uuid: 7b878f40-4964-4b03-94d3-8387ac84470c
-index: y
-internal: n
-snippet: y
 ---
 
 # Moving Dashboards and Folders{#moving-dashboards-and-folders}

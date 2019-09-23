@@ -6,9 +6,6 @@ solution: Analytics
 title: Opening the Report Portal
 topic: Data workbench
 uuid: f9a1c213-d500-4408-a621-3af29da63791
-index: y
-internal: n
-snippet: y
 ---
 
 # Opening the Report Portal{#opening-the-report-portal}

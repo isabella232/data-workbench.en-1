@@ -6,9 +6,6 @@ solution: Analytics
 title: Create dimensions for use with segment export
 topic: Data workbench
 uuid: 7fdc043e-b2c5-4eac-adf4-bf60df6a3953
-index: y
-internal: n
-snippet: y
 ---
 
 # Create dimensions for use with segment export{#create-dimensions-for-use-with-segment-export}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Worktops
 topic: Data workbench
 uuid: ae6e475c-fc91-4c76-883b-894c9eb2933c
-index: y
-internal: n
-snippet: y
 ---
 
 # Worktops{#worktops}

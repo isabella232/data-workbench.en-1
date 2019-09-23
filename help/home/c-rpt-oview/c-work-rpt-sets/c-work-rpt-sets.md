@@ -6,9 +6,6 @@ solution: Analytics
 title: Working with Report Sets
 topic: Data workbench
 uuid: ba79af04-18f3-49b4-a08d-6c22942ae082
-index: y
-internal: n
-snippet: y
 ---
 
 # Working with Report Sets{#working-with-report-sets}

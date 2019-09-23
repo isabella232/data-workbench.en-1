@@ -6,9 +6,6 @@ solution: Analytics
 title: Calculating Propensity Scoring
 topic: Data workbench
 uuid: 67270864-0468-4cc9-b48b-0e880f813555
-index: y
-internal: n
-snippet: y
 ---
 
 # Calculating Propensity Scoring{#calculating-propensity-scoring}

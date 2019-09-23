@@ -6,9 +6,6 @@ solution: Analytics
 title: Servers Manager
 topic: Data workbench
 uuid: 96c8f060-ffd4-46b9-b039-b2ac024400b6
-index: y
-internal: n
-snippet: y
 ---
 
 # Servers Manager{#servers-manager}

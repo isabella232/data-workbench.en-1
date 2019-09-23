@@ -6,9 +6,6 @@ solution: Analytics
 title: Visualization Types
 topic: Data workbench
 uuid: f98a6ff5-19c9-46a1-958e-054e1b808c23
-index: y
-internal: n
-snippet: y
 ---
 
 # Visualization Types{#visualization-types}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Display metric information
 topic: Data workbench
 uuid: 73d53159-482a-457f-988b-8618dc098fbc
-index: y
-internal: n
-snippet: y
 ---
 
 # Display metric information{#display-metric-information}

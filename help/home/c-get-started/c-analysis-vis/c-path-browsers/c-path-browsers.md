@@ -6,9 +6,6 @@ solution: Analytics
 title: Path browsers
 topic: Data workbench
 uuid: 548091dc-935f-41ac-b67c-39080988f1ea
-index: y
-internal: n
-snippet: y
 ---
 
 # Path browsers{#path-browsers}

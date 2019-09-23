@@ -6,9 +6,6 @@ solution: Analytics
 title: Dimensions in the Data Workbench Historic profile
 topic: Data workbench
 uuid: 6d93fba4-986b-46a4-9479-aeb54853dff5
-index: y
-internal: n
-snippet: y
 ---
 
 # Dimensions in the Data Workbench Historic profile{#dimensions-in-the-data-workbench-historic-profile}

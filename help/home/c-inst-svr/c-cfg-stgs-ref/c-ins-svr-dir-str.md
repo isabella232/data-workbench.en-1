@@ -5,9 +5,6 @@ seo-title: Insight Server Directory Structure
 solution: Insight
 title: Insight Server Directory Structure
 uuid: 8339b275-f118-4d5d-937e-4df9f8a56b50
-index: y
-internal: n
-snippet: y
 ---
 
 # Insight Server Directory Structure{#insight-server-directory-structure}

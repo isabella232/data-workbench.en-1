@@ -6,9 +6,6 @@ solution: Analytics
 title: Data Workbench 6.0 Release Notes
 topic: Data workbench
 uuid: b348425e-3304-4db7-a280-479a34452bdb
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench 6.0 Release Notes{#data-workbench-release-notes}

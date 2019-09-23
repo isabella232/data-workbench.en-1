@@ -5,9 +5,6 @@ seo-title: Registering Insight Server as a Windows Service
 solution: Insight
 title: Registering Insight Server as a Windows Service
 uuid: 1b3d53ca-d50f-4520-abf5-6d5c40493b88
-index: y
-internal: n
-snippet: y
 ---
 
 # Registering Insight Server as a Windows Service{#registering-insight-server-as-a-windows-service}

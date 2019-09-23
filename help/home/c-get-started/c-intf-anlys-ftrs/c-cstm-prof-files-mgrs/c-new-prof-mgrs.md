@@ -6,9 +6,6 @@ solution: Analytics
 title: Create a Profile Manager
 topic: Data workbench
 uuid: e16741e2-740b-4f57-861d-e2f57d30abbc
-index: y
-internal: n
-snippet: y
 ---
 
 # Create a Profile Manager{#create-a-profile-manager}

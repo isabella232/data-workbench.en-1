@@ -6,9 +6,6 @@ solution: Analytics
 title: Data Workbench 5.5 to 6.1 Upgrade
 topic: Data workbench
 uuid: 14e3612e-11a2-402a-9478-904ec55df23c
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench 5.5 to 6.1 Upgrade{#data-workbench-to-upgrade}

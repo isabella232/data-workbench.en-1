@@ -6,9 +6,6 @@ solution: Analytics
 title: Correlation Matrix
 topic: Data workbench
 uuid: 7f6bdb65-dc31-4e27-9870-4c9402ee6031
-index: y
-internal: n
-snippet: y
 ---
 
 # Correlation Matrix{#correlation-matrix}

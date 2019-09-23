@@ -4,9 +4,6 @@ seo-description: The Internal.cfg file applied in the Profile Manager prevents c
 seo-title: Locking Profiles in the Workstation
 title: Locking Profiles in the Workstation
 uuid: 6b65d7c1-dade-4c6e-9d59-09693e62f3f5
-index: y
-internal: n
-snippet: y
 ---
 
 # Locking Profiles in the Workstation{#locking-profiles-in-the-workstation}

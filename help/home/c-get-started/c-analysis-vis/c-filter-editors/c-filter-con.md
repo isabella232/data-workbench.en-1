@@ -6,9 +6,6 @@ solution: Analytics
 title: Working with filter conditions
 topic: Data workbench
 uuid: a75fcb21-be5c-452a-8632-86cd78db15cb
-index: y
-internal: n
-snippet: y
 ---
 
 # Working with filter conditions{#working-with-filter-conditions}

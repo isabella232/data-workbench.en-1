@@ -5,9 +5,6 @@ seo-title: Understanding "As Of" Time
 solution: Insight
 title: Understanding "As Of" Time
 uuid: a1853573-e77c-41f7-8b99-2843e38cc82d
-index: y
-internal: n
-snippet: y
 ---
 
 # Understanding "As Of" Time{#understanding-as-of-time}

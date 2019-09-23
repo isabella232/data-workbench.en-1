@@ -6,9 +6,6 @@ solution: Analytics
 title: Tracking Link Clicks
 topic: Data workbench
 uuid: e4c492d2-9c90-4ed7-b997-6c50bdf98f93
-index: y
-internal: n
-snippet: y
 ---
 
 # Tracking Link Clicks{#tracking-link-clicks}

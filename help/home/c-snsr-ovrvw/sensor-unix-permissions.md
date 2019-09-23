@@ -4,9 +4,6 @@ seo-description: Information about Sensor UNIX file permissions such as the coll
 seo-title: Sensor UNIX File Permissions
 title: Sensor UNIX File Permissions
 uuid: 04d159b5-6569-48b6-a2db-9a0b40118ffe
-index: y
-internal: n
-snippet: y
 ---
 
 # Sensor UNIX File Permissions{#sensor-unix-file-permissions}

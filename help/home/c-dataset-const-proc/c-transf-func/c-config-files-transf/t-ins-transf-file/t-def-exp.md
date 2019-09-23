@@ -6,9 +6,6 @@ solution: Analytics
 title: Defining Exporters
 topic: Data workbench
 uuid: 565d4482-6c25-407c-bda7-0d116180902a
-index: y
-internal: n
-snippet: y
 ---
 
 # Defining Exporters{#defining-exporters}

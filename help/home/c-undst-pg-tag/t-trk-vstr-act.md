@@ -6,9 +6,6 @@ solution: Analytics
 title: Tracking Visitor Activity Within Flash Rich Media Content
 topic: Data workbench
 uuid: fe2e75eb-0897-4f63-b582-b4f1fdce02a1
-index: y
-internal: n
-snippet: y
 ---
 
 # Tracking Visitor Activity Within Flash Rich Media Content{#tracking-visitor-activity-within-flash-rich-media-content}

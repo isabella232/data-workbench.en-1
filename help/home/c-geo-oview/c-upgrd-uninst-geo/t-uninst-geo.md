@@ -6,9 +6,6 @@ solution: Analytics
 title: Uninstalling Data Workbench Geography
 topic: Data workbench
 uuid: 038b2dfb-4db2-42c6-85c3-bc5d776e7736
-index: y
-internal: n
-snippet: y
 ---
 
 # Uninstalling Data Workbench Geography{#uninstalling-data-workbench-geography}

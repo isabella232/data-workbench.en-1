@@ -6,9 +6,6 @@ solution: Analytics
 title: Data Transformations
 topic: Data workbench
 uuid: a3b348e1-640f-45d1-b446-0036544bf2ee
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Transformations{#data-transformations}

@@ -5,9 +5,6 @@ seo-title: Adding Insight Servers to an Existing Cluster
 solution: Insight
 title: Adding Insight Servers to an Existing Cluster
 uuid: 951bd6fe-14e4-4192-917c-342fde7b43ba
-index: y
-internal: n
-snippet: y
 ---
 
 # Adding Insight Servers to an Existing Cluster{#adding-insight-servers-to-an-existing-cluster}

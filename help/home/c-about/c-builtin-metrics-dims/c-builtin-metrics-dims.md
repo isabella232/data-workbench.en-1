@@ -6,9 +6,6 @@ solution: Analytics
 title: About Built-in Metrics, Dimensions, and Filters
 topic: Data workbench
 uuid: 05676254-f6f5-4cb1-a664-da96d5b965db
-index: y
-internal: n
-snippet: y
 ---
 
 # About Built-in Metrics, Dimensions, and Filters{#about-built-in-metrics-dimensions-and-filters}

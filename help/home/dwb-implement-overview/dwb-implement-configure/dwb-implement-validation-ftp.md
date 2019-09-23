@@ -4,9 +4,6 @@ seo-description: This is a quick guide giving you the minimum steps required to 
 seo-title: Validation of Internal and External FTP Servers
 title: Validation of Internal and External FTP Servers
 uuid: bc381c1d-df27-4009-920b-1a804b36c204
-index: y
-internal: n
-snippet: y
 ---
 
 # Validation of Internal and External FTP Servers{#validation-of-internal-and-external-ftp-servers}

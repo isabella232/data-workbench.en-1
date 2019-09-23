@@ -6,9 +6,6 @@ solution: Analytics
 title: Funnel Visualization
 topic: Data workbench
 uuid: 7973a7a9-ed17-4d3d-be14-37b3c17fa371
-index: y
-internal: n
-snippet: y
 ---
 
 # Funnel Visualization{#funnel-visualization}

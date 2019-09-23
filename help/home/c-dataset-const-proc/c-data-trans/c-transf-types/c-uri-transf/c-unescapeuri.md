@@ -6,9 +6,6 @@ solution: Analytics
 title: UnescapeURI
 topic: Data workbench
 uuid: 25e87cc7-812d-4d77-be94-16093e8955fe
-index: y
-internal: n
-snippet: y
 ---
 
 # UnescapeURI{#unescapeuri}

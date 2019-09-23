@@ -4,9 +4,6 @@ seo-description: This section explains how to create Primary keys (Tracking ID) 
 seo-title: Data processing - Building Primary Key
 title: Data processing - Building Primary Key
 uuid: 7a12950e-6ac0-47d5-b4a8-0b50c48b04fa
-index: y
-internal: n
-snippet: y
 ---
 
 # Data processing - Building Primary Key{#data-processing-building-primary-key}

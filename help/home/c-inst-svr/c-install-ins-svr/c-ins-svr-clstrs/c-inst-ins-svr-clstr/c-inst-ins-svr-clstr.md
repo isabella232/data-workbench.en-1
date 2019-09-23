@@ -5,9 +5,6 @@ seo-title: Installing an Insight Server Cluster
 solution: Insight
 title: Installing an Insight Server Cluster
 uuid: 0a0eb03d-2454-4b02-8b9d-cacf9deb5451
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing an Insight Server Cluster{#installing-an-insight-server-cluster}

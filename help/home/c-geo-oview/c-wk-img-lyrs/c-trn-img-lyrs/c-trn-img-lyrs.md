@@ -6,9 +6,6 @@ solution: Analytics
 title: Working with Terrain Image Layers
 topic: Data workbench
 uuid: 2f23a2c8-f551-4b84-bd87-5d7053910ab3
-index: y
-internal: n
-snippet: y
 ---
 
 # Working with Terrain Image Layers{#working-with-terrain-image-layers}

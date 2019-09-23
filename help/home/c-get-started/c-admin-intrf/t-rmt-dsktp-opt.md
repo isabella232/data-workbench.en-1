@@ -6,9 +6,6 @@ solution: Analytics
 title: Remote desktop option
 topic: Data workbench
 uuid: c5914eff-4554-41d1-b5a7-6a598354eeb4
-index: y
-internal: n
-snippet: y
 ---
 
 # Remote desktop option{#remote-desktop-option}

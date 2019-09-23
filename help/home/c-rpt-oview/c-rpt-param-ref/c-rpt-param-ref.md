@@ -6,9 +6,6 @@ solution: Analytics
 title: Report Server Parameters Reference
 topic: Data workbench
 uuid: d90cb66d-e864-4122-9f4a-85518669c2ab
-index: y
-internal: n
-snippet: y
 ---
 
 # Report Server Parameters Reference{#report-server-parameters-reference}

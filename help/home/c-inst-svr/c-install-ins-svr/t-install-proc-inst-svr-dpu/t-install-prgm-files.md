@@ -5,9 +5,6 @@ seo-title: Installing the Insight Server Program Files
 solution: Insight
 title: Installing the Insight Server Program Files
 uuid: 32fc61da-b5d0-4463-b655-d4e99ad960d4
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing the Insight Server Program Files{#installing-the-insight-server-program-files}

@@ -5,9 +5,6 @@ seo-title: DPU Requirements
 solution: Analytics
 title: DPU Requirements
 uuid: 7c588378-5faa-468f-af27-8e19e5bdd8d3
-index: y
-internal: n
-snippet: y
 ---
 
 # DPU Requirements{#dpu-requirements}

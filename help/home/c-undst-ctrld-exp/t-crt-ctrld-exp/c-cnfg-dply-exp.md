@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: Configuring and Deploying the Experiment
 topic: Data workbench
 uuid: 460d3ea4-a6c8-4ac4-9a3f-eab71f65b096
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring and Deploying the Experiment{#configuring-and-deploying-the-experiment}

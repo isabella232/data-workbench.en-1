@@ -6,9 +6,6 @@ solution: Analytics
 title: Data Workbench Report Server
 topic: Data workbench
 uuid: eac678de-58bf-46d2-aa09-592696c01fb2
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench Report Server{#data-workbench-report-server}

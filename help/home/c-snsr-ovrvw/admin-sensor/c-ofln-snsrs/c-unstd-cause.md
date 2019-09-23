@@ -5,9 +5,6 @@ seo-title: Understanding the Causes
 solution: Insight
 title: Understanding the Causes
 uuid: a2801040-c859-4bf8-90d7-daf3d4f633f3
-index: y
-internal: n
-snippet: y
 ---
 
 # Understanding the Causes{#understanding-the-causes}

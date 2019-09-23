@@ -6,9 +6,6 @@ solution: Analytics
 title: 2D scatter plots
 topic: Data workbench
 uuid: 73c23d22-3c3a-4535-b66b-0e3508bd904c
-index: y
-internal: n
-snippet: y
 ---
 
 # 2D scatter plots{#d-scatter-plots}

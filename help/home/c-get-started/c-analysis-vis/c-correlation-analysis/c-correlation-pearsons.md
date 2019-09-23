@@ -6,9 +6,6 @@ solution: Analytics
 title: About the Pearson Correlation Coefficient
 topic: Data workbench
 uuid: d4c37302-3d0e-4411-b4e2-fc4b0c53cbcd
-index: y
-internal: n
-snippet: y
 ---
 
 # About the Pearson Correlation Coefficient{#about-the-pearson-correlation-coefficient}

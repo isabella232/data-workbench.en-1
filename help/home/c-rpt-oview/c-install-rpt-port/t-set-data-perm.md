@@ -6,9 +6,6 @@ solution: Analytics
 title: Set Permissions for the Database
 topic: Data workbench
 uuid: 747d1adc-bfc9-4f54-a2b1-ae5e12dd82a2
-index: y
-internal: n
-snippet: y
 ---
 
 # Set Permissions for the Database{#set-permissions-for-the-database}

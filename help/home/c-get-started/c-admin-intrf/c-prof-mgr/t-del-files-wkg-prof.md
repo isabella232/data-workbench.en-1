@@ -6,9 +6,6 @@ solution: Analytics
 title: Delete files from your working profile
 topic: Data workbench
 uuid: e3658085-57c2-4d25-bdc6-6767de1deb3e
-index: y
-internal: n
-snippet: y
 ---
 
 # Delete files from your working profile{#delete-files-from-your-working-profile}

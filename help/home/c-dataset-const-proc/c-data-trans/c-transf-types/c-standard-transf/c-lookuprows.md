@@ -6,9 +6,6 @@ solution: Analytics
 title: LookupRows
 topic: Data workbench
 uuid: 4cff7cf1-00c8-4ab1-8adc-3805518226d3
-index: y
-internal: n
-snippet: y
 ---
 
 # LookupRows{#lookuprows}

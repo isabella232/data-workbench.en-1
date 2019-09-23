@@ -6,9 +6,6 @@ solution: Analytics
 title: Exporting Visualizations
 topic: Data workbench
 uuid: 21ec377c-70a6-4fcb-a3d4-2737f9c358b2
-index: y
-internal: n
-snippet: y
 ---
 
 # Exporting Visualizations{#exporting-visualizations}

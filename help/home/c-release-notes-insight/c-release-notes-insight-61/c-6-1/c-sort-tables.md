@@ -6,9 +6,6 @@ solution: Analytics
 title: Sorting Table Columns
 topic: Data workbench
 uuid: 9de5f597-88d9-488a-bdff-b908d8a7b98a
-index: y
-internal: n
-snippet: y
 ---
 
 # Sorting Table Columns{#sorting-table-columns}

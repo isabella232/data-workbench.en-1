@@ -6,9 +6,6 @@ solution: Analytics
 title: Building a Funnel
 topic: Data workbench
 uuid: 88afa09d-42ff-4e3b-b5cc-d74e01f4fc39
-index: y
-internal: n
-snippet: y
 ---
 
 # Building a Funnel{#building-a-funnel}

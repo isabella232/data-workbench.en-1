@@ -6,9 +6,6 @@ solution: Analytics
 title: Adding Folders
 topic: Data workbench
 uuid: 9e6b35e8-435e-4af7-ab60-30b335869063
-index: y
-internal: n
-snippet: y
 ---
 
 # Adding Folders{#adding-folders}

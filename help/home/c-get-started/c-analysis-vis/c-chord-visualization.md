@@ -4,9 +4,6 @@ seo-description: The Chord visualization allows you to show both the proportion 
 seo-title: Chord Visualization
 title: Chord Visualization
 uuid: 3f322f58-f8f5-4d91-bdf8-4b5f9d7fb072
-index: y
-internal: n
-snippet: y
 ---
 
 # Chord Visualization{#chord-visualization}

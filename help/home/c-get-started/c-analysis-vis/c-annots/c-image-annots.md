@@ -6,9 +6,6 @@ solution: Analytics
 title: Image annotations
 topic: Data workbench
 uuid: 62a655f6-120b-4cf4-adaa-aa04f721a7dc
-index: y
-internal: n
-snippet: y
 ---
 
 # Image annotations{#image-annotations}

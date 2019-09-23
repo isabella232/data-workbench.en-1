@@ -6,9 +6,6 @@ solution: Analytics
 title: Configure a locked workspace
 topic: Data workbench
 uuid: 0bb264f6-20b9-43d9-903e-1b2422af21d5
-index: y
-internal: n
-snippet: y
 ---
 
 # Configure a locked workspace{#configure-a-locked-workspace}

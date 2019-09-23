@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: Creating a Controlled Experiment
 topic: Data workbench
 uuid: 0f7016e7-187e-4fd2-9228-0547cc5b487e
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating a Controlled Experiment{#creating-a-controlled-experiment}

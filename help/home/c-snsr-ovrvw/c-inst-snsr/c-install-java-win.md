@@ -4,9 +4,6 @@ seo-description: Instructions for installing and configuring Sensor for Sun Java
 seo-title: Sun Java Server on Windows Server 2000 or Later
 title: Sun Java Server on Windows Server 2000 or Later
 uuid: 43f3eee0-2633-4bda-af6c-6c15433dd539
-index: y
-internal: n
-snippet: y
 ---
 
 # Sun Java Server on Windows Server 2000 or Later{#sun-java-server-on-windows-server-or-later}

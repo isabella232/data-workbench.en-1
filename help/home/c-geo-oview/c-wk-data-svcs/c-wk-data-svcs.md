@@ -6,9 +6,6 @@ solution: Analytics
 title: Working with Data Services
 topic: Data workbench
 uuid: bfa08f6c-7b91-4663-8a7e-2d7cf343dcde
-index: y
-internal: n
-snippet: y
 ---
 
 # Working with Data Services{#working-with-data-services}

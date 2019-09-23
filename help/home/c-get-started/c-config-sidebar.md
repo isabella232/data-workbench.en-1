@@ -6,9 +6,6 @@ solution: Analytics
 title: Configure the sidebar
 topic: Data workbench
 uuid: 0d2f0b9a-56a9-4f27-aaa6-1f9bf7fcab2d
-index: y
-internal: n
-snippet: y
 ---
 
 # Configure the sidebar{#configure-the-sidebar}

@@ -5,9 +5,6 @@ seo-title: Configuring the Replication Service
 solution: Insight
 title: Configuring the Replication Service
 uuid: 93931b1d-d1fd-4e98-aa88-f7962eea92a2
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring the Replication Service{#configuring-the-replication-service}

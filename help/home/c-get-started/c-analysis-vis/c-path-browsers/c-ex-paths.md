@@ -6,9 +6,6 @@ solution: Analytics
 title: Extend a paths
 topic: Data workbench
 uuid: 335fe6c2-4d8a-46f8-8e4e-d496f8e34373
-index: y
-internal: n
-snippet: y
 ---
 
 # Extend a paths{#extend-a-paths}

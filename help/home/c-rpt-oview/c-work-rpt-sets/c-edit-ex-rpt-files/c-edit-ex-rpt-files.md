@@ -6,9 +6,6 @@ solution: Analytics
 title: Editing Existing Report.cfg Files
 topic: Data workbench
 uuid: 494b9eef-42f3-4ed9-8b43-f5c09af33f2e
-index: y
-internal: n
-snippet: y
 ---
 
 # Editing Existing Report.cfg Files{#editing-existing-report-cfg-files}

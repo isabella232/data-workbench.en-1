@@ -6,9 +6,6 @@ solution: Analytics
 title: Tokenize
 topic: Data workbench
 uuid: f8430e6c-ec14-4ba6-aeae-92c9f2520a63
-index: y
-internal: n
-snippet: y
 ---
 
 # Tokenize{#tokenize}

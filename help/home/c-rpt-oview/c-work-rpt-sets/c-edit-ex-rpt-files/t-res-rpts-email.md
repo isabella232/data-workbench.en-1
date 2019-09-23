@@ -6,9 +6,6 @@ solution: Analytics
 title: Resending Reports by Email
 topic: Data workbench
 uuid: 384dfa1f-6a72-4fef-886e-bf2290f5993f
-index: y
-internal: n
-snippet: y
 ---
 
 # Resending Reports by Email{#resending-reports-by-email}

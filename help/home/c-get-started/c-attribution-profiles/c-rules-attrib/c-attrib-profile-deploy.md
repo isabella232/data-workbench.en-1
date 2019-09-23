@@ -4,9 +4,6 @@ seo-description: The Attribution profile is an inherited, ready-to-drop-in profi
 seo-title: Deploying the Attribution Profile
 title: Deploying the Attribution Profile
 uuid: acc4e92a-2af1-4993-bae7-015ece3da26c
-index: y
-internal: n
-snippet: y
 ---
 
 # Deploying the Attribution Profile{#deploying-the-attribution-profile}

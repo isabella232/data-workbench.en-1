@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: Modifying Log Processing.cfg
 topic: Data workbench
 uuid: 9105b09b-e3d5-4922-a205-b459553a4bec
-index: y
-internal: n
-snippet: y
 ---
 
 # Modifying Log Processing.cfg{#modifying-log-processing-cfg}

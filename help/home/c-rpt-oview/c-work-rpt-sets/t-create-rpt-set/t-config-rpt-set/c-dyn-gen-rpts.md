@@ -6,9 +6,6 @@ solution: Analytics
 title: Dynamically Generating Reports
 topic: Data workbench
 uuid: 87174fb5-e72f-4758-8e9d-1aaa784c1898
-index: y
-internal: n
-snippet: y
 ---
 
 # Dynamically Generating Reports{#dynamically-generating-reports}

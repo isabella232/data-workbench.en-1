@@ -6,9 +6,6 @@ solution: Analytics
 title: Advanced Search in the Report Portal
 topic: Data workbench
 uuid: 3b5262fb-ea42-449f-8ef9-897806a310a8
-index: y
-internal: n
-snippet: y
 ---
 
 # Advanced Search in the Report Portal{#advanced-search-in-the-report-portal}

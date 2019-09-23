@@ -6,9 +6,6 @@ solution: Analytics
 title: Dashboard Access Controls
 topic: Data workbench
 uuid: f992cb93-232c-4f21-8f95-91c7fa2535eb
-index: y
-internal: n
-snippet: y
 ---
 
 # Dashboard Access Controls{#dashboard-access-controls}

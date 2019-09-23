@@ -6,9 +6,6 @@ solution: Analytics
 title: Locked Selections
 topic: Data workbench
 uuid: 0466baa1-6ffb-4b7b-8dc6-118de97c8549
-index: y
-internal: n
-snippet: y
 ---
 
 # Locked Selections{#locked-selections}

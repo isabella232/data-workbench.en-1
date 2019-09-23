@@ -6,9 +6,6 @@ solution: Analytics
 title: Time Zones
 topic: Data workbench
 uuid: 7b253c5a-f2b1-410c-9433-f13ed1d7a8b3
-index: y
-internal: n
-snippet: y
 ---
 
 # Time Zones{#time-zones}

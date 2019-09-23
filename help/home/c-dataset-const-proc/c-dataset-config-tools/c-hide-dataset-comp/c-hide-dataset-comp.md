@@ -6,9 +6,6 @@ solution: Analytics
 title: Hiding Dataset Components
 topic: Data workbench
 uuid: 011e762b-547c-4a41-9473-d6d617177c86
-index: y
-internal: n
-snippet: y
 ---
 
 # Hiding Dataset Components{#hiding-dataset-components}

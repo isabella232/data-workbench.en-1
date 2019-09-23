@@ -5,9 +5,6 @@ seo-title: Network Locations
 solution: Insight
 title: Network Locations
 uuid: a2097eca-dd75-4d43-b8a8-fb4c768df38d
-index: y
-internal: n
-snippet: y
 ---
 
 # Network Locations{#network-locations}

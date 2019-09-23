@@ -5,9 +5,6 @@ seo-title: Installation Procedures for an Insight Server FSU
 solution: Insight
 title: Installation Procedures for an Insight Server FSU
 uuid: ffed5095-f83c-4641-9ccc-4b94f51c3f95
-index: y
-internal: n
-snippet: y
 ---
 
 # Installation Procedures for an Insight Server FSU{#installation-procedures-for-an-insight-server-fsu}

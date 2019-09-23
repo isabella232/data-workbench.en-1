@@ -6,9 +6,6 @@ solution: Analytics
 title: Installing the Report Program Files
 topic: Data workbench
 uuid: 9c250783-7080-4c27-bd8c-add208b2b1bf
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing the Report Program Files{#installing-the-report-program-files}

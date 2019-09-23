@@ -6,9 +6,6 @@ solution: Analytics
 title: Modify local files in the user profile
 topic: Data workbench
 uuid: 839417d1-34db-4b14-a103-8f5297af55b7
-index: y
-internal: n
-snippet: y
 ---
 
 # Modify local files in the user profile{#modify-local-files-in-the-user-profile}

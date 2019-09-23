@@ -6,9 +6,6 @@ solution: Analytics
 title: Defining Lookup Transformations
 topic: Data workbench
 uuid: 4f7358b1-9e6a-4d03-b0c6-411e454fc11e
-index: y
-internal: n
-snippet: y
 ---
 
 # Defining Lookup Transformations{#defining-lookup-transformations}

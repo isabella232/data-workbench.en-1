@@ -6,9 +6,6 @@ solution: Analytics
 title: Understanding Report Sets
 topic: Data workbench
 uuid: 421055d7-0cf0-4664-b944-327a254a97a4
-index: y
-internal: n
-snippet: y
 ---
 
 # Understanding Report Sets{#understanding-report-sets}

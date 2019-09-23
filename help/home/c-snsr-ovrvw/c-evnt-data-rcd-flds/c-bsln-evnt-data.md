@@ -5,9 +5,6 @@ seo-title: Baseline Event Data Record Fields
 solution: Insight
 title: Baseline Event Data Record Fields
 uuid: aa36d332-089c-4ae2-98e2-a93d2fa023b7
-index: y
-internal: n
-snippet: y
 ---
 
 # Baseline Event Data Record Fields{#baseline-event-data-record-fields}

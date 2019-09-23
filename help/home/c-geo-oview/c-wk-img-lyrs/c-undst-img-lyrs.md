@@ -6,9 +6,6 @@ solution: Analytics
 title: Understanding Imagery Layers
 topic: Data workbench
 uuid: 8f4618bf-d8bd-4d21-a29e-ab2871d781ca
-index: y
-internal: n
-snippet: y
 ---
 
 # Understanding Imagery Layers{#understanding-imagery-layers}

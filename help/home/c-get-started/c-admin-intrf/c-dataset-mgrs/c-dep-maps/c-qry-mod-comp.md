@@ -6,9 +6,6 @@ solution: Analytics
 title: Query model components
 topic: Data workbench
 uuid: 708fab0b-dc10-4306-b410-49268069ac3b
-index: y
-internal: n
-snippet: y
 ---
 
 # Query model components{#query-model-components}

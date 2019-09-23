@@ -4,9 +4,6 @@ seo-description: Content to understand, install, set up, and provision Data Work
 seo-title: Data Workbench Installation and Provisioning
 title: Data Workbench Installation and Provisioning
 uuid: a557e6c8-b210-4cc8-b430-8ae3d04b6593
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench Installation and Provisioning{#data-workbench-installation-and-provisioning}

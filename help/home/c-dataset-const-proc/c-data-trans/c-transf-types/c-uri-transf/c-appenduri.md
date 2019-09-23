@@ -6,9 +6,6 @@ solution: Analytics
 title: AppendURI
 topic: Data workbench
 uuid: 8334d4f9-2bf6-4bd0-af65-8f2b0959652d
-index: y
-internal: n
-snippet: y
 ---
 
 # AppendURI{#appenduri}

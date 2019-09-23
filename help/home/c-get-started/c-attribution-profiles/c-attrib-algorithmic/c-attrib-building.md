@@ -4,9 +4,6 @@ seo-description: Open Best Fit Attribution from the Premium menu and follow thes
 seo-title: Build a Best Fit Attribution Model
 title: Build a Best Fit Attribution Model
 uuid: d1fd0340-1917-41bc-9a08-e78a79d084e7
-index: y
-internal: n
-snippet: y
 ---
 
 # Build a Best Fit Attribution Model{#build-a-best-fit-attribution-model}

@@ -5,9 +5,6 @@ seo-title: Server Administration and Installation
 solution: Insight
 title: Server Administration and Installation
 uuid: 9eb3e881-0c7e-487d-bb8a-bd3de75f9bdf
-index: y
-internal: n
-snippet: y
 ---
 
 # Server Administration and Installation{#server-administration-and-installation}

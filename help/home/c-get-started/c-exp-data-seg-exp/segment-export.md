@@ -4,9 +4,6 @@ seo-description: Export segments using the segment export wizard
 seo-title: Segment export wizard
 title: Segment export wizard
 uuid: 705bdf00-54e5-4992-8978-91afda8c7543
-index: y
-internal: n
-snippet: y
 ---
 
 # Segment export wizard{#segment-export-wizard}

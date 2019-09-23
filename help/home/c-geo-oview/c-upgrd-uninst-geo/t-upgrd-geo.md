@@ -6,9 +6,6 @@ solution: Analytics
 title: Upgrading Data Workbench Geography
 topic: Data workbench
 uuid: 7e147283-fe0c-4d7c-b7ad-c7c98029d202
-index: y
-internal: n
-snippet: y
 ---
 
 # Upgrading Data Workbench Geography{#upgrading-data-workbench-geography}

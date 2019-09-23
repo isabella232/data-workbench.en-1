@@ -5,9 +5,6 @@ seo-title: Configuring an Insight Server FSU for Repeater
 solution: Insight
 title: Configuring an Insight Server FSU for Repeater
 uuid: c2bae862-37d3-4841-b31b-59593c1e4316
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring an Insight Server FSU for Repeater{#configuring-an-insight-server-fsu-for-repeater}

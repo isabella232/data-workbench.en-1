@@ -6,9 +6,6 @@ solution: Analytics
 title: Editing a User Group
 topic: Data workbench
 uuid: a894d320-f6c7-4145-9cce-ca1235090566
-index: y
-internal: n
-snippet: y
 ---
 
 # Editing a User Group{#editing-a-user-group}

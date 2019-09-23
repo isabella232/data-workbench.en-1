@@ -6,9 +6,6 @@ solution: Analytics
 title: Sample XSL Style Sheet
 topic: Data workbench
 uuid: cac5c5ad-b0ec-45d8-901d-e39ce1f6d61a
-index: y
-internal: n
-snippet: y
 ---
 
 # Sample XSL Style Sheet{#sample-xsl-style-sheet}

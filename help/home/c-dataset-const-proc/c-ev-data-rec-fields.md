@@ -6,9 +6,6 @@ solution: Analytics
 title: Event Data Record Fields
 topic: Data workbench
 uuid: b0232bfa-0a3b-4e3d-876e-6a15a3764eae
-index: y
-internal: n
-snippet: y
 ---
 
 # Event Data Record Fields{#event-data-record-fields}

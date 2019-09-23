@@ -6,9 +6,6 @@ solution: Analytics
 title: New Visitor Condition
 topic: Data workbench
 uuid: e9733109-5bf3-47ce-974c-d68264291f19
-index: y
-internal: n
-snippet: y
 ---
 
 # New Visitor Condition{#new-visitor-condition}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Import a workspace
 topic: Data workbench
 uuid: 9f9f0da8-0806-45fe-90b4-d5bc635958e7
-index: y
-internal: n
-snippet: y
 ---
 
 # Import a workspace{#import-a-workspace}

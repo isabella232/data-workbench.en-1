@@ -5,9 +5,6 @@ seo-title: Working with Multiple Instances of a Web Server
 solution: Insight
 title: Working with Multiple Instances of a Web Server
 uuid: 778ea95f-e0f2-4c2a-b7ed-7e323fea1e48
-index: y
-internal: n
-snippet: y
 ---
 
 # Working with Multiple Instances of a Web Server{#working-with-multiple-instances-of-a-web-server}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Digital Certificate Installation Procedures
 topic: Data workbench
 uuid: 14749a68-96cb-4cf4-819e-07df065e4016
-index: y
-internal: n
-snippet: y
 ---
 
 # Digital Certificate Installation Procedures{#digital-certificate-installation-procedures}

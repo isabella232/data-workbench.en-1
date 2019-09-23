@@ -4,9 +4,6 @@ seo-description: Evaluate a Decision Tree using the Regression Tree option with 
 seo-title: Regression tree option for decision tree
 title: Regression tree option for decision tree
 uuid: 1e3b5d5f-1fed-49c9-9a4d-d220c28075ac
-index: y
-internal: n
-snippet: y
 ---
 
 # Regression tree option for decision tree{#regression-tree-option-for-decision-tree}

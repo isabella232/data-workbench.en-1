@@ -4,9 +4,6 @@ seo-description: The Cluster Builder now includes a KMeans++ algorithm (only the
 seo-title: Clustering 2.0
 title: Clustering 2.0
 uuid: 14462bd3-06d1-4622-a2d8-f96aadb357f3
-index: y
-internal: n
-snippet: y
 ---
 
 # Clustering 2.0{#clustering}

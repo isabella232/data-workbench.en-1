@@ -5,9 +5,6 @@ seo-title: Monitoring Events for Errors
 solution: Insight
 title: Monitoring Events for Errors
 uuid: 09bb34db-e24d-4bc5-84d2-7fc37df60681
-index: y
-internal: n
-snippet: y
 ---
 
 # Monitoring Events for Errors{#monitoring-events-for-errors}

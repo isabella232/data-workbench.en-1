@@ -4,9 +4,6 @@ seo-description: Security update for Data Workbench Report Portal.
 seo-title: DWB Report Portal 2.1
 title: DWB Report Portal 2.1
 uuid: de8266f4-1f7b-4bfd-94e7-16bddb336db3
-index: y
-internal: n
-snippet: y
 ---
 
 # DWB Report Portal 2.1{#dwb-report-portal}

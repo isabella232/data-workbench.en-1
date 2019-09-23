@@ -6,9 +6,6 @@ solution: Analytics
 title: Building Clusters
 topic: Data workbench
 uuid: f8462445-b7d2-48ae-aed7-2a3abc491cfb
-index: y
-internal: n
-snippet: y
 ---
 
 # Building Clusters{#building-clusters}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Apply a filter to a workspace
 topic: Data workbench
 uuid: e5108204-8a25-4a36-a5c6-57fc4ac9ba41
-index: y
-internal: n
-snippet: y
 ---
 
 # Apply a filter to a workspace{#apply-a-filter-to-a-workspace}

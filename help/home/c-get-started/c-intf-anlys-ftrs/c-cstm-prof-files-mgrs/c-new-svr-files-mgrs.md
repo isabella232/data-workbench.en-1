@@ -6,9 +6,6 @@ solution: Analytics
 title: Create a Server Files Manager
 topic: Data workbench
 uuid: 9fb2163d-3756-40d2-9817-4a89bd8a38c9
-index: y
-internal: n
-snippet: y
 ---
 
 # Create a Server Files Manager{#create-a-server-files-manager}

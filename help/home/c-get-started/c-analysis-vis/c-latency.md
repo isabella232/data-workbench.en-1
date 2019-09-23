@@ -4,9 +4,6 @@ seo-description: The Latency visualization lets you analyze latent customer beha
 seo-title: Latency Analysis
 title: Latency Analysis
 uuid: 80760420-0e21-420a-b585-9cf2d9a207bd
-index: y
-internal: n
-snippet: y
 ---
 
 # Latency Analysis{#latency-analysis}

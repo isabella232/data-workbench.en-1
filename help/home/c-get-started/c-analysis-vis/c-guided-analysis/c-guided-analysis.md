@@ -6,9 +6,6 @@ solution: Analytics
 title: Guided analysis
 topic: Data workbench
 uuid: 01ed8207-3a14-45ac-8a1d-4e17ac39bb94
-index: y
-internal: n
-snippet: y
 ---
 
 # Guided analysis{#guided-analysis}

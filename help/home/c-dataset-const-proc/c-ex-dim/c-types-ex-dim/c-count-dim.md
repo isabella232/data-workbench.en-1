@@ -6,9 +6,6 @@ solution: Analytics
 title: Countable Dimensions
 topic: Data workbench
 uuid: 3312f5eb-69b9-43af-b32a-5c40e3050b29
-index: y
-internal: n
-snippet: y
 ---
 
 # Countable Dimensions{#countable-dimensions}

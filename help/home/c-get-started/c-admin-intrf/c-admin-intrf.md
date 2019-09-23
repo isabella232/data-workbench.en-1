@@ -6,12 +6,16 @@ solution: Analytics
 title: Administrative interfaces
 topic: Data workbench
 uuid: bd587f01-7edc-44e8-b4d4-f74f94f5d60f
-index: y
-internal: n
-snippet: y
 ---
 
 # Administrative interfaces{#administrative-interfaces}
 
 Information about the administrative interfaces available to manage and monitor your implementation of Data Workbench. Also information about opening administrative interfaces as well as information about several other interfaces.
 
+* [Dataset Schema interface](c-dtst-sch-intrf.md)
+* [Query Status Legend](c-query-stat-lgnd.md)
+* [Query Queue](c-query-que/c-query-que.md)
+* [Processing Legend](c-pro-lgd.md)
+* [Detailed Status interface](c-det-stat-interf.md)
+* [Profile Manager](c-prof-mgr/c-prof-mgr.md)
+* [Dataset managers](c-dataset-mgrs/c-dataset-mgrs.md)

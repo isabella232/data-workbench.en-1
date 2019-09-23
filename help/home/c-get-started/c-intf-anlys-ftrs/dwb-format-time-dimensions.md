@@ -4,9 +4,6 @@ seo-description: Configure the time dimensions to display correctly for the loca
 seo-title: Localizing Time Dimensions
 title: Localizing Time Dimensions
 uuid: a2098522-bf05-4680-9b78-6fb284695a0a
-index: y
-internal: n
-snippet: y
 ---
 
 # Localizing Time Dimensions{#localizing-time-dimensions}

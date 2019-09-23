@@ -6,9 +6,6 @@ solution: Analytics
 title: Time Dimensions
 topic: Data workbench
 uuid: b633cf4f-0db4-4378-9e59-43b6ad8f772d
-index: y
-internal: n
-snippet: y
 ---
 
 # Time Dimensions{#time-dimensions}

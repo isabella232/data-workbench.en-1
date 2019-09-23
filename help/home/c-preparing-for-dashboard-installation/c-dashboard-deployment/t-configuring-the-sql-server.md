@@ -6,9 +6,6 @@ solution: Analytics
 title: Configuring the SQL Server
 topic: Data workbench
 uuid: bdd5f9f5-a69f-4001-9f80-901bd7eae129
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring the SQL Server{#configuring-the-sql-server}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Baseline Profiles
 topic: Data workbench
 uuid: ff76ff7e-ccde-4d99-9109-8612a4a83183
-index: y
-internal: n
-snippet: y
 ---
 
 # Baseline Profiles{#baseline-profiles}

@@ -4,9 +4,6 @@ seo-description: Trend lines lets you overlay graphs to compare and interpret da
 seo-title: Trend Lines
 title: Trend Lines
 uuid: b1d81973-2181-4507-a0a5-adf5eeb9f926
-index: y
-internal: n
-snippet: y
 ---
 
 # Trend Lines{#trend-lines}

@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: Forming a Hypothesis
 topic: Data workbench
 uuid: 3973060a-f49e-44e1-aa49-25059cb33783
-index: y
-internal: n
-snippet: y
 ---
 
 # Forming a Hypothesis{#forming-a-hypothesis}

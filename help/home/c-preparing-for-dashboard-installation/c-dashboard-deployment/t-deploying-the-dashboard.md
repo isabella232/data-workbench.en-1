@@ -6,9 +6,6 @@ solution: Analytics
 title: Deploying the Dashboard
 topic: Data workbench
 uuid: e9a5d62e-9d59-448a-9728-8087aec0fdec
-index: y
-internal: n
-snippet: y
 ---
 
 # Deploying the Dashboard{#deploying-the-dashboard}

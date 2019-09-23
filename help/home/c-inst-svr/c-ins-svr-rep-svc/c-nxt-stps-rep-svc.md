@@ -5,9 +5,6 @@ seo-title: Next Steps
 solution: Insight
 title: Next Steps
 uuid: 258087cd-4dde-4e47-9285-d411f22e19ed
-index: y
-internal: n
-snippet: y
 ---
 
 # Next Steps{#next-steps}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Download Required and Optional Components
 topic: Data workbench
 uuid: 1feed776-56a6-4ffb-8b17-274f89037cfa
-index: y
-internal: n
-snippet: y
 ---
 
 # Download Required and Optional Components{#download-required-and-optional-components}

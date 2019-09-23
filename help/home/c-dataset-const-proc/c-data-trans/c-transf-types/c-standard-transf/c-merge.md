@@ -6,9 +6,6 @@ solution: Analytics
 title: Merge
 topic: Data workbench
 uuid: 9ca2ab22-d854-47b0-8189-f563c1e83d1c
-index: y
-internal: n
-snippet: y
 ---
 
 # Merge{#merge}

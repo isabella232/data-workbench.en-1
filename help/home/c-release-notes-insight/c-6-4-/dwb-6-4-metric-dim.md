@@ -4,9 +4,6 @@ seo-description: Create Dimensions defined by metric attributes (Metric Dims) us
 seo-title: Metric Dim Wizard
 title: Metric Dim Wizard
 uuid: 411b2e28-0958-43bb-a853-7de7b3063818
-index: y
-internal: n
-snippet: y
 ---
 
 # Metric Dim Wizard{#metric-dim-wizard}

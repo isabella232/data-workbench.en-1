@@ -6,9 +6,6 @@ solution: Analytics
 title: Customize a menu using order.txt files
 topic: Data workbench
 uuid: 4346114a-05d0-4d15-9633-09c9d869cdd6
-index: y
-internal: n
-snippet: y
 ---
 
 # Customize a menu using order.txt files{#customize-a-menu-using-order-txt-files}

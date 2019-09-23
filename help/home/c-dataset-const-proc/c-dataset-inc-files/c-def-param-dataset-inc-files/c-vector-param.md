@@ -6,9 +6,6 @@ solution: Analytics
 title: Vector Parameters
 topic: Data workbench
 uuid: 2ca83502-acc4-4b94-b0e4-a48a596e7623
-index: y
-internal: n
-snippet: y
 ---
 
 # Vector Parameters{#vector-parameters}

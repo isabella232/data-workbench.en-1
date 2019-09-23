@@ -6,9 +6,6 @@ solution: Analytics
 title: Configuring Access Control
 topic: Data workbench
 uuid: 600b6799-547d-46da-9027-4f64943e2ccd
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring Access Control{#configuring-access-control}

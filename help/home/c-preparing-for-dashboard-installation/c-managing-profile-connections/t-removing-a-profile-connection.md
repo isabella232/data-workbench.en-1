@@ -6,9 +6,6 @@ solution: Analytics
 title: Removing a Profile Connection
 topic: Data workbench
 uuid: 47a169f3-2843-4f9e-9ca9-4596491ba07a
-index: y
-internal: n
-snippet: y
 ---
 
 # Removing a Profile Connection{#removing-a-profile-connection}

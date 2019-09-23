@@ -6,9 +6,6 @@ solution: Analytics
 title: Display performance data
 topic: Data workbench
 uuid: 7149c565-79a6-4e01-acae-d6eea1f5fa39
-index: y
-internal: n
-snippet: y
 ---
 
 # Display performance data{#display-performance-data}

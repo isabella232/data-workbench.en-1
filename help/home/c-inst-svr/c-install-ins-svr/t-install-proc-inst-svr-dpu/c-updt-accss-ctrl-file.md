@@ -5,9 +5,6 @@ seo-title: Updating the Access Control File
 solution: Insight
 title: Updating the Access Control File
 uuid: f73651e5-6a8b-45fc-8f36-6751304dc53c
-index: y
-internal: n
-snippet: y
 ---
 
 # Updating the Access Control File{#updating-the-access-control-file}

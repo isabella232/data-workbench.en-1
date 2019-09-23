@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: Determining the Number of Visitors Needed
 topic: Data workbench
 uuid: 07fca0aa-031a-4335-bba4-fb00cb90e29d
-index: y
-internal: n
-snippet: y
 ---
 
 # Determining the Number of Visitors Needed{#determining-the-number-of-visitors-needed}

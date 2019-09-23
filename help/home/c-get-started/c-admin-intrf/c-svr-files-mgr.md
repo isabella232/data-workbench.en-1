@@ -6,9 +6,6 @@ solution: Analytics
 title: Server Files Manager
 topic: Data workbench
 uuid: 62625b9d-587f-4a78-8328-2270869909f8
-index: y
-internal: n
-snippet: y
 ---
 
 # Server Files Manager{#server-files-manager}

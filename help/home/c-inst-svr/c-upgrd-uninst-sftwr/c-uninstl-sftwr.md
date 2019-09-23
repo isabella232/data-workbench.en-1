@@ -5,9 +5,6 @@ seo-title: Uninstalling Your Software
 solution: Insight
 title: Uninstalling Your Software
 uuid: 79cf0db6-0f99-40fa-a7b0-38dd8d7246bd
-index: y
-internal: n
-snippet: y
 ---
 
 # Uninstalling Your Software{#uninstalling-your-software}

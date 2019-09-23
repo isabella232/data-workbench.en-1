@@ -6,9 +6,6 @@ solution: Analytics
 title: Work with text in windows
 topic: Data workbench
 uuid: c0766fe3-3433-4409-bfae-325ec2f4c5ef
-index: y
-internal: n
-snippet: y
 ---
 
 # Work with text in windows{#work-with-text-in-windows}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Add, change, and move a dimension
 topic: Data workbench
 uuid: d8e67374-3b2b-4548-9322-e83c52941331
-index: y
-internal: n
-snippet: y
 ---
 
 # Add, change, and move a dimension{#add-change-and-move-a-dimension}

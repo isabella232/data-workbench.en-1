@@ -6,9 +6,6 @@ solution: Analytics
 title: Configure the Dataset Schema Interface
 topic: Data workbench
 uuid: 953909e8-3382-43cf-98c0-d4785c6d1dda
-index: y
-internal: n
-snippet: y
 ---
 
 # Configure the Dataset Schema Interface{#configure-the-dataset-schema-interface}

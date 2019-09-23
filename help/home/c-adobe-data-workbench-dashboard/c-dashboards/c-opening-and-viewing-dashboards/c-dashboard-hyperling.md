@@ -6,9 +6,6 @@ solution: Analytics
 title: Dashboard Hyperlink
 topic: Data workbench
 uuid: da27204f-64be-4ea1-8bf9-ce907e334d86
-index: y
-internal: n
-snippet: y
 ---
 
 # Dashboard Hyperlink{#dashboard-hyperlink}

@@ -4,9 +4,6 @@ seo-description: Instructions for installing and configuring Sensor on the famil
 seo-title: Netscape Enteprise on Linux or Solaris
 title: Netscape Enteprise on Linux or Solaris
 uuid: 47ea614c-d45c-4ab4-a8fe-ed9227da4582
-index: y
-internal: n
-snippet: y
 ---
 
 # Netscape Enteprise on Linux or Solaris{#netscape-enteprise-on-linux-or-solaris}

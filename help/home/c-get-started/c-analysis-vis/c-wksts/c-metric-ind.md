@@ -6,9 +6,6 @@ solution: Analytics
 title: Create a metric indicator
 topic: Data workbench
 uuid: da304004-ef45-4c89-8c91-dd5158172dd6
-index: y
-internal: n
-snippet: y
 ---
 
 # Create a metric indicator{#create-a-metric-indicator}

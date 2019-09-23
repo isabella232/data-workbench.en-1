@@ -4,9 +4,6 @@ seo-description: This document explains how to change all the default Data Workb
 seo-title: Configuration Changes for New Schema
 title: Configuration Changes for New Schema
 uuid: 7d59fc28-ce56-49e2-b068-d5e286dcc057
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuration Changes for New Schema{#configuration-changes-for-new-schema}

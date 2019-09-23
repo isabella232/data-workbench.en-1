@@ -5,9 +5,6 @@ seo-title: Repeater Functionality
 solution: Insight
 title: Repeater Functionality
 uuid: b971be6e-b88e-4bd7-96aa-8811dceb37f4
-index: y
-internal: n
-snippet: y
 ---
 
 # Repeater Functionality{#repeater-functionality}

@@ -6,9 +6,6 @@ solution: Analytics
 title: General Information
 topic: Data workbench
 uuid: 401816a5-1d95-48e6-bedf-ee2a5dbd2d50
-index: y
-internal: n
-snippet: y
 ---
 
 # General Information{#general-information}

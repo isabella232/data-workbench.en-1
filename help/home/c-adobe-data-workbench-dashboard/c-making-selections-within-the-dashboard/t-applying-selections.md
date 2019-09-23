@@ -6,9 +6,6 @@ solution: Analytics
 title: Applying Selections
 topic: Data workbench
 uuid: 2c679d27-c395-4192-b17c-2611c92dc316
-index: y
-internal: n
-snippet: y
 ---
 
 # Applying Selections{#applying-selections}

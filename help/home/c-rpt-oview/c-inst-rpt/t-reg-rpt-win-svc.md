@@ -6,9 +6,6 @@ solution: Analytics
 title: Registering Report Server as a Windows Service
 topic: Data workbench
 uuid: 01fc0bbf-9f4a-487e-b1cb-16bf6974a541
-index: y
-internal: n
-snippet: y
 ---
 
 # Registering Report Server as a Windows Service{#registering-report-server-as-a-windows-service}

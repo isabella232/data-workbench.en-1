@@ -6,9 +6,6 @@ solution: Analytics
 title: Web-Specific Settings for Log Processing
 topic: Data workbench
 uuid: dea861a6-3f78-4cb9-8108-ecf397b37667
-index: y
-internal: n
-snippet: y
 ---
 
 # Web-Specific Settings for Log Processing{#web-specific-settings-for-log-processing}

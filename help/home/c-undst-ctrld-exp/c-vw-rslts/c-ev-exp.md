@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: Evaluating the Experiment
 topic: Data workbench
 uuid: 88fd81bc-b944-48ea-bd4d-8716979ec69e
-index: y
-internal: n
-snippet: y
 ---
 
 # Evaluating the Experiment{#evaluating-the-experiment}

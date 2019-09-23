@@ -6,9 +6,6 @@ solution: Analytics
 title: Configure a callout
 topic: Data workbench
 uuid: 779764bd-86c3-49cf-aabc-edb39caf0490
-index: y
-internal: n
-snippet: y
 ---
 
 # Configure a callout{#configure-a-callout}

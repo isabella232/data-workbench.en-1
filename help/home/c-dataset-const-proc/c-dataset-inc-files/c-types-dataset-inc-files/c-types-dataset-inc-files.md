@@ -6,9 +6,6 @@ solution: Analytics
 title: Types of Dataset Include Files
 topic: Data workbench
 uuid: 5dc0a937-a036-4ede-bc2c-1c5fef10808a
-index: y
-internal: n
-snippet: y
 ---
 
 # Types of Dataset Include Files{#types-of-dataset-include-files}

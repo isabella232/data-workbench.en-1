@@ -6,9 +6,6 @@ solution: Analytics
 title: Business Opportunities
 topic: Data workbench
 uuid: 05848be7-6eca-4ed2-928c-5e951bcdafe8
-index: y
-internal: n
-snippet: y
 ---
 
 # Business Opportunities{#business-opportunities}

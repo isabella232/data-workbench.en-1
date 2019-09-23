@@ -6,9 +6,6 @@ solution: Analytics
 title: Log Processing Parameters
 topic: Data workbench
 uuid: 97b25665-f588-4f44-8f71-2382600d1b6f
-index: y
-internal: n
-snippet: y
 ---
 
 # Log Processing Parameters{#log-processing-parameters}

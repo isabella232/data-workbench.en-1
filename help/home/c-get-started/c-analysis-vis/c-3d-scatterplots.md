@@ -6,9 +6,6 @@ solution: Analytics
 title: 3D Scatter Plots
 topic: Data workbench
 uuid: 5e23547c-dbb4-490c-94bc-0731deee612e
-index: y
-internal: n
-snippet: y
 ---
 
 # 3D Scatter Plots{#d-scatter-plots}

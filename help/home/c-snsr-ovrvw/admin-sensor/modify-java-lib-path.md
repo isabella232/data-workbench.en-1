@@ -4,9 +4,6 @@ seo-description: Instructions for adding the visual_sciences.dll to the Tomcat j
 seo-title: Modify the Java Library Path
 title: Modify the Java Library Path
 uuid: 1e1a2704-045a-4b35-aa43-1b5bae91dc32
-index: y
-internal: n
-snippet: y
 ---
 
 # Modify the Java Library Path{#modify-the-java-library-path}

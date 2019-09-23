@@ -4,9 +4,6 @@ seo-description: Updates to the Pie Chart visualization lets you use default col
 seo-title: Pie Chart Update
 title: Pie Chart Update
 uuid: 71434963-90fc-45f9-be4f-681e220d830a
-index: y
-internal: n
-snippet: y
 ---
 
 # Pie Chart Update{#pie-chart-update}

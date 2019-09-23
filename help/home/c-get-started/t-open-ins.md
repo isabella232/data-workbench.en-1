@@ -6,9 +6,6 @@ solution: Analytics
 title: Opening Data Workbench
 topic: Data workbench
 uuid: d1da143d-6302-4467-a989-842b54b87c2e
-index: y
-internal: n
-snippet: y
 ---
 
 # Opening Data Workbench{#opening-data-workbench}

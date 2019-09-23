@@ -6,9 +6,6 @@ solution: Analytics
 title: View more elements in paths
 topic: Data workbench
 uuid: dc45121b-1e95-4f7e-a85c-ba8b3a24fa33
-index: y
-internal: n
-snippet: y
 ---
 
 # View more elements in paths{#view-more-elements-in-paths}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Acquiring Additional Information
 topic: Data workbench
 uuid: 0a8075e9-4986-42c4-b505-3985b433cf8e
-index: y
-internal: n
-snippet: y
 ---
 
 # Acquiring Additional Information{#acquiring-additional-information}

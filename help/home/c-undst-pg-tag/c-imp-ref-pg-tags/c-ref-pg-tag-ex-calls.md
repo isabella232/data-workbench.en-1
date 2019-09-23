@@ -6,9 +6,6 @@ solution: Analytics
 title: Adding Reference Page Tag Execution Calls
 topic: Data workbench
 uuid: 8c682649-d1b1-40a6-a2b2-4ff5a92b732f
-index: y
-internal: n
-snippet: y
 ---
 
 # Adding Reference Page Tag Execution Calls{#adding-reference-page-tag-execution-calls}

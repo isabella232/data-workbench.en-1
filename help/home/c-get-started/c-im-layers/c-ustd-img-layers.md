@@ -6,9 +6,6 @@ solution: Analytics
 title: About imagery layers
 topic: Data workbench
 uuid: a8b00bda-c5b2-4f27-8c15-2d319b3bfa70
-index: y
-internal: n
-snippet: y
 ---
 
 # About imagery layers{#about-imagery-layers}

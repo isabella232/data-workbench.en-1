@@ -6,9 +6,6 @@ solution: Analytics
 title: Adding a Path Browser
 topic: Data workbench
 uuid: 6b6879bf-81e5-4c6f-a4a6-eecac1ab0a29
-index: y
-internal: n
-snippet: y
 ---
 
 # Adding a Path Browser{#adding-a-path-browser}

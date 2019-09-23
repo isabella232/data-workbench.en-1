@@ -6,9 +6,6 @@ solution: Analytics
 title: Move and rotate a process map
 topic: Data workbench
 uuid: c9d42955-a3c6-4d35-9d4a-83fd3b5332b8
-index: y
-internal: n
-snippet: y
 ---
 
 # Move and rotate a process map{#move-and-rotate-a-process-map}

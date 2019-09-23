@@ -6,9 +6,6 @@ solution: Analytics
 title: Query Queue Resource Monitors
 topic: Data workbench
 uuid: 6b516bed-7f9a-4821-869e-19e720f20313
-index: y
-internal: n
-snippet: y
 ---
 
 # Query Queue Resource Monitors{#query-queue-resource-monitors}

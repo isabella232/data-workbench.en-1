@@ -6,9 +6,6 @@ solution: Analytics
 title: Getting Started
 topic: Data workbench
 uuid: 9e2ed5fd-29d7-4e06-ad55-c4a35a9043c8
-index: y
-internal: n
-snippet: y
 ---
 
 # Getting Started{#getting-started}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Tracking Exits to External Links
 topic: Data workbench
 uuid: 523f5b4c-4600-4d44-82e7-4a8b2db2d266
-index: y
-internal: n
-snippet: y
 ---
 
 # Tracking Exits to External Links{#tracking-exits-to-external-links}

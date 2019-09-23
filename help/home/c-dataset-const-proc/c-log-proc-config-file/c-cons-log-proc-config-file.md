@@ -6,9 +6,6 @@ solution: Analytics
 title: Considerations for the Log Processing Configuration File
 topic: Data workbench
 uuid: 2ccedf63-12d9-40e9-912a-aee030191b1e
-index: y
-internal: n
-snippet: y
 ---
 
 # Considerations for the Log Processing Configuration File{#considerations-for-the-log-processing-configuration-file}

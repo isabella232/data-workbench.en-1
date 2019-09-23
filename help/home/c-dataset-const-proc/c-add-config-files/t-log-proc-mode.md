@@ -6,9 +6,6 @@ solution: Analytics
 title: Log Processing Mode.cfg
 topic: Data workbench
 uuid: 1f1e5d8b-80e7-4423-bb03-56e706a1b7b4
-index: y
-internal: n
-snippet: y
 ---
 
 # Log Processing Mode.cfg{#log-processing-mode-cfg}

@@ -4,9 +4,6 @@ seo-description: This section is a quick guide giving you the minimum steps requ
 seo-title: Scripting to Weekly Reprocess
 title: Scripting to Weekly Reprocess
 uuid: d3cd163d-6129-4883-ac7c-b2f75b5eb247
-index: y
-internal: n
-snippet: y
 ---
 
 # Scripting to Weekly Reprocess{#scripting-to-weekly-reprocess}

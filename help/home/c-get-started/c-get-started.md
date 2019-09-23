@@ -6,9 +6,6 @@ solution: Analytics
 title: Data Workbench Client
 topic: Data workbench
 uuid: 3f99e681-e68f-4aee-aa42-e72a1444b029
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench Client{#data-workbench-client}

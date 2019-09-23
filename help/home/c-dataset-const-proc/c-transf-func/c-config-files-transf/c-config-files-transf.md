@@ -6,9 +6,6 @@ solution: Analytics
 title: Configuration Files for Transform
 topic: Data workbench
 uuid: abb5b7a4-ade6-4658-b3a1-7ce4c2c17507
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuration Files for Transform{#configuration-files-for-transform}

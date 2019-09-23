@@ -6,9 +6,6 @@ solution: Analytics
 title: Create subsets
 topic: Data workbench
 uuid: e2f8d91b-ea66-46e1-9add-685aebe1d59e
-index: y
-internal: n
-snippet: y
 ---
 
 # Create subsets{#create-subsets}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Select a node
 topic: Data workbench
 uuid: d63b39f6-edec-4b4c-b36b-f6e6881d3419
-index: y
-internal: n
-snippet: y
 ---
 
 # Select a node{#select-a-node}

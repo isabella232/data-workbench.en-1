@@ -6,9 +6,6 @@ solution: Analytics
 title: Initializing the Dashboard
 topic: Data workbench
 uuid: 847ba63e-29d8-4950-aa74-22d825388e2b
-index: y
-internal: n
-snippet: y
 ---
 
 # Initializing the Dashboard{#initializing-the-dashboard}

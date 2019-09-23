@@ -4,9 +4,6 @@ seo-description: The Presentation Layer lets you mark up and annotate your works
 seo-title: Annotating visualizations
 title: Annotating visualizations
 uuid: f296b04e-4c02-4ee3-93cb-dd1163b855de
-index: y
-internal: n
-snippet: y
 ---
 
 # Annotating visualizations{#annotating-visualizations}

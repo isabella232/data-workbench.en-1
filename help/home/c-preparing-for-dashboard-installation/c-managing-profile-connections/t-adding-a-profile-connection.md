@@ -6,9 +6,6 @@ solution: Analytics
 title: Adding a Profile Connection
 topic: Data workbench
 uuid: 0a168236-8c15-456b-9ac8-ca572baa916a
-index: y
-internal: n
-snippet: y
 ---
 
 # Adding a Profile Connection{#adding-a-profile-connection}

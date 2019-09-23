@@ -6,9 +6,6 @@ solution: Analytics
 title: User Account Management
 topic: Data workbench
 uuid: 13fab0e2-e2db-442e-b139-e7b576d04dbb
-index: y
-internal: n
-snippet: y
 ---
 
 # User Account Management{#user-account-management}

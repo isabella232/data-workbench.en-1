@@ -6,9 +6,6 @@ solution: Analytics
 title: Editing Existing Dataset Include Files
 topic: Data workbench
 uuid: fcce2e46-b4a8-4c53-83bb-32ab410eb89e
-index: y
-internal: n
-snippet: y
 ---
 
 # Editing Existing Dataset Include Files{#editing-existing-dataset-include-files}

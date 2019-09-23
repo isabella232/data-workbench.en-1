@@ -4,9 +4,6 @@ seo-description: Seven different attribution models are provided to use with the
 seo-title: Attribution Models
 title: Attribution Models
 uuid: 4c73629c-9d58-49d5-adeb-8175484709fa
-index: y
-internal: n
-snippet: y
 ---
 
 # Attribution Models{#attribution-models}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Publish files to your working profile
 topic: Data workbench
 uuid: c8810e7e-e659-44f6-8175-babefd2a59f6
-index: y
-internal: n
-snippet: y
 ---
 
 # Publish files to your working profile{#publish-files-to-your-working-profile}

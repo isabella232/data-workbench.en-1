@@ -6,9 +6,6 @@ solution: Analytics
 title: Collapsing and Expanding Visualizations
 topic: Data workbench
 uuid: 16ee5479-e457-4abc-8a40-ed75612318fa
-index: y
-internal: n
-snippet: y
 ---
 
 # Collapsing and Expanding Visualizations{#collapsing-and-expanding-visualizations}

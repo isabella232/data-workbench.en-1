@@ -6,9 +6,6 @@ solution: Analytics
 title: Sessionize
 topic: Data workbench
 uuid: c6e2487a-80e5-4e00-b4d4-2ce013fac3ea
-index: y
-internal: n
-snippet: y
 ---
 
 # Sessionize{#sessionize}

@@ -5,9 +5,6 @@ seo-title: Extensible Fields
 solution: Insight
 title: Extensible Fields
 uuid: 91b9857e-44a4-497f-b157-51afd30306fe
-index: y
-internal: n
-snippet: y
 ---
 
 # Extensible Fields{#extensible-fields}

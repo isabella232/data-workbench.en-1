@@ -6,9 +6,6 @@ solution: Analytics
 title: Working with Dataset Include Files
 topic: Data workbench
 uuid: 258226c4-22e5-4d9d-9044-8312709e0460
-index: y
-internal: n
-snippet: y
 ---
 
 # Working with Dataset Include Files{#working-with-dataset-include-files}

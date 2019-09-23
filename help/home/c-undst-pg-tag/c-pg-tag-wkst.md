@@ -6,9 +6,6 @@ solution: Analytics
 title: Page Tag Variable Mapping Worksheet
 topic: Data workbench
 uuid: 1ecef047-5a04-401d-b3d5-f31fddb134e1
-index: y
-internal: n
-snippet: y
 ---
 
 # Page Tag Variable Mapping Worksheet{#page-tag-variable-mapping-worksheet}

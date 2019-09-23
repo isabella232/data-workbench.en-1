@@ -6,9 +6,6 @@ solution: Analytics
 title: About Conditions
 topic: Data workbench
 uuid: 882fe761-895c-4226-a019-270c50ae6da2
-index: y
-internal: n
-snippet: y
 ---
 
 # About Conditions{#about-conditions}

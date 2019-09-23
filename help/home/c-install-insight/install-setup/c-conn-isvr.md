@@ -4,9 +4,6 @@ seo-description: After you have installed your Insight software and digital cert
 seo-title: Configuring the Connection to Insight Server
 title: Configuring the Connection to Insight Server
 uuid: 8ba13da6-8749-49fe-a29e-dac3906f71b8
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring the Connection to Insight Server{#configuring-the-connection-to-insight-server}

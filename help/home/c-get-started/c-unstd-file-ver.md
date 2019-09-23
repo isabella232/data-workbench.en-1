@@ -6,9 +6,6 @@ solution: Analytics
 title: File versioning
 topic: Data workbench
 uuid: 5e7430f3-1425-41d2-828b-bc8f5786bf3b
-index: y
-internal: n
-snippet: y
 ---
 
 # File versioning{#file-versioning}

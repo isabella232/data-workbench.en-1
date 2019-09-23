@@ -4,9 +4,6 @@ seo-description: Detailed instructions for installing and configuring Sensor for
 seo-title: JBoss, Tomcat, and WebLogic Servers on RedHat Linux or Sun Solaris
 title: JBoss, Tomcat, and WebLogic Servers on RedHat Linux or Sun Solaris
 uuid: 7977fb9b-1737-4e1d-80c6-aabf968974dd
-index: y
-internal: n
-snippet: y
 ---
 
 # JBoss, Tomcat, and WebLogic Servers on RedHat Linux or Sun Solaris{#jboss-tomcat-and-weblogic-servers-on-redhat-linux-or-sun-solaris}

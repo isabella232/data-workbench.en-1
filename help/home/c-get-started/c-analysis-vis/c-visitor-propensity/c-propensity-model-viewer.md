@@ -6,9 +6,6 @@ solution: Analytics
 title: Model Viewer
 topic: Data workbench
 uuid: 7ee8ff29-21c2-4721-804a-c7a5d101b50b
-index: y
-internal: n
-snippet: y
 ---
 
 # Model Viewer{#model-viewer}

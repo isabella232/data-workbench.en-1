@@ -5,9 +5,6 @@ seo-title: Multiple IP Addresses for an Insight Server
 solution: Insight
 title: Multiple IP Addresses for an Insight Server
 uuid: 6ed00b47-8ba3-4127-a5db-7e684e573d9c
-index: y
-internal: n
-snippet: y
 ---
 
 # Multiple IP Addresses for an Insight Server{#multiple-ip-addresses-for-an-insight-server}

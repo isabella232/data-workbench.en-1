@@ -6,9 +6,6 @@ solution: Analytics
 title: New Keyboard Shortcuts
 topic: Data workbench
 uuid: 0a2a0ce7-318c-4dac-aabd-c2e7a4974957
-index: y
-internal: n
-snippet: y
 ---
 
 # New Keyboard Shortcuts{#new-keyboard-shortcuts}

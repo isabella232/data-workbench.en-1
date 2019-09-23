@@ -6,9 +6,6 @@ solution: Analytics
 title: Display layers
 topic: Data workbench
 uuid: ebc7025d-e619-43dd-88da-7452ada3226b
-index: y
-internal: n
-snippet: y
 ---
 
 # Display layers{#display-layers}

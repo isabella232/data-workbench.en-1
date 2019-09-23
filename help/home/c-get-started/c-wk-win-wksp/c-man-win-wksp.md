@@ -6,9 +6,6 @@ solution: Analytics
 title: Manipulate windows in a workspace
 topic: Data workbench
 uuid: a7f9b132-999a-4ba8-9e34-1d41075f9e13
-index: y
-internal: n
-snippet: y
 ---
 
 # Manipulate windows in a workspace{#manipulate-windows-in-a-workspace}

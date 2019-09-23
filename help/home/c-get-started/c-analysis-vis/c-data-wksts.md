@@ -6,9 +6,6 @@ solution: Analytics
 title: Work with data in worksheets
 topic: Data workbench
 uuid: c2331fa5-aa07-4622-8f44-5124c22dffcb
-index: y
-internal: n
-snippet: y
 ---
 
 # Work with data in worksheets{#work-with-data-in-worksheets}

@@ -5,9 +5,6 @@ seo-title: Event Data Record Fields
 solution: Insight
 title: Event Data Record Fields
 uuid: ad9e773c-a128-4094-9e20-45a6de025c8f
-index: y
-internal: n
-snippet: y
 ---
 
 # Event Data Record Fields{#event-data-record-fields}

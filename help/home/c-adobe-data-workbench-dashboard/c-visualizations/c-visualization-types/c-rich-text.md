@@ -6,9 +6,6 @@ solution: Analytics
 title: Rich text
 topic: Data workbench
 uuid: d4e98fd1-da1e-47d2-be17-0f8771ae6b2e
-index: y
-internal: n
-snippet: y
 ---
 
 # Rich text{#rich-text}

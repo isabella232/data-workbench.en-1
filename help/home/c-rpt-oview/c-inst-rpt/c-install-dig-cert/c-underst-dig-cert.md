@@ -6,9 +6,6 @@ solution: Analytics
 title: Understanding Digital Certificates
 topic: Data workbench
 uuid: a2d84e9a-16aa-4973-85da-303614a4ad7f
-index: y
-internal: n
-snippet: y
 ---
 
 # Understanding Digital Certificates{#understanding-digital-certificates}

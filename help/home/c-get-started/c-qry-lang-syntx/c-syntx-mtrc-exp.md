@@ -6,9 +6,6 @@ solution: Analytics
 title: Syntax for metric expressions
 topic: Data workbench
 uuid: 801e265d-d7e4-4f0f-9698-d0b50dd00995
-index: y
-internal: n
-snippet: y
 ---
 
 # Syntax for metric expressions{#syntax-for-metric-expressions}

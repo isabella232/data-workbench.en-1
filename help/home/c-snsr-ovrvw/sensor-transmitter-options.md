@@ -4,9 +4,6 @@ seo-description: Information about Sensor transmitter start-up commands for UNIX
 seo-title: Sensor Transmitter Command-Line Options
 title: Sensor Transmitter Command-Line Options
 uuid: 8d077d76-a709-494e-a176-07ca3e761662
-index: y
-internal: n
-snippet: y
 ---
 
 # Sensor Transmitter Command-Line Options{#sensor-transmitter-command-line-options}

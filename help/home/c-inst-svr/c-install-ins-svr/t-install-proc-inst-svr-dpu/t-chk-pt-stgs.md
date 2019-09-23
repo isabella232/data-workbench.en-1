@@ -5,9 +5,6 @@ seo-title: Checking the Port Settings
 solution: Insight
 title: Checking the Port Settings
 uuid: 1adad226-5891-4498-80b6-1bb4d67f5bbb
-index: y
-internal: n
-snippet: y
 ---
 
 # Checking the Port Settings{#checking-the-port-settings}

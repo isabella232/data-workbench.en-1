@@ -5,9 +5,6 @@ seo-title: Configuring the Location of the Dataset (temp.db)
 solution: Insight
 title: Configuring the Location of the Dataset (temp.db)
 uuid: a6884cad-70ed-4bc6-853c-700d301fb178
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring the Location of the Dataset (temp.db){#configuring-the-location-of-the-dataset-temp-db}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Determining What's Selected
 topic: Data workbench
 uuid: fb8c6e4e-7345-431a-b9b4-0c08b8f6aabb
-index: y
-internal: n
-snippet: y
 ---
 
 # Determining What's Selected{#determining-what-s-selected}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Viewing Accounts
 topic: Data workbench
 uuid: 22817b8f-67f2-4e59-9bc6-d3fc180ede56
-index: y
-internal: n
-snippet: y
 ---
 
 # Viewing Accounts{#viewing-accounts}

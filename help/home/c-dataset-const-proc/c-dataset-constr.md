@@ -6,9 +6,6 @@ solution: Analytics
 title: Understanding Dataset Construction
 topic: Data workbench
 uuid: 540d159d-3f72-49dd-9929-107f1fc62b2b
-index: y
-internal: n
-snippet: y
 ---
 
 # Understanding Dataset Construction{#understanding-dataset-construction}

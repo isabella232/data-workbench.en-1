@@ -6,9 +6,6 @@ solution: Analytics
 title: Flatten
 topic: Data workbench
 uuid: 00b06a5c-506b-45fe-9773-44d65b8ec233
-index: y
-internal: n
-snippet: y
 ---
 
 # Flatten{#flatten}

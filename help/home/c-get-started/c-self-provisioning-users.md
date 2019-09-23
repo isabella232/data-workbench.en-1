@@ -4,9 +4,6 @@ seo-description: Use Workstation to manage your Data Workbench users.
 seo-title: Self-provisioning of users
 title: Self-provisioning of users
 uuid: e3c10bc4-2fa0-4368-9952-e38a4794aee9
-index: y
-internal: n
-snippet: y
 ---
 
 # Self-provisioning of users{#self-provisioning-of-users}

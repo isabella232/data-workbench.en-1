@@ -6,9 +6,6 @@ solution: Analytics
 title: Making Selections within the Dashboard
 topic: Data workbench
 uuid: b28bcc11-8fd3-4431-98ba-8adbd42a73d5
-index: y
-internal: n
-snippet: y
 ---
 
 # Making Selections within the Dashboard{#making-selections-within-the-dashboard}

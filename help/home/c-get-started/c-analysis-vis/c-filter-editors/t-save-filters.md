@@ -6,9 +6,6 @@ solution: Analytics
 title: Save and load filters
 topic: Data workbench
 uuid: 5312b9c4-0193-4d45-af54-e8f6d2706bf2
-index: y
-internal: n
-snippet: y
 ---
 
 # Save and load filters{#save-and-load-filters}

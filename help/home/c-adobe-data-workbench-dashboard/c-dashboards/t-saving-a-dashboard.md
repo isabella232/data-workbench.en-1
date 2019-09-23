@@ -6,9 +6,6 @@ solution: Analytics
 title: Saving a Dashboard
 topic: Data workbench
 uuid: 50dd713a-f7ce-4b53-8ba6-398643d2eef2
-index: y
-internal: n
-snippet: y
 ---
 
 # Saving a Dashboard{#saving-a-dashboard}

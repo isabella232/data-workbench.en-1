@@ -6,9 +6,6 @@ solution: Analytics
 title: Display a highlighted node
 topic: Data workbench
 uuid: 557252d0-1178-49fb-b473-588ccb117a15
-index: y
-internal: n
-snippet: y
 ---
 
 # Display a highlighted node{#display-a-highlighted-node}

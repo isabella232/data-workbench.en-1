@@ -6,9 +6,6 @@ solution: Analytics
 title: Display profile components
 topic: Data workbench
 uuid: c904dcb7-6bb9-445c-be55-0573f88928ad
-index: y
-internal: n
-snippet: y
 ---
 
 # Display profile components{#display-profile-components}

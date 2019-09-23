@@ -6,9 +6,6 @@ solution: Analytics
 title: Dashboard to Data Workbench Servers Communication
 topic: Data workbench
 uuid: 8baa1057-8a03-4a99-a808-db1424342375
-index: y
-internal: n
-snippet: y
 ---
 
 # Dashboard to Data Workbench Servers Communication{#dashboard-to-data-workbench-servers-communication}

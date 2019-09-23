@@ -6,9 +6,6 @@ solution: Analytics
 title: Binary Filter in the Correlation Matrix
 topic: Data workbench
 uuid: 61c3ca37-cfa2-49dc-87de-4e9a44647eca
-index: y
-internal: n
-snippet: y
 ---
 
 # Binary Filter in the Correlation Matrix{#binary-filter-in-the-correlation-matrix}

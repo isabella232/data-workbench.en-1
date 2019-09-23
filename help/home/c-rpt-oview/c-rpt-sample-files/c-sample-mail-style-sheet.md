@@ -6,9 +6,6 @@ solution: Analytics
 title: Sample Mail XSL Style Sheet
 topic: Data workbench
 uuid: 846ddf22-e6da-4d37-ba50-d75f850b9a3f
-index: y
-internal: n
-snippet: y
 ---
 
 # Sample Mail XSL Style Sheet{#sample-mail-xsl-style-sheet}

@@ -4,9 +4,6 @@ seo-description: New features, fixes, and known issues in Data Workbench 6.7.
 seo-title: Data Workbench 6.7 Release Notes
 title: Data Workbench 6.7 Release Notes
 uuid: b84f5f2b-4f1c-490c-982b-6bd8d3a63e25
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench 6.7 Release Notes{#data-workbench-release-notes}

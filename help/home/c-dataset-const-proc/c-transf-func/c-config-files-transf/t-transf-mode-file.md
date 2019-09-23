@@ -6,9 +6,6 @@ solution: Analytics
 title: The Transform Mode.cfg File
 topic: Data workbench
 uuid: 6e875d02-341a-414c-90e5-aa7fa910ab81
-index: y
-internal: n
-snippet: y
 ---
 
 # The Transform Mode.cfg File{#the-transform-mode-cfg-file}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Restarting Report Server
 topic: Data workbench
 uuid: a5509e40-ef6f-452c-bc75-e1f9f7729b2e
-index: y
-internal: n
-snippet: y
 ---
 
 # Restarting Report Server{#restarting-report-server}

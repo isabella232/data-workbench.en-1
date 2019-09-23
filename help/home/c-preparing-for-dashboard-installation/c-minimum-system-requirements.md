@@ -6,9 +6,6 @@ solution: Analytics
 title: Minimum System Requirements
 topic: Data workbench
 uuid: 15848e82-8c16-4ed8-a96f-d4293519203a
-index: y
-internal: n
-snippet: y
 ---
 
 # Minimum System Requirements{#minimum-system-requirements}

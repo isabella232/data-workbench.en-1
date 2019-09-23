@@ -6,9 +6,6 @@ solution: Analytics
 title: Preparing for Reprocessing or Retransformation
 topic: Data workbench
 uuid: 69a5878e-707a-4100-89ba-bae0b8a16c84
-index: y
-internal: n
-snippet: y
 ---
 
 # Preparing for Reprocessing or Retransformation{#preparing-for-reprocessing-or-retransformation}

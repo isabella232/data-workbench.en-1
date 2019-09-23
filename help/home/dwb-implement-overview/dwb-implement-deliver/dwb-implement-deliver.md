@@ -4,9 +4,6 @@ seo-description: After setting up DWB, you can implement these features.
 seo-title: Data Workbench Implementation of Features
 title: Data Workbench Implementation of Features
 uuid: f7eec017-f27c-4ae0-bc23-45195fc08d81
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench Implementation of Features{#data-workbench-implementation-of-features}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Installing the Terrain Images.cfg File
 topic: Data workbench
 uuid: b692bff9-9356-4047-a2f7-f44310bf85fa
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing the Terrain Images.cfg File{#installing-the-terrain-images-cfg-file}

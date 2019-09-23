@@ -6,9 +6,6 @@ solution: Analytics
 title: Dataset Schema
 topic: Data workbench
 uuid: 4ef5f14b-dc19-4118-a2f2-d680ded8092c
-index: y
-internal: n
-snippet: y
 ---
 
 # Dataset Schema{#dataset-schema}

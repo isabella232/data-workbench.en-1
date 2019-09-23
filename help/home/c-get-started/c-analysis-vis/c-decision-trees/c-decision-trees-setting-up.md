@@ -4,9 +4,6 @@ seo-description: Set up a Decision Tree by identifying a positive case and addin
 seo-title: Building a Decision Tree
 title: Building a Decision Tree
 uuid: 5790d322-5460-444d-95d8-a06696f9a55f
-index: y
-internal: n
-snippet: y
 ---
 
 # Building a Decision Tree{#building-a-decision-tree}

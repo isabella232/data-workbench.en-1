@@ -6,9 +6,6 @@ solution: Analytics
 title: Configure a latency table
 topic: Data workbench
 uuid: fe2de2b8-b10f-403b-8d2e-b29042541df7
-index: y
-internal: n
-snippet: y
 ---
 
 # Configure a latency table{#configure-a-latency-table}

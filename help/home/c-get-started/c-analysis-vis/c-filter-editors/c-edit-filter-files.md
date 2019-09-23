@@ -6,9 +6,6 @@ solution: Analytics
 title: Edit filter files manually
 topic: Data workbench
 uuid: a4f932b8-dca5-44a1-a2bb-a3c683b661d5
-index: y
-internal: n
-snippet: y
 ---
 
 # Edit filter files manually{#edit-filter-files-manually}

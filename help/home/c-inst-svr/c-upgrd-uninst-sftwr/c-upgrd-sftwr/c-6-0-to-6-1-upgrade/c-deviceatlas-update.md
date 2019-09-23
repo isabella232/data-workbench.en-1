@@ -6,9 +6,6 @@ solution: Analytics
 title: DeviceAtlas Distribution
 topic: Data workbench
 uuid: 1eb76c61-6696-4e6c-a3fd-61c00cc17b0a
-index: y
-internal: n
-snippet: y
 ---
 
 # DeviceAtlas Distribution{#deviceatlas-distribution}

@@ -6,9 +6,6 @@ solution: Analytics
 title: What Kind of Data Can I Acquire?
 topic: Data workbench
 uuid: 5ac864b8-4017-4d80-b491-7a5976225eb2
-index: y
-internal: n
-snippet: y
 ---
 
 # What Kind of Data Can I Acquire?{#what-kind-of-data-can-i-acquire}

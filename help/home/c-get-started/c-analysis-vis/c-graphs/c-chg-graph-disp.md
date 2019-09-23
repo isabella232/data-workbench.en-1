@@ -6,9 +6,6 @@ solution: Analytics
 title: Change a graph display
 topic: Data workbench
 uuid: 8448afab-a2b0-4f96-a0e5-920013e83905
-index: y
-internal: n
-snippet: y
 ---
 
 # Change a graph display{#change-a-graph-display}

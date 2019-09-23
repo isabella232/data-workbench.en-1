@@ -6,9 +6,6 @@ solution: Analytics
 title: Manipulating Visualizations
 topic: Data workbench
 uuid: f60428b0-8246-4c3b-8214-0236d98ef06f
-index: y
-internal: n
-snippet: y
 ---
 
 # Manipulating Visualizations{#manipulating-visualizations}

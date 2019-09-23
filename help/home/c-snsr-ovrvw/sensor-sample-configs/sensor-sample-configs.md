@@ -4,9 +4,6 @@ seo-description: Sample files for the configuration files.
 seo-title: Sample Configuration Files
 title: Sample Configuration Files
 uuid: 9bc5c0a9-e67a-4c63-952d-9a39d75e6975
-index: y
-internal: n
-snippet: y
 ---
 
 # Sample Configuration Files{#sample-configuration-files}

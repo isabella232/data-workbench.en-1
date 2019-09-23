@@ -6,9 +6,6 @@ solution: Analytics
 title: Add a description to a workspace
 topic: Data workbench
 uuid: c46e9209-a8c4-420c-be4f-e41c9b227d41
-index: y
-internal: n
-snippet: y
 ---
 
 # Add a description to a workspace{#add-a-description-to-a-workspace}

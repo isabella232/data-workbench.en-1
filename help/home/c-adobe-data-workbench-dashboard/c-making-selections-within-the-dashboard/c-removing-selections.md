@@ -6,9 +6,6 @@ solution: Analytics
 title: Removing Selections
 topic: Data workbench
 uuid: d424ef19-a4f9-4d2c-bd0c-d1cc3ab2f409
-index: y
-internal: n
-snippet: y
 ---
 
 # Removing Selections{#removing-selections}

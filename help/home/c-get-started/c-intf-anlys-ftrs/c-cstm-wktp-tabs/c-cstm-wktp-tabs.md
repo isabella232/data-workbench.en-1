@@ -6,9 +6,6 @@ solution: Analytics
 title: Customize a worktop tab
 topic: Data workbench
 uuid: f1f557c8-f4cb-4789-8162-39cc7c52c943
-index: y
-internal: n
-snippet: y
 ---
 
 # Customize a worktop tab{#customize-a-worktop-tab}

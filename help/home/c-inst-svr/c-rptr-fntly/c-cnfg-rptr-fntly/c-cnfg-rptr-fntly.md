@@ -5,9 +5,6 @@ seo-title: Configuring Repeater Functionality
 solution: Insight
 title: Configuring Repeater Functionality
 uuid: 45dca069-a91f-4fd4-bd47-c8c2e6aab834
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring Repeater Functionality{#configuring-repeater-functionality}

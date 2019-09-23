@@ -6,9 +6,6 @@ solution: Analytics
 title: Regular Expressions
 topic: Data workbench
 uuid: f3a0119d-6fac-4f63-8dca-4db32d2a737a
-index: y
-internal: n
-snippet: y
 ---
 
 # Regular Expressions{#regular-expressions}

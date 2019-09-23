@@ -5,9 +5,6 @@ seo-title: Monitoring Administrative Events
 solution: Insight
 title: Monitoring Administrative Events
 uuid: 92d71478-0857-4af8-909c-0cf800b081f4
-index: y
-internal: n
-snippet: y
 ---
 
 # Monitoring Administrative Events{#monitoring-administrative-events}

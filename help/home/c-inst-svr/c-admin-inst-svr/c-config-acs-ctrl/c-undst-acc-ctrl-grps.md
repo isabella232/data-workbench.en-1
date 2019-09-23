@@ -5,9 +5,6 @@ seo-title: Understanding Access Control Groups
 solution: Insight
 title: Understanding Access Control Groups
 uuid: ff783078-6d2f-4a64-ab11-8083e35d765f
-index: y
-internal: n
-snippet: y
 ---
 
 # Understanding Access Control Groups{#understanding-access-control-groups}

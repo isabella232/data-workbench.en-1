@@ -6,9 +6,6 @@ solution: Analytics
 title: Extended Dimensions
 topic: Data workbench
 uuid: 465682c2-5b08-4b94-817f-ff7b405142af
-index: y
-internal: n
-snippet: y
 ---
 
 # Extended Dimensions{#extended-dimensions}

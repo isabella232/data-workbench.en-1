@@ -6,9 +6,6 @@ solution: Analytics
 title: Metric legends
 topic: Data workbench
 uuid: 72de7b0e-0a71-4465-baaf-d515fe474e0d
-index: y
-internal: n
-snippet: y
 ---
 
 # Metric legends{#metric-legends}

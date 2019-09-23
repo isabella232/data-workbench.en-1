@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: Enabling Controlled Experimentation
 topic: Data workbench
 uuid: 27d68fad-ae2d-4a2e-b449-fbaf88286cfa
-index: y
-internal: n
-snippet: y
 ---
 
 # Enabling Controlled Experimentation{#enabling-controlled-experimentation}

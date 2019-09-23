@@ -4,9 +4,6 @@ seo-description: The Decision Tree menu includes features to set the positive us
 seo-title: Decision Tree Options
 title: Decision Tree Options
 uuid: 6439c6d4-60ac-4324-b870-b452a63b7ba1
-index: y
-internal: n
-snippet: y
 ---
 
 # Decision Tree Options{#decision-tree-options}

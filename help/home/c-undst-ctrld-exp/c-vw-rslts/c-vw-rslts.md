@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: Viewing the Results
 topic: Data workbench
 uuid: de9b6f34-faf8-43e2-bf93-1078e624b908
-index: y
-internal: n
-snippet: y
 ---
 
 # Viewing the Results{#viewing-the-results}

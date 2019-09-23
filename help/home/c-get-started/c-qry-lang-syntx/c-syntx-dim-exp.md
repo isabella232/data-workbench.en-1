@@ -6,9 +6,6 @@ solution: Analytics
 title: Syntax for dimension expressions
 topic: Data workbench
 uuid: c437cc52-4eb3-4202-a0b4-e23889f9c8a2
-index: y
-internal: n
-snippet: y
 ---
 
 # Syntax for dimension expressions{#syntax-for-dimension-expressions}

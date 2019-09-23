@@ -6,9 +6,6 @@ solution: Analytics
 title: Move a node
 topic: Data workbench
 uuid: 9ce0b5dd-6421-4451-a12d-5fbaac2c54c0
-index: y
-internal: n
-snippet: y
 ---
 
 # Move a node{#move-a-node}

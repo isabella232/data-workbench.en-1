@@ -4,9 +4,6 @@ seo-description: Instructions about how to install and configure IBM HTTP server
 seo-title: IBM HTTP Server on AIX 5.1 or Later
 title: IBM HTTP Server on AIX 5.1 or Later
 uuid: d4a37ab2-514a-4afb-905b-420159c4ef0a
-index: y
-internal: n
-snippet: y
 ---
 
 # IBM HTTP Server on AIX 5.1 or Later{#ibm-http-server-on-aix-or-later}

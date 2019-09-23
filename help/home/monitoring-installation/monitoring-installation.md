@@ -6,9 +6,6 @@ solution: Analytics
 title: Installing the Monitoring Profile
 topic: Data workbench
 uuid: e0d6fc61-d9b9-4c4b-94e1-2acfd0ff4de6
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing the Monitoring Profile{#installing-the-monitoring-profile}

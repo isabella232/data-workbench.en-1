@@ -6,9 +6,6 @@ solution: Analytics
 title: Installation Overview
 topic: Data workbench
 uuid: ffc72aa1-98d8-41dc-b4e5-6f70ff43430e
-index: y
-internal: n
-snippet: y
 ---
 
 # Installation Overview{#installation-overview}

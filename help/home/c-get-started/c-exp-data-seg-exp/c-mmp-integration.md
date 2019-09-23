@@ -4,9 +4,6 @@ seo-description: Data Workbench lets you export files to integrate with Profiles
 seo-title: Master Marketing Profile Export
 title: Master Marketing Profile Export
 uuid: bae0f0c5-a452-4afd-9f2c-5f3ab69a12d2
-index: y
-internal: n
-snippet: y
 ---
 
 # Master Marketing Profile Export{#master-marketing-profile-export}

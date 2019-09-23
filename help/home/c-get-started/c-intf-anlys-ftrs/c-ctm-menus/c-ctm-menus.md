@@ -6,9 +6,6 @@ solution: Analytics
 title: Customize a menu
 topic: Data workbench
 uuid: 8c409c50-40b3-4de3-8048-a825ef4d75f5
-index: y
-internal: n
-snippet: y
 ---
 
 # Customize a menu{#customize-a-menu}

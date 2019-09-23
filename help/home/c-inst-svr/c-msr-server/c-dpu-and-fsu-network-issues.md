@@ -5,9 +5,6 @@ seo-title: DPU and FSU Network Issues
 solution: Analytics
 title: DPU and FSU Network Issues
 uuid: 569d44ea-4423-48b1-b098-64c3dfa7ba29
-index: y
-internal: n
-snippet: y
 ---
 
 # DPU and FSU Network Issues{#dpu-and-fsu-network-issues}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Process map
 topic: Data workbench
 uuid: f1db41a9-400e-467a-ba59-39831fb166af
-index: y
-internal: n
-snippet: y
 ---
 
 # Process map{#process-map}

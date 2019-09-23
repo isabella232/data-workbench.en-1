@@ -6,9 +6,6 @@ solution: Analytics
 title: Setting up Localized Languages
 topic: Data workbench
 uuid: 7735e183-7ba3-4e11-bfe2-7f87e4c55fc8
-index: y
-internal: n
-snippet: y
 ---
 
 # Setting up Localized Languages{#setting-up-localized-languages}

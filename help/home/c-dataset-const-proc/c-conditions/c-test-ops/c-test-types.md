@@ -6,9 +6,6 @@ solution: Analytics
 title: Test Types for Test Operations
 topic: Data workbench
 uuid: dc0433dd-a35e-472e-8975-f58347512c11
-index: y
-internal: n
-snippet: y
 ---
 
 # Test Types for Test Operations{#test-types-for-test-operations}

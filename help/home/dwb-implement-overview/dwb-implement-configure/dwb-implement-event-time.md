@@ -4,9 +4,6 @@ seo-description: This section explains how to create timestamps for a Data Workb
 seo-title: Setting up Event Time
 title: Setting up Event Time
 uuid: 0230154d-05a2-44cf-9456-0a27e55f58ef
-index: y
-internal: n
-snippet: y
 ---
 
 # Setting up Event Time{#setting-up-event-time}

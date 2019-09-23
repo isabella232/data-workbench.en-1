@@ -6,9 +6,6 @@ solution: Analytics
 title: Text File Decoder Groups
 topic: Data workbench
 uuid: 3ff9700b-4f34-4098-8827-6856897bdb28
-index: y
-internal: n
-snippet: y
 ---
 
 # Text File Decoder Groups{#text-file-decoder-groups}

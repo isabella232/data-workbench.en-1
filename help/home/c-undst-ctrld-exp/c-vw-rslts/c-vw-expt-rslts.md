@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: Viewing the Experiment Results
 topic: Data workbench
 uuid: c0468cad-fb8d-4ecf-8912-bf80b44b0a65
-index: y
-internal: n
-snippet: y
 ---
 
 # Viewing the Experiment Results{#viewing-the-experiment-results}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Change the table display
 topic: Data workbench
 uuid: 45c8fa62-616e-4233-accc-920b4772ef1b
-index: y
-internal: n
-snippet: y
 ---
 
 # Change the table display{#change-the-table-display}

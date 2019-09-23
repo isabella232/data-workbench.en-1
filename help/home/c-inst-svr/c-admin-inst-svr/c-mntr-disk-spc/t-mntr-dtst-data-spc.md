@@ -5,9 +5,6 @@ seo-title: Monitoring Dataset Data Space
 solution: Insight
 title: Monitoring Dataset Data Space
 uuid: 0b7b95e7-b1bb-49cf-b465-fdbdc4ee214e
-index: y
-internal: n
-snippet: y
 ---
 
 # Monitoring Dataset Data Space{#monitoring-dataset-data-space}

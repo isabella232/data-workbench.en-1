@@ -5,9 +5,6 @@ seo-title: Confirming Your Systems Are Healthy
 solution: Insight
 title: Confirming Your Systems Are Healthy
 uuid: 6d132865-36ab-40fc-be24-e031f356fce2
-index: y
-internal: n
-snippet: y
 ---
 
 # Confirming Your Systems Are Healthy{#confirming-your-systems-are-healthy}

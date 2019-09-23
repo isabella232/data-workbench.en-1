@@ -5,9 +5,6 @@ seo-title: Configuring the Master Insight Server for Clustering
 solution: Insight
 title: Configuring the Master Insight Server for Clustering
 uuid: c3ac38e3-79c5-4863-9156-194589a6bcbd
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring the Master Insight Server for Clustering{#configuring-the-master-insight-server-for-clustering}

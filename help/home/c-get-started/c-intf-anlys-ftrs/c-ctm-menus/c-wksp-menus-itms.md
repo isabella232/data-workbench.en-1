@@ -6,9 +6,6 @@ solution: Analytics
 title: Create a workspace menu and menu item
 topic: Data workbench
 uuid: 9565fe7a-fa4c-42b6-9aa5-b652a2d62796
-index: y
-internal: n
-snippet: y
 ---
 
 # Create a workspace menu and menu item{#create-a-workspace-menu-and-menu-item}

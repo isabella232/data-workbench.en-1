@@ -6,9 +6,6 @@ solution: Analytics
 title: Editing Existing Users
 topic: Data workbench
 uuid: 5c01f0f9-0d30-4526-a4fb-43c7e1cb076f
-index: y
-internal: n
-snippet: y
 ---
 
 # Editing Existing Users{#editing-existing-users}

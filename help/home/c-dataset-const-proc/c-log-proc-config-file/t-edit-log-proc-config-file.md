@@ -6,9 +6,6 @@ solution: Analytics
 title: Editing the Log Processing Configuration File
 topic: Data workbench
 uuid: 2ffae53a-ef2f-4933-821d-13f29dcdb68d
-index: y
-internal: n
-snippet: y
 ---
 
 # Editing the Log Processing Configuration File{#editing-the-log-processing-configuration-file}

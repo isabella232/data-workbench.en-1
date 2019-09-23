@@ -6,9 +6,6 @@ solution: Analytics
 title: Detail table
 topic: Data workbench
 uuid: 2becff5e-c78d-4ac7-8cda-814ad0193efd
-index: y
-internal: n
-snippet: y
 ---
 
 # Detail table{#detail-table}

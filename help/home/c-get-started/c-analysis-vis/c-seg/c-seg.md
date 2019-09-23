@@ -6,9 +6,6 @@ solution: Analytics
 title: Segments
 topic: Data workbench
 uuid: 83f326ee-68da-4512-a566-562e8e4761b3
-index: y
-internal: n
-snippet: y
 ---
 
 # Segments{#segments}

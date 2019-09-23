@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: Modifying Transformation.cfg
 topic: Data workbench
 uuid: c17e48db-8fd9-4640-b621-6963bb8223d7
-index: y
-internal: n
-snippet: y
 ---
 
 # Modifying Transformation.cfg{#modifying-transformation-cfg}

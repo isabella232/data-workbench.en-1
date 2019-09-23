@@ -6,9 +6,6 @@ solution: Analytics
 title: Managing Folders
 topic: Data workbench
 uuid: f296cd35-879f-482e-9b0d-8345ab3dda27
-index: y
-internal: n
-snippet: y
 ---
 
 # Managing Folders{#managing-folders}

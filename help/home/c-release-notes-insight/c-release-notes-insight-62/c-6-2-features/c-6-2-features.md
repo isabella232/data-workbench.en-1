@@ -4,9 +4,6 @@ seo-description: Data Workbench 6.2 includes the following features.
 seo-title: Data Workbench 6.2 features
 title: Data Workbench 6.2 features
 uuid: 8e831620-b5fb-4b8a-9fb4-b20fa0fc6050
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench 6.2 features{#data-workbench-features}

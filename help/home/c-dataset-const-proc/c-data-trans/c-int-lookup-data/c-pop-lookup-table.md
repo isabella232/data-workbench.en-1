@@ -6,9 +6,6 @@ solution: Analytics
 title: Populating the Lookup Table
 topic: Data workbench
 uuid: a11f3902-8853-4d22-bbfd-b2a3d143cb7b
-index: y
-internal: n
-snippet: y
 ---
 
 # Populating the Lookup Table{#populating-the-lookup-table}

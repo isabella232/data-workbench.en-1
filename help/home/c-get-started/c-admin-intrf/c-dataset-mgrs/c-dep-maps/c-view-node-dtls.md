@@ -6,9 +6,6 @@ solution: Analytics
 title: View node details
 topic: Data workbench
 uuid: 2016a650-b021-4295-8313-d6287578ed10
-index: y
-internal: n
-snippet: y
 ---
 
 # View node details{#view-node-details}

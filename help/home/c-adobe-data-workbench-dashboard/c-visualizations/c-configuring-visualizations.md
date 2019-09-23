@@ -6,9 +6,6 @@ solution: Analytics
 title: Configuring Visualizations
 topic: Data workbench
 uuid: aca77188-8f28-4554-8913-412b252f688c
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring Visualizations{#configuring-visualizations}

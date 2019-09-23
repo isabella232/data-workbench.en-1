@@ -6,9 +6,6 @@ solution: Analytics
 title: Creating Visualizations
 topic: Data workbench
 uuid: d8eb60ac-cc99-4af3-b9c4-946b0a7274ca
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating Visualizations{#creating-visualizations}

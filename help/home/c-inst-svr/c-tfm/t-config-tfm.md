@@ -5,9 +5,6 @@ seo-title: Configuring Transform
 solution: Insight
 title: Configuring Transform
 uuid: 0526704a-71b2-4094-9d3a-1ba84f4dc287
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring Transform{#configuring-transform}

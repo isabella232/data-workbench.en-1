@@ -6,9 +6,6 @@ solution: Analytics
 title: Enabling Access to the Data Workbench Server
 topic: Data workbench
 uuid: e112ac2a-34fe-40a2-9324-262f5cb1f681
-index: y
-internal: n
-snippet: y
 ---
 
 # Enabling Access to the Data Workbench Server{#enabling-access-to-the-data-workbench-server}

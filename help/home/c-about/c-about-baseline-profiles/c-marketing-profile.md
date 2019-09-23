@@ -6,9 +6,6 @@ solution: Analytics
 title: Marketing Profile Dimensions
 topic: Data workbench
 uuid: 034b4318-58e6-4638-9b13-fac83ff9f826
-index: y
-internal: n
-snippet: y
 ---
 
 # Marketing Profile Dimensions{#marketing-profile-dimensions}

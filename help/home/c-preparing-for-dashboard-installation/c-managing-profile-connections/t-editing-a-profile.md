@@ -6,9 +6,6 @@ solution: Analytics
 title: Editing a Profile Connection
 topic: Data workbench
 uuid: 7c268fd0-0a6e-4a2c-bc09-6579857f5750
-index: y
-internal: n
-snippet: y
 ---
 
 # Editing a Profile Connection{#editing-a-profile-connection}

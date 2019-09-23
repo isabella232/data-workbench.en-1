@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: Modifying the ExpFile Parameter
 topic: Data workbench
 uuid: bf146f46-f541-4969-8d90-af1a0c969344
-index: y
-internal: n
-snippet: y
 ---
 
 # Modifying the ExpFile Parameter{#modifying-the-expfile-parameter}

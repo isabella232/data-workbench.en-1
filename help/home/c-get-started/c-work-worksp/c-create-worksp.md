@@ -6,9 +6,6 @@ solution: Analytics
 title: Create a workspace
 topic: Data workbench
 uuid: 8669b70f-5ddf-4424-9269-0e4860eac498
-index: y
-internal: n
-snippet: y
 ---
 
 # Create a workspace{#create-a-workspace}

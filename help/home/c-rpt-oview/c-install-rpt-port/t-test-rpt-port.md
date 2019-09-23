@@ -6,9 +6,6 @@ solution: Analytics
 title: Test the Report Portal
 topic: Data workbench
 uuid: eee0df5e-78e0-49b2-853c-40f1b332328b
-index: y
-internal: n
-snippet: y
 ---
 
 # Test the Report Portal{#test-the-report-portal}

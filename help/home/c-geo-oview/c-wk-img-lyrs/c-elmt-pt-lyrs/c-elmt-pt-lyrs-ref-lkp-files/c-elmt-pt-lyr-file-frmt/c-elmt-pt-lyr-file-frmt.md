@@ -6,9 +6,6 @@ solution: Analytics
 title: Element Point Layer File Format
 topic: Data workbench
 uuid: a8b3d2f4-0ed2-480d-a2a6-75d43025a579
-index: y
-internal: n
-snippet: y
 ---
 
 # Element Point Layer File Format{#element-point-layer-file-format}

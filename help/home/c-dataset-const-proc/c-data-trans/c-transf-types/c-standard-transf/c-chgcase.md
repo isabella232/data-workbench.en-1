@@ -6,9 +6,6 @@ solution: Analytics
 title: ChangeCase
 topic: Data workbench
 uuid: 676e79e6-324e-43d1-8982-b44596d0eeac
-index: y
-internal: n
-snippet: y
 ---
 
 # ChangeCase{#changecase}

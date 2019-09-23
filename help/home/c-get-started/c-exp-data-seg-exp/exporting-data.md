@@ -4,9 +4,6 @@ seo-description: You can now use CSV, TSV, Segment Export, and Segment Export wi
 seo-title: Export a segment using S/FTP delivery
 title: Export a segment using S/FTP delivery
 uuid: 4d654368-cbf7-4e7f-8ab9-82f4e0261ac6
-index: y
-internal: n
-snippet: y
 ---
 
 # Export a segment using S/FTP delivery{#export-a-segment-using-s-ftp-delivery}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Data Workbench Historic workspace
 topic: Data workbench
 uuid: 61c45cae-f255-4d20-bb6b-f318c8dd8214
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench Historic workspace{#data-workbench-historic-workspace}

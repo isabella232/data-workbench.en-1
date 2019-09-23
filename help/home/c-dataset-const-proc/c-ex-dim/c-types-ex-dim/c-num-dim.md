@@ -6,9 +6,6 @@ solution: Analytics
 title: Numeric Dimensions
 topic: Data workbench
 uuid: 19fab770-1535-41b2-bad1-811eba5f3575
-index: y
-internal: n
-snippet: y
 ---
 
 # Numeric Dimensions{#numeric-dimensions}

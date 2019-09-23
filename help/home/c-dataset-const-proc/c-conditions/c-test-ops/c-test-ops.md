@@ -6,9 +6,6 @@ solution: Analytics
 title: Test Operations
 topic: Data workbench
 uuid: 01b18776-0287-4b07-9e3a-90c01a8acae2
-index: y
-internal: n
-snippet: y
 ---
 
 # Test Operations{#test-operations}

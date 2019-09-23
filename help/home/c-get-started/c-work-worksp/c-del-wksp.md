@@ -6,9 +6,6 @@ solution: Analytics
 title: Deleting a workspaces
 topic: Data workbench
 uuid: 85fd84d6-0602-4ff4-a55a-44077f3f3151
-index: y
-internal: n
-snippet: y
 ---
 
 # Deleting a workspaces{#deleting-a-workspaces}

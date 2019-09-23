@@ -6,9 +6,6 @@ solution: Analytics
 title: Worksheets
 topic: Data workbench
 uuid: 4e498150-3e44-4a19-8d8a-8be0d32693a6
-index: y
-internal: n
-snippet: y
 ---
 
 # Worksheets{#worksheets}

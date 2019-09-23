@@ -6,9 +6,6 @@ solution: Analytics
 title: Upgrading and Uninstalling Data Workbench Geography
 topic: Data workbench
 uuid: cc752762-ddc3-4e81-8c71-40e6cb1e7ecf
-index: y
-internal: n
-snippet: y
 ---
 
 # Upgrading and Uninstalling Data Workbench Geography{#upgrading-and-uninstalling-data-workbench-geography}

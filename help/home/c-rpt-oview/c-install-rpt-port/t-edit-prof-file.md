@@ -6,9 +6,6 @@ solution: Analytics
 title: Edit the Profiles.xml File
 topic: Data workbench
 uuid: 3640552b-bc46-4b4f-8524-e021b0ca2bfc
-index: y
-internal: n
-snippet: y
 ---
 
 # Edit the Profiles.xml File{#edit-the-profiles-xml-file}

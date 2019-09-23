@@ -5,9 +5,6 @@ seo-title: File Server Unit Requirements
 solution: Analytics
 title: File Server Unit Requirements
 uuid: e5b73474-9f38-46f2-8c15-42eddecfb8a1
-index: y
-internal: n
-snippet: y
 ---
 
 # File Server Unit Requirements{#file-server-unit-requirements}

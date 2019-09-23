@@ -6,9 +6,6 @@ solution: Analytics
 title: Defining Parameters in Dataset Include Files
 topic: Data workbench
 uuid: 1eb7d48c-a107-4b32-abca-55d30586813f
-index: y
-internal: n
-snippet: y
 ---
 
 # Defining Parameters in Dataset Include Files{#defining-parameters-in-dataset-include-files}

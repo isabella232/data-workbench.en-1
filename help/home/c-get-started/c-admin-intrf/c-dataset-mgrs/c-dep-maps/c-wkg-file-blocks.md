@@ -6,9 +6,6 @@ solution: Analytics
 title: File blocks
 topic: Data workbench
 uuid: 079dccba-ef19-4895-90bb-6c56f26e8beb
-index: y
-internal: n
-snippet: y
 ---
 
 # File blocks{#file-blocks}

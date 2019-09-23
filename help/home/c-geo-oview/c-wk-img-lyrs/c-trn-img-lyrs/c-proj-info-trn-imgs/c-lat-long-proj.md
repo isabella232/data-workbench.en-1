@@ -6,9 +6,6 @@ solution: Analytics
 title: Latitude-Longitude Projections
 topic: Data workbench
 uuid: 0ac947d6-3cd6-4272-96ae-456d2835e63f
-index: y
-internal: n
-snippet: y
 ---
 
 # Latitude-Longitude Projections{#latitude-longitude-projections}

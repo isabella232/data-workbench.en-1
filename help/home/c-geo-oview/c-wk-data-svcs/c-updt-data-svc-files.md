@@ -6,9 +6,6 @@ solution: Analytics
 title: Updating Data Service Files
 topic: Data workbench
 uuid: 8c14be34-fde3-4c4c-9c22-739863317d6e
-index: y
-internal: n
-snippet: y
 ---
 
 # Updating Data Service Files{#updating-data-service-files}

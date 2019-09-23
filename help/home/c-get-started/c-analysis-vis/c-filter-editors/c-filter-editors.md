@@ -6,9 +6,6 @@ solution: Analytics
 title: Filter editors
 topic: Data workbench
 uuid: c4e99e44-1927-4131-92e9-111c76bdc3e2
-index: y
-internal: n
-snippet: y
 ---
 
 # Filter editors{#filter-editors}

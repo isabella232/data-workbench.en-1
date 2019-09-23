@@ -6,9 +6,6 @@ solution: Analytics
 title: Value Profile Metrics
 topic: Data workbench
 uuid: 68951e33-013a-466b-b0f3-839eaef89cb5
-index: y
-internal: n
-snippet: y
 ---
 
 # Value Profile Metrics{#value-profile-metrics}

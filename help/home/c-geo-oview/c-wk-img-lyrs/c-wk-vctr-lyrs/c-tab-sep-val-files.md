@@ -6,9 +6,6 @@ solution: Analytics
 title: Vector layers referencing tab separated values files
 topic: Data workbench
 uuid: 42607b34-e9f2-420a-ba5a-05562598b480
-index: y
-internal: n
-snippet: y
 ---
 
 # Vector layers referencing tab separated values files{#vector-layers-referencing-tab-separated-values-files}

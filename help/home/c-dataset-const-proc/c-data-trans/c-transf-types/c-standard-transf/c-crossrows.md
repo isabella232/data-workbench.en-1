@@ -6,9 +6,6 @@ solution: Analytics
 title: CrossRows
 topic: Data workbench
 uuid: 5910c150-6bec-4d98-b116-9b382fd54d3c
-index: y
-internal: n
-snippet: y
 ---
 
 # CrossRows{#crossrows}

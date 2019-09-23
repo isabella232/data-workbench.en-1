@@ -4,9 +4,6 @@ seo-description: Detailed instructions for installing and configuring Sensor for
 seo-title: Apache Server 1.3.x on Linux, Sun Solaris, FreeBSD, or Mac OS X
 title: Apache Server 1.3.x on Linux, Sun Solaris, FreeBSD, or Mac OS X
 uuid: bd46dd0f-fe36-4f8b-a87c-8ca7b64da609
-index: y
-internal: n
-snippet: y
 ---
 
 # Apache Server 1.3.x on Linux, Sun Solaris, FreeBSD, or Mac OS X{#apache-server-x-on-linux-sun-solaris-freebsd-or-mac-os-x}

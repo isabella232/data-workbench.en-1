@@ -6,9 +6,6 @@ solution: Analytics
 title: Set the unlock parameter
 topic: Data workbench
 uuid: db094e32-7d82-4f93-a492-a6bed33ae722
-index: y
-internal: n
-snippet: y
 ---
 
 # Set the unlock parameter{#set-the-unlock-parameter}

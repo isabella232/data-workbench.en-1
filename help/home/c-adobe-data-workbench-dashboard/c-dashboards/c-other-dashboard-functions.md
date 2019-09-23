@@ -6,9 +6,6 @@ solution: Analytics
 title: Other Dashboard Functions
 topic: Data workbench
 uuid: 4f5ed0fa-c1eb-4059-9fb5-33e1d0e2f85a
-index: y
-internal: n
-snippet: y
 ---
 
 # Other Dashboard Functions{#other-dashboard-functions}

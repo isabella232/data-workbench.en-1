@@ -5,9 +5,6 @@ seo-title: Backing Up Event Data
 solution: Insight
 title: Backing Up Event Data
 uuid: 1b9e5dfe-0bf2-4ee9-bf70-1dd320a678d6
-index: y
-internal: n
-snippet: y
 ---
 
 # Backing Up Event Data{#backing-up-event-data}

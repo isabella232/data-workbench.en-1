@@ -6,9 +6,6 @@ solution: Analytics
 title: Configure the Report Set
 topic: Data workbench
 uuid: 21f8dcde-8fe1-4ba0-9eb7-39ff812dcf14
-index: y
-internal: n
-snippet: y
 ---
 
 # Configure the Report Set{#configure-the-report-set}

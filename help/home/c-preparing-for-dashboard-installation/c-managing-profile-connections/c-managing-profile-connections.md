@@ -6,9 +6,6 @@ solution: Analytics
 title: Managing Profile Connections
 topic: Data workbench
 uuid: 244ced13-2185-4347-bd0a-d8471daafe7b
-index: y
-internal: n
-snippet: y
 ---
 
 # Managing Profile Connections{#managing-profile-connections}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Make selections on a globe
 topic: Data workbench
 uuid: 265206f8-2437-4490-8e7c-0a00ce56fd7f
-index: y
-internal: n
-snippet: y
 ---
 
 # Make selections on a globe{#make-selections-on-a-globe}

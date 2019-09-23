@@ -6,9 +6,6 @@ solution: Analytics
 title: Dataset Schema interface
 topic: Data workbench
 uuid: 3726e568-d3ea-47f8-8ac4-582c97fbbe0a
-index: y
-internal: n
-snippet: y
 ---
 
 # Dataset Schema interface{#dataset-schema-interface}

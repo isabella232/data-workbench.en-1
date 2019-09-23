@@ -6,9 +6,6 @@ solution: Analytics
 title: Syntax for identifiers
 topic: Data workbench
 uuid: 9cfa188a-05ca-4163-a268-e33fce9a1929
-index: y
-internal: n
-snippet: y
 ---
 
 # Syntax for identifiers{#syntax-for-identifiers}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Search within a map
 topic: Data workbench
 uuid: 87fa8c69-f1f1-4977-b60c-050ddaacaab2
-index: y
-internal: n
-snippet: y
 ---
 
 # Search within a map{#search-within-a-map}

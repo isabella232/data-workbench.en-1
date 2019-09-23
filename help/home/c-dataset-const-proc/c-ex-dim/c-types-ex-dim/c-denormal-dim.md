@@ -6,9 +6,6 @@ solution: Analytics
 title: Denormal Dimensions
 topic: Data workbench
 uuid: f172fbce-e967-41ce-9958-9062561ecbcc
-index: y
-internal: n
-snippet: y
 ---
 
 # Denormal Dimensions{#denormal-dimensions}

@@ -4,9 +4,6 @@ seo-description: Use these shortcut keys for workspaces and configuration files.
 seo-title: Keyboard shortcuts for the Data Workbench Client
 title: Keyboard shortcuts for the Data Workbench Client
 uuid: 134bcf04-767c-4170-b375-545862b2d333
-index: y
-internal: n
-snippet: y
 ---
 
 # Keyboard shortcuts for the Data Workbench Client{#keyboard-shortcuts-for-the-data-workbench-client}

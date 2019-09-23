@@ -6,9 +6,6 @@ solution: Analytics
 title: Visitor Clustering
 topic: Data workbench
 uuid: 0c16aaa0-1d86-43a6-a7e2-b43b3ea80dc5
-index: y
-internal: n
-snippet: y
 ---
 
 # Visitor Clustering{#visitor-clustering}

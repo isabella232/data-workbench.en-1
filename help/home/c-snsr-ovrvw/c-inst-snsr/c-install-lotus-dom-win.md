@@ -4,9 +4,6 @@ seo-description: Instructions about how to install and configure Sensor for Lotu
 seo-title: Lotus Domino Server on Windows Server 2000 or Later
 title: Lotus Domino Server on Windows Server 2000 or Later
 uuid: e3fb1478-92d1-4488-a4b8-244d258cc00a
-index: y
-internal: n
-snippet: y
 ---
 
 # Lotus Domino Server on Windows Server 2000 or Later{#lotus-domino-server-on-windows-server-or-later}

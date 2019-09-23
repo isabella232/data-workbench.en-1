@@ -6,9 +6,6 @@ solution: Analytics
 title: Report Set Requirements
 topic: Data workbench
 uuid: 81d79a8f-cde1-4d86-b8b4-1b71313bac24
-index: y
-internal: n
-snippet: y
 ---
 
 # Report Set Requirements{#report-set-requirements}

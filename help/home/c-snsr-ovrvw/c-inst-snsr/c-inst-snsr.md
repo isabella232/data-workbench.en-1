@@ -5,9 +5,6 @@ seo-title: Installing Sensor
 solution: Insight
 title: Installing Sensor
 uuid: 8d500fd0-daa0-453b-8284-b3f112a358ce
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing Sensor{#installing-sensor}

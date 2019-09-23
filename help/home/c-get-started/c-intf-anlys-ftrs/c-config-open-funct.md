@@ -6,9 +6,6 @@ solution: Analytics
 title: Configure open functionality
 topic: Data workbench
 uuid: dfa79a2b-e9ff-4e62-b15b-ae7911adeafd
-index: y
-internal: n
-snippet: y
 ---
 
 # Configure open functionality{#configure-open-functionality}

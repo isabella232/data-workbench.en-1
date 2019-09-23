@@ -6,9 +6,6 @@ solution: Analytics
 title: Detailed Status interface
 topic: Data workbench
 uuid: c4d375d9-431f-4b0a-ba15-b7a10501b2e2
-index: y
-internal: n
-snippet: y
 ---
 
 # Detailed Status interface{#detailed-status-interface}

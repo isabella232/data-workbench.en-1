@@ -4,9 +4,6 @@ seo-description: A quick guide for the minimum steps required to validate and se
 seo-title: Validating Historical Data Feeds
 title: Validating Historical Data Feeds
 uuid: 83d2d48b-0966-4f4e-9c9c-60473c4546b2
-index: y
-internal: n
-snippet: y
 ---
 
 # Validating Historical Data Feeds{#validating-historical-data-feeds}

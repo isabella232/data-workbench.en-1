@@ -4,9 +4,6 @@ seo-description: Administrators can give workstation users the partial ability t
 seo-title: User Administration of Group Member Access
 title: User Administration of Group Member Access
 uuid: c31128f9-1094-4337-9bf6-96401278df33
-index: y
-internal: n
-snippet: y
 ---
 
 # User Administration of Group Member Access{#user-administration-of-group-member-access}

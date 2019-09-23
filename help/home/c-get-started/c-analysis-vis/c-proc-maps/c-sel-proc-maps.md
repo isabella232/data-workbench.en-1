@@ -6,9 +6,6 @@ solution: Analytics
 title: Make a selection from a process map
 topic: Data workbench
 uuid: 7fd00090-c9ab-4bb6-8584-7de7b6f4b68c
-index: y
-internal: n
-snippet: y
 ---
 
 # Make a selection from a process map{#make-a-selection-from-a-process-map}

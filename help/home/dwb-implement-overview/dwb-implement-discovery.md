@@ -4,9 +4,6 @@ seo-description: Gather and describe the business questions appropriate to your 
 seo-title: Data Workbench Discovery and Requirements
 title: Data Workbench Discovery and Requirements
 uuid: 436f0c32-b4e2-41dd-a8e9-531e0a195276
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench Discovery and Requirements{#data-workbench-discovery-and-requirements}

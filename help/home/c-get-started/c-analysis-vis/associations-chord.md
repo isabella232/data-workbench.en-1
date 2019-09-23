@@ -4,9 +4,6 @@ seo-description: The Association Chord visualization allows you to show both the
 seo-title: Association Chord visualization
 title: Association Chord visualization
 uuid: c656ffc8-e45a-44c0-a29b-cdc10dcbd1f2
-index: y
-internal: n
-snippet: y
 ---
 
 # Association Chord visualization{#association-chord-visualization}

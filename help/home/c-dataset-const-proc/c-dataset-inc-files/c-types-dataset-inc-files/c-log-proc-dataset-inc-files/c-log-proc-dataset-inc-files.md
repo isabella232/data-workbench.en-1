@@ -6,9 +6,6 @@ solution: Analytics
 title: Log Processing Dataset Include Files
 topic: Data workbench
 uuid: 8bf99c9a-f674-4a07-bb3e-de0d9efc9716
-index: y
-internal: n
-snippet: y
 ---
 
 # Log Processing Dataset Include Files{#log-processing-dataset-include-files}

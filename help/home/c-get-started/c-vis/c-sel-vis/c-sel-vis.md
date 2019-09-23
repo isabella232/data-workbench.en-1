@@ -6,9 +6,6 @@ solution: Analytics
 title: Make selections in visualizations
 topic: Data workbench
 uuid: 3900354f-826b-41e8-9bc2-e4856928bad5
-index: y
-internal: n
-snippet: y
 ---
 
 # Make selections in visualizations{#make-selections-in-visualizations}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Export to a TSV file
 topic: Data workbench
 uuid: aa21dd0f-aaf7-44c5-947d-74010cb440fa
-index: y
-internal: n
-snippet: y
 ---
 
 # Export to a TSV file{#export-to-a-tsv-file}

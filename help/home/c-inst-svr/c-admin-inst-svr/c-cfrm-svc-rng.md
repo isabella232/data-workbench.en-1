@@ -5,9 +5,6 @@ seo-title: Confirming that the Service Is Running
 solution: Insight
 title: Confirming that the Service Is Running
 uuid: 0e0fb43b-56d5-4994-a9c4-9281e69844eb
-index: y
-internal: n
-snippet: y
 ---
 
 # Confirming that the Service Is Running{#confirming-that-the-service-is-running}

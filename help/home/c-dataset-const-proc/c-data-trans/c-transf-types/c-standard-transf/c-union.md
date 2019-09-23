@@ -6,9 +6,6 @@ solution: Analytics
 title: Union
 topic: Data workbench
 uuid: 2f8bd332-727e-4a4e-a3e7-a52ea2b0a33a
-index: y
-internal: n
-snippet: y
 ---
 
 # Union{#union}

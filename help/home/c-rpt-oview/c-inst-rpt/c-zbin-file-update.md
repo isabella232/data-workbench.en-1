@@ -6,9 +6,6 @@ solution: Analytics
 title: Update Report Server with a language file (.zbin file)
 topic: Data workbench
 uuid: 2ecf2afc-bb5f-4fc7-8fb8-a904fb7ed407
-index: y
-internal: n
-snippet: y
 ---
 
 # Update Report Server with a language file (.zbin file){#update-report-server-with-a-language-file-zbin-file}

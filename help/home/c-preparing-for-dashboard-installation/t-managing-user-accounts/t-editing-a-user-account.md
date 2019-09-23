@@ -6,9 +6,6 @@ solution: Analytics
 title: Editing a User Account
 topic: Data workbench
 uuid: 60c79258-bb6e-42fc-9d6b-4381057e3c50
-index: y
-internal: n
-snippet: y
 ---
 
 # Editing a User Account{#editing-a-user-account}

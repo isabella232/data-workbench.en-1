@@ -6,9 +6,6 @@ solution: Analytics
 title: Acquiring Document Objects
 topic: Data workbench
 uuid: 7681c337-b147-4937-9d9c-0ff48d9bdd00
-index: y
-internal: n
-snippet: y
 ---
 
 # Acquiring Document Objects{#acquiring-document-objects}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Report Server.cfg Parameters
 topic: Data workbench
 uuid: 506f30f7-c8c6-4580-8423-7da8d00b0d57
-index: y
-internal: n
-snippet: y
 ---
 
 # Report Server.cfg Parameters{#report-server-cfg-parameters}

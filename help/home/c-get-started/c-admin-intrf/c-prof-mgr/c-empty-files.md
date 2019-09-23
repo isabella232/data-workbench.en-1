@@ -6,9 +6,6 @@ solution: Analytics
 title: Hide a file by emptying it (zero-byte)
 topic: Data workbench
 uuid: 82c1a5c9-1bbb-41c7-bee7-704f0a9ef87d
-index: y
-internal: n
-snippet: y
 ---
 
 # Hide a file by emptying it (zero-byte){#hide-a-file-by-emptying-it-zero-byte}

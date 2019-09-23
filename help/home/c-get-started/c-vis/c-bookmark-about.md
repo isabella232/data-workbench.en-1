@@ -6,9 +6,6 @@ solution: Analytics
 title: Add a bookmarks
 topic: Data workbench
 uuid: 8b7fd6ac-9bab-4e7a-8f52-8568413052e8
-index: y
-internal: n
-snippet: y
 ---
 
 # Add a bookmarks{#add-a-bookmarks}

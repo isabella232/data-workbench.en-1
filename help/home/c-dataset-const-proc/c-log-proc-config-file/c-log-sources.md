@@ -6,9 +6,6 @@ solution: Analytics
 title: Log Sources
 topic: Data workbench
 uuid: ea21c3d7-9188-4ba8-bacd-052d678bd799
-index: y
-internal: n
-snippet: y
 ---
 
 # Log Sources{#log-sources}

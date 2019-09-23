@@ -6,9 +6,6 @@ solution: Analytics
 title: Installing Required Components
 topic: Data workbench
 uuid: e23fba09-4684-4daf-8426-ea91169b3348
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing Required Components{#installing-required-components}

@@ -5,9 +5,6 @@ seo-title: Monitoring Ports and Applications
 solution: Insight
 title: Monitoring Ports and Applications
 uuid: 63d92718-81df-49eb-adda-8b49bde57a9d
-index: y
-internal: n
-snippet: y
 ---
 
 # Monitoring Ports and Applications{#monitoring-ports-and-applications}

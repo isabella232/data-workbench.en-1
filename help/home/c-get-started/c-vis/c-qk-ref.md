@@ -6,9 +6,6 @@ solution: Analytics
 title: Quick reference
 topic: Data workbench
 uuid: d4563f21-4a0c-4ba5-844a-700b03a7f56e
-index: y
-internal: n
-snippet: y
 ---
 
 # Quick reference{#quick-reference}

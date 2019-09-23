@@ -6,9 +6,6 @@ solution: Analytics
 title: Split
 topic: Data workbench
 uuid: 116e8465-8fb1-41eb-9a28-412cee54ab87
-index: y
-internal: n
-snippet: y
 ---
 
 # Split{#split}

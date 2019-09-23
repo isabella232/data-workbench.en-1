@@ -6,9 +6,6 @@ solution: Analytics
 title: Value Profile Dimensions
 topic: Data workbench
 uuid: 9dcc99af-8d94-494b-a4fd-a72761d1686b
-index: y
-internal: n
-snippet: y
 ---
 
 # Value Profile Dimensions{#value-profile-dimensions}

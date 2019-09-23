@@ -6,9 +6,6 @@ solution: Analytics
 title: Query Queue User Groups
 topic: Data workbench
 uuid: 90d9058c-1809-4579-a8c6-930a07affc83
-index: y
-internal: n
-snippet: y
 ---
 
 # Query Queue User Groups{#query-queue-user-groups}

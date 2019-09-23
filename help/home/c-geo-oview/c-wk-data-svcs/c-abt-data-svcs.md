@@ -6,9 +6,6 @@ solution: Analytics
 title: About the Data Services
 topic: Data workbench
 uuid: 60fa12b9-4b64-457d-b0d4-1d7eb44f19b2
-index: y
-internal: n
-snippet: y
 ---
 
 # About the Data Services{#about-the-data-services}

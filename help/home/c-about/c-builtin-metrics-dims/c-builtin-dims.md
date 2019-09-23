@@ -6,9 +6,6 @@ solution: Analytics
 title: Built-in Dimensions
 topic: Data workbench
 uuid: 0aabbc52-266d-46c1-a4b3-dd575c0f2c72
-index: y
-internal: n
-snippet: y
 ---
 
 # Built-in Dimensions{#built-in-dimensions}

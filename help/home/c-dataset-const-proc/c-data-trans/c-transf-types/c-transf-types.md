@@ -6,9 +6,6 @@ solution: Analytics
 title: Types of Transformations
 topic: Data workbench
 uuid: 94392104-9789-4b11-a266-4dfc1b74fcc6
-index: y
-internal: n
-snippet: y
 ---
 
 # Types of Transformations{#types-of-transformations}

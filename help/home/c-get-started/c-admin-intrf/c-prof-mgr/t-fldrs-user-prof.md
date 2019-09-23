@@ -6,9 +6,6 @@ solution: Analytics
 title: Create folders in the user profile
 topic: Data workbench
 uuid: d66d7b86-694a-447c-a3f0-f64c7e2a41da
-index: y
-internal: n
-snippet: y
 ---
 
 # Create folders in the user profile{#create-folders-in-the-user-profile}

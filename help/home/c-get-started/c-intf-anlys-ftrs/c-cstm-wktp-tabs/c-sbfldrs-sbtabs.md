@@ -6,9 +6,6 @@ solution: Analytics
 title: Display subfolders as subtabs
 topic: Data workbench
 uuid: b4d7c6dd-d5ad-4b93-ba67-65a69e11eefc
-index: y
-internal: n
-snippet: y
 ---
 
 # Display subfolders as subtabs{#display-subfolders-as-subtabs}

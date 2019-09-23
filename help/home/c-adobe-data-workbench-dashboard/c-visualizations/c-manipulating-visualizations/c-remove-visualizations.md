@@ -6,9 +6,6 @@ solution: Analytics
 title: Removing Visualizations
 topic: Data workbench
 uuid: 9192d64c-29da-4e9f-ae7d-f873548c025c
-index: y
-internal: n
-snippet: y
 ---
 
 # Removing Visualizations{#removing-visualizations}

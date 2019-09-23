@@ -6,9 +6,6 @@ solution: Analytics
 title: Complex Filter Description
 topic: Data workbench
 uuid: 34deec03-73ae-445e-9a77-de7ace2d4143
-index: y
-internal: n
-snippet: y
 ---
 
 # Complex Filter Description{#complex-filter-description}

@@ -4,9 +4,6 @@ seo-description: Instructions about how to install and configure Sensor for Inte
 seo-title: Microsoft IIS on Windows Server 2000 or later
 title: Microsoft IIS on Windows Server 2000 or later
 uuid: 26da0638-82c8-424f-9f00-aab3a940e5a9
-index: y
-internal: n
-snippet: y
 ---
 
 # Microsoft IIS on Windows Server 2000 or later{#microsoft-iis-on-windows-server-or-later}

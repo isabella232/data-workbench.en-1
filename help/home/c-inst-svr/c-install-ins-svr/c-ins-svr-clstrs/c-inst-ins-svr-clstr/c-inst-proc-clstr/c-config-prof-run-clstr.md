@@ -5,9 +5,6 @@ seo-title: Configuring a Profile to Run on a Cluster
 solution: Insight
 title: Configuring a Profile to Run on a Cluster
 uuid: e181d069-fb2f-4a71-a86f-bb9a48cfe059
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring a Profile to Run on a Cluster{#configuring-a-profile-to-run-on-a-cluster}

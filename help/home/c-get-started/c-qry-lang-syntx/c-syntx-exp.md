@@ -6,9 +6,6 @@ solution: Analytics
 title: Syntax for any expression
 topic: Data workbench
 uuid: 663e3fd2-80e5-4805-8706-34a0e02ebd0f
-index: y
-internal: n
-snippet: y
 ---
 
 # Syntax for any expression{#syntax-for-any-expression}

@@ -5,9 +5,6 @@ seo-title: About Insight Server Clusters
 solution: Insight
 title: About Insight Server Clusters
 uuid: d65e0fe5-f87d-4d8e-a208-9192e9d62fb5
-index: y
-internal: n
-snippet: y
 ---
 
 # About Insight Server Clusters{#about-insight-server-clusters}

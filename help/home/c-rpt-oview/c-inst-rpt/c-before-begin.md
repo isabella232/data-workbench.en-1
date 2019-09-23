@@ -6,9 +6,6 @@ solution: Analytics
 title: Before You Begin
 topic: Data workbench
 uuid: cb464fb6-3109-4eff-9c95-f0cf1f8a8c66
-index: y
-internal: n
-snippet: y
 ---
 
 # Before You Begin{#before-you-begin}

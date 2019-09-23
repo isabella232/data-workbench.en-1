@@ -5,9 +5,6 @@ seo-title: Installing the Replication Service
 solution: Insight
 title: Installing the Replication Service
 uuid: a6467d5f-ca1c-4368-ba83-0b6bcabbe511
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing the Replication Service{#installing-the-replication-service}

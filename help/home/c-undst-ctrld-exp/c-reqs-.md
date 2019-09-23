@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: What Are the Requirements?
 topic: Data workbench
 uuid: c76ebf2b-4040-4ac4-b69f-3ce87bfb78f1
-index: y
-internal: n
-snippet: y
 ---
 
 # What Are the Requirements?{#what-are-the-requirements}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Data Workbench Geography Overview
 topic: Data workbench
 uuid: 69003cdd-f814-494a-9be8-438a65411cc7
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench Geography Overview{#data-workbench-geography-overview}

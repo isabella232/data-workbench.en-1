@@ -4,9 +4,6 @@ seo-description: Information about administrative concerns such as editing the S
 seo-title: Administering Sensor
 title: Administering Sensor
 uuid: cd9df664-382a-4432-887c-d009af298ce2
-index: y
-internal: n
-snippet: y
 ---
 
 # Administering Sensor{#administering-sensor}

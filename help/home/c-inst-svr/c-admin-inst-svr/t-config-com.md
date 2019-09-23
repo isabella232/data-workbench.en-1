@@ -5,9 +5,6 @@ seo-title: Configuring Communications
 solution: Insight
 title: Configuring Communications
 uuid: 04d08206-17b1-4348-a945-0c907c9a494c
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring Communications{#configuring-communications}

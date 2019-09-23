@@ -6,9 +6,6 @@ solution: Analytics
 title: Make a new terrain image layer available
 topic: Data workbench
 uuid: 8fb98a3e-6335-4922-a1e6-35c92b19e2ec
-index: y
-internal: n
-snippet: y
 ---
 
 # Make a new terrain image layer available{#make-a-new-terrain-image-layer-available}

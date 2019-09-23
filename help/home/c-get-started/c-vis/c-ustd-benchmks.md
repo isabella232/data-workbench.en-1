@@ -6,9 +6,6 @@ solution: Analytics
 title: Benchmarks
 topic: Data workbench
 uuid: 2e5255cd-eafd-45de-a16f-70d719d2ac0c
-index: y
-internal: n
-snippet: y
 ---
 
 # Benchmarks{#benchmarks}

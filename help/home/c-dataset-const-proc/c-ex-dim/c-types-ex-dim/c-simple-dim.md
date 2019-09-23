@@ -6,9 +6,6 @@ solution: Analytics
 title: Simple Dimensions
 topic: Data workbench
 uuid: 3bca2354-02c4-4739-a7da-acccdb0efdfd
-index: y
-internal: n
-snippet: y
 ---
 
 # Simple Dimensions{#simple-dimensions}

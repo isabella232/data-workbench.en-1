@@ -6,9 +6,6 @@ solution: Analytics
 title: Export a workspace
 topic: Data workbench
 uuid: 59ea6e46-d2e9-41f9-9c8f-e3071eb65424
-index: y
-internal: n
-snippet: y
 ---
 
 # Export a workspace{#export-a-workspace}

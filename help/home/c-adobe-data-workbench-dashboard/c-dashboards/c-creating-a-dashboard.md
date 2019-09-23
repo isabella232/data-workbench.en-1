@@ -6,9 +6,6 @@ solution: Analytics
 title: Creating a Dashboard
 topic: Data workbench
 uuid: 5b9e9db2-d7ac-4c97-8df0-74a9e5a0c496
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating a Dashboard{#creating-a-dashboard}

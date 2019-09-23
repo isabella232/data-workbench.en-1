@@ -6,9 +6,6 @@ solution: Analytics
 title: Enabling IIS
 topic: Data workbench
 uuid: fbd194db-3307-41ae-8ece-05eb261d74ad
-index: y
-internal: n
-snippet: y
 ---
 
 # Enabling IIS{#enabling-iis}

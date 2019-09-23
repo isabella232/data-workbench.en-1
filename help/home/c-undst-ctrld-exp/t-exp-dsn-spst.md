@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: Experiment Design Spreadsheet
 topic: Data workbench
 uuid: bcb11e39-9cbd-400c-af30-4b1c85e7f218
-index: y
-internal: n
-snippet: y
 ---
 
 # Experiment Design Spreadsheet{#experiment-design-spreadsheet}

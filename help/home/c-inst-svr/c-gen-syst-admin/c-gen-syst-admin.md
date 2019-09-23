@@ -5,9 +5,6 @@ seo-title: General Systems Administration
 solution: Insight
 title: General Systems Administration
 uuid: 36f87f65-3791-41fd-a4fb-b94f7fa32fac
-index: y
-internal: n
-snippet: y
 ---
 
 # General Systems Administration{#general-systems-administration}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Change the path browser's root
 topic: Data workbench
 uuid: 0bb9b004-9736-411b-bd22-cac04f4733a6
-index: y
-internal: n
-snippet: y
 ---
 
 # Change the path browser's root{#change-the-path-browser-s-root}

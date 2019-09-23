@@ -6,9 +6,6 @@ solution: Analytics
 title: Processing Legend
 topic: Data workbench
 uuid: 6c082c8f-fbb3-4e48-a249-2a13345fda86
-index: y
-internal: n
-snippet: y
 ---
 
 # Processing Legend{#processing-legend}

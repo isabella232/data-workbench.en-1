@@ -6,9 +6,6 @@ solution: Analytics
 title: Implementing Reference Page Tags
 topic: Data workbench
 uuid: be7c26a8-278e-43c2-a452-b6a72d96667e
-index: y
-internal: n
-snippet: y
 ---
 
 # Implementing Reference Page Tags{#implementing-reference-page-tags}

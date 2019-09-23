@@ -6,9 +6,6 @@ solution: Analytics
 title: Correlation Analysis Use Cases
 topic: Data workbench
 uuid: 47328574-6600-44d7-8fff-feff3097488a
-index: y
-internal: n
-snippet: y
 ---
 
 # Correlation Analysis Use Cases{#correlation-analysis-use-cases}

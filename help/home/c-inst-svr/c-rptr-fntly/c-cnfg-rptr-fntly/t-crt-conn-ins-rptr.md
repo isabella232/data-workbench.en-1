@@ -5,9 +5,6 @@ seo-title: Creating a Connection Between Insight and Repeater
 solution: Insight
 title: Creating a Connection Between Insight and Repeater
 uuid: dccce83a-8708-4763-a19a-64d905a9f624
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating a Connection Between Insight and Repeater{#creating-a-connection-between-insight-and-repeater}

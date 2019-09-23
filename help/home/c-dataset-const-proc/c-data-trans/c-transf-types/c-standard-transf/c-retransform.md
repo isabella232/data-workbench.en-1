@@ -6,9 +6,6 @@ solution: Analytics
 title: RETransform
 topic: Data workbench
 uuid: 60b5b60e-678a-416d-b5c3-57b1bbefce7d
-index: y
-internal: n
-snippet: y
 ---
 
 # RETransform{#retransform}

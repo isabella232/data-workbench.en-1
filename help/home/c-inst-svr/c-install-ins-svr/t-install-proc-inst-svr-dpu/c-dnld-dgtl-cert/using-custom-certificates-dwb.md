@@ -4,9 +4,6 @@ seo-description: Instructions for using custom certificates.
 seo-title: Using Custom Certificates in Data Workbench
 title: Using Custom Certificates in Data Workbench
 uuid: c3a2db27-bdb2-44b3-95dd-65eedd05c957
-index: y
-internal: n
-snippet: y
 ---
 
 # Using Custom Certificates in Data Workbench{#using-custom-certificates-in-data-workbench}

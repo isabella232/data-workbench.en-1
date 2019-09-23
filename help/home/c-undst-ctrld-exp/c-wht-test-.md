@@ -6,9 +6,6 @@ solution: Insight,Analytics
 title: What Should I Test?
 topic: Data workbench
 uuid: 9dfe3685-885e-4098-ab1d-ac891ccc5199
-index: y
-internal: n
-snippet: y
 ---
 
 # What Should I Test?{#what-should-i-test}

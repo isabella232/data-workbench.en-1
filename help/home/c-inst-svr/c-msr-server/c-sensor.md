@@ -5,9 +5,6 @@ seo-title: Sensor Requirements
 solution: Analytics
 title: Sensor Requirements
 uuid: 3a4acadd-3725-4652-9776-4fb5035e66d0
-index: y
-internal: n
-snippet: y
 ---
 
 # Sensor Requirements{#sensor-requirements}

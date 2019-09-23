@@ -6,9 +6,6 @@ solution: Analytics
 title: Reusing a segment visualization
 topic: Data workbench
 uuid: 70161c0a-2bd9-4a60-842c-a3f36fbfb7ee
-index: y
-internal: n
-snippet: y
 ---
 
 # Reusing a segment visualization{#reusing-a-segment-visualization}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Creating a Report Set
 topic: Data workbench
 uuid: e6be8d13-d98c-40ef-83c5-af65b667de46
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating a Report Set{#creating-a-report-set}

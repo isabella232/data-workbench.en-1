@@ -6,9 +6,6 @@ solution: Analytics
 title: Hiding Extended Dimensions
 topic: Data workbench
 uuid: c32f47ad-0246-4611-b54c-0c9f0eb396bd
-index: y
-internal: n
-snippet: y
 ---
 
 # Hiding Extended Dimensions{#hiding-extended-dimensions}

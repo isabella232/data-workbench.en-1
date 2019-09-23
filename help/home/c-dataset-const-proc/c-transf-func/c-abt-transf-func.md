@@ -6,9 +6,6 @@ solution: Analytics
 title: About Transformation Functionality
 topic: Data workbench
 uuid: f797f283-025b-4fb5-a110-84a9483dccaa
-index: y
-internal: n
-snippet: y
 ---
 
 # About Transformation Functionality{#about-transformation-functionality}

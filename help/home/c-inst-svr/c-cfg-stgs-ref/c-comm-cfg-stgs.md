@@ -5,9 +5,6 @@ seo-title: Communications Configuration Settings
 solution: Insight
 title: Communications Configuration Settings
 uuid: 03297cf0-eb55-4db0-b692-eba24fcf947c
-index: y
-internal: n
-snippet: y
 ---
 
 # Communications Configuration Settings{#communications-configuration-settings}

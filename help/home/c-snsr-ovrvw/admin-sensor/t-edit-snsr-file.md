@@ -5,9 +5,6 @@ seo-title: Editing the Sensor txlogd.conf File
 solution: Insight
 title: Editing the Sensor txlogd.conf File
 uuid: e7f41c14-9047-4e1a-be0f-8acc8ecb1160
-index: y
-internal: n
-snippet: y
 ---
 
 # Editing the Sensor txlogd.conf File{#editing-the-sensor-txlogd-conf-file}

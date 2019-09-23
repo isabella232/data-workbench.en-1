@@ -5,9 +5,6 @@ seo-title: WebSphere on AIX
 solution: Insight
 title: WebSphere on AIX
 uuid: a5a3fd79-a7f0-4861-adca-8da3a185d0df
-index: y
-internal: n
-snippet: y
 ---
 
 # WebSphere on AIX{#websphere-on-aix}

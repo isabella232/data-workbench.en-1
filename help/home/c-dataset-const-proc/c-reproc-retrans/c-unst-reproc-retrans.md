@@ -6,9 +6,6 @@ solution: Analytics
 title: Understanding Reprocessing and Retransformation
 topic: Data workbench
 uuid: 0253bc8c-8883-41eb-8a9f-e0685613ff5c
-index: y
-internal: n
-snippet: y
 ---
 
 # Understanding Reprocessing and Retransformation{#understanding-reprocessing-and-retransformation}

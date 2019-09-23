@@ -6,9 +6,6 @@ solution: Analytics
 title: Managing from the Administration Console
 topic: Data workbench
 uuid: 9837d632-f320-4999-9506-62f87b8522a2
-index: y
-internal: n
-snippet: y
 ---
 
 # Managing from the Administration Console{#managing-from-the-administration-console}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Understanding How a Selection Affects Other Visualizations
 topic: Data workbench
 uuid: d46f4e8d-df6f-4a7f-a796-eb9f11536ae5
-index: y
-internal: n
-snippet: y
 ---
 
 # Understanding How a Selection Affects Other Visualizations{#understanding-how-a-selection-affects-other-visualizations}

@@ -4,9 +4,6 @@ seo-description: The Customer Record Service (CRS) export feature lets you expor
 seo-title: Exporting to Analytics Core Services
 title: Exporting to Analytics Core Services
 uuid: 8fd7e8d8-989a-4ad6-bab5-61bfd37b0201
-index: y
-internal: n
-snippet: y
 ---
 
 # Exporting to Analytics Core Services{#exporting-to-analytics-core-services}

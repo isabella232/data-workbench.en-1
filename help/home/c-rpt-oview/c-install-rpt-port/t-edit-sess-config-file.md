@@ -6,9 +6,6 @@ solution: Analytics
 title: Edit the Session Configuration File
 topic: Data workbench
 uuid: c1bcd4d2-9bf5-425a-bda2-7f805983cdc6
-index: y
-internal: n
-snippet: y
 ---
 
 # Edit the Session Configuration File{#edit-the-session-configuration-file}

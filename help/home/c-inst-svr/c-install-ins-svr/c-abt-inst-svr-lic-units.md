@@ -5,9 +5,6 @@ seo-title: About Insight Server License Units
 solution: Insight
 title: About Insight Server License Units
 uuid: e6a48b00-4dc1-416c-9039-01c01b86abbf
-index: y
-internal: n
-snippet: y
 ---
 
 # About Insight Server License Units{#about-insight-server-license-units}

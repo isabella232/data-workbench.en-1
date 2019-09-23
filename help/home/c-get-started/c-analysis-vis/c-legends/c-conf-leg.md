@@ -6,9 +6,6 @@ solution: Analytics
 title: Confidence legends
 topic: Data workbench
 uuid: 2559ff7c-6060-4fee-b509-9ae0c3912016
-index: y
-internal: n
-snippet: y
 ---
 
 # Confidence legends{#confidence-legends}

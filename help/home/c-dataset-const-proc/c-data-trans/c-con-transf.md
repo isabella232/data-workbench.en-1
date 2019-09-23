@@ -6,9 +6,6 @@ solution: Analytics
 title: Conventions for Constructing Transformations
 topic: Data workbench
 uuid: 91dddca6-4c17-4107-b78b-0f8b8870ef8d
-index: y
-internal: n
-snippet: y
 ---
 
 # Conventions for Constructing Transformations{#conventions-for-constructing-transformations}

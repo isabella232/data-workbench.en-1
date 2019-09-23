@@ -6,9 +6,6 @@ solution: Analytics
 title: Configuration option
 topic: Data workbench
 uuid: 1edfcf03-b278-4d81-942c-c9024378e13c
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuration option{#configuration-option}

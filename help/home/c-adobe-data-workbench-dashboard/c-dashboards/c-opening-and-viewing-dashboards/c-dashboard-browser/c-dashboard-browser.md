@@ -6,9 +6,6 @@ solution: Analytics
 title: Dashboard Browser
 topic: Data workbench
 uuid: ab4f81dc-c32e-408b-bcfd-3531766c9054
-index: y
-internal: n
-snippet: y
 ---
 
 # Dashboard Browser{#dashboard-browser}

@@ -6,9 +6,6 @@ solution: Analytics
 title: 2D graphs
 topic: Data workbench
 uuid: f8860fff-4614-4b1a-b217-760bf4d48f20
-index: y
-internal: n
-snippet: y
 ---
 
 # 2D graphs{#d-graphs}

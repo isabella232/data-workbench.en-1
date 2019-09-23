@@ -6,9 +6,6 @@ solution: Analytics
 title: String and Numeric Parameters
 topic: Data workbench
 uuid: 2840967e-dd9e-40b2-91e4-3fdfa38f88e7
-index: y
-internal: n
-snippet: y
 ---
 
 # String and Numeric Parameters{#string-and-numeric-parameters}

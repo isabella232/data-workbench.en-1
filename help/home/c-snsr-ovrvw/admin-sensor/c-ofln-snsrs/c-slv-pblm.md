@@ -5,9 +5,6 @@ seo-title: Solving the Problem
 solution: Insight
 title: Solving the Problem
 uuid: 19d47b06-be12-4adf-9eac-b16cf7131834
-index: y
-internal: n
-snippet: y
 ---
 
 # Solving the Problem{#solving-the-problem}

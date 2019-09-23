@@ -4,9 +4,6 @@ seo-description: Follow these steps to start the onboarding process for Adobe Da
 seo-title: Basic Onboarding Instructions for DWB Managed Services
 title: Basic Onboarding Instructions for DWB Managed Services
 uuid: ad44a4eb-00ea-49c7-8401-58976d8fe39e
-index: y
-internal: n
-snippet: y
 ---
 
 # Basic Onboarding Instructions for DWB Managed Services{#basic-onboarding-instructions-for-dwb-managed-services}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Define Additional Accounts
 topic: Data workbench
 uuid: 5ad98b52-267c-4c36-b43a-ae6ad415de8e
-index: y
-internal: n
-snippet: y
 ---
 
 # Define Additional Accounts{#define-additional-accounts}

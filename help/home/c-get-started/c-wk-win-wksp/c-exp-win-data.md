@@ -6,9 +6,6 @@ solution: Analytics
 title: Export window data
 topic: Data workbench
 uuid: 71a93f35-1096-41ae-8808-e5b94813a52c
-index: y
-internal: n
-snippet: y
 ---
 
 # Export window data{#export-window-data}

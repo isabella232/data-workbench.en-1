@@ -6,9 +6,6 @@ solution: Analytics
 title: Dataset Configuration Tools
 topic: Data workbench
 uuid: 08e1d884-a114-4fbc-90d4-522ea4e50b96
-index: y
-internal: n
-snippet: y
 ---
 
 # Dataset Configuration Tools{#dataset-configuration-tools}

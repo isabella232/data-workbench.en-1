@@ -6,9 +6,6 @@ solution: Analytics
 title: Traffic Profile Dimensions
 topic: Data workbench
 uuid: 9c0dabfc-67c9-4772-99ac-4c503c06ea78
-index: y
-internal: n
-snippet: y
 ---
 
 # Traffic Profile Dimensions{#traffic-profile-dimensions}

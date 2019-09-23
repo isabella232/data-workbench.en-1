@@ -6,9 +6,6 @@ solution: Analytics
 title: Finders
 topic: Data workbench
 uuid: 7a4144f5-133f-48ed-9613-1e42b1313120
-index: y
-internal: n
-snippet: y
 ---
 
 # Finders{#finders}

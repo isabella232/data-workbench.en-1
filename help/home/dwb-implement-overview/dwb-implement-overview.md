@@ -4,9 +4,6 @@ seo-description: The Data Workbench Implementation Guide acts as a reference for
 seo-title: Implementing Adobe Data Workbench
 title: Implementing Adobe Data Workbench
 uuid: 2ea3ef17-29d3-4a68-9444-d9682a773942
-index: y
-internal: n
-snippet: y
 ---
 
 # Implementing Adobe Data Workbench{#implementing-adobe-data-workbench}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Performing Controlled Experiments
 topic: Data workbench
 uuid: 2fe16713-21c8-497a-a765-8cea011d419b
-index: y
-internal: n
-snippet: y
 ---
 
 # Performing Controlled Experiments{#performing-controlled-experiments}

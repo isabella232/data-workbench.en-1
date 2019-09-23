@@ -5,9 +5,6 @@ seo-title: Monitoring Memory Usage
 solution: Insight
 title: Monitoring Memory Usage
 uuid: e7f1c51b-d874-43f4-a074-1c064b5f298a
-index: y
-internal: n
-snippet: y
 ---
 
 # Monitoring Memory Usage{#monitoring-memory-usage}

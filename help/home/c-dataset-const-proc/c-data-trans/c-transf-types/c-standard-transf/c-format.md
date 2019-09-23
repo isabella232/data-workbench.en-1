@@ -6,9 +6,6 @@ solution: Analytics
 title: Format
 topic: Data workbench
 uuid: c596902e-21bc-4ce6-9ca4-7ca86dfc0a6c
-index: y
-internal: n
-snippet: y
 ---
 
 # Format{#format}

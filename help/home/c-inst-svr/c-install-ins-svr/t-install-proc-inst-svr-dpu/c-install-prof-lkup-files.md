@@ -5,9 +5,6 @@ seo-title: Installing Profiles and Lookup Files
 solution: Insight
 title: Installing Profiles and Lookup Files
 uuid: edc670a6-ebc9-4a20-a66f-81dd4adf7433
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing Profiles and Lookup Files{#installing-profiles-and-lookup-files}

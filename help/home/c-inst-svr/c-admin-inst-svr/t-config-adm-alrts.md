@@ -5,9 +5,6 @@ seo-title: Configuring Administrative Alerts
 solution: Insight
 title: Configuring Administrative Alerts
 uuid: 398e088b-ff83-46ae-a20c-ba0b50d85702
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring Administrative Alerts{#configuring-administrative-alerts}

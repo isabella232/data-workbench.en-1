@@ -4,9 +4,6 @@ seo-description: Best Fit Attribution is a machine-learning approach to assignin
 seo-title: Best Fit Attribution
 title: Best Fit Attribution
 uuid: 0c51beb3-8f74-4f8e-9722-0c885140c8ce
-index: y
-internal: n
-snippet: y
 ---
 
 # Best Fit Attribution{#best-fit-attribution}

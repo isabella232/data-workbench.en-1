@@ -6,9 +6,6 @@ solution: Analytics
 title: Transformation Dataset Include Files
 topic: Data workbench
 uuid: 46756f68-843c-4b0d-a79e-f107ef85db6c
-index: y
-internal: n
-snippet: y
 ---
 
 # Transformation Dataset Include Files{#transformation-dataset-include-files}

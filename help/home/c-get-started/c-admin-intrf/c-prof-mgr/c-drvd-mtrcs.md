@@ -6,9 +6,6 @@ solution: Analytics
 title: Work with derived metrics
 topic: Data workbench
 uuid: 9767c170-e0cb-47b4-94f1-e9f6950b5926
-index: y
-internal: n
-snippet: y
 ---
 
 # Work with derived metrics{#work-with-derived-metrics}

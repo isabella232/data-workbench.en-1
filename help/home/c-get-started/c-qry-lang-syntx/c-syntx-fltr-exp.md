@@ -6,9 +6,6 @@ solution: Analytics
 title: Syntax for filter expressions
 topic: Data workbench
 uuid: faeb6847-3295-48ab-9d1c-db00f57647ba
-index: y
-internal: n
-snippet: y
 ---
 
 # Syntax for filter expressions{#syntax-for-filter-expressions}

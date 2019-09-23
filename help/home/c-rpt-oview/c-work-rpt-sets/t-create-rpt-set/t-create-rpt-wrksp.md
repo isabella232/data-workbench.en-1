@@ -6,9 +6,6 @@ solution: Analytics
 title: Create the Report Server Workspaces
 topic: Data workbench
 uuid: 818569c7-fff9-4277-996b-8c47e4ef1dbc
-index: y
-internal: n
-snippet: y
 ---
 
 # Create the Report Server Workspaces{#create-the-report-server-workspaces}

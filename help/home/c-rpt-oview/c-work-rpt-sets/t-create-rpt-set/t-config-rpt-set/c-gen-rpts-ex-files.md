@@ -6,9 +6,6 @@ solution: Analytics
 title: Generating Reports as Microsoft Excel Files
 topic: Data workbench
 uuid: 0717a916-93d6-4b8e-a2ff-e9179ba4a66e
-index: y
-internal: n
-snippet: y
 ---
 
 # Generating Reports as Microsoft Excel Files{#generating-reports-as-microsoft-excel-files}

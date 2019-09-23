@@ -6,9 +6,6 @@ solution: Analytics
 title: Server Monitor interface
 topic: Data workbench
 uuid: 609dd8ea-31a9-44c1-ab75-ca783ec85650
-index: y
-internal: n
-snippet: y
 ---
 
 # Server Monitor interface{#server-monitor-interface}

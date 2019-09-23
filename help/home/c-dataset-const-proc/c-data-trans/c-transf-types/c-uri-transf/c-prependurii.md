@@ -6,9 +6,6 @@ solution: Analytics
 title: PrependURI
 topic: Data workbench
 uuid: 3f2fb1a7-83f7-481e-b892-0937acd379f9
-index: y
-internal: n
-snippet: y
 ---
 
 # PrependURI{#prependuri}

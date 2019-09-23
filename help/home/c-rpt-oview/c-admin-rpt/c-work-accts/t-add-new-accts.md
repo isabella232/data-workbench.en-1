@@ -6,9 +6,6 @@ solution: Analytics
 title: Adding New Accounts
 topic: Data workbench
 uuid: 32081bc3-9050-42a2-95ad-85e7736fe5c4
-index: y
-internal: n
-snippet: y
 ---
 
 # Adding New Accounts{#adding-new-accounts}

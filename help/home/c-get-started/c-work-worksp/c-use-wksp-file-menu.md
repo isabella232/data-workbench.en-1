@@ -6,9 +6,6 @@ solution: Analytics
 title: Workspace File menu
 topic: Data workbench
 uuid: abbdb2db-d918-4edf-977c-1daaf8a71721
-index: y
-internal: n
-snippet: y
 ---
 
 # Workspace File menu{#workspace-file-menu}

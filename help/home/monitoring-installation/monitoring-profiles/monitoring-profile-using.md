@@ -6,9 +6,6 @@ solution: Analytics
 title: Data Workbench Profile Status workspace
 topic: Data workbench
 uuid: b54713c8-863d-4376-8ebf-4a2985e28c76
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench Profile Status workspace{#data-workbench-profile-status-workspace}

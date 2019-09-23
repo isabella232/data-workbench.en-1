@@ -5,9 +5,6 @@ seo-title: How Does the Data Collection Process Work?
 solution: Insight
 title: How Does the Data Collection Process Work?
 uuid: d34e5938-217b-4a1e-b96e-55a02b1c3af0
-index: y
-internal: n
-snippet: y
 ---
 
 # How Does the Data Collection Process Work?{#how-does-the-data-collection-process-work}

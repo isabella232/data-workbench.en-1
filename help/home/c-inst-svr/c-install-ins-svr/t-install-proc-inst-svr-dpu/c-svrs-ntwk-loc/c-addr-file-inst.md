@@ -5,9 +5,6 @@ seo-title: The Address File Installed on Insight Server
 solution: Insight
 title: The Address File Installed on Insight Server
 uuid: a58d36d8-e1a3-43e7-91c5-c57351e1be49
-index: y
-internal: n
-snippet: y
 ---
 
 # The Address File Installed on Insight Server{#the-address-file-installed-on-insight-server}

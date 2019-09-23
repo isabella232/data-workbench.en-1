@@ -6,9 +6,6 @@ solution: Analytics
 title: Statistical display in tables
 topic: Data workbench
 uuid: 80800439-169e-44cd-9810-bbe39dfa9541
-index: y
-internal: n
-snippet: y
 ---
 
 # Statistical display in tables{#statistical-display-in-tables}

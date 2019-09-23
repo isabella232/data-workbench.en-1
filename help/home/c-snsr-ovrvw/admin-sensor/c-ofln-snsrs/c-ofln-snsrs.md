@@ -5,9 +5,6 @@ seo-title: Dealing with Offline Sensors
 solution: Insight
 title: Dealing with Offline Sensors
 uuid: a8be847d-e506-4fbc-9d57-a28ff0cbeff2
-index: y
-internal: n
-snippet: y
 ---
 
 # Dealing with Offline Sensors{#dealing-with-offline-sensors}

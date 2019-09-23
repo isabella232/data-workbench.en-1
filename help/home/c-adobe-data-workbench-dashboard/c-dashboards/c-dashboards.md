@@ -6,9 +6,6 @@ solution: Analytics
 title: Dashboards
 topic: Data workbench
 uuid: 578d29b2-3609-4f64-b800-4b453f10083d
-index: y
-internal: n
-snippet: y
 ---
 
 # Dashboards{#dashboards}

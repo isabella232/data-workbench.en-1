@@ -6,9 +6,6 @@ solution: Analytics
 title: Metric and dimension menus
 topic: Data workbench
 uuid: 0dfae2bd-6c33-4496-83ea-f7f6de960259
-index: y
-internal: n
-snippet: y
 ---
 
 # Metric and dimension menus{#metric-and-dimension-menus}

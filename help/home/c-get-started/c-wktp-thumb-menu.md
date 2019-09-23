@@ -6,9 +6,6 @@ solution: Analytics
 title: Using the Worktop thumbnail menu
 topic: Data workbench
 uuid: bada2260-3ae7-4fb6-938a-40b7acb1ffa7
-index: y
-internal: n
-snippet: y
 ---
 
 # Using the Worktop thumbnail menu{#using-the-worktop-thumbnail-menu}

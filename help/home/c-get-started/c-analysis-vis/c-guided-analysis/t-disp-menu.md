@@ -6,9 +6,6 @@ solution: Analytics
 title: Display the Dimension menu
 topic: Data workbench
 uuid: e2c4fa8d-3559-45bd-8ec5-d064c763b20b
-index: y
-internal: n
-snippet: y
 ---
 
 # Display the Dimension menu{#display-the-dimension-menu}

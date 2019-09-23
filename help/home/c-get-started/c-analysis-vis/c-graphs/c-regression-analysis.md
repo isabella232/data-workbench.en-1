@@ -4,9 +4,6 @@ seo-description: The Bar Graph in Data Workbench now includes a regression compa
 seo-title: Regression Analysis Graph
 title: Regression Analysis Graph
 uuid: 8512890e-f42b-4dce-826a-2b4bf2a215f4
-index: y
-internal: n
-snippet: y
 ---
 
 # Regression Analysis Graph{#regression-analysis-graph}

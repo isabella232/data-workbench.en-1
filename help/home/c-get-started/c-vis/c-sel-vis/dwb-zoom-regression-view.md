@@ -4,9 +4,6 @@ seo-description: Use the Zoom feature to see metric labels in a visualization wi
 seo-title: Zoom to View Visualizations
 title: Zoom to View Visualizations
 uuid: f2ce3324-46df-4b86-9aa8-2003e7a327b6
-index: y
-internal: n
-snippet: y
 ---
 
 # Zoom to View Visualizations{#zoom-to-view-visualizations}

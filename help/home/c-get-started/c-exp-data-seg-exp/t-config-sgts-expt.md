@@ -6,9 +6,6 @@ solution: Analytics
 title: Configure segments for export
 topic: Data workbench
 uuid: 651be834-ee41-4487-8c5a-30d94580f6a0
-index: y
-internal: n
-snippet: y
 ---
 
 # Configure segments for export{#configure-segments-for-export}

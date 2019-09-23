@@ -4,9 +4,6 @@ seo-description: After you have installed the Insight program files, you must do
 seo-title: Downloading and Installing the Digital Certificate
 title: Downloading and Installing the Digital Certificate
 uuid: 93ab2222-a977-4279-9e1e-71038b1d1cfa
-index: y
-internal: n
-snippet: y
 ---
 
 # Downloading and Installing the Digital Certificate{#downloading-and-installing-the-digital-certificate}

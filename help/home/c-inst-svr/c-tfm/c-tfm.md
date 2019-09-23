@@ -5,9 +5,6 @@ seo-title: Transform
 solution: Insight
 title: Transform
 uuid: 17538912-caca-4953-ad84-b832be555dbf
-index: y
-internal: n
-snippet: y
 ---
 
 # Transform{#transform}

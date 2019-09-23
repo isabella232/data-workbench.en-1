@@ -6,9 +6,6 @@ solution: Analytics
 title: Text annotations
 topic: Data workbench
 uuid: 08dd7f57-ccab-430a-b2a3-469f86b86dd2
-index: y
-internal: n
-snippet: y
 ---
 
 # Text annotations{#text-annotations}

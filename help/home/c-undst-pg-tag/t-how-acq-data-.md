@@ -6,9 +6,6 @@ solution: Analytics
 title: How Do I Acquire this Data_
 topic: Data workbench
 uuid: c0d8b01e-a135-4ef7-8159-811766929f62
-index: y
-internal: n
-snippet: y
 ---
 
 # How Do I Acquire this Data_{#how-do-i-acquire-this-data}

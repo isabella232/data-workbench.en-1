@@ -4,9 +4,6 @@ seo-description: Adobe Analytics will update and enhance its data feed powering 
 seo-title: Updates for April MR 2014
 title: Updates for April MR 2014
 uuid: 119bcf2e-8a09-413e-8bb6-d479cc979256
-index: y
-internal: n
-snippet: y
 ---
 
 # Updates for April MR 2014{#updates-for-april-mr}

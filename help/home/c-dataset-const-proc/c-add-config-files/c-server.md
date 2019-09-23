@@ -6,9 +6,6 @@ solution: Analytics
 title: Server.cfg
 topic: Data workbench
 uuid: 7e789133-09fc-442d-b643-cca8620f4a97
-index: y
-internal: n
-snippet: y
 ---
 
 # Server.cfg{#server-cfg}

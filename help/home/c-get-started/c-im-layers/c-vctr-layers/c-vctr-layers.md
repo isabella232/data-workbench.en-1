@@ -6,9 +6,6 @@ solution: Analytics
 title: Working with vector layers
 topic: Data workbench
 uuid: 10a3422f-ccd8-46cc-99c2-60e70601e543
-index: y
-internal: n
-snippet: y
 ---
 
 # Working with vector layers{#working-with-vector-layers}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Selecting Data Using Other Methods
 topic: Data workbench
 uuid: 0e2b8e6d-d696-4597-9f85-1968b18cfbc8
-index: y
-internal: n
-snippet: y
 ---
 
 # Selecting Data Using Other Methods{#selecting-data-using-other-methods}

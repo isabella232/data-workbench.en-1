@@ -4,9 +4,6 @@ seo-description: The different types of Derived (Client Side) Dimensions and how
 seo-title: Derived Dimensions Setup
 title: Derived Dimensions Setup
 uuid: 9d2416fb-1c29-45a8-91d0-ddca575224ad
-index: y
-internal: n
-snippet: y
 ---
 
 # Derived Dimensions Setup{#derived-dimensions-setup}

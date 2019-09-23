@@ -4,9 +4,6 @@ seo-description: Documentation for configuring and implementing DWB.
 seo-title: Data Workbench Configuration and Implementation
 title: Data Workbench Configuration and Implementation
 uuid: a6f55cb5-c348-419c-9d21-c3fe608d4ab6
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench Configuration and Implementation{#data-workbench-configuration-and-implementation}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Configuring Report.cfg Files
 topic: Data workbench
 uuid: b6ce1621-283f-458d-a88d-a062539d243b
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring Report.cfg Files{#configuring-report-cfg-files}

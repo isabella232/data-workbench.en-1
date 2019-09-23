@@ -6,9 +6,6 @@ solution: Analytics
 title: Upgrading and Uninstalling Report Server
 topic: Data workbench
 uuid: 42f0d190-1a88-424d-be4b-90338144d287
-index: y
-internal: n
-snippet: y
 ---
 
 # Upgrading and Uninstalling Report Server{#upgrading-and-uninstalling-report-server}

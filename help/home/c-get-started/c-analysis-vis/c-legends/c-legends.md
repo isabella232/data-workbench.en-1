@@ -6,9 +6,6 @@ solution: Analytics
 title: Legends
 topic: Data workbench
 uuid: c2e7c43f-2e9d-41ac-bb18-08d00776e8b2
-index: y
-internal: n
-snippet: y
 ---
 
 # Legends{#legends}

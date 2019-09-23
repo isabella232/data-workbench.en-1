@@ -6,9 +6,6 @@ solution: Analytics
 title: Distributing Reports
 topic: Data workbench
 uuid: 0e993635-1aa8-4314-91aa-b4f8f002fa09
-index: y
-internal: n
-snippet: y
 ---
 
 # Distributing Reports{#distributing-reports}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Built-in Profile Filters
 topic: Data workbench
 uuid: d6854d2c-4643-476e-8a44-f188e18cb115
-index: y
-internal: n
-snippet: y
 ---
 
 # Built-in Profile Filters{#built-in-profile-filters}

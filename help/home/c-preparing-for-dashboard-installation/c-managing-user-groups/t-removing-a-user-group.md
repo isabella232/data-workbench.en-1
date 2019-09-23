@@ -6,9 +6,6 @@ solution: Analytics
 title: Removing a User Group
 topic: Data workbench
 uuid: 722f7ef9-5f93-4944-a1d2-4fbd7833b4f7
-index: y
-internal: n
-snippet: y
 ---
 
 # Removing a User Group{#removing-a-user-group}

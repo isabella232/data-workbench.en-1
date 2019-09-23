@@ -6,9 +6,6 @@ solution: Analytics
 title: Workspaces for Monitoring the Data Workbench Server
 topic: Data workbench
 uuid: 07bd0749-1d3b-46ef-9c85-5e694a306db1
-index: y
-internal: n
-snippet: y
 ---
 
 # Workspaces for Monitoring the Data Workbench Server{#workspaces-for-monitoring-the-data-workbench-server}

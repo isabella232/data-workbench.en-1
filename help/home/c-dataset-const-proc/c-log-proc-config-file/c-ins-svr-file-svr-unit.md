@@ -6,9 +6,6 @@ solution: Analytics
 title: Configuring a Data Workbench Server File Server Unit
 topic: Data workbench
 uuid: ccb65952-f017-4434-b2f8-74c274450834
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring a Data Workbench Server File Server Unit{#configuring-a-data-workbench-server-file-server-unit}

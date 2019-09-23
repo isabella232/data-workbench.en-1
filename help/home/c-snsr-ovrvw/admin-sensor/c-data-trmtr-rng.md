@@ -5,9 +5,6 @@ seo-title: Confirming that the Data Transmitter is Running
 solution: Insight
 title: Confirming that the Data Transmitter is Running
 uuid: 8dd6307c-e7d2-4800-88c7-f93385b33ca5
-index: y
-internal: n
-snippet: y
 ---
 
 # Confirming that the Data Transmitter is Running{#confirming-that-the-data-transmitter-is-running}

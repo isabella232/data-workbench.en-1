@@ -6,9 +6,6 @@ solution: Analytics
 title: Exporting data using segment export
 topic: Data workbench
 uuid: a6468e76-fe5a-4807-806e-015063f9627a
-index: y
-internal: n
-snippet: y
 ---
 
 # Exporting data using segment export{#exporting-data-using-segment-export}

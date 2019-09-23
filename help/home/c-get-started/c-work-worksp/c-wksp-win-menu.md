@@ -6,9 +6,6 @@ solution: Analytics
 title: Using the workspace Window menu
 topic: Data workbench
 uuid: 0fa153c1-5d68-4777-98ee-9682fd4adc41
-index: y
-internal: n
-snippet: y
 ---
 
 # Using the workspace Window menu{#using-the-workspace-window-menu}

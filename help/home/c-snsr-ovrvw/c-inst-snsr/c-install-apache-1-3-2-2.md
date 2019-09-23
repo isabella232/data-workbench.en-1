@@ -4,9 +4,6 @@ seo-description: Instructions for installing and configuring Sensor for Apache S
 seo-title: Apache Server 1.3, 2, 2.2, or 2.4 on Windows Server 2000 or Later
 title: Apache Server 1.3, 2, 2.2, or 2.4 on Windows Server 2000 or Later
 uuid: e159ed83-6004-4f65-a3b7-502cac1d0862
-index: y
-internal: n
-snippet: y
 ---
 
 # Apache Server 1.3, 2, 2.2, or 2.4 on Windows Server 2000 or Later{#apache-server-or-on-windows-server-or-later}

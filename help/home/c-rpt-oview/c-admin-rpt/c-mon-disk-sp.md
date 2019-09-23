@@ -6,9 +6,6 @@ solution: Analytics
 title: Monitoring Disk Space
 topic: Data workbench
 uuid: 590c8239-d20e-470e-b633-7785b75daaa6
-index: y
-internal: n
-snippet: y
 ---
 
 # Monitoring Disk Space{#monitoring-disk-space}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Add and change a metric
 topic: Data workbench
 uuid: fa4c1f8a-628e-4f51-b088-a398d6d7c315
-index: y
-internal: n
-snippet: y
 ---
 
 # Add and change a metric{#add-and-change-a-metric}

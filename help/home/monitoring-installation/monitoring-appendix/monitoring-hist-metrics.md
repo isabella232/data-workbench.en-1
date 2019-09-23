@@ -6,9 +6,6 @@ solution: Analytics
 title: Metrics in the Data Workbench Historical Monitoring profile
 topic: Data workbench
 uuid: 47b874f7-8acb-4593-9ac9-5997d5279e52
-index: y
-internal: n
-snippet: y
 ---
 
 # Metrics in the Data Workbench Historical Monitoring profile{#metrics-in-the-data-workbench-historical-monitoring-profile}

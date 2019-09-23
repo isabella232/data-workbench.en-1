@@ -6,9 +6,6 @@ solution: Analytics
 title: Math
 topic: Data workbench
 uuid: 9e1a5950-8fb2-48e9-b9a1-82c5165fba10
-index: y
-internal: n
-snippet: y
 ---
 
 # Math{#math}

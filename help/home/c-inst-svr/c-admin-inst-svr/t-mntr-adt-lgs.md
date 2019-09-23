@@ -5,9 +5,6 @@ seo-title: Monitoring Audit Logs
 solution: Insight
 title: Monitoring Audit Logs
 uuid: 38af9328-3f72-48a4-a0de-bf7477fedc25
-index: y
-internal: n
-snippet: y
 ---
 
 # Monitoring Audit Logs{#monitoring-audit-logs}

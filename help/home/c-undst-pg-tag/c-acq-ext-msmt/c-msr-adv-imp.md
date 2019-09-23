@@ -6,9 +6,6 @@ solution: Analytics
 title: Measuring Advertisement Impression
 topic: Data workbench
 uuid: ca2bd6bf-4f49-406c-b47a-18d6abfb48a4
-index: y
-internal: n
-snippet: y
 ---
 
 # Measuring Advertisement Impression{#measuring-advertisement-impression}

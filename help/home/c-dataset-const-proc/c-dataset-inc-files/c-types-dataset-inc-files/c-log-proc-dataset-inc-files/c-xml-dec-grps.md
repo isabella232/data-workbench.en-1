@@ -6,9 +6,6 @@ solution: Analytics
 title: XML Decoder Groups
 topic: Data workbench
 uuid: 8fc9ab80-9a71-4fe2-a646-e830ffeb67b9
-index: y
-internal: n
-snippet: y
 ---
 
 # XML Decoder Groups{#xml-decoder-groups}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Radar visualization
 topic: Data workbench
 uuid: 39d67743-b6c1-46f1-99fd-7c71dfe07932
-index: y
-internal: n
-snippet: y
 ---
 
 # Radar visualization{#radar-visualization}

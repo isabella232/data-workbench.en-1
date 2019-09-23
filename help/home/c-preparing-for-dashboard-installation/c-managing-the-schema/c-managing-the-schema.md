@@ -6,9 +6,6 @@ solution: Analytics
 title: Managing the Schema
 topic: Data workbench
 uuid: fd9a2254-7171-47b9-9db3-b1c320b7df78
-index: y
-internal: n
-snippet: y
 ---
 
 # Managing the Schema{#managing-the-schema}

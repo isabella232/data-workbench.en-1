@@ -6,9 +6,6 @@ solution: Analytics
 title: Initializing and Updating a Profile's Schema Definition
 topic: Data workbench
 uuid: 38e47ded-340e-4f65-b06c-f2e2254f0863
-index: y
-internal: n
-snippet: y
 ---
 
 # Initializing and Updating a Profile's Schema Definition{#initializing-and-updating-a-profile-s-schema-definition}

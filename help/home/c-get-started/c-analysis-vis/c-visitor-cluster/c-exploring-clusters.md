@@ -6,9 +6,6 @@ solution: Analytics
 title: Exploring Clusters
 topic: Data workbench
 uuid: b0a07525-c586-466a-ac5e-7c7674cb58f8
-index: y
-internal: n
-snippet: y
 ---
 
 # Exploring Clusters{#exploring-clusters}

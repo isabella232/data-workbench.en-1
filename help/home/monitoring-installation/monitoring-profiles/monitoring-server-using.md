@@ -6,9 +6,6 @@ solution: Analytics
 title: Data Workbench Server Status workspace
 topic: Data workbench
 uuid: d8bba770-86d3-40e6-bae0-8d635891e481
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench Server Status workspace{#data-workbench-server-status-workspace}

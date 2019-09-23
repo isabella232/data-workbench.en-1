@@ -6,9 +6,6 @@ solution: Analytics
 title: Types of Extended Dimensions
 topic: Data workbench
 uuid: 68f42903-0599-43f2-8b5b-da9e171d77b1
-index: y
-internal: n
-snippet: y
 ---
 
 # Types of Extended Dimensions{#types-of-extended-dimensions}

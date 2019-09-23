@@ -6,9 +6,6 @@ solution: Analytics
 title: REMatch
 topic: Data workbench
 uuid: 8ef80bfa-aea2-45a1-a7d9-38ad33043886
-index: y
-internal: n
-snippet: y
 ---
 
 # REMatch{#rematch}

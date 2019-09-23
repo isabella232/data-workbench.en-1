@@ -5,9 +5,6 @@ seo-title: Installing the Master Insight Server
 solution: Insight
 title: Installing the Master Insight Server
 uuid: a73214f3-b175-4e9e-8802-7a8451d86d3a
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing the Master Insight Server{#installing-the-master-insight-server}

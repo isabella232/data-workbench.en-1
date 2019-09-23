@@ -6,9 +6,6 @@ solution: Analytics
 title: Installing the Input Method Editor
 topic: Data workbench
 uuid: 2a4dc6de-9dd7-4280-b410-fb88a135fe45
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing the Input Method Editor{#installing-the-input-method-editor}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Glossary
 topic: Data workbench
 uuid: 9c832e10-f518-4a76-b06e-2fd7ea1fd985
-index: y
-internal: n
-snippet: y
 ---
 
 # Glossary{#glossary}

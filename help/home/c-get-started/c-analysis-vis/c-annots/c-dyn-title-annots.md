@@ -6,9 +6,6 @@ solution: Analytics
 title: Dynamic title annotations
 topic: Data workbench
 uuid: ae01b251-8888-474e-a94e-13badeea0dff
-index: y
-internal: n
-snippet: y
 ---
 
 # Dynamic title annotations{#dynamic-title-annotations}

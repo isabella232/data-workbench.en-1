@@ -5,9 +5,6 @@ seo-title: Installation Procedures for an Insight Server DPU
 solution: Insight
 title: Installation Procedures for an Insight Server DPU
 uuid: 4a04d333-3264-4c15-87fd-8fd201eb68fc
-index: y
-internal: n
-snippet: y
 ---
 
 # Installation Procedures for an Insight Server DPU{#installation-procedures-for-an-insight-server-dpu}

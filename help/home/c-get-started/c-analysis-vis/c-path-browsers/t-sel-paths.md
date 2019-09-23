@@ -6,9 +6,6 @@ solution: Analytics
 title: Select a path
 topic: Data workbench
 uuid: 3131df2f-674f-44b8-9006-d8cb1ecf3874
-index: y
-internal: n
-snippet: y
 ---
 
 # Select a path{#select-a-path}

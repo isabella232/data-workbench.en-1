@@ -6,9 +6,6 @@ solution: Analytics
 title: Making a New Element Point Layer Available
 topic: Data workbench
 uuid: 7880de63-d206-4c56-b8cf-75882d867ace
-index: y
-internal: n
-snippet: y
 ---
 
 # Making a New Element Point Layer Available{#making-a-new-element-point-layer-available}

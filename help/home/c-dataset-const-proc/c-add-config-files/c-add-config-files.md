@@ -6,9 +6,6 @@ solution: Analytics
 title: Additional Configuration Files
 topic: Data workbench
 uuid: a8faf8aa-0218-445a-92a0-2cef6f4c26f3
-index: y
-internal: n
-snippet: y
 ---
 
 # Additional Configuration Files{#additional-configuration-files}

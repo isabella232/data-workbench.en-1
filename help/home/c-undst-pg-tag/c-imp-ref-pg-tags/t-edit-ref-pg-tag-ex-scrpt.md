@@ -6,9 +6,6 @@ solution: Analytics
 title: Editing the Reference Page Tag Execution Script
 topic: Data workbench
 uuid: 0db00b89-e420-423d-9b88-8b724baa828f
-index: y
-internal: n
-snippet: y
 ---
 
 # Editing the Reference Page Tag Execution Script{#editing-the-reference-page-tag-execution-script}

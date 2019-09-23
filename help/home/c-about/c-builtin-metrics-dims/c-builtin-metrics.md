@@ -6,9 +6,6 @@ solution: Analytics
 title: Built-in Metrics
 topic: Data workbench
 uuid: 1e4d91dc-0130-4296-8395-fd2ddb03f6ef
-index: y
-internal: n
-snippet: y
 ---
 
 # Built-in Metrics{#built-in-metrics}

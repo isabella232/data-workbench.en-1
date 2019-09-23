@@ -6,9 +6,6 @@ solution: Analytics
 title: Make a new vector layer available
 topic: Data workbench
 uuid: 7bfbae0d-e5db-4aa2-8a8b-15b4980aadb5
-index: y
-internal: n
-snippet: y
 ---
 
 # Make a new vector layer available{#make-a-new-vector-layer-available}

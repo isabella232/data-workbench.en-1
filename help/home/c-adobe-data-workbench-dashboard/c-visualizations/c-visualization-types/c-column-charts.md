@@ -6,9 +6,6 @@ solution: Analytics
 title: Column Charts
 topic: Data workbench
 uuid: 2458546f-587c-465e-a4ab-6cf348f37534
-index: y
-internal: n
-snippet: y
 ---
 
 # Column Charts{#column-charts}

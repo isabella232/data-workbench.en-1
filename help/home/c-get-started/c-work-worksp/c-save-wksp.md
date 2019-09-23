@@ -6,9 +6,6 @@ solution: Analytics
 title: Save a workspace
 topic: Data workbench
 uuid: 166f9ef8-c2c4-4dfc-8d7d-453650bee6b8
-index: y
-internal: n
-snippet: y
 ---
 
 # Save a workspace{#save-a-workspace}

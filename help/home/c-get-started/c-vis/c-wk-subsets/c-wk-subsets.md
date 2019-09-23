@@ -6,9 +6,6 @@ solution: Analytics
 title: Subsets
 topic: Data workbench
 uuid: 66347eb5-a7da-479c-a318-1f859568b23b
-index: y
-internal: n
-snippet: y
 ---
 
 # Subsets{#subsets}

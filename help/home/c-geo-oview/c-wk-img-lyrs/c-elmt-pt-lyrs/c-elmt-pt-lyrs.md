@@ -6,9 +6,6 @@ solution: Analytics
 title: Working with Element Point Layers
 topic: Data workbench
 uuid: 71b58e7f-a9f5-479c-855b-7215eb5347f0
-index: y
-internal: n
-snippet: y
 ---
 
 # Working with Element Point Layers{#working-with-element-point-layers}

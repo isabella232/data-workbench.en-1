@@ -6,9 +6,6 @@ solution: Analytics
 title: Cross-Profile Selections
 topic: Data workbench
 uuid: e9377bcf-8de9-4952-a81a-863216f25fb7
-index: y
-internal: n
-snippet: y
 ---
 
 # Cross-Profile Selections{#cross-profile-selections}

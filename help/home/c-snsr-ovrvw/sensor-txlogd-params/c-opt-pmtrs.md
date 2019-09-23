@@ -5,9 +5,6 @@ seo-title: Optional Parameters
 solution: Insight
 title: Optional Parameters
 uuid: 8515a571-93ce-49cd-9ded-c9273259d0ee
-index: y
-internal: n
-snippet: y
 ---
 
 # Optional Parameters{#optional-parameters}

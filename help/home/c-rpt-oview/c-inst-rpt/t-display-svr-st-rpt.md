@@ -6,9 +6,6 @@ solution: Analytics
 title: Displaying Report Server Status
 topic: Data workbench
 uuid: 5260266d-5bd1-4905-9619-f67f6e1bc54c
-index: y
-internal: n
-snippet: y
 ---
 
 # Displaying Report Server Status{#displaying-report-server-status}

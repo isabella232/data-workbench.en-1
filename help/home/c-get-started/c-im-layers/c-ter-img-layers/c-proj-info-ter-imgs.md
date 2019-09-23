@@ -6,9 +6,6 @@ solution: Analytics
 title: Specify projection information for terrain images
 topic: Data workbench
 uuid: cc1e1e35-6b23-4121-a9f5-489001cb2ef8
-index: y
-internal: n
-snippet: y
 ---
 
 # Specify projection information for terrain images{#specify-projection-information-for-terrain-images}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Element Point Lookup File Format
 topic: Data workbench
 uuid: 3480b9f3-35cd-40b7-aac9-15a3e2f19c1c
-index: y
-internal: n
-snippet: y
 ---
 
 # Element Point Lookup File Format{#element-point-lookup-file-format}

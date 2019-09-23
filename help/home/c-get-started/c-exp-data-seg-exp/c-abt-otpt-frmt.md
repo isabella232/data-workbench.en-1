@@ -6,9 +6,6 @@ solution: Analytics
 title: Output format
 topic: Data workbench
 uuid: 12086f14-bad1-4d27-82fb-533e877d0a04
-index: y
-internal: n
-snippet: y
 ---
 
 # Output format{#output-format}

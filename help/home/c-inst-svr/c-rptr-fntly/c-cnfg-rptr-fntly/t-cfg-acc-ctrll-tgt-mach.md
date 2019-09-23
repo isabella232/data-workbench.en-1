@@ -5,9 +5,6 @@ seo-title: Configuring Access Control for Target Machines
 solution: Insight
 title: Configuring Access Control for Target Machines
 uuid: 35e032cf-6c1d-4348-88ce-4f4a6a30b16f
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring Access Control for Target Machines{#configuring-access-control-for-target-machines}

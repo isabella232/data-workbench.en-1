@@ -4,9 +4,6 @@ seo-description: Overview of the administration of Data Workbench.
 seo-title: Data Workbench Administration
 title: Data Workbench Administration
 uuid: 97fc7565-9042-42e8-b6a2-6258783cbe69
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench Administration{#data-workbench-administration}

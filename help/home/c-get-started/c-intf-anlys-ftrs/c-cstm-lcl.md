@@ -6,9 +6,6 @@ solution: Analytics
 title: Customize Data Workbench locally
 topic: Data workbench
 uuid: 9d04ebbf-fa48-4594-9b59-8b7e4c85fe6a
-index: y
-internal: n
-snippet: y
 ---
 
 # Customize Data Workbench locally{#customize-data-workbench-locally}

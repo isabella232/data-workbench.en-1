@@ -5,9 +5,6 @@ seo-title: Configuration Settings Reference
 solution: Insight
 title: Configuration Settings Reference
 uuid: 2ac7d7c7-f97d-47a2-afcd-e06a7142a68f
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuration Settings Reference{#configuration-settings-reference}

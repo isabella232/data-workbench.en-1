@@ -6,9 +6,6 @@ solution: Analytics
 title: Configuring the Connection to the Insight Server
 topic: Data workbench
 uuid: 2018b67e-90a6-41d7-b628-4b463869df6e
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring the Connection to the Insight Server{#configuring-the-connection-to-the-insight-server}

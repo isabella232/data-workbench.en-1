@@ -6,9 +6,6 @@ solution: Analytics
 title: Define element point layers using dynamic points
 topic: Data workbench
 uuid: f4b41969-329a-4c33-a8db-8d85597fa577
-index: y
-internal: n
-snippet: y
 ---
 
 # Define element point layers using dynamic points{#define-element-point-layers-using-dynamic-points}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Downloading and Installing the Digital Certificate
 topic: Data workbench
 uuid: 6104d39f-9a8a-444d-82ea-f0f6996a8122
-index: y
-internal: n
-snippet: y
 ---
 
 # Downloading and Installing the Digital Certificate{#downloading-and-installing-the-digital-certificate}

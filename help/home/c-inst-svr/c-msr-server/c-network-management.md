@@ -5,9 +5,6 @@ seo-title: Network Management
 solution: Analytics
 title: Network Management
 uuid: 458c3eea-60c9-4cf4-b10b-657f69b16a54
-index: y
-internal: n
-snippet: y
 ---
 
 # Network Management{#network-management}

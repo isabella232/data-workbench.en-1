@@ -6,9 +6,6 @@ solution: Analytics
 title: Defining a Transformation
 topic: Data workbench
 uuid: 69dd667b-e465-4c1a-a20e-4384e8988cd0
-index: y
-internal: n
-snippet: y
 ---
 
 # Defining a Transformation{#defining-a-transformation}

@@ -6,9 +6,6 @@ solution: Analytics
 title: Working With Conditions
 topic: Data workbench
 uuid: b6f52b40-26aa-429b-9ff5-3f3b9c9d57a9
-index: y
-internal: n
-snippet: y
 ---
 
 # Working With Conditions{#working-with-conditions}

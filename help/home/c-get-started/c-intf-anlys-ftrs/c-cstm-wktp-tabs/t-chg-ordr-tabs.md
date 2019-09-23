@@ -6,9 +6,6 @@ solution: Analytics
 title: Change the tab order
 topic: Data workbench
 uuid: 6eebc235-20ba-4c3b-8d94-36c0f80869be
-index: y
-internal: n
-snippet: y
 ---
 
 # Change the tab order{#change-the-tab-order}

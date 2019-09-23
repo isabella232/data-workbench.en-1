@@ -6,9 +6,6 @@ solution: Analytics
 title: Dashboard User Interface
 topic: Data workbench
 uuid: cfa6c553-e223-4b0e-8b4a-255afa85c999
-index: y
-internal: n
-snippet: y
 ---
 
 # Dashboard User Interface{#dashboard-user-interface}

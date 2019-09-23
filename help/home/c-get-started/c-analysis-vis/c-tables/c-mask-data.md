@@ -6,9 +6,6 @@ solution: Analytics
 title: Mask data
 topic: Data workbench
 uuid: 81b5f4e0-826c-4803-9169-66a424a4ea9f
-index: y
-internal: n
-snippet: y
 ---
 
 # Mask data{#mask-data}

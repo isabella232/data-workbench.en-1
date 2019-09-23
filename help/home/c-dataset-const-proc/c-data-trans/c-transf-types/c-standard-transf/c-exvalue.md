@@ -6,9 +6,6 @@ solution: Analytics
 title: ExtractValue
 topic: Data workbench
 uuid: 305827a2-04e6-421f-82cb-923d62b02e70
-index: y
-internal: n
-snippet: y
 ---
 
 # ExtractValue{#extractvalue}

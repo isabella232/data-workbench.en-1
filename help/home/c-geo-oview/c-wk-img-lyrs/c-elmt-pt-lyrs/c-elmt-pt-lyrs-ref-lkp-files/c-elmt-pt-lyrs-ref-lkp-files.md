@@ -6,9 +6,6 @@ solution: Analytics
 title: Defining Element Point Layers Referencing Lookup Files
 topic: Data workbench
 uuid: 99d08d43-bdbb-42e1-927a-edf320686c79
-index: y
-internal: n
-snippet: y
 ---
 
 # Defining Element Point Layers Referencing Lookup Files{#defining-element-point-layers-referencing-lookup-files}

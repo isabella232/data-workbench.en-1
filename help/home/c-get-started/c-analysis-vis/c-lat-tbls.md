@@ -6,9 +6,6 @@ solution: Analytics
 title: Latency tables
 topic: Data workbench
 uuid: 8081540c-f96c-424e-802d-05d1be5a728d
-index: y
-internal: n
-snippet: y
 ---
 
 # Latency tables{#latency-tables}

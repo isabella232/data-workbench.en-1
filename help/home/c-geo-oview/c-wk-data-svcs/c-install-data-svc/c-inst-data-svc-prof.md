@@ -6,9 +6,6 @@ solution: Analytics
 title: Installing the Data Service Profile
 topic: Data workbench
 uuid: 1c03d0cd-7eaa-4e48-bbff-8bfad8fed9e9
-index: y
-internal: n
-snippet: y
 ---
 
 # Installing the Data Service Profile{#installing-the-data-service-profile}

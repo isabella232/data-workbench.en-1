@@ -6,9 +6,6 @@ solution: Analytics
 title: System Logs
 topic: Data workbench
 uuid: 8413702b-e3a3-465a-990c-10e4b81a7294
-index: y
-internal: n
-snippet: y
 ---
 
 # System Logs{#system-logs}

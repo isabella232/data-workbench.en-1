@@ -6,9 +6,6 @@ solution: Analytics
 title: Data Workbench Page Tagging
 topic: Data workbench
 uuid: 2b248a41-d2ef-461a-9190-226097c8c7eb
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Workbench Page Tagging{#data-workbench-page-tagging}

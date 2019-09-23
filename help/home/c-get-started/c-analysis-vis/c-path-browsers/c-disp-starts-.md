@@ -6,9 +6,6 @@ solution: Analytics
 title: Display the start and end of paths
 topic: Data workbench
 uuid: b5294111-393c-44d9-a641-18ecd566797f
-index: y
-internal: n
-snippet: y
 ---
 
 # Display the start and end of paths{#display-the-start-and-end-of-paths}

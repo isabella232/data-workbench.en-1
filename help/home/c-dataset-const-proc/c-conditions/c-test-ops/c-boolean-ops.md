@@ -6,9 +6,6 @@ solution: Analytics
 title: Boolean Operations
 topic: Data workbench
 uuid: 01143bc2-c867-434c-8028-86d4708e8b80
-index: y
-internal: n
-snippet: y
 ---
 
 # Boolean Operations{#boolean-operations}

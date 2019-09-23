@@ -6,9 +6,6 @@ solution: Analytics
 title: Pie Chart
 topic: Data workbench
 uuid: 94387e7f-ce54-44fc-bfb8-b079e59aee02
-index: y
-internal: n
-snippet: y
 ---
 
 # Pie Chart{#pie-chart}
