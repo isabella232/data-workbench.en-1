@@ -14,9 +14,9 @@ Follow the below steps for setting up the Query API:
 
 1. Query API Certificate Acquisition
 
-   Send an Email to the Tech Ops Team of Adobe Email - Dataworkbench@adobe.com.
+   Send an Email to the Tech Ops Team of Adobe Email - `Dataworkbench@adobe.com`.
 
-   Please provide the CN name you want to use for the Query API( provide a generic name like <Client> Query API). 
+   Please provide the CN name you want to use for the Query API( provide a generic name like `<Client>` Query API). 
 
    >[!NOTE]
    >

@@ -12,7 +12,7 @@ uuid: 2ccedf63-12d9-40e9-912a-aee030191b1e
 
 Conceptual information to consider when editing the Log Processing.cfg file.
 
-* Data files should not be moved between directories after the sources for a dataset have been defined. The only additional files a directory should receive are newly created ones that result from the data workbench server receiving data from [!DNL Sensor](s). 
+* Data files should not be moved between directories after the sources for a dataset have been defined. The only additional files a directory should receive are newly created ones that result from the data workbench server receiving data from Sensor(s). 
 * Changing any of the parameters in this file requires reprocessing of all the data. The Pause parameter in the [!DNL Log Processing Mode.cfg] file must be set to false for reprocessing to occur. (Note that this parameter's default value is false, so changing the parameter may not be required.) For information about the [!DNL Log Processing Mode.cfg] file, see [Additional Configuration Files](../../../home/c-dataset-const-proc/c-add-config-files/c-add-config-files.md#concept-1afef4f88f1e467ab4326875fd1d3004). 
 
 * If you reprocess the data, you can check the Log Processing Progress parameter in data workbench's [!DNL Processing Legend].

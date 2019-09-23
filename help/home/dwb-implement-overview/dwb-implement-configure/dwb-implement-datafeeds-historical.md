@@ -22,7 +22,7 @@ A quick guide for the minimum steps required to validate and set up historical d
 1. Identify the actual feed name for your client. 
 1. Click on History in the Actions Section. ![](assets/dwb_impl_historical1.png)
 
-   Check the status field for any errors and In case some feed is in error state, select the feed and click reprocess. If the error occurred for multiple requests then send an email to *dataworkbench@adobe.com* with Feed ID and Report Suit details to reprocess. 
+   Check the status field for any errors and In case some feed is in error state, select the feed and click reprocess. If the error occurred for multiple requests then send an email to *`dataworkbench@adobe.com`* with Feed ID and Report Suit details to reprocess. 
 
 1. Post-validation checks the logs in the raw folder of the NAS location.
 

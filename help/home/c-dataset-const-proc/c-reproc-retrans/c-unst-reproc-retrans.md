@@ -42,7 +42,7 @@ You also can initiate reprocessing at any time by entering any character or comb
 
 >[!NOTE]
 >
->For reprocessing to occur, the Pause parameter in the [!DNL Log Processing Mode.cfg] file must be set to false. This parameter's default value is false, so changing the parameter may not be required. For more information about [!DNL Log Processing Mode.cfg], see [Additional Configuration Files](c_addl_config_files.md#concept_4C1B059B80BD420C86B1BF1518496F3E).
+>For reprocessing to occur, the Pause parameter in the [!DNL Log Processing Mode.cfg] file must be set to false. This parameter's default value is false, so changing the parameter may not be required. For more information about [!DNL Log Processing Mode.cfg], see [Additional Configuration Files](/help/home/c-dataset-const-proc/c-add-config-files/c-add-config-files.md). 
 
 ## Retransformation {#section-02446744549940ada8eba0573ec5575f}
 

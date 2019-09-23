@@ -149,7 +149,7 @@ In the previous process, you configured a profile for a given dataset to read lo
 
 You must edit the [!DNL Communications.cfg] file on the FSU to specify the location of the log files.
 
-** To specify the location of the log files**
+**To specify the location of the log files**
 
 1. In the [!DNL Server Files Manager] window, click **[!UICONTROL Components]** to show its contents. The [!DNL Communications.cfg] file is located within this directory. 
 
@@ -188,7 +188,7 @@ Adobe strongly recommends that the cluster's FSU serves as the cluster's master 
 
 To make the FSU the centralized normalization server, you must open and edit the [!DNL Communications.cfg] and [!DNL Cluster.cfg] files on the FSU.
 
-** To make the FSU the centralized normalization server**
+**To make the FSU the centralized normalization server**
 
 1. Add a [!DNL NormalizeServer] entry to the [!DNL Communications.cfg] file on the FSU.
 
@@ -196,7 +196,7 @@ To make the FSU the centralized normalization server, you must open and edit the
    >
    >If you have installed the complete release package for data workbench server v5.0 or later, the [!DNL Communications.cfg] file on your FSU should have a [!DNL NormalizeServer] entry already. You can follow the steps below to confirm that the entry exists.
 
-    1. Open the [!DNL Communications.cfg] file in data workbench as described in [Specifying the Location of the Log Files](c_file_svr_config_proc.md#section_F9A649BF1B2544FEB10AD8820384EDB0). 
+    1. Open the [!DNL Communications.cfg] file in data workbench as described in [Specifying the Location of the Log Files](#section-f9a649bf1b2544feb10ad8820384edb0).
     
     1. Click **[!UICONTROL component]** to show its contents. 
     1. Right-click **[!UICONTROL Servers]** and click **[!UICONTROL Add New]** > **[!UICONTROL Centralized Normalization Server]**. 

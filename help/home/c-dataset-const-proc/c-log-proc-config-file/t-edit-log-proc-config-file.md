@@ -78,7 +78,7 @@ Steps to edit the Log Processing.cfg file for a dataset profile.
   </tr> 
   <tr valign="top"> 
    <td colname="col1"> Split Key Bucket Space </td> 
-   <td colname="col2"> <p>Parameter involved in key splitting. Its value should be 6e6 when key splitting is active. See <a href="c_key_split.md#concept_64B416BBE42F4D689F90DF246F7F7CAF" format="dita" scope="local"> Key Splitting </a>. </p> <p> <p>Note:  Do not change this value without consulting Adobe. </p> </p> </td> 
+   <td colname="col2"> <p>Parameter involved in key splitting. Its value should be 6e6 when key splitting is active. See <a href="/help/home/c-dataset-const-proc/c-log-proc-config-file/c-info-log-proc-param.md#key-split" format="dita" scope="local"> Key Splitting </a>. </p> <p> <p>Note:  Do not change this value without consulting Adobe. </p> </p> </td> 
   </tr> 
   <tr valign="top"> 
    <td colname="col1"> Split Key Bytes </td> 

@@ -511,34 +511,40 @@ user-guide: null
          + [Time Dimensions](home/c-dataset-const-proc/c-ex-dim/c-types-ex-dim/c-time-dim.md)
    + Transform Functionality {#transform-functionality}
       + [About Transformation Functionality](home/c-dataset-const-proc/c-transf-func/c-abt-transf-func.md)
-      + [Configuration Files for Transform](home/c-dataset-const-proc/c-transf-func/c-config-files-transf/c-config-files-transf.md)
+      + Configuration Files for Transform {#config-files-transform}
+         + [Configuration Files for Transform](home/c-dataset-const-proc/c-transf-func/c-config-files-transf/c-config-files-transf.md)
          + Transform.cfg File {#transform-cfg-file}
             + [The Transform.cfg File](home/c-dataset-const-proc/c-transf-func/c-config-files-transf/t-ins-transf-file/t-ins-transf-file.md)
             + [Defining Exporters](home/c-dataset-const-proc/c-transf-func/c-config-files-transf/t-ins-transf-file/t-def-exp.md)
             + [Sample Data Workbench Transform.cfg Files](home/c-dataset-const-proc/c-transf-func/c-config-files-transf/t-ins-transf-file/c-sample-transf-files.md)
          + [The Transform Mode.cfg File](home/c-dataset-const-proc/c-transf-func/c-config-files-transf/t-transf-mode-file.md)
          + [The Required Field Definitions.cfg File](home/c-dataset-const-proc/c-transf-func/c-config-files-transf/c-req-field-def-file.md)
-   + [Reprocessing and Retransformation](home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md)
+   + Reprocessing and Retransformation {#reproc-retrans}
       + [Understanding Reprocessing and Retransformation](home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md)
       + [Preparing for Reprocessing or Retransformation](home/c-dataset-const-proc/c-reproc-retrans/t-prep-reproc-retrans.md)
-   + [Dataset Configuration Tools](home/c-dataset-const-proc/c-dataset-config-tools/c-dataset-config-tools.md)
-      + [Working With Dataset Configuration Interfaces](home/c-dataset-const-proc/c-dataset-config-tools/c-dataset-config-int/c-dataset-config-int.md)
+   + Dataset Configuration Tools {#dataset-config-tools}
+      + [Dataset Configuration Tools](home/c-dataset-const-proc/c-dataset-config-tools/c-dataset-config-tools.md)
+      + Dataset Configuration Interfaces {#dataset-config-ui}
+         + [Working With Dataset Configuration Interfaces](home/c-dataset-const-proc/c-dataset-config-tools/c-dataset-config-int/c-dataset-config-int.md)
          + [Dataset Schema](home/c-dataset-const-proc/c-dataset-config-tools/c-dataset-config-int/c-dataset-schema.md)
          + [Dependency Maps](home/c-dataset-const-proc/c-dataset-config-tools/c-dataset-config-int/c-dep-maps.md)
          + [Field Viewers](home/c-dataset-const-proc/c-dataset-config-tools/c-dataset-config-int/c-field-viewers.md)
-      + [Hiding Dataset Components](home/c-dataset-const-proc/c-dataset-config-tools/c-hide-dataset-comp/c-hide-dataset-comp.md)
+      + Hiding Dataset Components {#hide-dataset-comp}
+         + [Hiding Dataset Components](home/c-dataset-const-proc/c-dataset-config-tools/c-hide-dataset-comp/c-hide-dataset-comp.md)
          + [Hiding Extended Dimensions](home/c-dataset-const-proc/c-dataset-config-tools/c-hide-dataset-comp/c-hide-ex-dim.md)
          + [Hiding Dataset Configuration Files](home/c-dataset-const-proc/c-dataset-config-tools/c-hide-dataset-comp/t-hide-dataset-config-files.md)
-   + [Conditions](home/c-dataset-const-proc/c-conditions/c-conditions.md)
+   + Conditions {#conditions}
       + [About Conditions](home/c-dataset-const-proc/c-conditions/c-abt-cond.md)
       + [Working With Conditions](home/c-dataset-const-proc/c-conditions/c-work-cond.md)
-      + [Test Operations](home/c-dataset-const-proc/c-conditions/c-test-ops/c-test-ops.md)
+      + Test Operations {#test-ops}
+         + [Test Operations](home/c-dataset-const-proc/c-conditions/c-test-ops/c-test-ops.md)
          + [Test Operation Conditions](home/c-dataset-const-proc/c-conditions/c-test-ops/c-test-op-con.md)
          + [Test Types for Test Operations](home/c-dataset-const-proc/c-conditions/c-test-ops/c-test-types.md)
          + [Boolean Operations](home/c-dataset-const-proc/c-conditions/c-test-ops/c-boolean-ops.md)
    + [Regular Expressions](home/c-dataset-const-proc/c-reg-exp.md)
    + [Event Data Record Fields](home/c-dataset-const-proc/c-ev-data-rec-fields.md)
-   + [Configuration Settings for Web Data](home/c-dataset-const-proc/c-config-web-data/c-config-web-data.md)
+   + Configuration Settings for Web Data {#config-web-data}
+      + [Configuration Settings for Web Data](home/c-dataset-const-proc/c-config-web-data/c-config-web-data.md)
       + [Web-Specific Settings for Log Processing](home/c-dataset-const-proc/c-config-web-data/c-web-spec-log-proc.md)
       + [Web-Specific Settings for Transformation](home/c-dataset-const-proc/c-config-web-data/c-web-spec-transf.md)
    + [Time Zone Codes](home/c-dataset-const-proc/c-time-zone.md)
@@ -547,26 +553,33 @@ user-guide: null
    + [Generating Reports](home/c-rpt-oview/c-gen-rpts.md)
    + [Distributing Reports](home/c-rpt-oview/c-distrib-rpts.md)
    + [Report Set Requirements](home/c-rpt-oview/c-rpt-set-req.md)
-   + [Working with Report Sets](home/c-rpt-oview/c-work-rpt-sets/c-work-rpt-sets.md)
-      + [Creating a Report Set](home/c-rpt-oview/c-work-rpt-sets/t-create-rpt-set/t-create-rpt-set.md)
+   + Working with Report Sets {#report-sets}
+      + [Working with Report Sets](home/c-rpt-oview/c-work-rpt-sets/c-work-rpt-sets.md)
+      + Creating a Report Set {#create-report-set}
+         + [Creating a Report Set](home/c-rpt-oview/c-work-rpt-sets/t-create-rpt-set/t-create-rpt-set.md)
          + [Create a New Folder for the Report Set](home/c-rpt-oview/c-work-rpt-sets/t-create-rpt-set/t-new-fldr-rpt-set.md)
          + [Create the Report Server Workspaces](home/c-rpt-oview/c-work-rpt-sets/t-create-rpt-set/t-create-rpt-wrksp.md)
+      + Configure the Report Set {#config-report-set}
          + [Configure the Report Set](home/c-rpt-oview/c-work-rpt-sets/t-create-rpt-set/t-config-rpt-set/t-config-rpt-set.md)
-            + [Generating Reports as Microsoft Excel Files](home/c-rpt-oview/c-work-rpt-sets/t-create-rpt-set/t-config-rpt-set/c-gen-rpts-ex-files.md)
-            + [Dynamically Generating Reports](home/c-rpt-oview/c-work-rpt-sets/t-create-rpt-set/t-config-rpt-set/c-dyn-gen-rpts.md)
+         + [Generating Reports as Microsoft Excel Files](home/c-rpt-oview/c-work-rpt-sets/t-create-rpt-set/t-config-rpt-set/c-gen-rpts-ex-files.md)
+         + [Dynamically Generating Reports](home/c-rpt-oview/c-work-rpt-sets/t-create-rpt-set/t-config-rpt-set/c-dyn-gen-rpts.md)
          + [Publish the Report Set to the Data Workbench Server](home/c-rpt-oview/c-work-rpt-sets/t-create-rpt-set/t-pub-rpt-set.md)
       + [Reviewing Report Set Status](home/c-rpt-oview/c-work-rpt-sets/c-rev-rpt-set-stat.md)
-      + [Editing Existing Report.cfg Files](home/c-rpt-oview/c-work-rpt-sets/c-edit-ex-rpt-files/c-edit-ex-rpt-files.md)
+      + Editing Existing Report.cfg Files {#edit-existing-report-files}
+         + [Editing Existing Report.cfg Files](home/c-rpt-oview/c-work-rpt-sets/c-edit-ex-rpt-files/c-edit-ex-rpt-files.md)
          + [Resending Reports by Email](home/c-rpt-oview/c-work-rpt-sets/c-edit-ex-rpt-files/t-res-rpts-email.md)
          + [Email Notification of Completed Report](home/c-rpt-oview/c-work-rpt-sets/c-edit-ex-rpt-files/t-email-not-comp-rpt.md)
-   + [Using the Report Portal](home/c-rpt-oview/c-rpt-portal/c-rpt-portal.md)
+   + Report Portal {#report-portal}
+      + [Using the Report Portal](home/c-rpt-oview/c-rpt-portal/c-rpt-portal.md)
       + [Opening the Report Portal](home/c-rpt-oview/c-rpt-portal/t-open-rpt-port.md)
    + [Advanced Search in the Report Portal](home/c-rpt-oview/c-search-adv.md)
-   + [Installing Report Server](home/c-rpt-oview/c-inst-rpt/c-inst-rpt.md)
+   + Installing Report Server {#install-report-server}
+      + [Installing Report Server](home/c-rpt-oview/c-inst-rpt/c-inst-rpt.md)
       + [Before You Begin](home/c-rpt-oview/c-inst-rpt/c-before-begin.md)
       + [Installation Overview](home/c-rpt-oview/c-inst-rpt/t-install-oview.md)
       + [Installing the Report Program Files](home/c-rpt-oview/c-inst-rpt/t-install-rpt-prg-files.md)
-      + [Downloading and Installing the Digital Certificate](home/c-rpt-oview/c-inst-rpt/c-install-dig-cert/c-install-dig-cert.md)
+      + Digital Certificates {#digital-certs}
+         + [Downloading and Installing the Digital Certificate](home/c-rpt-oview/c-inst-rpt/c-install-dig-cert/c-install-dig-cert.md)
          + [Understanding Digital Certificates](home/c-rpt-oview/c-inst-rpt/c-install-dig-cert/c-underst-dig-cert.md)
          + [Digital Certificate Installation Procedures](home/c-rpt-oview/c-inst-rpt/c-install-dig-cert/t-dig-cert-install-proc.md)
       + [Configuring the Connection to the Insight Server](home/c-rpt-oview/c-inst-rpt/t-config-conn-ins-svr.md)
@@ -575,20 +588,24 @@ user-guide: null
       + [Displaying Report Server Status](home/c-rpt-oview/c-inst-rpt/t-display-svr-st-rpt.md)
       + [Registering Report Server as a Windows Service](home/c-rpt-oview/c-inst-rpt/t-reg-rpt-win-svc.md)
       + [Upgrading and Uninstalling Report Server](home/c-rpt-oview/c-inst-rpt/c-upgrade-uninstall-rpt.md)
-   + [Administering Report Server](home/c-rpt-oview/c-admin-rpt/c-admin-rpt.md)
+   + Administering Report Server {#admin-report-server}
+      + [Administering Report Server](home/c-rpt-oview/c-admin-rpt/c-admin-rpt.md)
       + [Configuring Report.cfg Files](home/c-rpt-oview/c-admin-rpt/c-config-rpt-files.md)
       + [Re-validating the Digital Certificate](home/c-rpt-oview/c-admin-rpt/c-reval-dig-cert.md)
       + [Confirming that the Report Server is Running](home/c-rpt-oview/c-admin-rpt/c-rpt-svc-run.md)
       + [Monitoring Disk Space](home/c-rpt-oview/c-admin-rpt/c-mon-disk-sp.md)
       + [Restarting Report Server](home/c-rpt-oview/c-admin-rpt/t-restart-rpt.md)
       + [Reviewing Report Status](home/c-rpt-oview/c-admin-rpt/c-rev-rpt-st.md)
-      + [Working with Accounts](home/c-rpt-oview/c-admin-rpt/c-work-accts/c-work-accts.md)
+      + Accounts {#accounts}
+         + [Working with Accounts](home/c-rpt-oview/c-admin-rpt/c-work-accts/c-work-accts.md)
          + [Viewing Accounts](home/c-rpt-oview/c-admin-rpt/c-work-accts/c-view-accts.md)
          + [Adding New Accounts](home/c-rpt-oview/c-admin-rpt/c-work-accts/t-add-new-accts.md)
          + [Editing Existing Users](home/c-rpt-oview/c-admin-rpt/c-work-accts/t-edit-ex-users.md)
-   + [Installing the Report Portal](home/c-rpt-oview/c-install-rpt-port/c-install-rpt-port.md)
+   + Installing the Report Portal {#install-report-portal}
+      + [Installing the Report Portal](home/c-rpt-oview/c-install-rpt-port/c-install-rpt-port.md)
       + [Install the Report Portal Application Files](home/c-rpt-oview/c-install-rpt-port/t-install-rpt-portal-app.md)
-      + [Map the Report Portal Pages to Virtual Directories](home/c-rpt-oview/c-install-rpt-port/c-virtual-dir/c-virtual-dir.md)
+      + Mapping Report Portal Pages {#mapping-report-portal-pages}
+         + [Map the Report Portal Pages to Virtual Directories](home/c-rpt-oview/c-install-rpt-port/c-virtual-dir/c-virtual-dir.md)
          + [Mapping Report Portal to a Virtual Directory (IIS 7.0 or higher)](home/c-rpt-oview/c-install-rpt-port/c-virtual-dir/c-map-rpt-port-vdir-7.md)
          + [Mapping Report Portal to a Virtual Directory (IIS 6.0)](home/c-rpt-oview/c-install-rpt-port/c-virtual-dir/c-map-rpt-port-vdir-6.md)
          + [Mapping Report Portal to a Virtual Directory (IIS 5.0)](home/c-rpt-oview/c-install-rpt-port/c-virtual-dir/c-map-rpt-port-vdir-5.md)
@@ -599,14 +616,15 @@ user-guide: null
       + [Set Permissions for the Database](home/c-rpt-oview/c-install-rpt-port/t-set-data-perm.md)
       + [Test the Report Portal](home/c-rpt-oview/c-install-rpt-port/t-test-rpt-port.md)
       + [Define Additional Accounts](home/c-rpt-oview/c-install-rpt-port/c-def-addl-accts.md)
-   + [Report Server Parameters Reference](home/c-rpt-oview/c-rpt-param-ref/c-rpt-param-ref.md)
+   + Report Server Parameters Reference {#report-server-parameters}
       + [Report Server.cfg Parameters](home/c-rpt-oview/c-rpt-param-ref/c-rpt-svr-param.md)
       + [Report.cfg Parameters](home/c-rpt-oview/c-rpt-param-ref/c-rpt-param.md)
-   + [Report Sample Files](home/c-rpt-oview/c-rpt-sample-files/c-rpt-sample-files.md)
+   + Report Sample Files {#report-sample-files}
+      + [Report Sample Files](home/c-rpt-oview/c-rpt-sample-files/c-rpt-sample-files.md)
       + [Sample Report Index](home/c-rpt-oview/c-rpt-sample-files/c-sample-rpt-ind.md)
       + [Sample XSL Style Sheet](home/c-rpt-oview/c-rpt-sample-files/c-sample-xsl-st-sheet.md)
       + [Sample Mail XSL Style Sheet](home/c-rpt-oview/c-rpt-sample-files/c-sample-mail-style-sheet.md)
-+ Page tagging {#page-tagging}
++ Page Tagging {#page-tagging}
    + [What Kind of Data Can I Acquire?](home/c-undst-pg-tag/c-acq-data.md)
    + [How Do I Acquire this Data_](home/c-undst-pg-tag/t-how-acq-data-.md)
    + [Implementing Reference Page Tags](home/c-undst-pg-tag/c-imp-ref-pg-tags/c-imp-ref-pg-tags.md)
