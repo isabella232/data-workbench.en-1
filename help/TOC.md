@@ -57,9 +57,8 @@ user-guide: null
       + [Density Map](home/c-get-started/c-analysis-vis/c-density-map.md)
       + Attribution Profile {#attribution-profile}
          + [Attribution Profile Overview](home/c-get-started/c-attribution-profiles/c-rules-attrib/c-rules-attrib.md)
-         + [Attribution Profile Overview](home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-rules-attrib/c-rules-attrib.md)
-         + [Deploying the Attribution Profile](home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-rules-attrib/c-attrib-profile-deploy.md)
-         + [Attribution Models](home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-rules-attrib/c-attrib-models.md)
+         + [Deploying the Attribution Profile](home/c-get-started/c-attribution-profiles/c-rules-attrib/c-attrib-profile-deploy.md) <!--duplicate-->
+         + [Attribution Models](home/c-get-started/c-attribution-profiles/c-rules-attrib/c-attrib-models.md) <!--duplicate-->
       + [3D Scatter Plots](home/c-get-started/c-analysis-vis/c-3d-scatterplots.md)
       + [Analytics Reports](/help/home/c-get-started/c-template-report-types.md)
    + [Data Workbench 6.11 Update](home/c-release-notes-insight/c-6-1-1.md)
@@ -75,7 +74,7 @@ user-guide: null
          + [Complex Filter Description](home/c-get-started/c-analysis-vis/c-visitor-propensity/c-propensity-complex-filter.md)
          + [Model Viewer](home/c-get-started/c-analysis-vis/c-visitor-propensity/c-propensity-model-viewer.md)
       + [Simplified Chinese localization](home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-support-for-chinese.md)
-      + [Installing the Input Method Editor](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-localized-ime.md)
+      + [Installing the Input Method Editor](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-localized-ime.md) <!--duplicate x4-->
       + [Syntax for Math Functions](home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-statistical-functions.md)
       + [Statistical Callouts](home/c-get-started/c-qry-lang-syntx/c-statistical-callouts.md)
       + [New Keyboard Shortcuts](home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-keyboard-shortcuts.md)
@@ -89,8 +88,8 @@ user-guide: null
       + Funnel Visualization {#funnel-visualization}
          + [Funnel Visualization Overview](home/c-get-started/c-analysis-vis/c-funnel-visualization/c-funnel-visualization.md)
          + [Funnel Features](home/c-get-started/c-analysis-vis/c-funnel-visualization/c-funnel-visualization-features.md)
-         + [Building a Funnel](home/c-release-notes-insight/c-release-notes-previous/c-6-0/c-funnel-visualization/c-funnel-visualization-steps.md)
-         + [Adding a Path Browser](home/c-release-notes-insight/c-release-notes-previous/c-6-0/c-funnel-visualization/c-path-browser-funnel.md)
+         + [Building a Funnel](home/c-get-started/c-analysis-vis/c-funnel-visualization/c-funnel-visualization-steps.md) <!--duplicate-->
+         + [Adding a Path Browser](home/c-get-started/c-analysis-vis/c-funnel-visualization/c-path-browser-funnel.md) <!--duplicate-->
       + Visitor Clustering {#visitor-cluster}
          + [Visitor Clustering Overview](home/c-get-started/c-analysis-vis/c-visitor-cluster/c-visitor-cluster.md)
          + [Building Clusters](home/c-get-started/c-analysis-vis/c-visitor-cluster/c-defining-clusters.md)
@@ -107,7 +106,7 @@ user-guide: null
       + [Workstation Setup Overview](home/c-install-insight/install-setup/install-setup.md)
       + [Workstation Setup Wizard](home/c-install-insight/install-setup/dwb-client-installer.md)
       + [Files Included in the Installation Package](home/c-install-insight/install-setup/c-install-pkg.md)
-      + [Installing the Input Method Editor](home/c-install-insight/install-setup/c-localized-ime.md)
+      + [Installing the Input Method Editor](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-localized-ime.md)
       + [Installing the Terrain Images.cfg File](home/c-install-insight/install-setup/t-trn-imgs-file.md)
       + [Setting up Localized Languages](home/c-install-insight/install-setup/c-setting-localized-languages.md)
       + [Downloading and Installing the Digital Certificate](home/c-install-insight/install-setup/c-dgtl-crtf.md)
@@ -117,10 +116,10 @@ user-guide: null
       + [Upgrading Data Workbench Overview](home/c-install-insight/c-upgrd-ins/c-upgrd-ins.md)
       + [Upgrading 6.4 to 6.5](home/c-install-insight/c-upgrd-ins/c-6-4-to-6-5-upgrade.md)
       + [Upgrading 6.3 to 6.4](home/c-install-insight/c-upgrd-ins/c-6-3-to-6-4-upgrade.md)
-      + [DWB Server upgrade: 6.2 to 6.3](home/c-install-insight/c-upgrd-ins/c-6-2-to-6-3-upgrade.md)
-      + [DWB Server upgrade: 6.1 to 6.2](home/c-install-insight/c-upgrd-ins/c-6-1-to-6-2-upgrade.md)
-      + [Data Workbench 6.0 to 6.1 Upgrade](home/c-install-insight/c-upgrd-ins/c-6-0-to-6-1-upgrade.md)
-      + [Data Workbench 5.5 to 6.1 Upgrade](home/c-install-insight/c-upgrd-ins/c-5-x-to-6-1-upgrade.md)
+      + [DWB Server upgrade: 6.2 to 6.3](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-2-to-6-3-upgrade.md)
+      + [DWB Server upgrade: 6.1 to 6.2](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-1-to-6-2-upgrade.md)
+      + [Data Workbench 6.0 to 6.1 Upgrade](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-6-0-to-6-1-upgrade.md)
+      + [Data Workbench 5.5 to 6.1 Upgrade](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-5-x-to-6-1-upgrade.md)
 + Client {#client}
    + [Opening Data Workbench](home/c-get-started/t-open-ins.md)
    + [Self-provisioning of users](home/c-get-started/c-self-provisioning-users.md)
@@ -165,7 +164,7 @@ user-guide: null
    + [Analytics Reports](home/c-get-started/c-template-report-types.md)
    + Attribution reports {#attribution-reports}
       + [Using attribution reports](home/c-get-started/c-attribution-profiles/c-attribution-profiles.md)
-      + [Attribution Profile](home/c-get-started/c-attribution-profiles/c-rules-attrib/c-rules-attrib.md)
+      + [Attribution Profile Overview](home/c-get-started/c-attribution-profiles/c-rules-attrib/c-rules-attrib.md) <!--duplicate-->
       + [Deploying the Attribution Profile](home/c-get-started/c-attribution-profiles/c-rules-attrib/c-attrib-profile-deploy.md)
       + [Attribution Models](home/c-get-started/c-attribution-profiles/c-rules-attrib/c-attrib-models.md)
       + [Best Fit Attribution](home/c-get-started/c-attribution-profiles/c-attrib-algorithmic/c-attrib-algorithmic.md)
@@ -216,8 +215,8 @@ user-guide: null
          + [Binary Filter in the Correlation Matrix](home/c-get-started/c-analysis-vis/c-correlation-analysis/c-correlation-binary-filter.md)
       + Decision Tree Builder {#decision-trees}
          + [Decision Tree Builder Overview](home/c-get-started/c-analysis-vis/c-decision-trees/c-decision-trees.md)
-         + [Building a Decision Tree](home/c-get-started/c-analysis-vis/c-decision-trees/c-decision-trees-setting-up.md)
-         + [Decision Tree Options](home/c-get-started/c-analysis-vis/c-decision-trees/c-decision-trees-menu.md)
+         + [Building a Decision Tree](home/c-get-started/c-analysis-vis/c-decision-trees/c-decision-trees-setting-up.md) 
+         + [Decision Tree Options](home/c-get-started/c-analysis-vis/c-decision-trees/c-decision-trees-menu.md) <!--Above three links are duplicates from release notes -->
          + [Regression tree option for decision tree](home/c-get-started/c-analysis-vis/c-decision-trees/c-decision-trees-regression.md)
       + [Density Map](home/c-get-started/c-analysis-vis/c-density-map.md)
       + [Detail table](home/c-get-started/c-analysis-vis/c-dtl-tables.md)
@@ -331,7 +330,7 @@ user-guide: null
       + Working with vector layers {#vector-layers}
          + [Working with vector layers](home/c-get-started/c-im-layers/c-vctr-layers/c-vctr-layers.md)
          + [Define vector layers referencing vector files](home/c-get-started/c-im-layers/c-vctr-layers/c-ref-vctr-files.md)
-         + [Vector layers referencing tab separated values files](home/c-get-started/c-im-layers/c-vctr-layers/c-tab-sep-val-files.md)
+         + [Vector layers referencing tab separated values files](home/c-geo-oview/c-wk-img-lyrs/c-wk-vctr-lyrs/c-tab-sep-val-files.md)
          + [Make a new vector layer available](home/c-get-started/c-im-layers/c-vctr-layers/t-make-new-vctr-layer-av.md)
    + Administrative interfaces {#admin-ui}
       + [Administrative interfaces](home/c-get-started/c-admin-intrf/c-admin-intrf.md)
@@ -357,7 +356,7 @@ user-guide: null
       + Dataset managers {#dataset-mgrs}
          + [Dataset managers](home/c-get-started/c-admin-intrf/c-dataset-mgrs/c-dataset-mgrs.md)
          + Dependency Maps {#dep-maps}
-            + [Dependency Maps](home/c-get-started/c-admin-intrf/c-dataset-mgrs/c-dep-maps/c-dep-maps.md)
+            + [Dependency Maps](home/c-dataset-const-proc/c-dataset-config-tools/c-dataset-config-int/c-dep-maps.md)
             + [Display profile components](home/c-get-started/c-admin-intrf/c-dataset-mgrs/c-dep-maps/c-disp-prof-comp.md)
             + [Dataset components](home/c-get-started/c-admin-intrf/c-dataset-mgrs/c-dep-maps/c-dataset-comp.md)
             + [Query model components](home/c-get-started/c-admin-intrf/c-dataset-mgrs/c-dep-maps/c-qry-mod-comp.md)
@@ -395,7 +394,7 @@ user-guide: null
          + [Change the tab order](home/c-get-started/c-intf-anlys-ftrs/c-cstm-wktp-tabs/t-chg-ordr-tabs.md)
          + [Display subfolders as subtabs](home/c-get-started/c-intf-anlys-ftrs/c-cstm-wktp-tabs/c-sbfldrs-sbtabs.md)
          + [Hide or remove a tab](home/c-get-started/c-intf-anlys-ftrs/c-cstm-wktp-tabs/t-hide-rmv-tabs.md)
-      + [Installing the Input Method Editor](home/c-get-started/c-intf-anlys-ftrs/c-localized-ime/c-localized-ime.md)
+      + [Installing the Input Method Editor](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-localized-ime.md)
       + [Setting up Localized Languages](home/c-get-started/c-intf-anlys-ftrs/c-localized-ime/c-localized-ime-config.md)
       + Configure a locked workspace {#config-locked-wkspc}
          + [Configure a locked workspace](home/c-get-started/c-intf-anlys-ftrs/c-config-locked-wkspc/c-config-locked-wkspc.md)
@@ -440,7 +439,7 @@ user-guide: null
          + [New Visitor Condition](home/c-dataset-const-proc/c-trans-config-file/c-spec-trans-param/c-new-vstr-con.md)
          + [Time Zones](home/c-dataset-const-proc/c-trans-config-file/c-spec-trans-param/c-time-zones.md)
       + [Considerations for the Transformation Configuration File](home/c-dataset-const-proc/c-trans-config-file/c-con-tran-config-file.md)
-      + [DeviceAtlas Distribution](home/c-dataset-const-proc/c-trans-config-file/c-deviceatlas-update.md)
+      + [DeviceAtlas Distribution](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-deviceatlas-update.md)
    + Dataset Include Files {#dataset-include-files}
       + [About Dataset Include Files](home/c-dataset-const-proc/c-dataset-inc-files/c-abt-dataset-inc-files.md)
       + [Working with Dataset Include Files](home/c-dataset-const-proc/c-dataset-inc-files/c-work-dataset-inc-files/c-work-dataset-inc-files.md)
@@ -494,7 +493,7 @@ user-guide: null
             + [PrependURI](home/c-dataset-const-proc/c-data-trans/c-transf-types/c-uri-transf/c-prependurii.md)
             + [ReplaceURI](home/c-dataset-const-proc/c-data-trans/c-transf-types/c-uri-transf/c-replaceuri.md)
             + [UnescapeURI](home/c-dataset-const-proc/c-data-trans/c-transf-types/c-uri-transf/c-unescapeuri.md)
-         + [DeviceAtlas Distribution](home/c-dataset-const-proc/c-data-trans/c-transf-types/c-deviceatlas-update.md)
+         + [DeviceAtlas Distribution](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-deviceatlas-update.md)
       + Integrating Lookup Data {#integrate-lookup-data}
          + [Integrating Lookup Data](home/c-dataset-const-proc/c-data-trans/c-int-lookup-data/c-int-lookup-data.md)
          + [Populating the Lookup Table](home/c-dataset-const-proc/c-data-trans/c-int-lookup-data/c-pop-lookup-table.md)
@@ -628,25 +627,30 @@ user-guide: null
 + Page Tagging {#page-tagging}
    + [What Kind of Data Can I Acquire?](home/c-undst-pg-tag/c-acq-data.md)
    + [How Do I Acquire this Data_](home/c-undst-pg-tag/t-how-acq-data-.md)
-   + [Implementing Reference Page Tags](home/c-undst-pg-tag/c-imp-ref-pg-tags/c-imp-ref-pg-tags.md)
+   + Implementing Reference Page Tags {#implement-ref-page-tags}
+      + [Implementing Reference Page Tags](home/c-undst-pg-tag/c-imp-ref-pg-tags/c-imp-ref-pg-tags.md)
       + [Editing the Reference Page Tag Execution Script](home/c-undst-pg-tag/c-imp-ref-pg-tags/t-edit-ref-pg-tag-ex-scrpt.md)
       + [Adding Reference Page Tag Execution Calls](home/c-undst-pg-tag/c-imp-ref-pg-tags/c-ref-pg-tag-ex-calls.md)
       + [Understanding the v1st Cookie](home/c-undst-pg-tag/c-imp-ref-pg-tags/c-undst-v1st-ck.md)
-   + [Acquiring Baseline Measurements](home/c-undst-pg-tag/c-acq-bsln-msmts/c-acq-bsln-msmts.md)
-      + [Acquiring Page Request Data](home/c-undst-pg-tag/c-acq-bsln-msmts/c-acq-pg-req-data/c-acq-pg-req-data.md)
+   + Acquiring Baseline Measurements {#acquire-base-measures}
+      + [Acquiring Baseline Measurements Overview](home/c-undst-pg-tag/c-acq-bsln-msmts/c-acq-bsln-msmts.md)
+      + Acquiring Page Request Data {#acquire-page-request}
+         + [Acquiring Page Request Data Overview](home/c-undst-pg-tag/c-acq-bsln-msmts/c-acq-pg-req-data/c-acq-pg-req-data.md)
          + [Understanding the Query String](home/c-undst-pg-tag/c-acq-bsln-msmts/c-acq-pg-req-data/c-undst-qry-strg.md)
          + [Filtering By Content Type](home/c-undst-pg-tag/c-acq-bsln-msmts/c-acq-pg-req-data/c-fltr-cnt-type.md)
          + [Performing Controlled Experiments](home/c-undst-pg-tag/c-acq-bsln-msmts/c-acq-pg-req-data/c-perf-ctrl-exp.md)
       + [Acquiring Embedded Object Requests (Page Tags)](home/c-undst-pg-tag/c-acq-bsln-msmts/c-embed-obj-req.md)
       + [Acquiring Measurement Data Through Cookies](home/c-undst-pg-tag/c-acq-bsln-msmts/c-acq-msmt-data-ck.md)
-   + [Acquiring Extended Measurements](home/c-undst-pg-tag/c-acq-ext-msmt/c-acq-ext-msmt.md)
+   + Acquiring Extended Measurements {#acquire-ext-measures}
+      + [Acquiring Extended Measurements](home/c-undst-pg-tag/c-acq-ext-msmt/c-acq-ext-msmt.md)
       + [Acquiring Dynamic Page Names](home/c-undst-pg-tag/c-acq-ext-msmt/c-acq-dyn-pg-names.md)
       + [Acquiring Additional Information](home/c-undst-pg-tag/c-acq-ext-msmt/c-acq-add-info.md)
       + [Acquiring Document Objects](home/c-undst-pg-tag/c-acq-ext-msmt/c-acq-doc-obj.md)
       + [Measuring Advertisement Impression](home/c-undst-pg-tag/c-acq-ext-msmt/c-msr-adv-imp.md)
       + [Tracking Link Clicks](home/c-undst-pg-tag/c-acq-ext-msmt/c-trk-lnk-clicks.md)
       + [Tracking Exits to External Links](home/c-undst-pg-tag/c-acq-ext-msmt/c-trk-ex-ext-links.md)
-      + [Acquiring Form Field Input](home/c-undst-pg-tag/c-acq-ext-msmt/c-acq-frm-fld-inpt/c-acq-frm-fld-inpt.md)
+      + Acquiring Form Field Input {#form-field-inpu}
+         + [Acquiring Form Field Input](home/c-undst-pg-tag/c-acq-ext-msmt/c-acq-frm-fld-inpt/c-acq-frm-fld-inpt.md)
          + [General Information](home/c-undst-pg-tag/c-acq-ext-msmt/c-acq-frm-fld-inpt/c-gen-info.md)
          + [ASP-Specific Information](home/c-undst-pg-tag/c-acq-ext-msmt/c-acq-frm-fld-inpt/c-asp.md)
    + [Tracking Visitor Activity Within Flash Rich Media Content](home/c-undst-pg-tag/t-trk-vstr-act.md)
@@ -656,11 +660,13 @@ user-guide: null
    + [About Data Workbench Metrics, Dimensions, and Filters](home/c-about/c-about.md)
    + [Expanding Metrics, Dimensions, and Filters](home/c-about/c-expand-capabilities.md)
    + [Dimension Types](home/c-about/c-dimension-types.md)
-   + [About Built-in Metrics, Dimensions, and Filters](home/c-about/c-builtin-metrics-dims/c-builtin-metrics-dims.md)
+   + Built-in Metrics, Dimensions, and Filters {#built-in-metrics}
+      + [About Built-in Metrics, Dimensions, and Filters](home/c-about/c-builtin-metrics-dims/c-builtin-metrics-dims.md)
       + [Built-in Metrics](home/c-about/c-builtin-metrics-dims/c-builtin-metrics.md)
       + [Built-in Dimensions](home/c-about/c-builtin-metrics-dims/c-builtin-dims.md)
       + [Built-in Profile Filters](home/c-about/c-builtin-metrics-dims/c-builtin-filters.md)
-   + [Baseline Profiles](home/c-about/c-about-baseline-profiles/c-about-baseline-profiles.md)
+   + Baseline Profiles {#baseline-profiles}
+      + [Baseline Profiles Overview](home/c-about/c-about-baseline-profiles/c-about-baseline-profiles.md)
       + [Traffic Profile Metrics](home/c-about/c-about-baseline-profiles/c-traffic-profile.md)
       + [Traffic Profile Dimensions](home/c-about/c-about-baseline-profiles/c-traffic-profile-dims.md)
       + [Value Profile Metrics](home/c-about/c-about-baseline-profiles/c-value-profile-metrics.md)
@@ -798,7 +804,7 @@ user-guide: null
       + [Monitoring Ports and Applications](home/c-inst-svr/c-gen-syst-admin/t-mntr-prts-apps.md)
    + [Upgrading and Uninstalling Adobe Software](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-uninst-sftwr.md)
       + [Upgrading Insight Server](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-upgrd-sftwr.md)
-         + [DWB Server upgrade: 6.2 to 6.3](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-2-to-6-3-upgrade.md)
+         + [DWB Server upgrade: 6.2 to 6.3](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-2-to-6-3-upgrade.md) <!--duplicates here and below-->
          + [DWB Server upgrade: 6.1 to 6.2](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-1-to-6-2-upgrade.md)
          + [Data Workbench 6.0 to 6.1 Upgrade](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-6-0-to-6-1-upgrade.md)
             + [Installing the Input Method Editor](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-localized-ime.md)

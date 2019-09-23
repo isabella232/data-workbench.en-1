@@ -51,13 +51,13 @@ You will receive these setup files from Adobe Customer Care to install the DWB W
    >
    >Your browser might prompt you to present a digital certificate at this point. If it does, click&nbsp;Cancel&nbsp;to dismiss the dialog box.
 
-1. Locate the certificate issued for your instance of Adobe&nbsp;Data Workbench&nbsp;(<PrimaryUser>.pem) in the Downloads section and download. 
+1. Locate the certificate issued for your instance of Adobe&nbsp;Data Workbench&nbsp;(`<PrimaryUser>`.pem) in the Downloads section and download. 
 1. Locate Standard Client Installer in the Downloads section to download the DWB Setup Wizard (InsightSetup-x.xx.exe file). 
 1. After receiving and downloading files from Adobe Customer Care, run the DWB Setup Wizard to install the workstation software to your client computer.
 
 >[!NOTE]
 >
->The DWB Setup Wizard will walk you through installation of the DWB client workstation and help locate the Insight.cfg and <PrimaryUser>.pem files to place in the required folders. The Insight.cfg file resides with the Insight.exe file in your installed client workstation. The <PrimaryUser>.pem file resides in the Certificates folder with the trust_ca_cert.pem file. All certificate and configuration files must be present for&nbsp;DWB to function.
+>The DWB Setup Wizard will walk you through installation of the DWB client workstation and help locate the Insight.cfg and `<PrimaryUser>`.pem files to place in the required folders. The Insight.cfg file resides with the Insight.exe file in your installed client workstation. The `<PrimaryUser>`.pem file resides in the Certificates folder with the trust_ca_cert.pem file. All certificate and configuration files must be present for&nbsp;DWB to function.
 
 For additional information, see the [DWB Setup Wizard](https://marketing.adobe.com/resources/help/en_US/insight/install/dwb_client_installer.html).
 
@@ -81,4 +81,4 @@ Your managed servers are identified in the Insight.cfg file that you receive fro
 
 • Adobe TechOps will configure the primary production cluster to contain three months of rolling data to be reset and reprocessed monthly. Updates to lookups (Geography, DeviceAtlas, Standard Classifications) will also occur as part of the reprocessing task. By default, the task runs on the first Friday of each month. If necessary, the schedule can be modified by Customer Care.
 
-For additional information contact Adobe Customer Care at [dataworkbench@adobe.com](dataworkbench@adobe.com) or call 800.497.0335. 
+For additional information contact Adobe Customer Care by [email](dataworkbench@adobe.com) or call 800.497.0335.
