@@ -57,8 +57,8 @@ user-guide: null
       + [Density Map](home/c-get-started/c-analysis-vis/c-density-map.md)
       + Attribution Profile {#attribution-profile}
          + [Attribution Profile Overview](home/c-get-started/c-attribution-profiles/c-rules-attrib/c-rules-attrib.md)
-         + [Deploying the Attribution Profile](home/c-get-started/c-attribution-profiles/c-rules-attrib/c-attrib-profile-deploy.md) <!--duplicate-->
-         + [Attribution Models](home/c-get-started/c-attribution-profiles/c-rules-attrib/c-attrib-models.md) <!--duplicate-->
+         + [Deploying the Attribution Profile](home/c-get-started/c-attribution-profiles/c-rules-attrib/c-attrib-profile-deploy.md)
+         + [Attribution Models](home/c-get-started/c-attribution-profiles/c-rules-attrib/c-attrib-models.md)
       + [3D Scatter Plots](home/c-get-started/c-analysis-vis/c-3d-scatterplots.md)
       + [Analytics Reports](/help/home/c-get-started/c-template-report-types.md)
    + [Data Workbench 6.11 Update](home/c-release-notes-insight/c-6-1-1.md)
@@ -74,7 +74,7 @@ user-guide: null
          + [Complex Filter Description](home/c-get-started/c-analysis-vis/c-visitor-propensity/c-propensity-complex-filter.md)
          + [Model Viewer](home/c-get-started/c-analysis-vis/c-visitor-propensity/c-propensity-model-viewer.md)
       + [Simplified Chinese localization](home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-support-for-chinese.md)
-      + [Installing the Input Method Editor](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-localized-ime.md) <!--duplicate x4-->
+      + [Installing the Input Method Editor](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-localized-ime.md)
       + [Syntax for Math Functions](home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-statistical-functions.md)
       + [Statistical Callouts](home/c-get-started/c-qry-lang-syntx/c-statistical-callouts.md)
       + [New Keyboard Shortcuts](home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-keyboard-shortcuts.md)
@@ -88,8 +88,8 @@ user-guide: null
       + Funnel Visualization {#funnel-visualization}
          + [Funnel Visualization Overview](home/c-get-started/c-analysis-vis/c-funnel-visualization/c-funnel-visualization.md)
          + [Funnel Features](home/c-get-started/c-analysis-vis/c-funnel-visualization/c-funnel-visualization-features.md)
-         + [Building a Funnel](home/c-get-started/c-analysis-vis/c-funnel-visualization/c-funnel-visualization-steps.md) <!--duplicate-->
-         + [Adding a Path Browser](home/c-get-started/c-analysis-vis/c-funnel-visualization/c-path-browser-funnel.md) <!--duplicate-->
+         + [Building a Funnel](home/c-get-started/c-analysis-vis/c-funnel-visualization/c-funnel-visualization-steps.md)
+         + [Adding a Path Browser](home/c-get-started/c-analysis-vis/c-funnel-visualization/c-path-browser-funnel.md)
       + Visitor Clustering {#visitor-cluster}
          + [Visitor Clustering Overview](home/c-get-started/c-analysis-vis/c-visitor-cluster/c-visitor-cluster.md)
          + [Building Clusters](home/c-get-started/c-analysis-vis/c-visitor-cluster/c-defining-clusters.md)
@@ -164,7 +164,7 @@ user-guide: null
    + [Analytics Reports](home/c-get-started/c-template-report-types.md)
    + Attribution reports {#attribution-reports}
       + [Using attribution reports](home/c-get-started/c-attribution-profiles/c-attribution-profiles.md)
-      + [Attribution Profile Overview](home/c-get-started/c-attribution-profiles/c-rules-attrib/c-rules-attrib.md) <!--duplicate-->
+      + [Attribution Profile Overview](home/c-get-started/c-attribution-profiles/c-rules-attrib/c-rules-attrib.md)
       + [Deploying the Attribution Profile](home/c-get-started/c-attribution-profiles/c-rules-attrib/c-attrib-profile-deploy.md)
       + [Attribution Models](home/c-get-started/c-attribution-profiles/c-rules-attrib/c-attrib-models.md)
       + [Best Fit Attribution](home/c-get-started/c-attribution-profiles/c-attrib-algorithmic/c-attrib-algorithmic.md)
@@ -216,7 +216,7 @@ user-guide: null
       + Decision Tree Builder {#decision-trees}
          + [Decision Tree Builder Overview](home/c-get-started/c-analysis-vis/c-decision-trees/c-decision-trees.md)
          + [Building a Decision Tree](home/c-get-started/c-analysis-vis/c-decision-trees/c-decision-trees-setting-up.md) 
-         + [Decision Tree Options](home/c-get-started/c-analysis-vis/c-decision-trees/c-decision-trees-menu.md) <!--Above three links are duplicates from release notes -->
+         + [Decision Tree Options](home/c-get-started/c-analysis-vis/c-decision-trees/c-decision-trees-menu.md)
          + [Regression tree option for decision tree](home/c-get-started/c-analysis-vis/c-decision-trees/c-decision-trees-regression.md)
       + [Density Map](home/c-get-started/c-analysis-vis/c-density-map.md)
       + [Detail table](home/c-get-started/c-analysis-vis/c-dtl-tables.md)
@@ -830,7 +830,7 @@ user-guide: null
       + [Upgrading and Uninstalling Adobe Software](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-uninst-sftwr.md)
       + Upgrading Insight Server {#upgrade-insight-server}
          + [Upgrading Insight Server](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-upgrd-sftwr.md)
-         + [DWB Server upgrade: 6.2 to 6.3](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-2-to-6-3-upgrade.md) <!--duplicates here and below-->
+         + [DWB Server upgrade: 6.2 to 6.3](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-2-to-6-3-upgrade.md)
          + [DWB Server upgrade: 6.1 to 6.2](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-1-to-6-2-upgrade.md)
          + Data Workbench 6.0 to 6.1 Upgrade {#upgrade-6-0-to-6-1}
             + [Data Workbench 6.0 to 6.1 Upgrade](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-6-0-to-6-1-upgrade.md)
