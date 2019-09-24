@@ -737,7 +737,8 @@ user-guide: null
       + [Evaluating the Experiment](home/c-undst-ctrld-exp/c-vw-rslts/c-ev-exp.md)
    + [Experiment Design Spreadsheet](home/c-undst-ctrld-exp/t-exp-dsn-spst.md)
 + Server Administration and Installation {#server-admin-install}
-   + [Server System Requirements](home/c-inst-svr/c-msr-server/c-msr-server.md)
+   + Server System Requirements {#server-system-reqs}
+      + [Server System Requirements](home/c-inst-svr/c-msr-server/c-msr-server.md)
       + [DPU Requirements](home/c-inst-svr/c-msr-server/c-server-data--processing-unit.md)
       + [File Server Unit Requirements](home/c-inst-svr/c-msr-server/c-file-server-unit.md)
       + [Sensor Requirements](home/c-inst-svr/c-msr-server/c-sensor.md)
@@ -897,11 +898,13 @@ user-guide: null
    + [Sensor UNIX File Permissions](home/c-snsr-ovrvw/sensor-unix-permissions.md)
 + Installing the Monitoring Profile {#monitor}
    + [Installing the Monitoring Profile](home/monitoring-installation/monitoring-installation.md)
-   + [Workspaces for Monitoring the Data Workbench Server](home/monitoring-installation/monitoring-profiles/monitoring-profiles.md)
+   + Workspaces {#workspace}
+      + [Workspaces for Monitoring the Data Workbench Server](home/monitoring-installation/monitoring-profiles/monitoring-profiles.md)
       + [Data Workbench Historic workspace](home/monitoring-installation/monitoring-profiles/monitoring-historical-using.md)
       + [Data Workbench Profile Status workspace](home/monitoring-installation/monitoring-profiles/monitoring-profile-using.md)
       + [Data Workbench Server Status workspace](home/monitoring-installation/monitoring-profiles/monitoring-server-using.md)
-   + [Data Workbench Profile Dimensions and Metrics](home/monitoring-installation/monitoring-appendix/monitoring-appendix.md)
+   + Data Workbench Profile Dimensions and Metrics {#monitoring-appendix}
+      + [Data Workbench Profile Dimensions and Metrics](home/monitoring-installation/monitoring-appendix/monitoring-appendix.md)
       + [Dimensions in the Data Workbench Historic profile](home/monitoring-installation/monitoring-appendix/monitoring-historical.md)
       + [Dimensions in the Data Workbench Profile Status profile](home/monitoring-installation/monitoring-appendix/monitoring-profile-status.md)
       + [Dimensions in the Data Workbench Server Status profile](home/monitoring-installation/monitoring-appendix/monitoring-servers-profile.md)
@@ -957,7 +960,7 @@ user-guide: null
       + [Locked Selections](home/c-adobe-data-workbench-dashboard/c-making-selections-within-the-dashboard/c-locked-selections.md)
       + [Applying Selections](home/c-adobe-data-workbench-dashboard/c-making-selections-within-the-dashboard/t-applying-selections.md)
       + [Removing Selections](home/c-adobe-data-workbench-dashboard/c-making-selections-within-the-dashboard/c-removing-selections.md)
-      + [Determining What's Selected](home/c-adobe-data-workbench-dashboard/c-making-selections-within-the-dashboard/c-determining-what's-selected.md)
+      + [Determining What's Selected](home/c-adobe-data-workbench-dashboard/c-making-selections-within-the-dashboard/c-determining-whats-selected.md)
       + [Cross-Profile Selections](home/c-adobe-data-workbench-dashboard/c-making-selections-within-the-dashboard/c-cross-profile-selections.md)
    + [Exporting Data](home/c-adobe-data-workbench-dashboard/c-exporting-data.md)
    + [Dashboard Access Controls](home/c-adobe-data-workbench-dashboard/c-dashboard-access-controls.md)
@@ -989,7 +992,7 @@ user-guide: null
       + [Removing a Profile Connection](home/c-preparing-for-dashboard-installation/c-managing-profile-connections/t-removing-a-profile-connection.md)
    + Schema {#schema}
       + [Managing the Schema](home/c-preparing-for-dashboard-installation/c-managing-the-schema/c-managing-the-schema.md)
-      + [Initializing and Updating a Profile's Schema Definition](home/c-preparing-for-dashboard-installation/c-managing-the-schema/t-initializing-and-updating-a-profile's-schema-definition.md)
+      + [Initializing and Updating a Profile's Schema Definition](home/c-preparing-for-dashboard-installation/c-managing-the-schema/t-initializing-and-updating-a-profiles-schema-definition.md)
    + Folders {#folders}
       + [Managing Folders](home/c-preparing-for-dashboard-installation/c-managing-folders/c-managing-folders.md)
       + [Adding Folders](home/c-preparing-for-dashboard-installation/c-managing-folders/t-adding-folders.md)
@@ -1000,7 +1003,7 @@ user-guide: null
       + [Managing User Accounts](home/c-preparing-for-dashboard-installation/t-managing-user-accounts/t-managing-user-accounts.md)
       + [Adding a User Account](home/c-preparing-for-dashboard-installation/t-managing-user-accounts/t-adding-a-user-account.md)
       + [Editing a User Account](home/c-preparing-for-dashboard-installation/t-managing-user-accounts/t-editing-a-user-account.md)
-      + [Resetting a User's Password](home/c-preparing-for-dashboard-installation/t-managing-user-accounts/t-resetting-a-user's-password.md)
+      + [Resetting a User's Password](home/c-preparing-for-dashboard-installation/t-managing-user-accounts/t-resetting-a-users-password.md)
       + [Removing a User Account](home/c-preparing-for-dashboard-installation/t-managing-user-accounts/t-removing-a-user-account.md)
    + User Groups {#user-groups}
       + [Managing User Groups](home/c-preparing-for-dashboard-installation/c-managing-user-groups/c-managing-user-groups.md)
