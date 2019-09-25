@@ -18,8 +18,10 @@ The clustering process requires you to identify metrics and dimension elements t
 
 ![](assets/K_algorithm.png)
 
-|  The initial centers are intelligently chosen via a Canopy Clustering pass.  | Data clusters are created by associating every data point to the nearest center.  | The mean of each of the K clusters becomes the new center.  | The algorithm is repeated in steps 2 and 3 until convergence is reached. This can take multiples passes.  |
-|---|---|---|---|
+* The initial centers are intelligently chosen via a Canopy Clustering pass.
+* Data clusters are created by associating every data point to the nearest center.
+* The mean of each of the K clusters becomes the new center.
+* The algorithm is repeated in steps 2 and 3 until convergence is reached. This can take multiples passes.
 
 The **[!UICONTROL Maximum Iterations]** in the **[!UICONTROL Options]** menu allows the analyst to specify the maximum number of iterations to be performed by the clustering algorithm. Setting this option may result in faster completion of the clustering process based on the maximum iterations cap at the expense of exact convergence of the cluster centers.
 
@@ -30,7 +32,7 @@ The **[!UICONTROL Maximum Iterations]** in the **[!UICONTROL Options]** menu all
 In the [Cluster Builder](https://marketing.adobe.com/resources/help/en_US/insight/client/c_visitor_cluster.html), you can select **[!UICONTROL Options]** > **[!UICONTROL Algorithm]** to select algorithms when defining clusters. Currently, there are 3 supported algorithms:
 
 * KMeans 
-* Kmeans++ 
+* Kmeans`++` 
 * Expectation Maximization
 
 There are 2 ways to run the clustering process:
@@ -49,7 +51,7 @@ The algorithm has the following restrictions:
 >
 >In the [!DNL DPU.cfg] file, the value for 'Query, Memory Limit' is set to 500 MB by default. This value must be increased while running multiple clustering jobs. For instance, if you are running 5 clustering jobs in parallel, increase this value to 1 GB. There is no way to cancel the clustering job without restarting the Server.
 
-**Recommendations **
+**Recommendations**
 
 The number of iterations (number of times the data is scanned) and the convergence threshold that you configure, grossly affects the clustering performance. The following table provides a broader guideline that you can follow:
 
@@ -58,4 +60,3 @@ The number of iterations (number of times the data is scanned) and the convergen
 |  6  | Kmeans  | 25,50  | 1e-3  | Min-Max  |
 |  6  | Kmeans  | 25,50  | 1e-6  | Min-Max  |
 |  6  | Kmeans++  | 50  | 1e-6  | Min-Max  |
-

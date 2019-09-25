@@ -83,7 +83,7 @@ Steps to define Extended Dimension:
 
 1. While working in your dataset profile, open the Profile Manager and click Dataset to show its contents. 
 1. Open the Transformation.cfg file or the Transformation Dataset Include file in which you want to define the extended dimension. 
-1. Right -click Transformations and click Add new > <Extended dimension type>. 
+1. Right -click Transformations and click Add new > `<Extended dimension type>`. 
 1. Input the appropriate information for your extended dimension. For descriptions of the transformation types and information about their parameters, see the following sections:
 
     * [Countable Dimensions](https://marketing.adobe.com/resources/help/en_US/insight/dataset/c_count_dim.html#concept_F28B633419494E7BBC510012DBFCC6F8) 

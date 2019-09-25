@@ -25,9 +25,6 @@ Right-clicking a node displays information about the connecting component and pr
 The following tables describe the information provided when you right-click a node for Data Workbench, Data Workbench server (including a master Data Workbench server in a cluster), or [!DNL Sensor].
 
 <table id="table_C459CAAB07D34144B5BFFCCC84C2BB37"> 
- <desc> 
-  <b>Data Workbench Servers Manager</b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Item </th> 
@@ -97,9 +94,6 @@ The following tables describe the information provided when you right-click a no
 </table>
 
 <table id="table_5BFA0AFE2D9A4337BF04343879DAD03B"> 
- <desc> 
-  <b> Sensor Servers Manager </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Item </th> 
@@ -133,4 +127,3 @@ The following tables describe the information provided when you right-click a no
   </tr> 
  </tbody> 
 </table>
-

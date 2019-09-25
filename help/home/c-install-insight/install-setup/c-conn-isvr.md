@@ -31,11 +31,11 @@ When working in a clustered environment, Insight should be configured to access 
 
    The [!DNL Servers Manager], the [!DNL Insight.cfg] file, and instructions for configuring your [!DNL Insight.cfg]file are displayed. 
 
-1. In the [!DNL Insight.cfg] window, right-click **[!UICONTROL Servers]** and click **[!UICONTROL Add new child]**> **[!UICONTROL Server]**.
+1. In the [!DNL Insight.cfg] window, right-click **[!UICONTROL Servers]** and click **[!UICONTROL Add new child]** > **[!UICONTROL Server]**.
 
    ![](assets/cfg_Workstation_AddChild.png)
 
-1. Complete or modify the server parameters to provide Insight with access to your master Insight Server. For detailed descriptions of the parameters in the [!DNL Insight.cfg] file, see [Configuration parameters](https://marketing.adobe.com/resources/help/en_US/insight/client/c_insght_config_param.html).
+1. Complete or modify the server parameters to provide Insight with access to your master Insight Server. For detailed descriptions of the parameters in the Insight.cfg file, see [Configuration parameters](https://marketing.adobe.com/resources/help/en_US/insight/client/c_insght_config_param.html).
 
    ![](assets/cfg_Workstation_AddServer.png)
 
@@ -64,14 +64,11 @@ In addition, when you connect to Insight Server for the first time from Insight,
 
 * **[!DNL Trace] directory:** Within the [!DNL Trace] directory is the Insight log file ( [!DNL insight.log]). When the size of the [!DNL Insight.log] file reaches 100 MB, the file is renamed to [!DNL insight-1.log]. If a file of the name [!DNL insight-1.log] already exists, then [!DNL insight-1.log] is renamed to [!DNL insight-2.log], and so forth, with a maximum of [!DNL insight-9.log]. The file [!DNL insight.log] always contains the most recent log information, and [!DNL insight-max.log] contains the oldest. 
 
-* **[!DNL User] directory:** Within the [!DNL User] directory are folders that correspond to each profile used to date, and within each profile folder are folders named [!DNL Work] and [!DNL Workspaces]. The directory User\*profile name*\Workspaces is the default location in which Insight workspace files are saved. User\*profile name*\Work is the default location in which Insight visualizations and other custom work performed by the Insight user are saved.
+* **[!DNL User] directory:** Within the [!DNL User] directory are folders that correspond to each profile used to date, and within each profile folder are folders named [!DNL Work] and [!DNL Workspaces]. The directory `User\*profile name*\Workspaces` is the default location in which Insight workspace files are saved. `User\*profile name*\Work` is the default location in which Insight visualizations and other custom work performed by the Insight user are saved.
 
 The following table lists the default locations of commonly accessed components.
 
 <table id="table_0254A8C25AF5400F89F87A242746D07E"> 
- <desc>
-  <b>Insight Default Locations </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Component </th> 
