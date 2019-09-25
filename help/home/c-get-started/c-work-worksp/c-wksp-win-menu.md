@@ -27,29 +27,29 @@ The following table contains descriptions of each menu item.
   <b>Workspace Window menu </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Menu Option </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Table </td> 
    <td colname="col2"> Adds a table to your workspace based on the selected dimension. See <a href="../../../home/c-get-started/c-vis/c-vis.md#concept-f6c7728d5aaa4304bbf2e4dfaed48739" format="dita" scope="local"> Working with Visualizations </a> and <a href="../../../home/c-get-started/c-analysis-vis/c-tables/c-tables.md#concept-c632cb8ad9724f90ac5c294d52ae667f" format="dita" scope="local"> Tables </a>. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Visualization </td> 
    <td colname="col2"> Adds a visualization to your workspace based on the selected visualization type (for example, a graph or table) and the selected dimension(s). See <a href="../../../home/c-get-started/c-vis/c-vis.md#concept-f6c7728d5aaa4304bbf2e4dfaed48739" format="dita" scope="local"> Working with Visualizations </a> and <a href="../../../home/c-get-started/c-analysis-vis/c-analysis-vis.md#concept-cb5b9716d3404b2b888a55b3efec1fa5" format="dita" scope="local"> Analysis Visualizations </a>. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Legend </td> 
    <td colname="col2"> Adds a legend to your workspace. See <a href="../../../home/c-get-started/c-analysis-vis/c-legends/c-legends.md#concept-ba7a886967314ee5aa358f5949665494" format="dita" scope="local"> Legends </a>. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Note </td> 
    <td colname="col2"> Adds an image, text, or dynamic title window to your workspace. See <a href="../../../home/c-get-started/c-analysis-vis/c-annots/c-annots.md#concept-ab80edcbc4204dd78c73630511f75ab0" format="dita" scope="local"> Annotations </a>. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Open </td> 
    <td colname="col2"> <p> 
      <ul id="ul_173273B72EE24A52927B59E63F0BF19B"> 
@@ -57,11 +57,11 @@ The following table contains descriptions of each menu item.
       <li id="li_E02E8929B8E247B0A46F6D708C51B1E2">The <span class="wintitle"> From Clipboard </span> option enables you to open a window that you have previously copied. The is equivalent to pasting a window that you have copied. </li> 
      </ul> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Admin </td> 
    <td colname="col2"> Heading for the administrative interfaces. See <a href="../../../home/c-get-started/c-admin-intrf/c-admin-intrf.md#concept-855c1a91e1a948969fab592adca15f74" format="dita" scope="local"> Administrative Interfaces </a>. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Data </td> 
    <td colname="col2"> <p> 
      <ul id="ul_CFAC2CBB10464079A78A9127C25482FF"> 

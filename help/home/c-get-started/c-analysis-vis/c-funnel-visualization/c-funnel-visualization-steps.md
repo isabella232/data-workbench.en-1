@@ -12,7 +12,7 @@ uuid: 88afa09d-42ff-4e3b-b5cc-d74e01f4fc39
 
 Follow these steps to build a new funnel visualization
 
-<a id="section_A8F5530114814B689C298E369AD0643E"></a>
+<!-- <a id="section_A8F5530114814B689C298E369AD0643E"></a> -->
 
 1. From a new workspace, open a dimension table.
 

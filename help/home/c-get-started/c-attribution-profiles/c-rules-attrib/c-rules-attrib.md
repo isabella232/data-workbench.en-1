@@ -14,7 +14,7 @@ Using the new rules-based Attribution profile in Data Workbench, you can quickly
 
 The Attribution profile allows you to gain a new perspective on the relationships between your marketing efforts and a successful customer lead generation or sales conversion. The Attribution profile helps you qualify interactions that should receive allocation of credit for realized revenue or participation downstream in the customer journey. It helps identify the impact of your marketing efforts and costs by allowing you to quickly analyze attribution events, and then assign responsibility for first or last touches or other events leading to a successful sale.
 
-<a id="section_648A288E4CA84D579884BC161085C4D5"></a>
+<!-- <a id="section_648A288E4CA84D579884BC161085C4D5"></a> -->
 
 >[!IMPORTANT]
 >

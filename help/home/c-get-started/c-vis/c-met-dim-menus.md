@@ -27,53 +27,53 @@ This menu provides you with different options depending on the type of visualiza
   <b>Metric menu </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Menu Option </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <i>metric name</i> </td> 
    <td colname="col2"> <p>Heading for the following metric-related menu options. </p> </td> 
   </tr> 
-  <tr valign="top"> 
-   <td colname="col1" align="left"> <p>Zoom to All </p> </td> 
+  <tr> 
+   <td colname="col1"> <p>Zoom to All </p> </td> 
    <td colname="col2"> <p>Returns to a display of all of the data within the graph. See <a href="../../../home/c-get-started/c-vis/c-zoom-vis.md#concept-7e33670bb5344f78a316f1a84cc20530" format="dita" scope="local"> Zooming in Visualizations</a>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Zoom to Selection </p> </td> 
    <td colname="col2"> <p>Zooms in on a selected subset of data in a line graph. See <a href="../../../home/c-get-started/c-vis/c-zoom-vis.md#concept-7e33670bb5344f78a316f1a84cc20530" format="dita" scope="local"> Zooming in Visualizations</a>. For more information about selections, see <a href="../../../home/c-get-started/c-vis/c-sel-vis/c-sel-vis.md#concept-012870ec22c7476e9afbf3b8b2515746" format="dita" scope="local"> Making Selections in Visualizations</a>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Metric Editor </p> </td> 
    <td colname="col2"> <p>Enables you to edit the definition of the metric identified by the metric name field. See <a href="../../../home/c-get-started/c-admin-intrf/c-prof-mgr/c-drvd-mtrcs.md#section-db6d924cf4e14bcc8d57cfe1059fc797" format="dita" scope="local"> Editing Existing Derived Metrics</a>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Metrics </p> </td> 
    <td colname="col2"> <p>Heading for the following metric-related menu options. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Add Metric </p> </td> 
    <td colname="col2"> <p>Adds a new metric to the visualization to the left of the selected metric. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Change Metric </p> </td> 
    <td colname="col2"> <p>Changes the selected metric in the visualization. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Remove Metric </p> </td> 
    <td colname="col2"> <p>Removes the selected metric from the visualization. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Layout </p> </td> 
    <td colname="col2"> <p>Heading for the following layout-related menu options. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Add Dimension </p> </td> 
    <td colname="col2"> <p>Adds another dimension to the visualization. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Move Metrics </p> </td> 
    <td colname="col2"> <p>Moves the selected metric to another axis in the visualization. </p> </td> 
   </tr> 
@@ -93,77 +93,77 @@ This menu provides you with different options depending on the type of visualiza
   <b>Dimension menu </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Menu Option </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Add Callout </p> </td> 
    <td colname="col2"> <p>Adds a callout for the selected element, which draws attention to that element. See <a href="../../../home/c-get-started/c-vis/c-call-wkspc.md#concept-212b09e763044d938987b4a9c658adc0" format="dita" scope="local"> Adding Callouts to a Workspace</a>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Rename Element </p> </td> 
    <td colname="col2"> <p>Renames the element. Click <span class="uicontrol"> Revert</span> to return to the original name. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p><i>dimension name</i> </p> </td> 
    <td colname="col2"> <p>Heading for the following dimension-related menu options. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Sort </p> </td> 
    <td colname="col2"> <p>Sorts the elements of the selected dimension as desired. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Mask </p> </td> 
    <td colname="col2"> <p>Selects a subset of the elements in the selected dimension. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Label </p> </td> 
    <td colname="col2"> <p>Enables you to edit the label for the selected dimension. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Highlight Selected </p> </td> 
    <td colname="col2"> <p>Highlights the selected element of the dimension. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Clear Highlighted </p> </td> 
    <td colname="col2"> <p>Clears the highlighting from any element in the visualization. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Series Legend </p> </td> 
    <td colname="col2"> <p>Color-codes the elements within the selected dimension as a series. See <a href="../../../home/c-get-started/c-analysis-vis/c-tables/c-srs-leg.md#concept-c48042a705524bc4b63cd6f24874cc12" format="dita" scope="local"> Using Series Legends</a>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Add Visualization </p> </td> 
    <td colname="col2"> <p>Adds a visualization that uses the selected dimension. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Save Dimension </p> </td> 
    <td colname="col2"> <p>Saves the selected dimension from the visualization. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Hierarchy View </p> </td> 
    <td colname="col2"> <p>Changes the current page visualization into a page hierarchy visualization, which displays the pages in a site organized hierarchically by file name and sorted alphabetically. See <a href="../../../home/c-get-started/c-analysis-vis/c-tables/c-hier-vews.md#concept-b461183424a841eb94f8143a0eaf9bff" format="dita" scope="local"> Applying Hierarchy Views</a>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Layout </p> </td> 
    <td colname="col2"> <p>Heading for the following layout-related menu options. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Add Dimension </p> </td> 
    <td colname="col2"> <p>Adds another dimension to the visualization. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Change Dimension </p> </td> 
    <td colname="col2"> <p>Changes the dimension in the visualization. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Move Dimension </p> </td> 
    <td colname="col2"> <p>Moves the selected dimension to another axis in the visualization. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Remove Dimension </p> </td> 
    <td colname="col2"> <p>Removes the selected dimension from the visualization. </p> </td> 
   </tr> 

@@ -65,5 +65,5 @@ Like the [Scatter Plot 2D](http://marketing.adobe.com/resources/help/en_US/insig
     
     * **To remove a point or group of points from your selection**: **Shift** + **click** a point or **Shift** **+** **drag** across several points.
 
-<a id="section_9C30F9799F1440F09278327002E6B47A"></a>
+<!-- <a id="section_9C30F9799F1440F09278327002E6B47A"></a> -->
 

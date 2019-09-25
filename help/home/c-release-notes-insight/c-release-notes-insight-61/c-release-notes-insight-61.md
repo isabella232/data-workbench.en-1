@@ -26,12 +26,12 @@ Data Workbench 6.1 includes these new features:
   </tr>
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/install/index.html#Data_Workbench_Client_Minimum_System_Requirements" format="http" scope="external"> 64-bit Windows upgrade </a> </td> 
    <td colname="col2"> The data workbench server, report server, and client components are upgraded to run only on 64-bit Windows operating systems. </td> 
   </tr> 
-  <tr valign="top"> 
-   <td colname="col1" valign="top"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/index.html#Propensity_Scoring" format="http" scope="external"> Propensity Scoring</a> </td> 
+  <tr> 
+   <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/index.html#Propensity_Scoring" format="http" scope="external"> Propensity Scoring</a> </td> 
    <td colname="col2">Scoring your audience lets you identify customer loyalty and statistically perceive who is likely to convert a sale or interact with a story or campaign. Propensity scoring now includes these visualizations to view models and show the changing correlation of selected metrics. <p> 
      <ul id="ul_682E12BBC65F4FB5909BEC3430DB9C13"> 
       <li id="li_F0A5BFA2D0A74445A07F7705D63DE4C2">The <a href="http://marketing.adobe.com/resources/help/en_US/insight/client/index.html#Model_Viewer" format="http" scope="external"> Model Viewer</a> examines a logistic regression model generated with Propensity Scoring, displaying the coefficient weights of each input variable (including the constant term) and their statistical error range. </li> 
@@ -41,31 +41,31 @@ Data Workbench 6.1 includes these new features:
       <li id="li_16AEDE7E241C4DE4A946016C37878C49">You can now click Ctrl-Alt and drag and drop to add elements in Propensity Scoring and the <a href="http://marketing.adobe.com/resources/help/en_US/insight/client/index.html#Clustering" format="http" scope="external"> Cluster Builder</a>. Previously to add table elements, you had to drag from the table to the Elements box. </li> 
      </ul> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-support-for-chinese.md#concept-e69dac7de1484720ad469d6c208e7541" format="dita" scope="local"> Data workbench now in Chinese </a> </td> 
    <td colname="col2">Data workbench now supports Simplified Chinese for the client application. <p>Data workbench also supports the <a href="../../../home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-localized-ime.md#concept-86d7602cd6ec416b8d4a518f325e001e" format="dita" scope="local"> Input Method Editor (IME)</a> as a secondary text entry process for international languages. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/index.html#Syntax_for_Math_Expressions" format="http" scope="external"> Math Functions</a> </td> 
    <td colname="col2"> You can now add Mathematical functions to metrics, math transformations, and worksheet cells to further calculate datasets. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/index.html#Statistical_Callouts" format="http" scope="external"> Statistical Callouts </a> </td> 
    <td colname="col2"> Tables now offer a statistics summary call-out for metric columns. The call-out can display the mean, standard deviation, minimum and maximum values, variance, and total count for the column. It can be factored in to any selection and evaluation. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/#Binary_Filter_in_the_Correlation_Matrix" format="http" scope="external"> Correlation Matrix filter</a> </td> 
    <td colname="col2">The Correlation Matrix has been updated with a <span class="uicontrol"> Binary Filter</span> to let you constrain values for one or both of the correlated metrics, allowing you to better focus your comparison. <p>Also, you can now add Dimension elements from a Dimension table by clicking Ctrl + Alt and dragging elements to the matrix column or row to be evaluated. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-funnel-hide-fallout.md#concept-cb550a98b11d432482db58183b0b965b" format="dita" scope="local"> Hide Fallout label in funnel visualization</a> </td> 
    <td colname="col2">Toggle between displaying and hiding fallout labels in a Funnel visualization by right-clicking the title and selecting <span class="uicontrol"> Hide Fallout</span>. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-sort-tables.md#concept-23bf1ce3dced4811b7b9a7f5928cd179" format="dita" scope="local"> Tables sorted</a> alphabetically or by ordinals </td> 
    <td colname="col2"> From a Dimension table, you can sort elements alphabetically or by ordinals using the new arrow in the title of the column. The # character will display when a column is sorted by ordinals. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-keyboard-shortcuts.md#concept-944ee0fdd5a04a5cbd56acc6c3ab2935" format="dita" scope="local"> New keyboard shortcuts </a> </td> 
    <td colname="col2"> Additional shortcut keys have been added for adding and editing workspaces and configuration files. </td> 
   </tr> 

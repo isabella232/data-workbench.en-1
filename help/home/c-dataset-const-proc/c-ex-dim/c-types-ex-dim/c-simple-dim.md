@@ -18,39 +18,39 @@ Simple dimensions are defined by the following parameters:
 
 <table id="table_E6F729DFA226459DBFC1776CE8CB81F8"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
    <th colname="col3" class="entry"> Default </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Name </td> 
    <td colname="col2"> Descriptive name of the dimension as it appears in data workbench. The dimension name cannot include a hyphen (-). </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Comments </td> 
    <td colname="col2"> Optional. Notes about the extended dimension. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Condition </td> 
    <td colname="col2"> The conditions under which the relationship between the Parent and the input field's value should be created. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Hidden </td> 
    <td colname="col2"> Determines whether the dimension appears in the data workbench interface. By default, this parameter is set to false. If, for example, the dimension is to be used only as the basis of a metric, you can set this parameter to true to hide the dimension from the data workbench display. </td> 
    <td colname="col3"> false </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Input </td> 
    <td colname="col2"> The field of values that is related to the parent dimension (Parent). </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Load File </td> 
    <td colname="col2"> <p>Optional. A file of available values for the relationship. You use a load file when either of the following applies: </p> <p> 
      <ul id="ul_056C4A8E46AA479397DC63173C035D5C"> 
@@ -59,7 +59,7 @@ Simple dimensions are defined by the following parameters:
      </ul> </p> <p> If a value is encountered that is not present in the file, it is added to the end of the values when viewed in data workbench. </p> </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Operation </td> 
    <td colname="col2"> <p>Available operations are as follows: </p> <p> 
      <ul id="ul_88AE4279413C42609D8B53EC64B5E913"> 

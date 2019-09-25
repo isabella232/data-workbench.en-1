@@ -56,29 +56,29 @@ Layer = VectorLayer:
   <b>Vector layer parameters: .vec files </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> TSV Files </td> 
    <td colname="col2"> <p>Path(s) to the <span class="filepath"> .tsv</span> file(s) containing the vector data. </p> <p>Example: <span class="filepath"> Maps\\USVectorData.tsv</span> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Color </td> 
    <td colname="col2"> The RGB color vector, which is expressed as (red,green,blue). For each color in the vector, you can enter a value from 0.0 to 1.0. For example, (1.0, 0.0, 0.0) is bright red, and (0.5, 0.5, 0.5) is gray. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Alpha </td> 
    <td colname="col2"> Controls the transparency of the vectors shown on the globe. The range is 0 to 1, with 0 being the most transparent. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Width </td> 
    <td colname="col2"> Optional. Sets the width of the data in pixels. The recommended range is 1 to 4. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Error Factor </td> 
    <td colname="col2"> Controls how accurately the vectors are drawn. For larger values, the vectors are drawn less accurately but faster. The default value is 5. </td> 
   </tr> 

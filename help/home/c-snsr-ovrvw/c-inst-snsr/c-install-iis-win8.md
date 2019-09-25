@@ -213,5 +213,5 @@ The log data would be augmented as detailed in the following table:
 |  v_3  | Value associated with the STATE query string  | v_3=California  |
 |  v_4  | Value associated with the ZIP query string  | v_4=90210  |
 
-<a id="section_55C623AC973246DC9EBECD48DA1EE0F7"></a>
+<!-- <a id="section_55C623AC973246DC9EBECD48DA1EE0F7"></a> -->
 

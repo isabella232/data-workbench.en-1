@@ -40,21 +40,21 @@ The following table lists the tasks that can be completed using the [!DNL Server
 
 <table id="table_D217AE5A878542EC8B604812A61819C3"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> To perform this task... </th> 
    <th colname="col2" class="entry"> Do this... </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>To see the files within any directory </p> </td> 
    <td colname="col2"> <p>Click the directory name to view its contents. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>To hide the content of a directory </p> </td> 
    <td colname="col2"> <p>Click the directory name. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>To see details about a directory </p> </td> 
    <td colname="col2"> <p>Right-click the cell next to the directory in either the server name or <span class="wintitle"> Temp</span> column. You see the following information: </p> 
     <ul id="ul_2DA5C8D0E95F4BCC8F7E25D05F00EB02"> 
@@ -64,7 +64,7 @@ The following table lists the tasks that can be completed using the [!DNL Server
      <li id="li_CB4AEEC89E424868B758465EC0B701B5">Date (Temp column only). Creation date or the date of the last revision to the local copy. </li> 
     </ul> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>To see details about a file </p> </td> 
    <td colname="col2"> <p>Right-click the check mark next to the file in either the server name or <span class="wintitle"> Temp</span> column. You see the following information: </p> <p> 
      <ul id="ul_C4E6CB86D1774D739B5ECF48AF8DB628"> 
@@ -75,39 +75,39 @@ The following table lists the tasks that can be completed using the [!DNL Server
       <li id="li_7477C727C62F4406BB2026063E41F2AE">Size. The size of the file. </li> 
      </ul> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>To download a directory to your local computer </p> </td> 
    <td colname="col2"> <p>Right-click the check mark in the <i>server name</i> column for this directory and click <span class="uicontrol"> Make Directory Local</span>. A check mark for the directory appears in the <span class="wintitle"> Temp</span> column. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>To download a file to your local computer </p> </td> 
    <td colname="col2"> <p>Right-click the check mark in the <i>server name</i> column for this file and click <span class="uicontrol"> Make Local</span>. A check mark for the file appears in the <span class="wintitle"> Temp</span> column. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>To download the last portion of a log file to your local computer </p> </td> 
    <td colname="col2"> <p>To avoid having to download an entire log file (especially when you know that the error message is close to the end of the file), right-click the check mark in the server name column for the file, click <span class="uicontrol"> Tail</span>, and select the size of the portion you want to download. A check mark for the file appears in the <span class="wintitle"> Temp</span> column. The local file contains only the amount of data that you specified, starting from the end of the file. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>To open a directory </p> </td> 
    <td colname="col2"> <p>Right-click the check mark for the directory in the <span class="wintitle"> Temp</span> column and click <span class="uicontrol"> Open</span> &gt; <span class="uicontrol"> folder</span>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>To open a file </p> </td> 
    <td colname="col2"> <p>Right-click the check mark for the file in the <span class="wintitle"> Temp</span> column, click <span class="uicontrol"> Open</span>, then click in <span class="uicontrol"> Data Workbench</span>, <span class="uicontrol"> in Notepad</span>, or <span class="uicontrol"> folder</span>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Save a local copy of a directory to the Data Workbench server </p> </td> 
    <td colname="col2"> <p>Right-click the check mark for the directory in the <span class="wintitle"> Temp</span> column and click <span class="uicontrol"> Save Directory to</span> &gt; <i>&lt;<span class="uicontrol"> profile name</span>&gt;</i>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Save a local copy of a file to the Data Workbench server </p> </td> 
    <td colname="col2"> <p>Right-click the check mark for the file in the <span class="wintitle"> Temp</span> column and click <span class="uicontrol"> Save to</span> &gt; <i>&lt;<span class="uicontrol"> profile name</span>&gt;</i>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Remove a local copy of a directory or file </p> </td> 
    <td colname="col2"> <p>Right-click the check mark for the directory or file in the <span class="wintitle"> Temp</span> column and click <span class="uicontrol"> Remove</span>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Copy and paste a file as an email attachment in Microsoft Outlook </p> </td> 
    <td colname="col2"> <p>Right-click the check mark for the file in the <span class="wintitle"> Temp</span> column and click <span class="uicontrol"> Copy</span>. In the body of your email, press Ctrl+v to attach the file. </p> </td> 
   </tr> 

@@ -26,34 +26,34 @@ The parameters of the [!DNL Compare] condition are described in the following ta
 
 <table id="table_05B1FBB2AED242D99081E62BE2FBEC60"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
    <th colname="col3" class="entry"> Default </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Case Sensitive </td> 
    <td colname="col2">True or false. Used only if the Type is <span class="wintitle"> LEXICAL</span>. If set to false, upper and lower case letters are considered equal. </td> 
    <td colname="col3"> true </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Comments </td> 
    <td colname="col2"> Optional. Notes about the condition. </td> 
    <td colname="col3"> Comments </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Input A </td> 
    <td colname="col2"> The first of the two values to compare. This value represents the left operand in the condition. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Input B </td> 
    <td colname="col2"> The second of the two values to compare. This value represents the right operand in the condition. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Operation </td> 
    <td colname="col2"> <p>The comparison operation. The available operations (and their meanings) are as follows: 
      <ul id="ul_74F3C298E9CC4FE89897BA0052A9EB9F"> 
@@ -66,7 +66,7 @@ The parameters of the [!DNL Compare] condition are described in the following ta
      </ul> </p> </td> 
    <td colname="col3"> = </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Type </td> 
    <td colname="col2">The type of comparison to be made. Available types are <span class="wintitle"> LEXICAL</span>, <span class="wintitle"> NUMERIC</span>, and <span class="wintitle"> DATETIME</span>. For descriptions of the types, see <a href="../../../../home/c-dataset-const-proc/c-conditions/c-test-ops/c-test-types.md#concept-a9fca97a2f03464cb0cbab8b5f809d0a" format="dita" scope="local"> Test Types for Test Operations</a>. </td> 
    <td colname="col3"> <span class="wintitle"> LEXICAL</span> </td> 
@@ -101,39 +101,39 @@ The parameters of the [!DNL Range] condition are described in the following tabl
 
 <table id="table_1587D8D333804FC28024C0DFC2F2D4D3"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
    <th colname="col3" class="entry"> Default </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Case Sensitive </td> 
    <td colname="col2">True or false. Used only if the <span class="wintitle"> Type</span> is <span class="wintitle"> LEXICAL</span>. If set to false, upper and lower case letters are considered equal. </td> 
    <td colname="col3"> true </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Comments </td> 
    <td colname="col2"> Optional. Notes about the condition. </td> 
    <td colname="col3"> Comments </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Input </td> 
    <td colname="col2"> The name of the field from the log entry to use as input. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Min </td> 
    <td colname="col2"> <p>Lower bound of range. </p> <p> This parameter's value must be a literal value or a string - not a field name. If you use a date for this field, you must specify a time zone. For a list of supported time zone abbreviations, see <a href="../../../../home/c-dataset-const-proc/c-time-zone.md#concept-9b540ec3e770490d94e9d5a985765477" format="dita" scope="local"> Time Zone Codes</a>. </p> </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Max </td> 
    <td colname="col2"> <p>Upper bound of range. </p> <p> <p>Note: This parameter's value must be a literal value or a string - not a field name. If you use a date for this field, you must specify a time zone. For a list of supported time zone abbreviations, see <a href="../../../../home/c-dataset-const-proc/c-time-zone.md#concept-9b540ec3e770490d94e9d5a985765477" format="dita" scope="local"> Time Zone Codes</a>. </p> </p> </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Type </td> 
    <td colname="col2">The type of comparison to be made. Available types are <span class="wintitle"> LEXICAL</span>, <span class="wintitle"> NUMERIC</span>, and <span class="wintitle"> DATETIME</span>. For descriptions of the types, see <a href="../../../../home/c-dataset-const-proc/c-conditions/c-test-ops/c-test-types.md#concept-a9fca97a2f03464cb0cbab8b5f809d0a" format="dita" scope="local"> Test Types for Test Operations</a>. </td> 
    <td colname="col3"> </td> 
@@ -159,29 +159,29 @@ The parameters of the [!DNL Regular Expression] condition are described in the f
 
 <table id="table_0BF5F89F87C9493B8DABA97620074FAD"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
    <th colname="col3" class="entry"> Default </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Case Sensitive </td> 
    <td colname="col2"> True or false. If set to false, upper and lower case letters are considered equal. </td> 
    <td colname="col3"> true </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Comments </td> 
    <td colname="col2"> Optional. Notes about the condition. </td> 
    <td colname="col3"> Comments </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Input </td> 
    <td colname="col2"> The name of the field from the log entry to use as input. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Matches </td> 
    <td colname="col2"> <p>The regular expression pattern(s) to match against the value of the input field. </p> <p> <b> To add a regular expression pattern</b> 
      <ol id="ol_6D6467FF74334DEA8E8625C3B155D11D"> 
@@ -204,29 +204,29 @@ The [!DNL String Match] condition tests for string equality. It takes a specifie
 
 <table id="table_BD599BAA5DD54B278813B6C38AC8DE6B"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
    <th colname="col3" class="entry"> Default </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Case Sensitive </td> 
    <td colname="col2"> True or false. If set to false, upper and lower case letters are considered equal. </td> 
    <td colname="col3"> true </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Comments </td> 
    <td colname="col2"> Optional. Notes about the condition. </td> 
    <td colname="col3"> Comments </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Input </td> 
    <td colname="col2"> The name of the field from the log entry to use as input. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Matches </td> 
    <td colname="col2"> <p>The string(s) to match against the value of the input field. </p> <p> <b>To add a string</b> 
      <ol id="ol_9E32218C771445D88357960475FAD6EB"> 

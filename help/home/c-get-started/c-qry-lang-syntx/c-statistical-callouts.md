@@ -26,18 +26,18 @@ The callout can return statistical values factored into the dataset columns.
 <table id="table_B2A4F9D5938D4756A81ACF6F4D77E63D">
  <thead>
   <tr>
-   <th colname="col1" align="center" class="entry"> Calculation </th>
-   <th colname="col2" align="center" class="entry"> Description </th>
+   <th colname="col1" class="entry"> Calculation </th>
+   <th colname="col2" class="entry"> Description </th>
   </tr>
  </thead>
  <tbody>
   <tr>
    <td colname="col1"> Count </td>
-   <td colname="col2" valign="middle"><p>Returns the number of rows in a dataset. </p></td>
+   <td colname="col2"><p>Returns the number of rows in a dataset. </p></td>
   </tr>
   <tr>
    <td colname="col1"> Maximum </td>
-   <td colname="col2" valign="middle"><p> Identifies the maximum Metric value across all elements of the dimension. </p></td>
+   <td colname="col2"><p> Identifies the maximum Metric value across all elements of the dimension. </p></td>
   </tr>
   <tr>
    <td colname="col1"> Minimum </td>

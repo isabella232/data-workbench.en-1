@@ -66,33 +66,33 @@ When specifying remote data sources for a dataset, you must specify the type of 
   <b> <b> Log Server Parameters</b> </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Name </td> 
    <td colname="col2"> Name identifying the remote file server. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> SSL Server Common Name </td> 
    <td colname="col2"> <p> <span class="wintitle"> Server Common Name</span> listed on the file server's SSL certificate. </p> <p> This parameter is optional if <span class="wintitle"> Use SSL</span> is set to false. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Address </td> 
    <td colname="col2"> <p>Address of the file server machine. Can be left blank if <span class="wintitle"> Name</span> matches <span class="wintitle"> SSL Server Common Name</span>. </p> <p> For example: <span class="filepath"> visual.mycompany.com</span> or 192.168.1.90. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Port </td> 
    <td colname="col2"> Port through which the data workbench server machine communicates with the file server. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> SSL Client Certificate </td> 
    <td colname="col2"> Name of the <span class="wintitle"> SSL certificate</span> file for the data workbench server (<span class="filepath"> server_cert.pem</span>). </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Use SSL </td> 
    <td colname="col2"> True or false. True indicates that the file server uses <span class="wintitle"> SSL</span>. </td> 
   </tr> 

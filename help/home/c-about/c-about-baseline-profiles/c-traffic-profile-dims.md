@@ -41,109 +41,109 @@ The dimensions in the following table are defined in the Dimension directory of 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Browser </td> 
    <td colname="col2"> Simple </td> 
    <td colname="col03"> Visitor </td> 
    <td colname="col3"> The type of user agent used by the visitor, including the version number (for example, MSIE 6.0.) </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Browser Type </td> 
    <td colname="col2"> Simple </td> 
    <td colname="col03"> Visitor </td> 
    <td colname="col3"> The type of user agent used by the visitor (for example, MSIE). </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Search Engine </td> 
    <td colname="col2"> Simple </td> 
    <td colname="col03">Session <p>FIRST ROW </p></td> 
    <td colname="col3"> The first search engine in a visitor’s session when a visitor has searched from a named search engine. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Next URI </td> 
    <td colname="col2"> Derived (ShiftDim based on URI dimension) </td> 
    <td colname="col03"> Page View </td> 
    <td colname="col3"> The URI of the next URI after the currently selected URI. This derived dimension is used to conduct analysis about what visitors do next after any given URI. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Onetime vs Repeat </td> 
    <td colname="col2"> Derived (SegmentDim based on Repeat Visitors and One-time Visitors metrics) </td> 
    <td colname="col03"> Visitor </td> 
    <td colname="col3"> The type of visitor: one-time or repeat. One-time visitors have had only one session on the site, while repeat visitors have had more than one session. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Page </td> 
    <td colname="col2"> Derived (RenameDim based on URI dimension) </td> 
    <td colname="col03"> Page View </td> 
    <td colname="col3"> The name of each page visited during a session. Initially, each page’s name is the same as the URI but can be changed for easier interpretation. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Referrer </td> 
    <td colname="col2"> Inherited from the built-in Referrer dimension </td> 
    <td colname="col03"> Session </td> 
    <td colname="col3"> The second level domain name of the web site that first referred a session to the site (as supplied by the visitor’s browser.) </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Search Phrase </td> 
    <td colname="col2"> Simple </td> 
    <td colname="col03">Session <p>FIRST ROW </p></td> 
    <td colname="col3"> The first search phrase in a visitor’s session as passed on by a search engine when a visitor has searched from a named search engine. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Search Term </td> 
    <td colname="col2"> Many-to-Many </td> 
    <td colname="col03"> Session </td> 
    <td colname="col3"> Each search term as passed on by a search engine when a visitor has a search referrer click-through from a named search engine. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Session Duration </td> 
    <td colname="col2"> Derived (MetricDim based on Exact Page Duration metric) </td> 
    <td colname="col03"> Session </td> 
    <td colname="col3"> The duration of a session in 30-second increments. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Session Number </td> 
    <td colname="col2"> Simple </td> 
    <td colname="col03"> Session </td> 
    <td colname="col3"> The number of times a visitor has visited the site. For example, first-time visitors have a Session Number of “1”, second-time visitors have a Session Number of “2”, etc. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Session Page Views </td> 
    <td colname="col2"> Derived (MetricDim based on Page Views metric) </td> 
    <td colname="col03"> Session </td> 
    <td colname="col3"> The number of page views in a session. For example, selecting “3” in the Session Page Views dimension would select all sessions with exactly 3 page views. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Search Engine </td> 
    <td colname="col2"> Simple </td> 
    <td colname="col03"> Session </td> 
    <td colname="col3"> The second level domain name of the first web site that is a named search engine that referred a visitor to the site during a session (as supplied by the visitor’s browser.) </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Time Dimensions </td> 
    <td colname="col2"> Simple </td> 
    <td colname="col03"> Session </td> 
    <td colname="col3"> The hour, day, hour of day, week, day of week, month, quarter or year in which a Session began. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Time Reporting Dimensions </td> 
    <td colname="col2"> Derived (LastN and Rename dimensions based on built-in time dimensions) </td> 
    <td colname="col03"> Session </td> 
    <td colname="col3"> Dimensions including Days Ago, Days of Last Month, Days of Last Week, Days of This Month, Days of This Week, Hours of Today, Hours of Yesterday, Last 12 Months, Last 2 Months, Last 2 Weeks, Last 24 Hours, Last 3 Months, Last 4 Weeks, Last 6 Months, Last 7 Days, Last 7 Days and Today, Last 8 Weeks, Last 9 Months, Last Month, Last Week, Months Ago, This Month, This Week, This and Last 14 Days, This and Last 6 Months, This and Last 8 Weeks, Today, Today Reporting, Today and Last 30 Days, Weeks Ago and Yesterday provide a convenient way to build a Workspace or Report which always shows a portion of data in the Dataset. Each is based upon when a session began. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> URI </td> 
    <td colname="col2"> Inherited from the built-in Dimension URI </td> 
    <td colname="col03"> Page View </td> 
    <td colname="col3"> The URI of each page viewed. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Visitor Page Views </td> 
    <td colname="col2"> Derived (MetricDim based on Page Views metric) </td> 
    <td colname="col03"> Visitor </td> 
    <td colname="col3"> The number of page views to date for a visitor. For example, selecting “3” in the Visitor Page Views dimension would select all visitors with exactly 3 page views across all of their sessions. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Visitor Referrer </td> 
    <td colname="col2"> Inherited from the built-in dimension Referrer </td> 
    <td colname="col03"> Visitor </td> 

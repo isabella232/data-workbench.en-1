@@ -22,44 +22,44 @@ The REMatch transformation is a pattern-matching transformation that uses regula
 
 <table id="table_7077578512B249E986BC79AE770CBD9A"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
    <th colname="col3" class="entry"> Default </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Name </td> 
    <td colname="col2"> Descriptive name of the transformation. You can enter any name here. </td> 
    <td colname="col3"></td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Case Sensitive </td> 
    <td colname="col2"> True or false. Specifies whether the match is case-sensitive. </td> 
    <td colname="col3"></td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Comments </td> 
    <td colname="col2"> Optional. Notes about the transformation. </td> 
    <td colname="col3"></td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Condition </td> 
    <td colname="col2"> The conditions under which this transformation is applied. </td> 
    <td colname="col3"></td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Expression </td> 
    <td colname="col2"> The regular expression used for matching. </td> 
    <td colname="col3"></td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Input </td> 
    <td colname="col2"> The field against which the regular expression is evaluated. </td> 
    <td colname="col3"></td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Outputs </td> 
    <td colname="col2"> <p>The name of the output string or vector. In the case of string vectors as input, the outputs are also string vectors. </p> <p> An output field must exist for each capturing sub-pattern in the expression. </p> </td> 
    <td colname="col3"></td> 

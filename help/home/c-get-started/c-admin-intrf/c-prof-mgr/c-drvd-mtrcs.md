@@ -38,21 +38,21 @@ You use a [!DNL Metric Editor] to define a new metric by name, formula, and form
 
    <table id="table_ED77997FC08F492490DCAC3C4153781C"> 
    <thead> 
-   <tr valign="top"> 
+   <tr> 
       <th colname="col1" class="entry"> Extended Metric Name </th> 
       <th colname="col2" class="entry"> Expression </th> 
    </tr>
    </thead>
    <tbody> 
-   <tr valign="top"> 
+   <tr> 
       <td colname="col1"> <p>Percent First Sessions </p> </td> 
       <td colname="col2"> <p><span class="filepath"> Sessions [Session_Number="1"]/Sessions</span> </p> </td> 
    </tr> 
-   <tr valign="top"> 
+   <tr> 
       <td colname="col1"> <p>Conversion First Sessions </p> </td> 
       <td colname="col2"> <p><span class="filepath"> Conversion [Session_Number="1"]</span> </p> </td> 
    </tr> 
-   <tr valign="top"> 
+   <tr> 
       <td colname="col1"> <p>Average Value Per Visitor </p> </td> 
       <td colname="col2"> <p><span class="filepath"> Value/Visitors</span> </p> </td> 
    </tr> 

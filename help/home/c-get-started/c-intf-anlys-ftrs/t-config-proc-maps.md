@@ -47,29 +47,29 @@ Process maps can be configured to work with any combination of base dimension, g
 
 <table id="table_3F072DB1B68746C49DF9332718982EBE"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> For this parameter... </th> 
    <th colname="col2" class="entry"> Provide this information... </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p><i>Metric name</i> </p> </td> 
    <td colname="col2"> <p>The name of the metric whose value for a given node is proportional to the size of the node. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p><i>Base dimension name</i> </p> </td> 
    <td colname="col2"> <p>The name of the dimension whose elements appear as nodes on the process map. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p><i>Level dimension name</i> </p> </td> 
    <td colname="col2"> <p>The name of the level (parent) of the base dimension whose elements you drag to the process map. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p><i>Group dimension name</i> </p> </td> 
    <td colname="col2"> <p>The name of the dimension that determines how the elements of the level dimension are grouped to form the connections between nodes. A connection between two nodes cannot span more than one element of a group dimension. When you make a selection based on a node within a process map, you are selecting all of the elements of the group dimension that involved that node. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p><i>Metric name for metric map</i> </p> </td> 
    <td colname="col2"> <p>This parameter applies to 2D metric maps only. </p> <p>The name of the metric whose value determines the horizontal position of the nodes on the map. </p> </td> 
   </tr> 

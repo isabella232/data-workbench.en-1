@@ -14,24 +14,24 @@ Table that defines the User Group parameters.
 
 <table id="table_670A47E25A7A43F0B599BD7ABB173E69"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Field </th> 
    <th colname="col2" class="entry"> Type </th> 
    <th colname="col3" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Name </p> </td> 
    <td colname="col2"> <p>string </p> </td> 
    <td colname="col3"> <p>A user-defined name of the user group, such as Analysts. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Policies </p> </td> 
    <td colname="col2"> <p>vector </p> </td> 
    <td colname="col3"> <p>Specifies a policy type. Right-click to choose Standard Policy or Daily Schedule. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Standard Policy </p> </td> 
    <td colname="col2"> </td> 
    <td colname="col3"> <p>A Standard Policy ensures that users with a low priority are incrementally moved up the queue and scheduled, even if higher priority users enter the queue. You can add multiple policies of the same type in a group, and their effect is cumulative. 
@@ -45,22 +45,22 @@ Table that defines the User Group parameters.
       <li id="li_3AE2EC3EBE6C4670BA0FA1BBD03FEBBD"><b>Scheduled Increment Interval:</b> Sets the number of seconds between updates while scheduled. <p> <p>Note:  Setting the increment and interval update rates higher for queued bunches than for scheduled bunches can cause oscillation. (For example, suppose you set the Queued Increment value to 100 and the Scheduled Increment to 0, and set the Queued Increment Interval value to 1 and the Untouchable Priority to be high. If two query bunches come in with a base priority of 0, and there are not enough resources to run both queries at the same time, then one of them is scheduled. After one second, the query that was not scheduled has a priority of 100, and preempts the one that was scheduled. After two more seconds, the one that was preempted now has a priority of 200, and the two switch places again. Neither query finishes, because every two seconds the query that is being computed is preempted so the other query can run.) </p> </p> </li> 
      </ul> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Daily Schedule Policy </p> </td> 
    <td colname="col2"> </td> 
    <td colname="col3"> <p>Lets you change the priority at specific times of the day. This schedule is useful for automated clients, such as <span class="wintitle"> Report Server</span>, and when users of the system live in different time zones. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Changes </p> </td> 
    <td colname="col2"> <p>int </p> </td> 
    <td colname="col3"> <p>Right-click to add a scheduled priority change. The Change Time is the time of day at which the change occurs. The format is hour:minutes AM/PM. If AM or PM is not entered, the system uses military time. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Priority Limit </p> </td> 
    <td colname="col2"> <p>int </p> </td> 
    <td colname="col3"> <p>The maximum priority value resulting from a change. The Priority Change is the amount added to the priority. For example, a value of 0 returns to a default priority. Any other value results in a priority of the default priority plus this number. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Users </p> </td> 
    <td colname="col2"> <p>vector </p> </td> 
    <td colname="col3"> <p>Lists the users that are members of the group. </p> <p> <b>Name:</b> The user’s name as it appears in the Common Name field in the user’s certificate. </p> <p> <b>Extra Priority:</b> Provides additional priority to the user group’s base priority to determine the starting priority for that user. </p> </td> 

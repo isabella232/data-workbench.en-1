@@ -43,29 +43,29 @@ Steps to map the Report Portal to a virtual directory (IIS 5.0).
 
 <table id="table_B2E04423C20F40CAA8EDA3FCBA210AA2"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Create this alias . . . </th> 
    <th colname="col2" class="entry"> For this physical resource . . . </th> 
   </tr>
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Core </td> 
    <td colname="col2"> <p>\<i>PortalName</i>\PortalFiles\Core </p> <p>Example: <span class="filepath"> C:\Inetpub\wwwroot\Portal\PortalFiles\Core</span> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> CSS </td> 
    <td colname="col2"> <p>\<i>PortalName</i>\PortalFiles\CSS </p> <p>Example: <span class="filepath"> C:\Inetpub\wwwroot\Portal\PortalFiles\CSS</span> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> HTC </td> 
    <td colname="col2"> <p>\<i>PortalName</i>\PortalFiles\HTC </p> <p>Example: <span class="filepath"> C:\Inetpub\wwwroot\Portal\PortalFiles\HTC</span> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Images </td> 
    <td colname="col2"> <p>\<i>PortalName</i>\PortalFiles\Images </p> <p>Example: <span class="filepath"> C:\Inetpub\wwwroot\Portal\PortalFiles\Images</span> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Output </td> 
    <td colname="col2"> <p>Physical location of the directory in which <span class="keyword"> Report Server</span> saves the output for your report sets. The output folder can be located anywhere, can be named anything, and contains a subfolder for each report set. </p> <p>This must be the same directory that you specify in the Output Root parameter in the <span class="filepath"> Report.cfg</span> file for a report set. For more information, see <a href="../../../../home/c-rpt-oview/c-admin-rpt/c-config-rpt-files.md#concept-cf4b95344fcb4c8c877db91e5f1d345d" format="dita" scope="local"> Configuring Report.cfg Files</a>. </p> <p>The default location is \<i>PortalName</i>\PortalFiles\Output. </p> <p>Example: <span class="filepath"> C:\Inetpub\wwwroot\Portal\PortalFiles\Output</span> </p> <p>The <i>PortalName</i>\PortalFiles\Output directory contains the <span class="filepath"> profiles.xml</span> file, which must be moved to the output directory that you specify for this alias. </p> <p>It is critical that the <span class="wintitle"> Path</span> attribute is set properly. </p> </td> 
   </tr> 

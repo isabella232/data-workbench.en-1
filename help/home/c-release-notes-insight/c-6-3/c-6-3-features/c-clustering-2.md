@@ -17,7 +17,7 @@ In the [Cluster Builder](http://marketing.adobe.com/resources/help/en_US/insight
 * **[!UICONTROL KMeans]**. This algorithm uses canopy clustering to define the centers of the cluster. 
 * **[!UICONTROL KMeans++]**. This algorithm expedites cluster building when running against large sets of data.
 
-<a id="section_8193A6D60C5540BB985085BE670B4544"></a>
+<!-- <a id="section_8193A6D60C5540BB985085BE670B4544"></a> -->
 
 KMeans++ is an improved implementation of KMeans clustering algorithm because it provides better initialization of initial k centers. (The original KMeans algorithm chooses initial centers randomly.) KMeans++ selects the first center randomly. The remaining k-1 centers will be chosen one by one based on the distance a data point is to the closest existing center. The furthest data points have a better chance to be chosen as a new center than nearby data points. After the initial center is chosen, the procedure is performed exactly the same as the original KMeans clustering.
 

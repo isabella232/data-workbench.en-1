@@ -36,7 +36,7 @@ From a **Detail Table** (right-click **[!UICONTROL Tools]** > **[!UICONTROL Deta
    <td colname="col2">Name of the <i>Customer Attributes</i> variable displayed in <i>Reports &amp; Analytics</i>. </td> 
   </tr> 
   <tr> 
-   <td colname="col1" valign="top"><b>Attribute Type</b> </td> 
+   <td colname="col1"><b>Attribute Type</b> </td> 
    <td colname="col2"> <p>This parameter accepts values of (<i>int</i>, <i>string</i>). </p> <p>Note: If an attribute is <b>not</b> subscribed to in Analytics: <p> 
       <ul id="ul_B77BF6FDA3FB4F1BBF9380C2FD938270"> 
        <li id="li_3D099456AF6B4103B227D841C81AB936">The attribute will be created with any valid attribute type supported by Analytics (for this release it is limited to only <i>string</i> and <i>int</i>). </li> 
@@ -48,7 +48,7 @@ From a **Detail Table** (right-click **[!UICONTROL Tools]** > **[!UICONTROL Deta
       </ul> </p> </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1" valign="top"> <p><b>Field Name</b> </p> </td> 
+   <td colname="col1"> <p><b>Field Name</b> </p> </td> 
    <td colname="col2">Name of the dimension or metric from which the attribute values are selected. <p>Note: The <i><b>Field Name</b></i> under <i>CRS Attributes</i> should be the same as the <b><i>Output Fields</i> &gt; <i>Field Name</i></b> (which is populated automatically based on the attribute selected). If the <i>Field Name</i> is invalid then the export will not run. </p> </td> 
   </tr> 
  </tbody> 
@@ -62,7 +62,7 @@ From a **Detail Table** (right-click **[!UICONTROL Tools]** > **[!UICONTROL Deta
 <table id="table_A3279CADB74C441DA2E062E2123CE9D4"> 
  <tbody> 
   <tr> 
-   <td colname="col1" valign="top"><b>Report Suite</b> </td> 
+   <td colname="col1"><b>Report Suite</b> </td> 
    <td colname="col2">ID of the report suite in <i>Reports &amp; Analytics</i> identifying the <i>Customer Attribute</i> variables being exported. <p> <p>Note: Although <i>Reports &amp; Analytics</i> lets you add to multiple report suites, Data Workbench 6.4 will only export a single report suite identified at <i>index 0</i>. <p>The report suite value entered in this field is the report suite ID (and not the name of the report suite). </p> </p> </p> </td> 
   </tr> 
  </tbody> 

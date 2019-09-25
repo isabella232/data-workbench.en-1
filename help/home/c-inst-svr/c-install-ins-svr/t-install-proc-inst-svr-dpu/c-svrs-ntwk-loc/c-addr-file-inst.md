@@ -68,21 +68,21 @@ The following procedure describes how to configure the address file to define a 
 
 <table id="table_02C2A1630CCD40C4A51B314C3CB683F1"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> For this value... </th> 
    <th colname="col2" class="entry"> Specify </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <i>IP Address</i> </td> 
    <td colname="col2"> <p>The numeric IP address of the <span class="keyword"> Insight Server </span> machine. </p> <p>Example: 192.168.124.176 </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <i>Common Name </i> </td> 
    <td colname="col2"> <p>The common name assigned to the digital certificate for <span class="keyword"> Insight Server </span>. </p> <p>Example: <span class="filepath"> server.mycompany.com </span></p> <p>Note: Be sure to type this name exactly as it appears on the certificate. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <i>Network Location Name </i> </td> 
    <td colname="col2"> <p>The name you want to assign to the collection of common names and IP addresses that this NetworkLocation represents. The name must be unique within the address file. </p> <p>Example: Corporate Intranet </p> </td> 
   </tr> 

@@ -105,7 +105,7 @@ New quick keys let you resize and refit workspaces between window and full page 
   </tr>
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"><b>Full screen view</b>. Workspace fills the screen and refits to the new size. </td> 
    <td colname="col2"><b>Ctrl plus</b> <p>Ctrl + (on keypad) </p> <p><i>or</i> </p> <p>Ctrl Shift + (on keyboard) </p> </td> 
    <td colname="col3"> 
@@ -114,7 +114,7 @@ New quick keys let you resize and refit workspaces between window and full page 
      <li id="li_DE9B8B31B9F24A6AA68A1D0DB886B501">File &gt; Refit Workspace </li> 
     </ul> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"><b>Window view</b>. Workspace displays in a standard window view and refits to the new size. </td> 
    <td colname="col2"><b>Ctrl minus</b> <p>Ctrl - </p> </td> 
    <td colname="col3"> 

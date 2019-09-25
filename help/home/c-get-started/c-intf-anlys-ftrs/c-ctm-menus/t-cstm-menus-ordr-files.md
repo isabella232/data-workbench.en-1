@@ -33,21 +33,21 @@ The steps in this section apply to all types of menus.
 
     <table id="table_C5D5313DF5E4470499B0B285BA2690F0"> 
     <thead> 
-    <tr valign="top"> 
+    <tr> 
     <th colname="col1" class="entry"> To perform this task... </th> 
     <th colname="col2" class="entry"> Do the following... </th> 
     </tr> 
     </thead>
     <tbody> 
-    <tr valign="top"> 
+    <tr> 
     <td colname="col1"> <p>Reorder menu items </p> </td> 
     <td colname="col2"> <p>Type the item names in the order that you want them to appear in Data Workbench. </p> <p>For example, as long as each menu item name matches its corresponding file or folder name, the following would result in<b> Add Table</b> appearing first, then <b>Add Visualization</b>, <b>Add Legend</b>, and <b>Add Note</b> appearing last. </p> <p><b>Add Table </b> </p> <p><b>Add Visualization </b> </p> <p><b>Add Legend </b> </p> <p><b>Add Note </b> </p> </td> 
     </tr> 
-    <tr valign="top"> 
+    <tr> 
     <td colname="col1"> <p>Rename a menu item </p> </td> 
     <td colname="col2"> <p>Rename the corresponding file or folder in the <span class="wintitle"> Profile Manager</span>, then change the name of the item in the <span class="filepath"> order.txt</span> file. </p> <p>For example, to rename Add Annotation to New Annotation, rename the Add Annotation folder in the <span class="wintitle"> Profile Manager</span> to New Annotation, then change the name of the Add Annotation item in the <span class="filepath"> order.txt</span> file to New Annotation. </p> </td> 
     </tr> 
-    <tr valign="top"> 
+    <tr> 
     <td colname="col1"> <p>Hide a menu item </p> </td> 
     <td colname="col2"> <p>To hide the menu item but not delete the item itself, type a minus sign (-) at the beginning of its name. </p> <p>For example, the following results in <span class="wintitle"> Add Annotation</span> not appearing in the menu. </p> <p>Add Legend </p> <p>-Add Annotation </p> <p>To again show the hidden menu item, simply remove the minus sign (-) or use the Unhide All parameter in the <span class="filepath"> Insight.cfg</span> file, see <a href="../../../../home/c-get-started/c-insght-config-param.md#concept-14da97d0756348e885c08ca9e866074b" format="dita" scope="local"> Insight Configuration Parameters</a>. </p> <p>You can also hide menu items using the following methods: 
     <ul id="ul_CC9A82AFCE784CA49CC912C9256BAC1A"> 
@@ -56,15 +56,15 @@ The steps in this section apply to all types of menus.
     <li id="li_6E161953FEA44EC18237D88D7173DC60"> <p>Zero-byte files hide any type of item on any menu. When using this option, an empty (zero-byte) file hides the presence of a file with the same name that contains data. Data Workbench treats zero-byte files as if they do not exist. For more information, see <a href="../../../../home/c-get-started/c-admin-intrf/c-prof-mgr/c-empty-files.md#concept-e776fac9e5904bed8c13b9d5eb17c491" format="dita" scope="local"> Hiding Files Using Empty (Zero-byte) Files</a>. </p> </li> 
     </ul> </p> </td> 
     </tr> 
-    <tr valign="top"> 
+    <tr> 
     <td colname="col1"> <p>Delete a menu item </p> </td> 
     <td colname="col2"> <p>If this file is set to use the [Exclusive] option, you can simply delete the menu item from this file. The item itself is still in the profile, but it is not listed in the menu. </p> <p>If this file is set to use the [Inclusive] option, you must remove the menu item name from this file and either delete or zero-byte the corresponding file to remove the item from the menu. </p> <p>For information about deleting files, see <a href="../../../../home/c-get-started/c-admin-intrf/c-prof-mgr/t-del-files-wkg-prof.md#task-1e29c25e6c824cc9b51cb651e835856b" format="dita" scope="local"> Deleting Files from Your Working Profile</a>. For information about zero-byte files, see <a href="../../../../home/c-get-started/c-admin-intrf/c-prof-mgr/c-empty-files.md#concept-e776fac9e5904bed8c13b9d5eb17c491" format="dita" scope="local"> Hiding Files Using Empty (Zero-byte) Files</a>. </p> </td> 
     </tr> 
-    <tr valign="top"> 
+    <tr> 
     <td colname="col1"> <p>Add a group header </p> </td> 
     <td colname="col2"> <p>Type three hyphens before and after the heading text that you want to appear. </p> <p>For example, the following would result in a Manage group header for a set of related menu items. </p> <p>---Manage--- </p> <p>Profile </p> <p>Dataset </p> <p style="text-align: center;"> <img id="image_DB5BB8A33553499A9FC6B53C544CD4CC" src="assets/cfg_ordertxt_example.png"> </img> </p> </td> 
     </tr> 
-    <tr valign="top"> 
+    <tr> 
     <td colname="col1"> <p>Add a line to separate sections of a menu </p> </td> 
     <td colname="col2"> <p>Type three hyphens where you want a line to appear. </p> <p>For example, the following results in a line separating Add Annotation and Add Custom. </p> <p>Add Annotation </p> <p>--- </p> <p>Add Custom </p> </td> 
     </tr> 

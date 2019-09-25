@@ -12,7 +12,7 @@ uuid: 6b6879bf-81e5-4c6f-a4a6-eecac1ab0a29
 
 From the Funnel visualization, you can open a Path Browser to identify additional detailed visitor fallout and fall through paths.
 
-<a id="section_874AAAA89CB440EA9EABC514E987B613"></a>
+<!-- <a id="section_874AAAA89CB440EA9EABC514E987B613"></a> -->
 
 You can identify where visitors "fallout" (who left the path) or where visitors are "falling-through" (who followed the path). You can open multiple Path Browsers from the same Funnel visualization by selecting fallout arrows or fall through cones.
 

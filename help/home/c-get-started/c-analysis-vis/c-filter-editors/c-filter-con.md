@@ -34,25 +34,25 @@ Information about working with filter conditions including creating a new filter
 
 <table id="table_3B35B57FF32349F09E91E8256FF1672A"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Condition Type </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr>
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>workspace selection </p> </td> 
    <td colname="col2"> <p>Defines a filter condition based on the selections in the workspace. This option is available only if one or more selections exist within the workspace. </p> <p>To view more information about the selection, right-click the condition and click <span class="uicontrol"> View Details</span>. A callout appears for the condition. </p> <p>If you make another selection in the workspace, you can add the selection as a subcondition of the first selection. The selections are grouped together as logical ANDs. Therefore, the data that is included or excluded by the condition must satisfy all of the workspace selections. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>at least one </p> </td> 
    <td colname="col2">Defines a filter condition based on the existence of at least one (any) element of a dimension that you choose. To edit the condition, right-click the condition and click <span class="uicontrol"> Change</span> condition to. Click one of the available dimensions. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>formula </p> </td> 
    <td colname="col2"> <p>Defines a filter condition based on the formula that you enter. You must use the appropriate syntax for the filter to work. </p> <p> <p>Note: For information about the syntax for defining filters, see <a href="../../../../home/c-get-started/c-qry-lang-syntx/c-syntx-fltr-exp.md#concept-72f2563f809747a2a3cff7ec72462a15" format="dita" scope="local"> Syntax for Filter Expressions</a>. </p> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>metric value </p> </td> 
    <td colname="col2"> <p>Defines a filter condition based on a metric value that you specify. </p> <p>To define the condition, follow these steps: 
      <ul id="ul_B69D31258A36460E94535709239CD165"> 
@@ -62,7 +62,7 @@ Information about working with filter conditions including creating a new filter
       <li id="li_3334CE0A0950448590E5442AB243F46B">Type the desired value for the metric. </li> 
      </ul> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>first/last </p> </td> 
    <td colname="col2"> <p>Defines a filter that lets you include or exclude a level with a specified dimension. For example, you might specify a first/last filter to include (or exclude): </p> <p>Sessions whose last Page View has a Page of <span class="filepath"> /hme/rts/Our Rates</span>. </p> <p>To define a First/Last condition: 
      <ul id="ul_5AD916DA093844B8AC70127B1EB9BFC8"> 

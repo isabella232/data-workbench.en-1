@@ -26,13 +26,13 @@ The configuration file Transform Mode.cfg enables you to pause processing of dat
        <b> Transform Mode.cfg </b> 
        </desc> 
        <thead> 
-       <tr valign="top"> 
+       <tr> 
        <th colname="col1" class="entry"> Parameter </th> 
        <th colname="col2" class="entry"> Description </th> 
        </tr> 
        </thead>
        <tbody> 
-       <tr valign="top"> 
+       <tr> 
        <td colname="col1"> Offline Sources </td> 
        <td colname="col2"> <p>Mask of the offline log source. </p> <p> To specify an offline source: </p> 
        <ul id="ul_B93F945A697C4882ADE420438712B0B0"> 
@@ -40,11 +40,11 @@ The configuration file Transform Mode.cfg enables you to pause processing of dat
        <li id="li_B263A294D1F14D62BBAA5DBF3B388C38"> In the parameter for the new source, enter the mask of the log sequence. For Sensor log sources with file names of the format <span class="filepath"> YYYYMMDD-SENSORID.vsl</span>, the mask is <i>SENSORID.SENSORID</i> is case-sensitive. For log file log sources, the mask is the string extracted by the <span class="wintitle"> Mask Pattern</span> (see <a href="../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-sources.md#concept-3d4fb817c057447d90f166b1183b461e" format="dita" scope="local"> Log Files</a>). </li> 
        </ul> <p> Adding or removing sources from <span class="wintitle"> Offline Sources</span> does not cause reprocessing of the dataset. </p> <p> As Of time measurements are maintained for the processing of the profile's online sources. When the offline source is again online, the processing of incoming log files for that source resumes. </p> <p> <p>Note: Whenever a source comes back online, you should remove it from <span class="wintitle"> Offline Sources</span>. If you do not do so, the data workbench server treats the source as an online source and updates the As Of time as long as the source is sending data. If the source goes offline again, the As Of time measurements stop. </p> </p> </td> 
        </tr> 
-       <tr valign="top"> 
+       <tr> 
        <td colname="col1"> Paused </td> 
        <td colname="col2"> True or false. If true, new data is not processed into the dataset. The default value is false. </td> 
        </tr> 
-       <tr valign="top"> 
+       <tr> 
        <td colname="col1"> Save Interval (sec) </td> 
        <td colname="col2"> <p>Frequency at which the data workbench server on which transformation functionality is running saves its state files. The default value is 3600. </p> <p> <p>Note:  You should not change this value without consulting Adobe. </p> </p> </td> 
        </tr> 

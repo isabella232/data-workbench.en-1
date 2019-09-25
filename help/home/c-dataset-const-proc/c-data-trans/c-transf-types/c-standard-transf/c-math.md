@@ -16,29 +16,29 @@ The Math transformation enables the use of arithmetic operations on fields withi
 
 <table id="table_FDF3DDF1960E43E391A67C9DC2A0E302"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Field </th> 
    <th colname="col2" class="entry"> Description </th> 
    <th colname="col3" class="entry"> Default </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Name </td> 
    <td colname="col2"> Descriptive name of the transformation. You can enter any name here. </td> 
    <td colname="col3"></td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Comments </td> 
    <td colname="col2"> Optional. Notes about the transformation. </td> 
    <td colname="col3"></td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Condition </td> 
    <td colname="col2"> The conditions under which this transformation is applied. </td> 
    <td colname="col3"></td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Expression </td> 
    <td colname="col2"> <p>An arithmetic expression that describes the computation to be performed. </p> <p> You can use any of the operations and functions listed below, and you can incorporate field names in the expression: </p> <p> Operations 
      <ul id="ul_DB5915FADA0A41A3B11F1F48615F40A9">
@@ -60,7 +60,7 @@ The Math transformation enables the use of arithmetic operations on fields withi
      </ul></p> </td> 
    <td colname="col3"></td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Output </td> 
    <td colname="col2"> The name of the field containing the result of the arithmetic operation. </td> 
    <td colname="col3"></td> 

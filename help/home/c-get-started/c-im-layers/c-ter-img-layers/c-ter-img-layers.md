@@ -25,21 +25,21 @@ To define a terrain image layer, you must have the following:
 
 <table id="table_CFDF5E61FCCD40B29A9D35FFA42F68D1"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Type </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Raw unprojected bitmap </p> </td> 
    <td colname="col2"> <p>Creates <span class="wintitle"> terrain image layers</span> from 24-bit headerless RGB files that are latitude-longitude aligned (unprojected), where north is the top of the image, and east is the right. </p> <p>Supported image format(s): RAW </p> <p> <p>Note: This source requires projection information. For information about projection formats, see <a href="../../../../home/c-get-started/c-im-layers/c-ter-img-layers/c-proj-info-ter-imgs.md#concept-eec35baa01744895b847a02e69dad04e" format="dita" scope="local"> Specifying Projection Information for Terrain Images</a>. </p> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>General image, unprojected </p> </td> 
    <td colname="col2"> <p>Creates <span class="wintitle"> terrain image layers</span> from 24-bit, latitude-longitude aligned (unprojected) image formats, where north is the top of the image, and east is the right. </p> <p>Supported image format(s): BMP, JPG, PNG, TIFF </p> <p> <p>Note: This source requires projection information. For information about projection formats, see <a href="../../../../home/c-get-started/c-im-layers/c-ter-img-layers/c-proj-info-ter-imgs.md#concept-eec35baa01744895b847a02e69dad04e" format="dita" scope="local"> Specifying Projection Information for Terrain Images</a>. </p> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Image with embedded projection </p> </td> 
    <td colname="col2"> <p>Creates <span class="wintitle"> terrain image layers</span> from image formats that embed geodetic data in the image file. The projection information is extracted from the image. </p> <p>Supported image format(s): Erdas (IMG), GeoTIFF </p> <p> <p>Note: This source usually does not require projection information but supports the addition of such information if needed. For information about projection formats, see <a href="../../../../home/c-get-started/c-im-layers/c-ter-img-layers/c-proj-info-ter-imgs.md#concept-eec35baa01744895b847a02e69dad04e" format="dita" scope="local"> Specifying Projection Information for Terrain Images</a>. </p> </p> </td> 
   </tr> 
@@ -71,37 +71,37 @@ To define a terrain image layer, you must have the following:
   <b>Terrain Images.cfg: Sources </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr>
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Gamma </p> </td> 
    <td colname="col2"> <p>Optional for all sources. Specifies gamma correction to be applied to the source image. This may be desirable due to the fact that Data Workbench normally runs with a high gamma setting. The default value is 1. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Height </p> </td> 
    <td colname="col2"> <p>Required for raw unprojected bitmap images. The height of the source image in pixels. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Projection Info </p> </td> 
    <td colname="col2"> <p>Required for raw unprojected bitmap images and general images, unprojected, but supported for images with embedded projection. Data Workbench supports latitude-longitude projections and Transverse Mercator (TM) projections for terrain image layers. The default projection format is the latitude-longitude projection (LatLonProjection). </p> <p>For information about projection formats, see <a href="../../../../home/c-get-started/c-im-layers/c-ter-img-layers/c-proj-info-ter-imgs.md#concept-eec35baa01744895b847a02e69dad04e" format="dita" scope="local"> Specifying Projection Information for Terrain Images</a>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Source Image </p> </td> 
    <td colname="col2"> <p>Required for all sources. The name of the source image file. This may be a file name or a wildcard pattern. Using a pattern may be useful if, for instance, images for the same region at different dates are uploaded, with no change in the associated metadata. Therefore a pattern like <span class="filepath"> Tysons Corner *.raw</span> would create layers from <span class="filepath"> Tysons Corner 050211.raw</span>, <span class="filepath"> Tysons Corner 050218.raw</span>, and so on as new images are added, with no additional configuration necessary if the parameters for the files are otherwise identical. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Tile Compression Quality </p> </td> 
    <td colname="col2"> <p>Optional for all sources. For JPEG compression, an integer from 0 to 100 specifying how to balance image size and quality. (The default value is zero.) A higher number results in better image quality, but produces larger images and longer download times for Data Workbench users. </p> <p> <p>Note:  Compressing images below 70 may result in image degradation. </p> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Tile Compressor </p> </td> 
    <td colname="col2"> <p>Optional for all sources. Specifies what compression method is used to write output files. The only currently supported methods are RAWRGB (the default, resulting in no compression) and JPEG. Use JPEG compression to reduce the size of layers that are transmitted during profile synchronization. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Width </p> </td> 
    <td colname="col2"> <p>Required for raw unprojected bitmap images. The width of the source image in pixels. </p> </td> 
   </tr> 
@@ -115,21 +115,21 @@ To define a terrain image layer, you must have the following:
   <b>Terrain Images.cfg: Additional Parameters </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr>
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Source Image Location </p> </td> 
    <td colname="col2"> <p>Required. The directory that is scanned for images to translate into terrain layers. If it is not an absolute path, it is interpreted relative to the Data Workbench server installation directory. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Temp Image Storage </p> </td> 
    <td colname="col2"> <p>Optional. The name of a directory that is used for storage of temporary files used in the translation of source images to terrain layers. If it is not an absolute path, it is interpreted relative to the Data Workbench server installation directory. The default location is the <span class="wintitle"> Temp</span> directory. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Write Layers To </p> </td> 
    <td colname="col2"> <p>Required. The directory to which terrain layers is output. Ordinarily, this is the Maps subdirectory of a profile directory, so that the Globe visualization can find the layers. </p> </td> 
   </tr> 

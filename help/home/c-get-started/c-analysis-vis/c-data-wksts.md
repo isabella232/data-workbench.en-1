@@ -67,29 +67,29 @@ Data Workbench automatically updates the references in the new cell to refer to 
 
 <table id="table_5788E01E52CC44E7927A0D23760D9EDD"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Menu Option </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr>
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Number </p> </td> 
    <td colname="col2"> <p>Applies the selected numeric format to your data, such as time, date, percentage, or decimal. </p> <p>Click <span class="uicontrol"> Default</span> to remove the selected formatting. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Justify </p> </td> 
    <td colname="col2"> <p>Justifies the data within the cell to the left, center, or right. The default justification is left. </p> <p>Click <span class="uicontrol"> Default</span> to remove the selected formatting. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Color </p> </td> 
    <td colname="col2"> <p>Applies the selected font color to the data within the cell. The default font color is white. </p> <p>Click <span class="uicontrol"> Default</span> to remove the selected formatting. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Indicator </p> </td> 
    <td colname="col2"> <p>Creates a metric indicator using this cell. For more information, see <a href="../../../home/c-get-started/c-analysis-vis/c-wksts/c-metric-ind.md#concept-f0e911b23b2c4e8da3e1ea7b9ae04183" format="dita" scope="local"> Creating Metric Indicators</a>. </p> <p>Click <span class="uicontrol"> Default</span> to remove the selected formatting. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Input Cell </p> </td> 
    <td colname="col2"> <p>Makes the selected cell an input cell. For more information, see <a href="../../../home/c-get-started/c-analysis-vis/c-wksts/c-input-cells.md#concept-08cd2c05a28a43dd9f7698b37e23e590" format="dita" scope="local"> Creating Input Cells</a>. </p> <p>Click <span class="uicontrol"> Default</span> to remove the selected formatting. </p> </td> 
   </tr> 
@@ -104,53 +104,53 @@ The following table lists the basic keyboard shortcuts that you can use when ent
 
 <table id="table_8E6F73F253B3451CA1DE45EE4F4E69EF"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Shortcut </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Arrow Keys </p> </td> 
    <td colname="col2"> <p>Move from cell to cell in your worksheet using the up, down, left and right arrow keys. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>F2 </p> </td> 
    <td colname="col2"> <p>Edit the cell by placing your cursor in the cell that you have selected. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Enter </p> </td> 
    <td colname="col2"> <p>Completes the editing of the cell that you have selected. Your cursor is removed from the cell and the cell contents reflect your editing. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Esc </p> </td> 
    <td colname="col2"> <p>Cancel the editing of the cell that you have selected. Your cursor is removed from the cell and the cell contents revert to what they were before you began editing. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Delete </p> </td> 
    <td colname="col2"> <p>Delete the contents of the cell(s). </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Ctrl+A </p> </td> 
    <td colname="col2"> <p>Select the contents of the cell. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Ctrl+c </p> </td> 
    <td colname="col2"> <p>Copy the contents of the cell(s). </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Ctrl+x </p> <p>Shift+Delete </p> </td> 
    <td colname="col2"> <p>Copy and remove the contents of the cell(s). </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Ctrl+v </p> <p>Shift+Insert </p> </td> 
    <td colname="col2"> <p>Paste the contents of cell(s) that you have copied into the selected cell(s). </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Ctrl+z </p> </td> 
    <td colname="col2"> <p>Undo typing. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Ctrl+Shift+z </p> </td> 
    <td colname="col2"> <p>Redo typing. </p> </td> 
   </tr> 

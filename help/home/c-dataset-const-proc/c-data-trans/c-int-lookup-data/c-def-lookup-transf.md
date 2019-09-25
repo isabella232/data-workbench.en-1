@@ -35,59 +35,59 @@ A [!DNL Categorize] transformation is generally easier and faster than using a [
   <b> <span class="wintitle"> Categorize</span> </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
    <th colname="col3" class="entry"> Default </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Name </td> 
    <td colname="col2"> Descriptive name of the transformation. You can enter any name here. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Case Sensitive </td> 
    <td colname="col2"> True or false. Specifies whether the substring test is case-sensitive. </td> 
    <td colname="col3"> true </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Comments </td> 
    <td colname="col2"> Optional. Notes about the transformation. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Condition </td> 
    <td colname="col2"> The conditions under which this transformation is applied. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Default </td> 
    <td colname="col2"> The default value to use if the condition test passes and no entry in the categorization file matches the input, or the input field is not defined in the given log entry. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Delimiter </td> 
    <td colname="col2"> <p>String that is used to separate the columns in the lookup file. Must be a single character in length. </p> <p> If you hold down the Ctrl key and right-click within the Delimiter parameter, an <span class="wintitle"> Insert</span> menu appears. This menu contains a list of special characters that often are used as delimiters. </p> </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Multiple Values </td> 
    <td colname="col2"> True or false. If true, when multiple rows in the file match the input, each match results in a value being appended to the output vector of strings. If false, only the first matching row in the file is used in the output. In the latter case, if the input is a vector, the output is also a vector of equivalent length. If the input is a simple string, the output is also a simple string. </td> 
    <td colname="col3"> false </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> File </td> 
    <td colname="col2"> Path and file name of the categorization file. Relative paths are with respect to the installation directory for the data workbench server. This file is typically located in the Lookups directory within the data workbench server installation directory. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Input </td> 
    <td colname="col2"> The categorization file matches its substrings against the value in this field to identify the matching row in the file. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Output </td> 
    <td colname="col2"> The name of the field associated with the result. </td> 
    <td colname="col3"> </td> 
@@ -139,59 +139,59 @@ The lookup table used during this transformation is populated from a flat file w
   <b> <span class="wintitle"> FlatFileLookup</span> </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
    <th colname="col3" class="entry"> Default </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Name </td> 
    <td colname="col2"> Descriptive name of the transformation. You can enter any name here. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Comments </td> 
    <td colname="col2"> Optional. Notes about the transformation. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Condition </td> 
    <td colname="col2"> The conditions under which this transformation is applied. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Default </td> 
    <td colname="col2"> The default value to use if the condition is met and if no entry in the lookup file matches the input. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Delimiter </td> 
    <td colname="col2"> <p>String that is used to separate the columns in the lookup file. Must be a single character in length. </p> <p> If you hold down the Ctrl key and right-click within the Delimiter parameter, an <span class="wintitle"> Insert</span> menu appears. This menu contains a list of special characters that often are used as delimiters. </p> </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> File </td> 
    <td colname="col2"> Path and file name of the lookup file. Relative paths are with respect to the installation directory for the data workbench server. This file is typically located in the Lookups directory within the data workbench Server installation directory. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Header Row </td> 
    <td colname="col2"> True or false. Indicates that the first row in the table is a header row to be ignored in processing. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Input </td> 
    <td colname="col2"> <span class="wintitle"> Column Name</span> is the name of the column used for matching the input to the row(s) in the file. If Header Row is true, this can be the name of a column in the lookup file. Otherwise, this must be the zero-based column number to match against. <span class="wintitle"> Field Name</span> is the name of the field used to locate the row in the lookup file. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Multiple Values </td> 
    <td colname="col2"> <p>True or false. Determines whether a single value (a matching row) or multiple values should be returned (one for each matching row). </p> <p> <p>Note:  If <span class="wintitle"> Multiple Values</span> is set to false, you must ensure that there are not multiple matches. When multiple matches occur, there is no guarantee which match will be returned. </p> </p> </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Outputs </td> 
    <td colname="col2"> <p>A vector of column objects (results) in which each object is defined by column and field names. </p> <p> <span class="wintitle"> Column Name</span> is the column from which the output value is obtained. If <span class="wintitle"> Header Row</span> is true, this can be the name of a column in the lookup file. Otherwise, this must be the zero-based column number to match against. </p> <p> <span class="wintitle"> Field Name</span> is the name of the field used to capture the output. Note that this can be a vector of results, one for each row identified in the case where the Multiple Values parameter is true. </p> </td> 
    <td colname="col3"> </td> 
@@ -241,64 +241,64 @@ The [!DNL ODBCLookup] transformation operates like a [!DNL FlatFileLookup] trans
   <b> <span class="wintitle"> ODBCLookup</span> </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
    <th colname="col3" class="entry"> Default </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Name </td> 
    <td colname="col2"> Descriptive name of the transformation. You can enter any name here. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Comments </td> 
    <td colname="col2"> Optional. Notes about the transformation. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Condition </td> 
    <td colname="col2"> The conditions under which this transformation is applied. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Data Source Name </td> 
    <td colname="col2"> A DSN, as provided by an administrator of the data workbench server machine on which the dataset is processed, that refers to the database from which data is to be loaded. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Database Password </td> 
    <td colname="col2">The password to be used when connecting to the database. If a password has been configured for the DSN in the <span class="wintitle"> Data Source Administrator</span>, this may be left blank. Any password supplied here overrides the password configured for the DSN in the <span class="wintitle"> Data Source Administrator</span>. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Database User ID </td> 
    <td colname="col2">The user ID to be used when connecting to the database. If a user ID has been configured for the DSN in the <span class="wintitle"> Data Source Administrator</span>, this may be left blank. Any user ID supplied here overrides the user ID configured for the DSN in the <span class="wintitle"> Data Source Administrator</span>. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Default </td> 
    <td colname="col2"> The default value to use if the condition is met and no entry in the lookup file matches the input. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Input Column </td> 
    <td colname="col2"> <span class="wintitle"> Column Name</span> is the column name or SQL expression for the data that is matched against the input. <span class="wintitle"> Field Name</span> is the name of the field containing the data to be looked up. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Multiple Values </td> 
    <td colname="col2"> <p>True or false. Determines whether a single value (a matching row) or multiple values should be returned (one for each matching row). </p> <p> <p>Note:  If <span class="wintitle"> Multiple Values</span> is set to false, you must ensure that there are not multiple matches. When multiple matches occur, there is no guarantee which match will be returned. </p> </p> </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Output Columns </td> 
    <td colname="col2"> <p>A vector of column objects (results) where each object is defined by column and field names. </p> <p> <span class="wintitle"> Column Name</span> is the name of or SQL expression for the column from which the output value is obtained. <span class="wintitle"> Field Name</span> is the name of the field used to capture the output. </p> </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <span class="wintitle"> Table Identifier</span> </td> 
    <td colname="col2"> An SQL expression that names the table or view from which data is to be loaded. A typical table identifier is of the form SCHEMA.TABLE. </td> 
    <td colname="col3"> </td> 

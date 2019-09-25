@@ -43,21 +43,21 @@ The following table includes descriptions of the components of a “SpecialLogFi
   <b>SpecialLogField Entries </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Component </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> cs(log field) </td> 
    <td colname="col2"> The name of the field to which the collected data is recorded in the event data record and the <span class="filepath"> .vsl </span> files created by the <span class="keyword"> data workbench server </span>. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> serverVariable </td> 
    <td colname="col2"> <p>Any server variable that is available to <span class="wintitle"> Sensor </span> through the server’s API </p> <p>Example: response.p3p </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> stage </td> 
    <td colname="col2"> <p>Either vys_log or vys_cookie </p> <p>Specifying the stage requires that you know which server variables are available for vys_log and vys_cookie. </p> <p>Example: For the serverVariable response.p3p, you would enter vys_log. </p> </td> 
   </tr> 

@@ -39,41 +39,41 @@ Transformation functionality provides three types of exporters for exporting [!D
       <b>Exporter Parameters </b> 
     </desc> 
     <thead> 
-      <tr valign="top"> 
+      <tr> 
       <th colname="col1" class="entry"> Parameter </th> 
       <th colname="col2" class="entry"> Description </th> 
       </tr> 
     </thead>
     <tbody> 
-      <tr valign="top"> 
+      <tr> 
       <td colname="col1"> Data Format </td> 
       <td colname="col2"> <p>For <span class="wintitle"> ExportTextFile</span> only. The format of each output line, consisting of field name escapes (expressed as %<i>fieldname</i>%) and any other desired fixed text. The format should include a line separator, typically [CR] [LF]. </p> <p> A literal percent sign (%) can be embedded in the format string by escaping the character as shown here: %% </p> <p> An example of an entry for the Data Format parameter is <span class="filepath"> %x-timestring% %x-trackingid%[CR][LF]</span>. </p> </td> 
       </tr> 
-      <tr valign="top"> 
+      <tr> 
       <td colname="col1"> Fields </td> 
       <td colname="col2">For <span class="wintitle"> ExportDelimitedTextFile</span> only. Names of the fields to be output. </td> 
       </tr> 
-      <tr valign="top"> 
+      <tr> 
       <td colname="col1"> Delimiter </td> 
       <td colname="col2"> <p>Optional. For <span class="wintitle"> ExportDelimitedTextFile</span> only. Character that is used to separate the fields in the output file. </p> <p> The software can not escape delimiters that are included in the data's values. As a result, Adobe does not recommend using commas as delimiters. </p> <p> If you hold down the Ctrl key and right-click within the Delimiter parameter, an <span class="wintitle"> Insert</span> menu appears. This menu contains a list of special characters that often are used as delimiters. </p> </td> 
       </tr> 
-      <tr valign="top"> 
+      <tr> 
       <td colname="col1"> Line Separator </td> 
       <td colname="col2">Optional. For <span class="wintitle"> ExportDelimitedTextFile</span> only. The character(s) used to separate lines in the output files. The default value is [CR] [LF]. </td> 
       </tr> 
-      <tr valign="top"> 
+      <tr> 
       <td colname="col1"> Name </td> 
       <td colname="col2"> <p>Optional. Identifier for the exporter. This name appears in the <span class="wintitle"> Detailed Status</span> interface. </p> <p> For information about the <span class="wintitle"> Detailed Status</span> interface, see the <i>Data Workbench User Guide</i>. </p> </td> 
       </tr> 
-      <tr valign="top"> 
+      <tr> 
       <td colname="col1"> Comments </td> 
       <td colname="col2"> Optional. Notes about the exporter. </td> 
       </tr> 
-      <tr valign="top"> 
+      <tr> 
       <td colname="col1"> Output Path </td> 
       <td colname="col2"> <p>Path where output files are to be stored. The path is relative to the data workbench server installation folder. </p> <p> <p>Note: The data workbench server that stores output data is processing server #0 in the <span class="filepath"> profile.cfg</span> file. </p> </p> </td> 
       </tr> 
-      <tr valign="top"> 
+      <tr> 
       <td colname="col1"> File Rotation Period </td> 
       <td colname="col2"> <p>Optional. The frequency at which data is exported to the output file. Each output file contains data related to a specific time period called the rotation period. All time calculations are in GMT: One day starts at midnight GMT and ends the following day at midnight GMT, even if the data written to the file includes a field which has been transformed to local time. </p> <p> Available values are as follows: </p> 
       <ul id="ul_64F56D093E2E4D07ACB7D7921F4E6FA1"> 
@@ -88,7 +88,7 @@ Transformation functionality provides three types of exporters for exporting [!D
       <li id="li_24DC4D144DA94ED0B7B50E8BB39DB8E3"> Set the file rotation to NONE only when working in <span class="wintitle"> Offline Mode</span>. See the <a href="../../../../../home/c-dataset-const-proc/c-transf-func/c-config-files-transf/t-ins-transf-file/t-ins-transf-file.md#task-857fc535ccdb4c39b763179efa4b0f13" format="dita" scope="local"> Offline Mode</a> parameter description. </li> 
       </ul> </td> 
       </tr> 
-      <tr valign="top"> 
+      <tr> 
       <td colname="col1"> File Name Format </td> 
       <td colname="col2"> <p>Optional. The format of the output file name. </p> <p> Each log entry can be stored in a file whose name is derived from the start time of the rotation period, and optionally, from values of fields in the rows that it contains. The fields to use in the file name are embedded as field name escapes (expressed as %<i>fieldname</i>%). </p> <p>The file name components related to the rotation period are embedded in the format string using the following escape sequences: 
       <ul id="ul_3C5C8C5DC9104070ABCFDD85F49BE596"> 
@@ -107,7 +107,7 @@ Transformation functionality provides three types of exporters for exporting [!D
       <li id="li_D0F75E4FFAFF47C4AA8A8D14A6E1C18A"> All times calculations are in GMT. </li> 
       </ul> </td> 
       </tr> 
-      <tr valign="top"> 
+      <tr> 
       <td colname="col1"> Execute at Rollover </td> 
       <td colname="col2"> <p>Optional. When each file is finalized, an external (Windows) command can be executed. The command line is derived from the final file name by substituting the following escape sequences into this parameter: </p> 
       <ul id="ul_5E16832BDBEA4757A2C02DE4B019A122"> 
@@ -117,11 +117,11 @@ Transformation functionality provides three types of exporters for exporting [!D
       <li id="li_AD7269A67A0041438A6951FD1898D458"> %path%. The full path name of the file, equivalent to %dir%%file%%ext%. </li> 
       </ul> <p> By default, this parameter is empty (no command is executed). </p> </td> 
       </tr> 
-      <tr valign="top"> 
+      <tr> 
       <td colname="col1"> Memory Limit </td> 
       <td colname="col2"> <p>Optional. The amount of memory in bytes used for buffering the exporter's output. The default value is 10,000,000 bytes. </p> <p> <p>Note:  If you have many output files that are open at the same time, you may want to increase this value, but you may decrease the amount of memory available for use by other components of the system. Decreasing this value, however, may slow down the export process. For assistance, contact Adobe. </p> </p> </td> 
       </tr> 
-      <tr valign="top"> 
+      <tr> 
       <td colname="col1"> Open Files Limit </td> 
       <td colname="col2"> <p>Optional. The maximum number of files that may be open at the same time for output from the exporter. If this number is exceeded, an error is recorded in the event log and the data workbench server stops running. The default value is 1000. </p> </td> 
       </tr> 

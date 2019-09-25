@@ -22,64 +22,64 @@ Numeric dimensions are defined by the following parameters:
 
 <table id="table_15B849DD0BFC4D57AD6CF28898901324"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
    <th colname="col3" class="entry"> Default </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Name </td> 
    <td colname="col2"> Descriptive name of the dimension as it appears in data workbench. The dimension name cannot include a hyphen (-). </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Clip Values </td> 
    <td colname="col2"> True or false. Specifies whether the input value (after Operation ) is to be clipped to be between the values of Min and Max. If Clip Values is true, the value is clipped to that range. If Clip Values is false, no value is returned for the element of the parent dimension. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Comments </td> 
    <td colname="col2"> Optional. Notes about the extended dimension. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Condition </td> 
    <td colname="col2"> The conditions under which the input field contributes to the creation of the numeric dimension. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Fixed Size </td> 
    <td colname="col2"> True or false. Controls the number of elements in a dimension (cardinality). If true, all elements from Min to Max are included in the dimension. If false, the dimension's size grows as values are added. </td> 
    <td colname="col3"> false </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Hidden </td> 
    <td colname="col2"> Determines whether the dimension appears in the data workbench interface. By default, this parameter is set to false. If, for example, the dimension is to be used only as the basis of a metric, you can set this parameter to true to hide the dimension from the data workbench display. </td> 
    <td colname="col3"> false </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Input </td> 
    <td colname="col2"> <p>The value to use with the specified Operation or the input value for which you want to count occurrences. </p> <p> If this field is a vector of strings, the evaluation occurs for each element in the vector. So for example, a vector with length 3 and an Operation of COUNT adds 3 to the count. </p> </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Min </td> 
    <td colname="col2"> Lower limit on the final dimension result. </td> 
    <td colname="col3"> 0 </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Max </td> 
    <td colname="col2"> Upper limit on the final dimension result. </td> 
    <td colname="col3"> 1e6 </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Offset </td> 
    <td colname="col2"> See Scale in this table. </td> 
    <td colname="col3"> 0 </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Operation </td> 
    <td colname="col2"> <p>Available operations are as follows: </p> <p> 
      <ul id="ul_E04733E5E8824A2BAAB90D9356078D99"> 
@@ -93,12 +93,12 @@ Numeric dimensions are defined by the following parameters:
      </ul> </p> <p> <p>Note:  You should specify an operation to ensure that the dimension is defined as intended. </p> </p> </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Parent </td> 
    <td colname="col2"> The name of the parent dimension. Any countable dimension can be a parent dimension. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Scale </td> 
    <td colname="col2"> <p>To yield the ordinal value of the dimension, the result of Operation is transformed as follows: </p> <p> (scale * input) + offset </p> </td> 
    <td colname="col3"> 1.0 </td> 

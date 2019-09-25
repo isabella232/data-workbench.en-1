@@ -31,7 +31,7 @@ The URIs in the pre-defined access control groups have been configured as follow
   <b>Access Control Group URIs </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Group Name </th> 
    <th colname="col2" class="entry"> Read-Only Access </th> 
    <th colname="col3" class="entry"> Read-Write Access </th> 
@@ -39,37 +39,37 @@ The URIs in the pre-defined access control groups have been configured as follow
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Administrators </p> </td> 
    <td colname="col2"> </td> 
    <td colname="col3"> <p>/ </p> </td> 
    <td colname="col4"> <p>Read and write access to all <span class="keyword"> Insight Server</span> directories. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Sensors </p> </td> 
    <td colname="col2"> </td> 
    <td colname="col3"> <p>/SensorInit.vsp </p> <p>/Submit.vsp </p> </td> 
    <td colname="col4"> <p>Read and write access to the two files that the <span class="wintitle"> Sensors</span> use to communicate with the <span class="keyword"> Insight Server</span>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Users </p> </td> 
    <td colname="col2"> <p>/Profiles/ </p> <p>/Status/ </p> <p>/Software/ </p> <p>/Addresses/ </p> <p>/Users/$ </p> </td> 
    <td colname="col3"> /Users/%CN%/ </td> 
    <td colname="col4"> <p>Read and write access to the User directory matching the SSL certificate common name of the <span class="keyword"> Insight</span> user. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Power Users </p> </td> 
    <td colname="col2"> <p>/Profiles/$ </p> <p>/Status/ </p> <p>/Software/ </p> <p>/Addresses/ </p> <p>/Users/$ </p> </td> 
    <td colname="col3"> <p>/Profiles/ </p> <p>/Users/%CN%/ </p> </td> 
    <td colname="col4"> <p>Power Users are allowed the same access as Users, with the added ability to write to the Profiles directory. These users may edit profiles and enable changes to be updated automatically for other <span class="keyword"> Insight</span> users, such as when distributing newly defined workspaces. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Cluster Servers </p> </td> 
    <td colname="col2"> <p>/Components for Processing Servers/ </p> <p>/Addresses/ </p> <p>/Profiles/ </p> <p>/Lookups/ </p> <p>/Access Control/ </p> <p>/Bin/ </p> <p>/Logs/ </p> </td> 
    <td colname="col3"> <p>/Cluster/ </p> </td> 
    <td colname="col4"> <p>Read and write access to the Cluster directory. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Report Servers </p> </td> 
    <td colname="col2"> <p>/Profiles/$ </p> <p>/Status/ </p> <p>/Software/ </p> <p>/Addresses/ </p> <p>/Users/$ </p> </td> 
    <td colname="col3"> <p>/Profiles/ </p> <p>/Users/%CN%/ </p> <p>/ReportStatus.vsp </p> </td> 

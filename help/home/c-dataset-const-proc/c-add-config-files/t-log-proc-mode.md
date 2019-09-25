@@ -37,29 +37,29 @@ The configuration file Log Processing Mode.cfg enables you to pause processing o
    <b> <b> Log Processing Mode.cfg</b> </b> 
    </desc> 
    <thead> 
-   <tr valign="top"> 
+   <tr> 
       <th colname="col1" class="entry"> Parameter </th> 
       <th colname="col2" class="entry"> Description </th> 
    </tr> 
    </thead>
    <tbody> 
-   <tr valign="top"> 
+   <tr> 
       <td colname="col1"> Cloud Bytes </td> 
       <td colname="col2"> <p>A tuning parameter that affects the efficiency of data transformation. The default value is 128000000. </p> <p> <p>Note:  You should not change this value without consulting Adobe. </p> </p> </td> 
    </tr> 
-   <tr valign="top"> 
+   <tr> 
       <td colname="col1"> Fast Input Decision Ratio </td> 
       <td colname="col2"> <p>A tuning parameter that specifies the ratio of total to unread log bytes at which the system enters <span class="wintitle"> Fast Input</span> mode (and subsequently <span class="wintitle"> Fast Merge</span>) instead of processing data in real time. </p> <p> The default value is 200, meaning that the system enters <span class="wintitle"> Fast Input</span> mode from real-time mode when the unread log data is at 1/200th of the total data. A higher decision ratio makes the system enter <span class="wintitle"> Fast Input</span> mode more readily, while a lower ratio makes it less likely to enter <span class="wintitle"> Fast Input</span> mode. </p> <p> <p>Note: Setting the parameter to 0 prevents the system from entering <span class="wintitle"> Fast Input</span> mode at all, even for initial processing. Setting the parameter to 1.1 enables the system to enter <span class="wintitle"> Fast Input</span> during initial processing but not for subsequent processing. Adobe does not recommend using values between 0 and 1.1. For more information about setting this parameter, contact Adobe. </p> </p> </td> 
    </tr> 
-   <tr valign="top"> 
+   <tr> 
       <td colname="col1"> Fast Input FIFO Bytes </td> 
       <td colname="col2"> <p>A tuning parameter that balances memory usage and system performance during data processing. The default value is 120000000. </p> <p> <p>Note:  You should not change this value without consulting Adobe. </p> </p> </td> 
    </tr> 
-   <tr valign="top"> 
+   <tr> 
       <td colname="col1"> Fast Merge Buffer Bytes </td> 
       <td colname="col2"> <p>A tuning parameter that balances memory usage and system performance during data processing. The default value is 128000000. </p> <p> <p>Note:  You should not change this value without consulting Adobe. </p> </p> </td> 
    </tr> 
-   <tr valign="top"> 
+   <tr> 
       <td colname="col1"> Offline Sources </td> 
       <td colname="col2"> <p>Mask of the offline log source. </p> <p> <b> To specify an offline source</b> 
       <ul id="ul_569B90E9A85246F88906FA5444F8A93E"> 
@@ -67,19 +67,19 @@ The configuration file Log Processing Mode.cfg enables you to pause processing o
       <li id="li_E8FBA212F4784B1A830745A90BB3AF90"> In the parameter for the new source, enter the mask of the log sequence. For Sensor log sources with file names of the format YYYYMMDD-<i>SENSORID</i>.vsl, the mask is <i>SENSORID.SENSORID</i> is case-sensitive. For log file log sources, the mask is the string extracted by the <span class="wintitle"> Mask Pattern</span>. See <a href="../../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-sources.md#concept-3d4fb817c057447d90f166b1183b461e" format="dita" scope="local"> Log Files</a>. </li> 
       </ul> </p> <p> Adding or removing sources from Offline Sources does not cause reprocessing of the dataset. </p> <p> As Of time measurements are maintained for the processing of the profile's online sources. When the offline source is again online, the processing of incoming log files for that source resumes. </p> <p> Whenever a source comes back online, you should remove it from Offline Sources. If you do not do so, data workbench server treats the source as an online source and updates the As Of time as long as the source is sending data. If the source goes offline again, the As Of time measurements stop. </p> </td> 
    </tr> 
-   <tr valign="top"> 
+   <tr> 
       <td colname="col1"> Paused </td> 
       <td colname="col2"> True or false. If true, new data is not processed into the dataset. The default value is false. </td> 
    </tr> 
-   <tr valign="top"> 
+   <tr> 
       <td colname="col1"> Real Time Delay </td> 
       <td colname="col2"> The amount of time in seconds that data workbench Server waits between intervals of processing data into the dataset. When this value is set to zero, the system attempts to keep up with incoming data in real time. The default value is zero (0), but you can increase this value to reduce CPU load. </td> 
    </tr> 
-   <tr valign="top"> 
+   <tr> 
       <td colname="col1"> Real Time FIFO Bytes </td> 
       <td colname="col2"> <p>The amount of memory in bytes used to store data that is waiting to be processed into the dataset. You may need to change this value based on the number of seconds that you specify for Real Time Delay. The default value is 16000000. </p> <p> <p>Note:  You should not change this value without consulting Adobe. </p> </p> </td> 
    </tr> 
-   <tr valign="top"> 
+   <tr> 
       <td colname="col1"> Save Interval (sec) </td> 
       <td colname="col2"> <p>Frequency at which the data workbench server saves its state files. The default value is 3600. </p> <p> <p>Note:  You should not change this value without consulting Adobe. </p> </p> </td> 
    </tr> 

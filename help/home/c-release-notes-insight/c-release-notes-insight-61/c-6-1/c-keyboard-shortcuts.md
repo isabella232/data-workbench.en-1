@@ -18,8 +18,8 @@ New shortcut keys are available for workspaces and configuration files.
  </desc> 
  <thead> 
   <tr> 
-   <th colname="col1" align="center" class="entry"> Keys </th> 
-   <th colname="col2" align="center" class="entry"> Action </th> 
+   <th colname="col1" class="entry"> Keys </th> 
+   <th colname="col2" class="entry"> Action </th> 
   </tr> 
  </thead>
  <tbody> 

@@ -66,17 +66,17 @@ You have completed the installation of [!DNL Insight Server]. [!DNL Insight Serv
 
 <table id="table_AC05861E141E4928BE844C8611DEC43D"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> For this value... </th> 
    <th colname="col2" class="entry"> Specify </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <i>Month DD, YYYY HH:MM:SS TZone</i> </td> 
    <td colname="col2"> <p>The time when you want <span class="keyword"> Insight Server </span> to be restarted for the first time. </p> <p>Example: August 13, 2013 22:30:00 EST </p> <p> <p>Note:  You must specify a time zone. The time zone does not default to system time if not specified. If you wish to implement Daylight Saving Time or a similar clock-shifting policy, you must save the <span class="filepath"> .dst </span> file containing the appropriate rules in the Base\Dataset\Timezone directory on the <span class="keyword"> Insight Server </span> machine. For a list of supported time zone abbreviations and information about implementing Daylight Saving Time, see <a href="../../../../home/c-inst-svr/c-time-zn-cds.md#concept-eed5ba32d5d347cf94b76db83b29f211" format="dita" scope="local"> Time Zone Codes </a>. </p> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <i>frequency</i> </td> 
    <td colname="col2"> <p>One of the following values: 
      <ul id="ul_C29A40CD8FBB4333B5FA1D9E7DAD35EC"> 

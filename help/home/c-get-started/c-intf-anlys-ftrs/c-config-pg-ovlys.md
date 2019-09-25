@@ -88,21 +88,21 @@ To configure page overlay for [!DNL Site], you must edit two files:
 
 <table id="table_24DD4BB5009542F7BB1DA3318E2E6E2B"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> For this parameter... </th> 
    <th colname="col2" class="entry"> Provide this information... </th> 
   </tr>
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Dimension </p> </td> 
    <td colname="col2"> <p>The dimension (typically the Next URI dimension) that is represented by the link. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Expression </p> </td> 
    <td colname="col2"> <p>The regular expression used to select the relevant part of the HTML link to find the next element from the Dimension. The regular expression must be an exact match, and the desired output pattern is grouped with parentheses. For details about regular expressions, see the <i>Dataset Configuration Guide</i>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Output Pattern </p> </td> 
    <td colname="col2"> <p>The output pattern of the regular expression used to extract the resulting element of the Dimension parameter. </p> </td> 
   </tr> 

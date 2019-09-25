@@ -36,93 +36,93 @@ The experiment design spreadsheet can provide useful statistical inferences only
   <b>Fields to Define </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> In this field… </th> 
    <th colname="col2" class="entry"> Specify </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Experiment Title </td> 
    <td colname="col2"> A descriptive name for your experiment. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Experiment Description </td> 
    <td colname="col2"> A textual description of the experiment. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Metric Being Studied </td> 
    <td colname="col2"> <p>The name of the metric on which the experiment is based. </p> <p>Example: Visitor Conversion </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Metric Definition </td> 
    <td colname="col2"> <p>The definition of the metric on which the experiment is based. </p> <p>Format: Visitors[X]/Visitors </p> <p>Example: <span class="filepath"> Visitors[URI='conversionpage.asp']/Visitors</span></p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Intended Start Time </td> 
    <td colname="col2"> The date and time you want the experiment to begin. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Intended End Time </td> 
    <td colname="col2"> The date and time you want the experiment to end. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Applicable Selections </td> 
    <td colname="col2"> (Optional) The dimension name and element set or range by which you want to further segment the dataset. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Experiment URIs </td> 
    <td colname="col2"> The URIs involved in your hypothesis. You define the current URIs for the control group and the alternate URIs that you have created or will create for the test group(s). </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Expected Metrics for Application Selections </td> 
    <td colname="col2"> Heading for the metric values that you expect for your website. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Average Visitors per Day </td> 
    <td colname="col2"> The average number of visitors to your website per day. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Visitor Conversion </td> 
    <td colname="col2"> The average visitor conversion rate for your website. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Experiment Will Determine if the metric name for the Test Groups is … </td> 
    <td colname="col2"> Heading for how the metric values should be compared. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Greater Than The Value For the Control Group? </td> 
    <td colname="col2"> Set this field to True if you want the ability to conclude that the test group’s metric increased during the experiment. Set this field to False to reduce the number of visitors needed to draw conclusions. Adobe recommends that you set it to True. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Less Than The Value For the Control Group? </td> 
    <td colname="col2"> Set this field to True if you want the ability to conclude that the test group’s metric decreased during the experiment. Adobe recommends that you set it to True. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> By at Least (Detection Level) </td> 
    <td colname="col2"> The percentage by which you want the metric for the test group to be higher or lower than that for the control group. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> With a Confidence Level of at Least </td> 
    <td colname="col2"> The desired confidence level for the test group values. The confidence level determines the number of false positives to measure the probability that the stated expectation is true. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> and a Power Level of </td> 
    <td colname="col2"> The desired power level for the test group values. The power level determines the number of false negatives. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> % of Visitors </td> 
    <td colname="col2"> Heading for the percent of visitors values. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Test Group </td> 
    <td colname="col2"> Percent of visitors you want to include in the test group. You can play with this number until the value in the Total (Usually 100%) field in the Visitors section is equal to or greater than the value in the Minimum Visitors Required (Test+Control Groups) field, both of which are described in the following table. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Control Group </td> 
    <td colname="col2"> Percent of visitors you want to include in the control group. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Other Design Notes </td> 
    <td colname="col2"> Any notes that you want to save for future reference. </td> 
   </tr> 

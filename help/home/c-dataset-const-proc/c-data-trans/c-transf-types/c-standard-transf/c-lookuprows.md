@@ -23,44 +23,44 @@ As you review the descriptions of the parameters in the following table, remembe
 
 <table id="table_AB68A89ECD5C45F39B8433F994BBD7D8"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
    <th colname="col3" class="entry"> Default </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Name </td> 
    <td colname="col2"> Descriptive name of the transformation. You can enter any name here. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Comments </td> 
    <td colname="col2"> Optional. Notes about the transformation. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Condition </td> 
    <td colname="col2"> Limits the output of the transformation to certain log entries. If the condition is not met for a particular log entry, the field in Output Row Value Output parameter is left unchanged. The input still may be used to affect other log entries. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Input Condition </td> 
    <td colname="col2">Accepts input for the transformation from only certain input rows. If the <span class="wintitle"> Input</span> Condition is not met for a particular input row, the input field from that row is ignored and does not affect other output rows. However, the output field from that row is still modified per the specified Condition. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Input Row Key Input </td> 
    <td colname="col2"> The name of the field to use as the key for the input rows. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Input Row Value Input </td> 
    <td colname="col2"> The name of the field in the input row whose value is copied to the field in the Output Row Value Output parameter if all conditions are satisfied. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Operation </td> 
    <td colname="col2"> <p>An operation that, for each output row, is applied to all of the input rows satisfying all of the conditions defined by the <span class="wintitle"> Input</span> Condition and Input Row Key Input parameters to produce an output: 
      <ul id="ul_16FB152CB558497794DDED72A2F05CDD"> 
@@ -69,12 +69,12 @@ As you review the descriptions of the parameters in the following table, remembe
      </ul> </p> </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Output Row Key Input </td> 
    <td colname="col2"> The name of the field to use as the key for the output row. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Output Row Value Output </td> 
    <td colname="col2">The name of the field in the output row whose value is copied from the field in the Input Row Value Input parameter if all conditions are satisfied. All output rows with the same x-trackingid and <span class="wintitle"> Output Row Key Input </span>values have the same <span class="wintitle"> Output Row Value Output</span> value. </td> 
    <td colname="col3"> </td> 

@@ -45,13 +45,13 @@ Layer = ElementPointLayer:
   <b>Element Point Layer Parameters: Dynamic Points </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Dimension </td> 
    <td colname="col2"> <p>The name of the dimension (defined in a transformation configuration file), which must contain elements with the string “latitude,longitude” or “latitude,longitude,name” as shown in the following examples: 
      <ul id="ul_49069B74AF5A4CE28E20BB3B98BB2D89"> 
@@ -59,23 +59,23 @@ Layer = ElementPointLayer:
       <li id="li_352D380B55044DD5AAB9B6FF8335AAC6">35.3317,-77.8126,Somewhere </li> 
      </ul> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Metric </td> 
    <td colname="col2"> The name of the metric that is evaluated over the dimension specified in the Dimension parameter. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Dynamic Points </td> 
    <td colname="col2"> Enables Dynamic Points. Set to true. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Scale </td> 
    <td colname="col2"> Optional. Value used to size the points in the layer. The default value is 100. Larger values make the points bigger, and smaller values make them smaller. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Color </td> 
    <td colname="col2"> Optional. The RGB color vector, which is expressed as (red,green,blue). For each color in the vector, you can enter a value from 0.0 to 1.0. For example, (1.0, 0.0, 0.0) is bright red, and (0.5, 0.5, 0.5) is gray. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Rendering Mode </td> 
    <td colname="col2"> <p>Optional. Integer value representing the rendering mode to use for the layer. The three available modes are as follows: 
      <ul id="ul_771F0E43E3CD45259918520F092BCCE4"> 

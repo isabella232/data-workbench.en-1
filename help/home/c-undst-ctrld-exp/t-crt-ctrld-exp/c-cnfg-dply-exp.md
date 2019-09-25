@@ -38,17 +38,17 @@ You should complete this file before the experiment begins and not modify the in
 
 <table id="table_FDD6AE631C614F97AD7AE8829E53CCAC"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Field </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Experiment </td> 
    <td colname="col2"> <p>A descriptive name for the experiment. Each experiment name must be unique and cannot contain spaces. </p> <p>Experiment names are used when displaying the results of experiments in <span class="keyword"> Insight </span>. The names appear as the first half of the element names in the controlled experiment dimension. The second half of the element name is the group name from the Group field in this file. Each group is named in the following format using the experiment name followed by the group name: </p> <p><i>ExperimentName.Group Name</i> </p> <p>For example: <span class="filepath"> New_Homepage.Control </span> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Start </td> 
    <td colname="col2"> <p>The date and time that you want the experiment to begin. If you do not enter values, the experiment begins immediately after the file is deployed. </p> <p>Format: MM/DD/YYYY H:MM </p> 
     <ul id="ul_FB8B50C688584683AC2226FCBED40AF9"> 
@@ -58,23 +58,23 @@ You should complete this file before the experiment begins and not modify the in
      <li id="li_3295FE5B2AC64B6CA90CC7F31B808EB9">If you would like to add an experiment as a configuration file entry but do not want the experiment to run in the near future, you can comment out the experiment information using the number sign “#” or define start and stop times in the past. </li> 
     </ul> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Stop </td> 
    <td colname="col2"> <p>The date and time that you want the experiment to end. When the stop date and time occurs, <span class="wintitle"> Sensor </span> will stop sending the cookie values identified as a test group to the test URIs and will send all cookies to the control group URIs. </p> <p>Format: MM/DD/YYYY H:MM </p> <p>See the notes for the <span class="wintitle"> Start </span> field. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Group </td> 
    <td colname="col2"> <p>A descriptive name for each group of visitors in the experiment. Group names cannot contain spaces. </p> <p>Group names are used when displaying the results of experiments in <span class="keyword"> Insight </span>. For more information, see the Experiment field description. </p> <p>A control group can be implicitly or explicitly defined based on the value entered in the Percentage field. </p> <p> <p>Note:  To meet the number of visitors needed during the defined time period for the experiment to be statistically valid, you may need to either decrease the confidence level or increase the time period. For example, if your time frame is five days, your confidence level is 98%, and your number of visitors needed exceeds the number expected for that time period, you need to either increase the time period or decrease the confidence level until the number of visitors expected exceeds the number needed to run a statistically valid experiment. </p> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Percentage </td> 
    <td colname="col2"> <p>The percentage of website visitors to include in each defined group. These values can be expressed as either percentages or decimal values. In addition, both values must be either greater than or less than one. </p> <p>For example: </p> <p>33.3% and 66.7% </p> <p>.99 and .01 </p> <p>If the sum for all groups is less than 100, the undefined excess defaults to a control group. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Original URL </td> 
    <td colname="col2"> <p>The URI of the content to be remapped, followed by $. This value is case-sensitive. </p> <p>Format: index.asp$ </p> <p>Original URIs can be specified using a dollar sign ($) at the end of the URI to denote that an exact match of the file name is required. For example, the expression <span class="filepath"> /product/product_view.asp$ </span> matches that exact page only, while <span class="filepath"> /product </span> matches any page in the <span class="filepath"> /product </span> directory and could be used to remap that entire sub-tree. Original URL entries that do not specify the $ character at the end of the file name are ignored by the experiment unless the ExpPartialMatch parameter has been set to “on.” For more information about this parameter, see <a href="../../../home/c-undst-ctrld-exp/t-en-ctrld-exp/c-mod-expplmth-prm.md#concept-9c817c4c49b74287b0f70d6a1a37655e" format="dita" scope="local"> Modifying the ExpPartialMatch Parameter (Optional) </a>. </p> <p>The controlled experiment functionality ignores any query strings appended to the URI stem. For example, the page </p> <p> <span class="filepath"> /product/product_view.asp?productid=53982 </span> is not a valid URI, but the page <span class="filepath"> /product/product_view.asp </span> is a valid URI. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Remapped URL </td> 
    <td colname="col2"> <p>The URI of the alternate content. </p> <p>Format: index2.asp </p> <p>See the notes for the Original URL field. </p> </td> 
   </tr> 

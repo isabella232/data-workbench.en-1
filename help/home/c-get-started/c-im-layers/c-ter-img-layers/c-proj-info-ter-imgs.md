@@ -32,25 +32,25 @@ To specify a LatLonProjection for images with embedded projection information, y
   <b>LatLonProjection Parameters </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr>
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Lat0 </p> </td> 
    <td colname="col2"> <p>The latitude of the top edge of the image, in degrees, where 90 is the North Pole and -90 is the South Pole. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Lat1 </p> </td> 
    <td colname="col2"> <p>The latitude of the bottom edge of the image. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Lon0 </p> </td> 
    <td colname="col2"> <p>The longitude of the left-hand edge of the image, in degrees, where positive numbers are east and negative numbers are west longitudes. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Lon1 </p> </td> 
    <td colname="col2"> <p>The longitude of the right-hand edge of the image. </p> </td> 
   </tr> 
@@ -108,33 +108,33 @@ To specify a UTM projection for any terrain image source, you must open the [!DN
   <b>TransverseMercatorProjection Parameters </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr>
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Ellipsoid Inverse Flattening, Ellipsoid Semimajor Axis </p> </td> 
    <td colname="col2"> <p>The parameters of the ellipsoid used for the projection. The semimajor axis is specified in meters. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>False Easting </p> </td> 
    <td colname="col2"> <p>The false easting of the central meridian of the projection, in meters. For UTM, this is always 500,000. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>False Northing </p> </td> 
    <td colname="col2"> <p>The false northing of the equator in the projection, in meters. For UTM, this is 0 for northern hemisphere zones and 10,000 for southern hemisphere zones. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Northwest Corner Coordinates, Southeast Corner Coordinates </p> </td> 
    <td colname="col2"> <p>The coordinates (in projected meters) of the top left and bottom right corners of the image. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Prime Meridian </p> </td> 
    <td colname="col2"> <p>The longitude of the central meridian of the projection, specified in degrees east of Greenwich. Negative numbers may be used to specify degrees west. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Scale Factor </p> </td> 
    <td colname="col2"> <p>The ratio of the radius of the projection cylinder to the semimajor axis of the ellipsoid. For Universal Transverse Mercator (UTM) projections, this is always 0.9996. </p> </td> 
   </tr> 

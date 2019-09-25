@@ -74,49 +74,49 @@ Layer = ElementPointLayer:
   <b>Element point layer parameters: lookup files </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Data Paths </td> 
    <td colname="col2"> Path to the lookup file containing latitude and longitude data. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Longitude Column </td> 
    <td colname="col2"> The name of the column in the lookup file containing the longitude data. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Latitude Column </td> 
    <td colname="col2"> The name of the column in the lookup file containing the latitude data. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Name Column </td> 
    <td colname="col2"> Optional. The name of the column in the lookup file containing the names of the locations represented by the latitude and longitude data. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Key Column </td> 
    <td colname="col2"> <p>The name of the column in the lookup file containing the common key data, which enables the Data Workbench server to integrate the data in the lookup file into the dataset. This must be the first column in the lookup file. </p> <p>Each row in this column is an element of a dimension. This dimension must be defined in the <span class="filepath"> Transformation.cfg</span> file or a <span class="wintitle"> transformation dataset include</span> file and specified in the Dimension parameter of this file. For more information about transformation configuration files, see the <i>Dataset Configuration Guide</i>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Dimension </td> 
    <td colname="col2">The name of the dimension (defined in a transformation configuration file) containing elements that correspond to the data rows in the <span class="wintitle"> Key</span> column. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Metric </td> 
    <td colname="col2"> The name of the metric that is evaluated over the dimension specified in the Dimension parameter. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Scale </td> 
    <td colname="col2"> Optional. Value used to size the points in the layer. The default value is 100. Larger values make the points bigger, and smaller values make them smaller. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Color </td> 
    <td colname="col2"> Optional. The RGB color vector, which is expressed as (red,green,blue). For each color in the vector, you can enter a value from 0.0 to 1.0. For example, (1.0, 0.0, 0.0) is bright red, and (0.5, 0.5, 0.5) is gray. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Rendering Mode </td> 
    <td colname="col2"> <p>Optional. Integer value representing the rendering mode to use for the layer. The three available modes are as follows: 
      <ul id="ul_F15E43B3BFE54CDD8026837027E25819"> 

@@ -21,25 +21,25 @@ The following table lists the tasks that can be completed using the [!DNL Query 
   <b> <span class="wintitle"> Query status legend</span> </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> To perform this task... </th> 
    <th colname="col2" class="entry"> Do this... </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>To see the ratio of the local sample size to the overall dataset size followed by the size in MB of the local sample </p> </td> 
    <td colname="col2"> <p>View the <span class="wintitle"> Local Sample</span> field. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>To see the minimum percent complete for all current queries </p> </td> 
    <td colname="col2"> <p>View the <span class="wintitle"> Query Completion</span> field. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>To identify the master server for a client in a cluster </p> </td> 
    <td colname="col2"> <p>View the <span class="wintitle"> Master Server</span> field. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>To determine the size of a query </p> </td> 
    <td colname="col2"> <p>View the <span class="wintitle"> Query Results</span> field. This field shows you the size of the current query and provides you with a way to see how much of an impact is made on your query size by adding (or removing) one metric, making a selection, or making any other change to your workspace. </p> </td> 
   </tr> 

@@ -27,44 +27,44 @@ As you review the descriptions of the parameters in the following table, remembe
 
 <table id="table_152851484AFF4C50AF736DC62FAA43E3"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
    <th colname="col3" class="entry"> Default </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Name </td> 
    <td colname="col2"> Descriptive name of the transformation. You can enter any name here. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Comments </td> 
    <td colname="col2"> Optional. Notes about the transformation. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Condition </td> 
    <td colname="col2"> Limits the output of the transformation to certain log entries. If the condition is not met for a particular log entry, the field in Output parameter is left unchanged. The input still may be used to affect other log entries. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Input </td> 
    <td colname="col2"> The name of the field from the input row to use as input. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Input Condition </td> 
    <td colname="col2"> Accepts input for the transformation from only certain input rows. If the Input Condition is not met for a particular input row, the input field from that row is ignored and does not affect other output rows. However, the output field from that row is still modified per the specified Condition. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Key </td> 
    <td colname="col2"> <p>Optional. The name of the field to use as the key. </p> <p> If a key is specified, the input rows for a given output row are limited to the contiguous block of rows having the same Key value as the output row. This restriction is in addition to all other limitations placed on the input rows by other parameters of the <span class="wintitle"> CrossRows</span> transformation. </p> <p> For example, if you are working with web data and you make the field x-session-key (which has a unique value for each session) the key, then the input rows for the transformation are limited to those rows having the same x-session-key value as the output row. Therefore, you are considering only those input rows representing page views that occur during the same session as the output row. </p> </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Operation </td> 
    <td colname="col2"> <p>An operation that, for each output row, is applied to all of the input rows satisfying all of the conditions defined by the Input Condition, Key, Row Begin, Row End, Time Begin, and Time End parameters to produce an output: 
      <ul id="ul_C01CCF73A9544BCFB7B1105042FEF2DD"> 
@@ -75,12 +75,12 @@ As you review the descriptions of the parameters in the following table, remembe
      </ul> </p> </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Output </td> 
    <td colname="col2"> The name of the output field. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Row Begin/Row End </td> 
    <td colname="col2"> <p>Optional. Specifies a range of input rows relative to the output row. For example, a Row Begin value of "0" excludes all rows before the output row. A row begin value of "1" excludes the output row as well. Common ranges include: 
      <ul id="ul_B030F32A5146430BA50DD4FAB4A527B0"> 
@@ -93,7 +93,7 @@ As you review the descriptions of the parameters in the following table, remembe
      </ul> </p> </td> 
    <td colname="col3"> All rows </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Time Begin/Time End </td> 
    <td colname="col2"> <p>Optional. Specifies a range of times relative to the time of the output row. For example, a Time End of 30 minutes includes all rows that take place within 30 minutes after the output row. A Time Begin of -30 minutes includes all rows that take place within 30 minutes before the output row. </p> <p> Available time units are days, weeks, hours, minutes, ms (milliseconds), ticks (100 nanoseconds), and ns (nanoseconds). </p> </td> 
    <td colname="col3"> All times </td> 

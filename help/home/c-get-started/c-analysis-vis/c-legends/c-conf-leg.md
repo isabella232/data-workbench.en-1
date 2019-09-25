@@ -25,25 +25,25 @@ The following confidence legend displays confidence details about the Conversion
   <b>Confidence Legend Fields </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Field </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Metric or Formula </p> </td> 
    <td colname="col2"> <p>The metric name or metric expression for which you want to view confidence information. Any selections that you make in your workspace are reflected in the legend. This example displays details about the Conversion metric. </p> <p>For information about syntax rules for entering an expression, see <a href="../../../../home/c-get-started/c-qry-lang-syntx/c-qry-lang-syntx.md#concept-15d1d3f5164a47d49468c5acb7299d9f" format="dita" scope="local"> Query Language Syntax</a>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Measured value </p> </td> 
    <td colname="col2"> <p>The value of the actual data collected. In this example, the conversion rate for the current selection is 2.3%. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Standard deviation </p> </td> 
    <td colname="col2"> <p>The standard deviation of the Measured Value. In this example, the standard deviation of the conversion rate for the current selection is 0.1%. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>The “true” value </p> </td> 
    <td colname="col2"> <p>The likelihood that the Measured Value falls within the range listed for each probability. In this example, if this “real-world experiment” were repeated again and again, you could be 90% sure that the Measured Value would be between 2.1% and 2.4%. </p> </td> 
   </tr> 

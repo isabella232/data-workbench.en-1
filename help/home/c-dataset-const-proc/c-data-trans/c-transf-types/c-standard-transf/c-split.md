@@ -16,39 +16,39 @@ The Split transformation splits a string into a vector of substrings based upon 
 
 <table id="table_C97DA4E45DA844FAB8D61AABA22FF809"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
    <th colname="col3" class="entry"> Default </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Name </td> 
    <td colname="col2"> Descriptive name of the transformation. You can enter any name here. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Comments </td> 
    <td colname="col2"> Optional. Notes about the transformation. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Condition </td> 
    <td colname="col2"> The conditions under which this transformation is applied. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Delimiter </td> 
    <td colname="col2"> <p>String that is used to separate the input string into substrings. Must be a single character in length. </p> <p> If you hold down the Ctrl key and right-click within the Delimiter parameter, an Insert menu appears. This menu contains a list of special characters that often are used as delimiters. </p> </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Input </td> 
    <td colname="col2"> The name of the field whose value is split to create the output string vector. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Output </td> 
    <td colname="col2"> The name of the output field. </td> 
    <td colname="col3"> </td> 

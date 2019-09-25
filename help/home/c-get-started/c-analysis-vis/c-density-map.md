@@ -83,19 +83,19 @@ Right-click the Density Map to open a menu with these options:
  <tbody> 
   <tr> 
    <td colname="col1"> Add Callout </td> 
-   <td colname="col2" valign="top" align="left">Add a text or graphic as a callout in the visualization to further identify or describe an element. <p>You can also select a blank Metric Legend, Table, Line Graph, or Scatter Plot based on the selected element in the Density Map. You can then add metrics and dimensions to these blank visualizations as needed. </p> </td> 
+   <td colname="col2">Add a text or graphic as a callout in the visualization to further identify or describe an element. <p>You can also select a blank Metric Legend, Table, Line Graph, or Scatter Plot based on the selected element in the Density Map. You can then add metrics and dimensions to these blank visualizations as needed. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Mask </td> 
-   <td colname="col2" valign="top" align="left">Masking options let you hide selected elements. Right-click to display Mask options. <p><span class="uicontrol"> Hide This Element</span>—Choose this option to mask a single element that you have selected. </p> <p><span class="uicontrol"> Hide Selected</span>—Choose this option to mask multiple elements that you have selected. </p> <p><span class="uicontrol"> Show Top</span>— Choose this option to display only the top 100, 50, 25, or 10 top elements based on the values in the Density Map. </p> <p><span class="uicontrol"> Show Bottom</span>—Choose this option to display only the bottom 100, 50, 25, or 10 top elements based on the values in the Density Map. </p> </td> 
+   <td colname="col2">Masking options let you hide selected elements. Right-click to display Mask options. <p><span class="uicontrol"> Hide This Element</span>—Choose this option to mask a single element that you have selected. </p> <p><span class="uicontrol"> Hide Selected</span>—Choose this option to mask multiple elements that you have selected. </p> <p><span class="uicontrol"> Show Top</span>— Choose this option to display only the top 100, 50, 25, or 10 top elements based on the values in the Density Map. </p> <p><span class="uicontrol"> Show Bottom</span>—Choose this option to display only the bottom 100, 50, 25, or 10 top elements based on the values in the Density Map. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Spotlight </td> 
-   <td colname="col2" valign="top" align="left"> Spotlighting lets you highlight and dim elements in a range. Right-click to open a menu of options. <p><span class="uicontrol"> Show Top</span>— Choose this option to highlight only the top 100, 50, 25, or 10 top elements based on values in the Density Map. </p> <p><span class="uicontrol"> Show Bottom</span>—Choose this option to highlight only the bottom 100, 50, 25, or 10 top elements based on values in the Density Map. </p> </td> 
+   <td colname="col2"> Spotlighting lets you highlight and dim elements in a range. Right-click to open a menu of options. <p><span class="uicontrol"> Show Top</span>— Choose this option to highlight only the top 100, 50, 25, or 10 top elements based on values in the Density Map. </p> <p><span class="uicontrol"> Show Bottom</span>—Choose this option to highlight only the bottom 100, 50, 25, or 10 top elements based on values in the Density Map. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Deselect </p> <p>Deselect All </p> </td> 
-   <td colname="col2" valign="top" align="left"> <p> Select these commands to deselect the current element, if selected, or deselect all elements that are selected. </p> </td> 
+   <td colname="col2"> <p> Select these commands to deselect the current element, if selected, or deselect all elements that are selected. </p> </td> 
   </tr> 
  </tbody> 
 </table>

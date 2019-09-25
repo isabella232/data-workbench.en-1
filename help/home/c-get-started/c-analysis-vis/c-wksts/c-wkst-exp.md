@@ -27,45 +27,45 @@ The following table provides sample formulas for the worksheet in the previous e
 
 <table id="table_0F5EFDB58040465AB599E6BE93324822"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Worksheet Cell </th> 
    <th colname="col2" class="entry"> Formula </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>B2 </p> <p>Visitors who viewed the Apply Now page </p> </td> 
    <td colname="col2"> <p><span class="filepath"> =Visitors[Page="/applynow/default.asp"]</span> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>B3 </p> <p>Referred Visitors who viewed the Apply Now page </p> </td> 
    <td colname="col2"> <p><span class="filepath"> =Referred_Visitors[Page="/applynow/default.asp"]</span> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>B4 </p> <p>Referred Visitors from Referrer A who viewed the Apply Now page </p> </td> 
    <td colname="col2"> <p> <span class="filepath"> =Referred_Visitors[Page="/applynow/default.asp" </span> </p> <p> AND <span class="filepath"> Referrer="Ref A"]</span> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>C2 </p> <p>Visitors who viewed the Apply Now page and the Application Wizard page </p> </td> 
    <td colname="col2"> <p> <span class="filepath"> =Visitors[Page="/applynow/default.asp" </span> </p> <p> AND <span class="filepath"> Page="/applynow/appwizard.asp"]</span> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>C3 </p> <p>Referred Visitors who viewed the Apply Now page and the Application Wizard page </p> </td> 
    <td colname="col2"> <p> <span class="filepath"> =Referred_Visitors[Page="/applynow/default.asp" </span> </p> <p> AND <span class="filepath"> Page="/applynow/appwizard.asp"]</span> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>C4 </p> <p>Referred Visitors from Referrer A who viewed the Apply Now page and the Application Wizard page </p> </td> 
    <td colname="col2"> <p> <span class="filepath"> =Referred_Visitors[Page="/applynow/default.asp"</span> </p> <p> AND <span class="filepath"> Page="/applynow/appwizard.asp"</span> </p> <p> AND <span class="filepath"> Referrer="Ref A"]</span> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>D2 </p> <p>Percentage of Visitors who viewed the Apply Now page and the Application Wizard page </p> </td> 
    <td colname="col2"> <p><span class="filepath"> =C2/B2*100</span> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>D3 </p> <p>Percentage of Referred Visitors who viewed the Apply Now page and the Application Wizard page </p> </td> 
    <td colname="col2"> <p><span class="filepath"> =C3/B3*100</span> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>D4 </p> <p>Percentage of Referred Visitors from Referrer A who viewed the Apply Now page and the Application Wizard page </p> </td> 
    <td colname="col2"> <p><span class="filepath"> =C4/B4*100</span> </p> </td> 
   </tr> 

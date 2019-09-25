@@ -74,5 +74,5 @@ Data workbench looks for the following splash screen files:
 
 If a splash screen is requested but missing, data workbench will access the English splash screen by default.
 
-<a id="section_91AE5EF234C14652A7B04082A22629AB"></a>
+<!-- <a id="section_91AE5EF234C14652A7B04082A22629AB"></a> -->
 

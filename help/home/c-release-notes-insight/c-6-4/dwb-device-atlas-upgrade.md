@@ -10,7 +10,7 @@ uuid: 2096b9fe-c745-48a2-9f86-00f43fa1d115
 
 The DeviceAtlas.bundle file now uses an in-memory cache to greatly improve the performance of lookups
 
-<a id="section_8CE52445D83247FDA180EFE4FCCDC771"></a>
+<!-- <a id="section_8CE52445D83247FDA180EFE4FCCDC771"></a> -->
 
 By default, Device Atlas will cache up to 100,000 user-agents and their properties. The LRU cache is entirely self-contained inside the DeviceAtlas.bundle, so any version of the server capable of using a bundle file will automatically benefit from the increased performance as soon as the new file is loaded.
 

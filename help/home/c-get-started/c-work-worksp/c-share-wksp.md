@@ -21,21 +21,21 @@ In a workspace, click **[!UICONTROL Export]**.
   <b> <span class="wintitle"> Workspace Export</span> Menu </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Menu Option </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Print </td> 
    <td colname="col2"> Prints the workspace. When you print a workspace, the background prints as white. If you are printing to a color printer, the workspace prints in color on a white background. If you are printing to a black and white printer, the workspace prints in grayscale on a white background. Printed output is centered horizontally on the page by default. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Print Setup </td> 
    <td colname="col2"> Sets the page orientation (portrait or landscape) and margins. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Copy to Clipboard </td> 
    <td colname="col2"> <p>Copies the workspace or sidebar to the clipboard. The following options are available when copying workspaces, sidebars, or both: 
      <ul id="ul_F7338E53385B4AE39FBCF1C3A80276CE"> 
@@ -44,15 +44,15 @@ In a workspace, click **[!UICONTROL Export]**.
       <li id="li_E0B5E9D31F5948238DEB0D75E235BAE3">Monochrome option copies the elements of the workspace in grayscale and displays them on a white background. </li> 
      </ul> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Export PNG </td> 
    <td colname="col2">Saves a snapshot of a workspace in Portable Network Graphic format (<span class="filepath"> .png</span> file). See <a href="../../../home/c-get-started/c-work-worksp/c-ex-wksp.md#section-f9fbe0f0a1c341e2b063cce106cac35e" format="dita" scope="local"> Exporting Workspaces as PNG Files</a>. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Excel </td> 
    <td colname="col2">If Microsoft Excel is installed on the Data Workbench machine, automatically starts Microsoft Excel and exports the data from certain visualizations, certain legends, and text annotations to a new Excel file (<span class="filepath"> .xls</span> or <span class="filepath"> .xlsx</span>). See <a href="../../../home/c-get-started/c-work-worksp/c-ex-wksp.md#section-fe214e3dbc364d2eba3834d62d295acb" format="dita" scope="local"> Exporting Workspace Data to Microsoft Excel</a>. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Export (Excel) from Template </td> 
    <td colname="col2">If Microsoft Excel is installed on the Data Workbench machine, automatically starts Microsoft Excel and exports the data from certain visualizations, certain legends, and text annotations to the template Excel file (<span class="filepath"> .xls</span> or <span class="filepath"> .xlsx</span>) that you select. See <a href="../../../home/c-get-started/c-work-worksp/c-ex-wksp.md#section-814772929ca64cf6b92b89d3fdd02302" format="dita" scope="local"> Exporting to a Template Excel File</a>. </td> 
   </tr> 

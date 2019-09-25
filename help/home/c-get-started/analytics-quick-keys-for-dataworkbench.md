@@ -35,7 +35,7 @@ Imports a workspace
   </tr>
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p><b>Full screen view</b>. Workspace fills the screen and refits to the new size. </p> </td> 
    <td colname="col2"><b>Ctrl plus</b> <p>Ctrl + (on keypad) </p> <p><i>or</i> </p> <p>Ctrl Shift + (on keyboard) </p> </td> 
    <td colname="col3"> 
@@ -44,7 +44,7 @@ Imports a workspace
      <li id="li_DE9B8B31B9F24A6AA68A1D0DB886B501"><span class="uicontrol"> File</span> &gt; <span class="uicontrol"> Refit Workspace</span> </li> 
     </ul> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p><b>Window view</b>. Workspace displays in a standard window view and refits to the new size. </p> </td> 
    <td colname="col2"><b>Ctrl minus</b> <p>Ctrl - </p> </td> 
    <td colname="col3"> 
@@ -56,7 +56,7 @@ Imports a workspace
  </tbody> 
 </table>
 
-<a id="section_0597BF92E1AF4BCF9F1C8CEFFE52649A"></a>
+<!-- <a id="section_0597BF92E1AF4BCF9F1C8CEFFE52649A"></a> -->
 
 <table id="table_B774FDAD85AD443897F0F9BC3EC843C7"> 
  <desc>
@@ -64,8 +64,8 @@ Imports a workspace
  </desc> 
  <thead> 
   <tr> 
-   <th colname="col1" align="center" class="entry"> Action </th> 
-   <th colname="col2" align="center" class="entry"> Result </th> 
+   <th colname="col1" class="entry"> Action </th> 
+   <th colname="col2" class="entry"> Result </th> 
   </tr>
  </thead>
  <tbody> 
@@ -94,8 +94,8 @@ Imports a workspace
  </desc> 
  <thead> 
   <tr> 
-   <th colname="col1" align="center" class="entry"> Action </th> 
-   <th colname="col2" align="center" class="entry"> Result </th> 
+   <th colname="col1" class="entry"> Action </th> 
+   <th colname="col2" class="entry"> Result </th> 
   </tr>
  </thead>
  <tbody> 
@@ -120,8 +120,8 @@ Imports a workspace
    <td colname="col2"> <p>Open a configuration (.cfg) file in a workspace. By default the .cfg files appear, but you can also open other .dim, .metric or .vw files as needed (when you select the <b>All Files</b> option). </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1" valign="top" align="left"> <p><b>Add &gt; Open</b> and <b>Add &gt; Edit</b> quickly open recently opened or pinned files in a workspace. </p> </td> 
-   <td colname="col2" valign="top" align="left"> <p>Open files recently accessed (the last ten files are save) or files saved or "pinned" to the new menu. You can click the pin icon next to the menu item to save the link in the menu. </p> </td> 
+   <td colname="col1"> <p><b>Add &gt; Open</b> and <b>Add &gt; Edit</b> quickly open recently opened or pinned files in a workspace. </p> </td> 
+   <td colname="col2"> <p>Open files recently accessed (the last ten files are save) or files saved or "pinned" to the new menu. You can click the pin icon next to the menu item to save the link in the menu. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -132,8 +132,8 @@ Imports a workspace
  </desc> 
  <thead> 
   <tr> 
-   <th colname="col1" align="center" class="entry"> Action </th> 
-   <th colname="col2" align="center" class="entry"> Result </th> 
+   <th colname="col1" class="entry"> Action </th> 
+   <th colname="col2" class="entry"> Result </th> 
   </tr>
  </thead>
  <tbody> 

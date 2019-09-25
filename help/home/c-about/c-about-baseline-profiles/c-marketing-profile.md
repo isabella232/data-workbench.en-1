@@ -22,7 +22,7 @@ The Campaign dimension is defined in the Site Marketing profile to provide campa
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Campaign </td> 
    <td colname="col2"> Renamed Simple </td> 
    <td colname="col3">Session <p>FIRST ROW operation </p></td> 

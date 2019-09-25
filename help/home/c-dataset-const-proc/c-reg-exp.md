@@ -74,21 +74,21 @@ Literal matching lets you look for a single string, but brackets, dashes, and pi
 
 <table id="table_18B86955EC3748079E7C176273ADE92B"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> For this metacharacter... </th> 
    <th colname="col2" class="entry"> The regular expression processor will... </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Square Brackets ([ ]) </td> 
    <td colname="col2"> Match any of the characters inside of the bracket with a single character position. For example, [AB] is an instruction to match either the letter A or the letter B and [0123456789] says match to any character in the range 0 to 9. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Dash (-) </td> 
    <td colname="col2"> <p>Match a range of characters. Thus, instead of writing [0123456789] we could simply write [0-9]. </p> <p> This can be extended to ranges of characters and multiple ranges within one set of brackets. For example, [0-9A-C] matches the characters 0 through 9 and A to C. </p> <p> <p>Note:  To test for a dash (-) as a literal inside the brackets, it must come first or last. For example, [-0-9] tests for - and 0 to 9. </p> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Pipe (|) </td> 
    <td colname="col2"> Match one of two choices to a given target string. For example, b|nat matches either bat or nat. </td> 
   </tr> 
@@ -135,29 +135,29 @@ Iteration metacharacters let you match a pattern more than once.
 
 <table id="table_6A14333D6C264A48ADF1EBBAF687CADD"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> For this metacharacter... </th> 
    <th colname="col2" class="entry"> The regular expression processor will... </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Question Mark (?) </td> 
    <td colname="col2"> Match no instances or one instance of the character immediately preceding the metacharacter (?). For example, the pattern rea?d matches red and read. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Asterisk (*) </td> 
    <td colname="col2"> Match zero or more occurrences of the character immediately preceding the metacharacter (*). For example, the pattern [0-9]* matches any number of the characters 0 through 9 (any integer). </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Plus (+) </td> 
    <td colname="col2"> Match one or more occurrences of the preceding character or range. For example, the pattern thre+ would match three but not through. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> {n} </td> 
    <td colname="col2"> <p>Match the proceeding character or range exactly n times. The following pattern matches United States phone numbers: [0-9]{3}-[0-9]{3}-[0-9]{4}. </p> <p> While not an optimal pattern, it determines whether the target string is in the proper format. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> {n,m} </td> 
    <td colname="col2"> Match the preceding character at least n times and at most m times. For example, fo{1,2}d would match fod and food but not foood. </td> 
   </tr> 

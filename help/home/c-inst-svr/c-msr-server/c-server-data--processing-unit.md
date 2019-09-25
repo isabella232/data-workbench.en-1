@@ -38,29 +38,29 @@ To achieve the best performance from your DPU investment, Adobe recommends the f
   <b> <span class="keyword"> Server </span> DPU Requirements </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> </th> 
    <th colname="col2" class="entry"> Required </th> 
    <th colname="col3" class="entry"> Recommended </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Operating System </p> </td> 
    <td colname="col2"> <p>Microsoft Windows Server 2008 x64 </p> </td> 
    <td colname="col3"> <p>Microsoft Windows Server 2012 x64 </p> <p> Microsoft Windows Server 2016 x64 </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>CPU </p> </td> 
    <td colname="col2"> <p>See recommendations. </p> </td> 
    <td colname="col3"> Latest-generation 4-core+ processors from Intel or AMD are recommended. For optimal performance, 8-cores; for a trade-off between speed and cost, 4-cores are recommended. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>RAM </p> </td> 
    <td colname="col2"> <p>8 GB </p> </td> 
    <td colname="col3"> <p>12 GB </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Working Data Storage </p> </td> 
    <td colname="col2"> <p>1TB+ of total logical temp storage. </p> <p>Low latency access to the disk sub-system </p> </td> 
    <td colname="col3"> <p>For temporary storage Adobe recommends either: </p> 
@@ -69,17 +69,17 @@ To achieve the best performance from your DPU investment, Adobe recommends the f
      <li id="li_A378F4E1443F4BB2B54DC7E8372EE572">(6 to 10) * (300GB or higher) SATA HDDs (2.5” spindle.) </li> 
     </ul> <p>These should be configured in a JBOD array. Alternatively, when gross disk capacity exceeds 2TB, an array of 2-disk RAID1 volumes can be used. For example, configure six disks as a 3*(2*750GB RAID 1 pair.) </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>System Data Storage </p> </td> 
    <td colname="col2"> <p>Additionally, Adobe requires high-availability storage of a modest size (20GB) for the OS, DPU software, and other system software. </p> </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Clustering Hardware </p> </td> 
    <td colname="col2"> <p>See recommendations. </p> </td> 
    <td colname="col3"> <p>Use a homogenous set of servers. In a DPU cluster, the slowest server reduces the performance of the whole dataset. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Clustering Network Performance </td> 
    <td colname="col2"> A switched-gigabit Ethernet connection or greater. </td> 
    <td colname="col3"> </td> 

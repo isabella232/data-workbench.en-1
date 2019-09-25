@@ -32,25 +32,25 @@ The following table lists the tasks that can be completed using the [!DNL Server
 
 <table id="table_A65426669ADE44B5A6BAD9D4E99A5CAC"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> To perform this task... </th> 
    <th colname="col2" class="entry"> Do this... </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>To check the log processing status of a profile </p> </td> 
    <td colname="col2"> <p>View the Profile <i>Profile</i> Name vector. In the example above, you would view the Profile ExampleProfile vector to see that the ExampleProfile profile processes on one server and its log processing is 100% complete. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>To determine how long the computer takes to respond to requests </p> </td> 
    <td colname="col2"> <p>View the poll latency field. If this value is greater than 1000ms, contact Adobe Support Services. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>To view an estimate of how long it might take to complete transformation or querying </p> </td> 
    <td colname="col2"> <p>View the sweep time (hh:mm:ss) field, which is present only during transformation or querying. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>To determine the current number of network connections to the computer </p> </td> 
    <td colname="col2"> <p>View the last line of the computer’s <span class="wintitle"> Server Monitor</span> information. In the example above, you see that 2 network connections are currently coming from one computer. </p> </td> 
   </tr> 

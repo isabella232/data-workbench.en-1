@@ -113,31 +113,31 @@ The **Options** menu provides advanced features to set up and display Best Fit A
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1" align="left" valign="top"><span class="uicontrol"> Set Training Filter </span> </td> 
-   <td colname="col2" align="left" valign="top"> The Training Filter is used with the Success Window to filter the population when building the attribution model. This will provide a subset of data that includes only the visitors that you want to analyze. <p>Note: Experienced users can also leverage the flexibility of filters to focus beyond the time line of the Success and Touch Windows. For example, in addition to selecting a time range, you can select a set of <i>Referring Domains</i> to only examine the attribution for users from those domains. </p> </td> 
+   <td colname="col1"><span class="uicontrol"> Set Training Filter </span> </td> 
+   <td colname="col2"> The Training Filter is used with the Success Window to filter the population when building the attribution model. This will provide a subset of data that includes only the visitors that you want to analyze. <p>Note: Experienced users can also leverage the flexibility of filters to focus beyond the time line of the Success and Touch Windows. For example, in addition to selecting a time range, you can select a set of <i>Referring Domains</i> to only examine the attribution for users from those domains. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1" align="left"><span class="uicontrol"> Show Complex Filter Description </span> </td> 
-   <td colname="col2" align="left" valign="top"> Displays the filter code for the Training Filter, Success Window, and Touch Window. </td> 
+   <td colname="col1"><span class="uicontrol"> Show Complex Filter Description </span> </td> 
+   <td colname="col2"> Displays the filter code for the Training Filter, Success Window, and Touch Window. </td> 
   </tr> 
   <tr> 
-   <td colname="col1" align="left"><span class="uicontrol"> Save Model </span> </td> 
-   <td colname="col2" align="left" valign="top"> Saves the current attribution model for future use. </td> 
+   <td colname="col1"><span class="uicontrol"> Save Model </span> </td> 
+   <td colname="col2"> Saves the current attribution model for future use. </td> 
   </tr> 
   <tr> 
-   <td colname="col1" align="left"><span class="uicontrol"> Load Model </span> </td> 
-   <td colname="col2" align="left" valign="top"> Opens a previously saved attribution model. </td> 
+   <td colname="col1"><span class="uicontrol"> Load Model </span> </td> 
+   <td colname="col2"> Opens a previously saved attribution model. </td> 
   </tr> 
   <tr> 
-   <td colname="col1" align="left"><span class="uicontrol"> Presentation View </span> </td> 
-   <td colname="col2" align="left" valign="top"> Hides the top menu bar for presentation. </td> 
+   <td colname="col1"><span class="uicontrol"> Presentation View </span> </td> 
+   <td colname="col2"> Hides the top menu bar for presentation. </td> 
   </tr> 
   <tr> 
-   <td align="left" colspan="2"> <p><b>Options &gt; Advanced</b> includes features to set the training set size and specify the approach to take in the case of a class imbalance. </p> </td> 
+   <td colspan="2"> <p><b>Options &gt; Advanced</b> includes features to set the training set size and specify the approach to take in the case of a class imbalance. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1" align="left" valign="top"><span class="uicontrol"> Advanced &gt; Training Set Size </span> </td> 
-   <td colname="col2" align="left"> <p>Sets the training set size. </p> <p>Note:  The default training size is Large for 250,000 visitors. </p> 
+   <td colname="col1"><span class="uicontrol"> Advanced &gt; Training Set Size </span> </td> 
+   <td colname="col2"> <p>Sets the training set size. </p> <p>Note:  The default training size is Large for 250,000 visitors. </p> 
     <ul id="ul_5F17C60227C34A85A2C476A32F2B5DCD"> 
      <li id="li_A076FC2AD0214ADDBFCFD82AEA5F0880">Tiny = 50,000 </li> 
      <li id="li_17E77E01D5374068BEBC80B3AD4CCD41">Small = 75,000 </li> 
@@ -147,8 +147,8 @@ The **Options** menu provides advanced features to set up and display Best Fit A
     </ul> </td> 
   </tr> 
   <tr> 
-   <td colname="col1" align="left" valign="top"><b>Advanced &gt; Class Balance </b> </td> 
-   <td colname="col2" align="left"> <p>Identifies and defines the number of input records to generate for a class imbalance issue based on dataset size. </p> </td> 
+   <td colname="col1"><b>Advanced &gt; Class Balance </b> </td> 
+   <td colname="col2"> <p>Identifies and defines the number of input records to generate for a class imbalance issue based on dataset size. </p> </td> 
   </tr> 
  </tbody> 
 </table>

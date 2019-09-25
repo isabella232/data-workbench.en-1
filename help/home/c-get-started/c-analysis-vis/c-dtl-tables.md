@@ -23,24 +23,24 @@ The following table describes the elements of a detail table.
   <b>Detail Table Elements </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Element </th> 
    <th colname="col02" class="entry"> Color </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Level </p> </td> 
    <td colname="col02"> <p>Pink </p> </td> 
    <td colname="col2"> <p>Any countable dimension for which you want to view detailed attribute and metric information. The level is preceded by the number of elements displayed out of the number of elements available, for example 6/444 indicates that 6 elements are being displayed out of a possible 444. In the example above, the level Visitors indicates that all of the detail provided is based on visitor. The level Page Views indicates that all of the detail provided is based on page view. Viewing multiple levels at the same time is useful when you want to analyze data that has different countable parents. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Attribute </p> </td> 
    <td colname="col02"> <p>Green </p> </td> 
    <td colname="col2"> <p>Any dimension that is one-to-many or one-to-one with the level, such as City to Visitors. Each row displays the element related to each element of the level you selected. In the example above, the Domain and City attributes list the domain and city for each of the sample visitors. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Metric </p> </td> 
    <td colname="col02"> <p>Blue </p> </td> 
    <td colname="col2"> <p>Metric detail about the level you have selected. In the example above, with the level set to Visitors, the metric Page Views displays the number of page views for an individual visitor, while the Page Views level provides the detail about each of those page views. </p> </td> 

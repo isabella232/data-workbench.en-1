@@ -29,29 +29,29 @@ The following table describes the parameters that are available in a [!DNL Trans
   <b> <b> <span class="wintitle"> Transformation Dataset Include</span> File Parameters </b> </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Extended Dimensions </td> 
    <td colname="col2"> Optional. Defines the extended dimensions. See <a href="../../../../home/c-dataset-const-proc/c-ex-dim/c-ex-dim.md#concept-79b9e2b3f5794833b8b73b003f06ddca" format="dita" scope="local"> Extended Dimensions</a>. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Parameters </td> 
    <td colname="col2"> Optional. A variable that you can reference in other configuration parameters. For more information, see <a href="../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-def-param-dataset-inc-files/c-def-param-dataset-inc-files.md#concept-5ad06acc8dc44bf2a99643fafdd56b50" format="dita" scope="local"> Defining Parameters in Dataset Include Files</a>. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Reprocess </td> 
    <td colname="col2"> <p>Optional. Any character or combination of characters can be entered here. Changing this parameter and saving the file initiates data retransformation. </p> <p> For information about reprocessing your data, see <a href="../../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823" format="dita" scope="local"> Reprocessing and Retransformation</a>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Stage </td> 
    <td colname="col2"> <p>Optional. The name of the processing stage that applies to this <span class="wintitle"> Transformation Dataset Include</span> file. The processing stages are defined in the Stages parameter in the <span class="filepath"> Transformation.cfg</span> file. </p> <p> <p>Note: When you specify a Stage, the name of the Stage must match exactly the name that is listed in the Stages parameter in the <span class="filepath"> Transformation.cfg</span> file for the dataset profile. </p> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Transformations </td> 
    <td colname="col2"> Optional. Defines the data transformations that need to be applied during transformation. For information about the available transformation types, see <a href="../../../../home/c-dataset-const-proc/c-data-trans/c-data-trans.md#concept-99c6f5e6e5194adb9e98afdc0e91cf38" format="dita" scope="local"> Data Transformations</a>. </td> 
   </tr> 

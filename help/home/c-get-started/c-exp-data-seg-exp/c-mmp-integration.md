@@ -10,7 +10,7 @@ uuid: bae0f0c5-a452-4afd-9f2c-5f3ab69a12d2
 
 Data Workbench lets you export files to integrate with Profiles and Audiences as part of an integrated Adobe Experience Cloud.
 
-<a id="section_731922BC8628479198A41EF3EA72F2FF"></a>
+<!-- <a id="section_731922BC8628479198A41EF3EA72F2FF"></a> -->
 
 Profiles and Audiences is part of the [Experience Cloud Identity Service](https://docs.adobe.com/content/help/en/id-service/using/home.html), a core service of the [!DNL Adobe Experience Cloud]. The MMP allows audiences to be shared across the Experience Cloud using a unique Experience Cloud ID (ECID) that is assigned to every visitor and then used by [Audience Manager](http://marketing.adobe.com/resources/help/en_US/em/). The [!DNL ExportIntegration.exe] application ( [!DNL E:\Server\Scripts]) is employed to generate both MMP and Adobe Target exports.
 

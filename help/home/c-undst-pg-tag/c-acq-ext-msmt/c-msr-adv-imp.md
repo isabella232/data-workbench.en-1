@@ -39,24 +39,24 @@ Click Here
 
 <table id="table_B87134C522EF4AC9BD2AFA6F4A0CF574"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Data Collected </th> 
    <th colname="col2" class="entry"> Explanation </th> 
    <th colname="col3" class="entry"> Example </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> v_c= </td> 
    <td colname="col2"> Value denoting the Click-through Campaign </td> 
    <td colname="col3"> v_c=”CAMPAIGN1” </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> v_ca= </td> 
    <td colname="col2"> Value denoting the Click-through Campaign Asset </td> 
    <td colname="col3"> v_ca=”72890ab” </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> v_cr= </td> 
    <td colname="col2"> Value denoting the Click-through Campaign Referrer </td> 
    <td colname="col3"> <p> <span class="filepath"> v_cr=”http://money.cnn.com/</span> </p> <p>markets/ </p> </td> 

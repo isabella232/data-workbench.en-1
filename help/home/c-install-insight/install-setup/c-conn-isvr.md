@@ -73,29 +73,29 @@ The following table lists the default locations of commonly accessed components.
   <b>Insight Default Locations </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Component </th> 
    <th colname="col2" class="entry"> Directory Location </th> 
   </tr>
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Saved visualizations </p> </td> 
    <td colname="col2"> <p><i>Insight</i>\User\<i>profile name</i>\Work\ </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Saved <span class="wintitle"> Workspaces</span> </p> </td> 
    <td colname="col2"> <p><i>Insight</i>\User\<i>profile name</i>\Workspaces\<i>tab name</i>\ </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Saved<span class="filepath"> .png</span> files </p> </td> 
    <td colname="col2"> <p><i>Insight</i>\User\<i>profile name</i>\Work\ </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Data cache </p> </td> 
    <td colname="col2"> <p><i>Insight</i>\User\Cache.db </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p><span class="filepath"> Insight.log</span> file </p> </td> 
    <td colname="col2"> <p><i>Insight</i>\Trace\ </p> </td> 
   </tr> 

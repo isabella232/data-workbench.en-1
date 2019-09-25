@@ -24,13 +24,13 @@ The following table lists the available built-in dimensions for data workbench:
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> None </td> 
    <td colname="col2"> Derived </td> 
    <td colname="col3"> N/A </td> 
    <td colname="col4">Has a single element “” which relates to all elements of all dimensions. Evaluating a metric over None is like evaluating it over no dimension. <p>The <span class="filepath"> Filter [None=“”]</span> is equivalent to <span class="filepath"> [True]</span>. </p></td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> One (Hidden) </td> 
    <td colname="col2"> Numeric </td> 
    <td colname="col3"> N/A </td> 

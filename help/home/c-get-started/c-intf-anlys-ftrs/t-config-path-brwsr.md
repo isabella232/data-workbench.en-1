@@ -38,25 +38,25 @@ Path browsers can be configured to work with any combination of base dimension, 
 
 <table id="table_1DCCB4B24B554B72A781B304B5EB155E"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> For this parameter... </th> 
    <th colname="col2" class="entry"> Provide this information... </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p><i>Base dimension name</i> </p> </td> 
    <td colname="col2"> <p>The name of the dimension whose elements appear on the path browser. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p><i>Group dimension name</i> </p> </td> 
    <td colname="col2"> <p>The name of the dimension that determines how the elements of the level dimension are grouped to form the paths in a path browser. Specifically, the level dimension elements associated with a single path in a path browser cannot span more than one element of a group dimension. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p><i>Level dimension name</i> </p> </td> 
    <td colname="col2"> <p>The name of the level (parent) of the base dimension whose elements you drag to the path browser. As you follow a path from one base dimension element to the next, you move from one level dimension element to the next. When you select a path of base dimension elements, you are selecting data for the corresponding elements of the level dimension. The selection always includes the elements of the level dimension that relate to the root, and it is refined by adding more elements to the path. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p><i>Metric name</i> </p> </td> 
    <td colname="col2"> <p>The name of the metric whose value for a given element is proportional to the thickness of the path leading to that element. </p> </td> 
   </tr> 

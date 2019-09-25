@@ -27,20 +27,20 @@ The following table describes the Tables parameter and all of the sub-parameters
   <b> <b> XMLDecoderGroup</b> </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Tables </td> 
    <td colname="col2"> <p>Each table in a decoder group represents one level of data to be extracted from the XML file. For example, if you want to extract data about visitors, then you would create a decoder table that consists of the information you want to extract for each visitor. You also can create decoder tables within decoder tables (see Children). </p> <p> <b>To add a table to a decoder group</b> 
      <ul id="ul_C73CAD77440B4465B9FCE08BF4FA0749"> 
       <li id="li_C4B8CC5A85D942898F1EB76778105818"> Right-click <span class="uicontrol"> Tables </span> and click <span class="uicontrol"> Add new </span> &gt; <span class="uicontrol"> XMLDecoderTable </span>. </li> 
      </ul> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Fields </td> 
    <td colname="col2"> <p>The extended fields (for example, x-trackingid, x-email) in which the data is stored. The data to be stored in the field is determined by the Path and/or Operation subfields. </p> <p> The Path is the field's level within the structured XML file. A field's path is relative to the path of the table in which it is defined. Examples include <span class="filepath"> tag.tag.tag </span> or <span class="filepath"> tag.tag.tag.@attribute </span>. Note that paths are case-sensitive. </p> <p> An Operation is applied to each line in the specified path to produce an output. The following operations are available: 
      <ul id="ul_B264A411D7E3446288E7E69D62150B8B"> 
@@ -53,7 +53,7 @@ The following table describes the Tables parameter and all of the sub-parameters
       <li id="li_5448B01EE82349569BBFC99C9604D7B8"> Right-click <span class="uicontrol"> Fields </span>, then click <span class="uicontrol"> Add new </span> &gt; <span class="uicontrol"> XMLDecoderField </span>. Define Field, Operation and Path as appropriate. </li> 
      </ul> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Path </td> 
    <td colname="col2"> <p>The level within the structured XML file for which the decoder table contains information. For a child XML decoder table, the path is relative to the parent table's path. Note that paths are case-sensitive. </p> <p> For example, if your XML file contains the structure: </p> <code> &lt;logdata&gt; 
       
@@ -69,11 +69,11 @@ The following table describes the Tables parameter and all of the sub-parameters
       
      &lt;/logdata&gt;&nbsp; </code> <p> then the path would be <span class="filepath"> logdata.visitor </span>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Table </td> 
    <td colname="col2"> <p>The value of this parameter should always be "Log Entry." </p> <p> <p>Note:  Do not change this value without consulting Adobe. </p> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Children </td> 
    <td colname="col2"> <p>Optional. One or more embedded decoder tables. Each child includes the Fields, Path, and Table parameters described above. </p> <p> <b>To add a child to a decoder table</b> </p> <p> 
      <ul id="ul_902AC6CA5D66457D84CBA3194FF49BBE"> 

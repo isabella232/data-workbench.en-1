@@ -18,24 +18,24 @@ Time dimensions are defined by the following parameters:
 
 <table id="table_9734F6CD7ABA4661A2F9A5FB948A7282"> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
    <th colname="col3" class="entry"> Default </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Name </td> 
    <td colname="col2"> Descriptive name of the dimension as it appears in data workbench. The dimension name cannot include a hyphen (-). </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Comments </td> 
    <td colname="col2"> Optional. Notes about the extended dimension. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Dimensions </td> 
    <td colname="col2"> <p>You can specify dimension names for any of the following periods: </p> <p> 
      <ul id="ul_EB0837DD66BE4004A615A6029EEF4CD5"> 
@@ -48,22 +48,22 @@ Time dimensions are defined by the following parameters:
      </ul> </p> <p> The names that you enter here are the names that appear in dimension menus and in visualizations in data workbench. If you leave the name of a time dimension blank, the dimension is not created in the dataset. </p> </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Hidden </td> 
    <td colname="col2"> Determines whether the dimension appears in the data workbench interface. By default, this parameter is set to false. If, for example, the dimension is to be used only as the basis of a metric, you can set this parameter to true to hide the dimension from the data workbench display. </td> 
    <td colname="col3"> true </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Input Time (1970 epoch) </td> 
    <td colname="col2"> <p>The name of the timestamp field to use as input. </p> <p> <p>Note:  The field's values must represent the number of seconds since January 1st, 1970, at 00:00:01. If the input time is not a valid time (1970 to 2037), the transformation process will fail, and the data workbench server will generate an error. </p> </p> </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Parent </td> 
    <td colname="col2"> The name of the parent dimension. Any countable dimension can be a parent dimension. For web data, the parent is Session. </td> 
    <td colname="col3"> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Week Start Day </td> 
    <td colname="col2"> <p>The day to use as the first day of a week. </p> <p> This parameter affects the Week dimension, the Day of Week dimension, and any reporting time dimensions defined in terms of weeks. </p> </td> 
    <td colname="col3"> Mon </td> 

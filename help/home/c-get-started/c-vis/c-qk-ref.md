@@ -31,18 +31,18 @@ Use these actions when performing tasks within the client user interface.
  </desc> 
  <thead> 
   <tr> 
-   <th colname="col1" align="center" class="entry"> Action </th> 
-   <th colname="col2" align="center" class="entry"> Result </th> 
+   <th colname="col1" class="entry"> Action </th> 
+   <th colname="col2" class="entry"> Result </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Click the Data Workbench logo in the upper left corner of the workspace </td> 
-   <td colname="col2" valign="middle"> <p>Saves your changes </p> </td> 
+   <td colname="col2"> <p>Saves your changes </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Ctrl + Delete </td> 
-   <td colname="col2" valign="middle"> Closes without saving your changes </td> 
+   <td colname="col2"> Closes without saving your changes </td> 
   </tr> 
  </tbody> 
 </table>
@@ -76,8 +76,8 @@ Use these shortcut keys for workspaces and configuration files.
  </desc> 
  <thead> 
   <tr> 
-   <th colname="col1" align="center" class="entry"> Action </th> 
-   <th colname="col2" align="center" class="entry"> Result </th> 
+   <th colname="col1" class="entry"> Action </th> 
+   <th colname="col2" class="entry"> Result </th> 
   </tr>
  </thead>
  <tbody> 
@@ -111,7 +111,7 @@ Use these shortcut keys for workspaces and configuration files.
   </tr>
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"><b>Full screen view</b>. Workspace fills the screen and refits to the new size. </td> 
    <td colname="col2"><b>Ctrl plus</b> <p>Ctrl + (on keypad) </p> <p><i>or</i> </p> <p>Ctrl Shift + (on keyboard) </p> </td> 
    <td colname="col3"> 
@@ -120,7 +120,7 @@ Use these shortcut keys for workspaces and configuration files.
      <li id="li_DE9B8B31B9F24A6AA68A1D0DB886B501">File &gt; Refit Workspace </li> 
     </ul> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"><b>Window view</b>. Workspace displays in a standard window view and refits to the new size. </td> 
    <td colname="col2"><b>Ctrl minus</b> <p>Ctrl - </p> </td> 
    <td colname="col3"> 
@@ -147,8 +147,8 @@ Use these shortcut keys for workspaces and configuration files.
  </desc> 
  <thead> 
   <tr> 
-   <th colname="col1" align="center" class="entry"> Action </th> 
-   <th colname="col2" align="center" class="entry"> Result </th> 
+   <th colname="col1" class="entry"> Action </th> 
+   <th colname="col2" class="entry"> Result </th> 
   </tr>
  </thead>
  <tbody> 

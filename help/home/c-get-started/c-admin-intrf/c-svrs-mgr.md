@@ -29,57 +29,57 @@ The following tables describe the information provided when you right-click a no
   <b>Data Workbench Servers Manager</b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Item </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Product </p> </td> 
    <td colname="col2"> <p>Product name, version, and build number. </p> <p>Example: Data Workbench 5.3 (00000001) </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Address </p> </td> 
    <td colname="col2"> <p>IP address of the Data Workbench computer. </p> <p>Example: 100.0.0.1 </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Configure </p> </td> 
    <td colname="col2"> <p>A link to your <span class="keyword"> Data Workbench’s </span> configuration file. Click <span class="uicontrol"> Configure </span> &gt; <span class="uicontrol"> Insight.cfg </span> to display the Data Workbench configuration window. Any changes that you make and save in this window are reflected in the <span class="filepath"> Insight.cfg </span> file in your Data Workbench installation directory. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Product </p> </td> 
    <td colname="col2"> <p>Product name, version, and build number. </p> <p>Example: Data Workbench server 5.3 (00000001) </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>CN </p> </td> 
    <td colname="col2"> <p>The common name of the Data Workbench server computer. </p> <p>Example: <span class="filepath"> myserver1.mycompany.com </span> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Address </p> </td> 
    <td colname="col2"> <p>IP address or fully qualified domain name of the server as configured in the Addresses file on the computer and the Network Location parameter in the <span class="filepath"> Insight.cfg </span> file. </p> <p>Example: 100.0.0.1 </p> <p>For information about the Addresses file, see the <i>Server Products Installation and Administration Guide</i>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Status </p> </td> 
    <td colname="col2"> <p>Current status of the Data Workbench server. This field displays OK when the Data Workbench server is running normally. If an error has occurred and the Data Workbench server node is red, the field displays the error (for example, “403 Forbidden”). </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Detailed Status </p> </td> 
    <td colname="col2"> <p>A link to the <span class="keyword"> Data Workbench server </span> <span class="wintitle"> Detailed Status </span> interface, which is useful for troubleshooting errors or other issues with the Data Workbench server. </p> <p>For more information, see <a href="../../../home/c-get-started/c-admin-intrf/c-det-stat-interf.md#concept-99c2c8374c17448db8a646f8d77bf72c" format="dita" scope="local"> The Detailed Status Interface </a>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Remote Desktop </p> </td> 
    <td colname="col2"> <p>Opens a <span class="wintitle"> Remote Desktop </span> session to the Data Workbench server computer. </p> <p>For more information, see <a href="../../../home/c-get-started/c-admin-intrf/t-rmt-dsktp-opt.md#task-dc0bdb4630474a17af67b931bc22d9ef" format="dita" scope="local"> The Remote Desktop Option </a>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Server Files </p> </td> 
    <td colname="col2"> <p>A link to the <span class="wintitle"> Server Files Manager </span>, which displays the directories and files in the Data Workbench server installation directory. </p> <p>For more information, see <a href="../../../home/c-get-started/c-admin-intrf/c-svr-files-mgr.md#concept-73a0808487c8424285ae7302f53bc5f4" format="dita" scope="local"> The Server Files Manager </a>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Server Monitor </p> </td> 
    <td colname="col2"> <p>A link to the <span class="wintitle"> Server Monitor </span> interface, which is useful for troubleshooting or tracking performance parameters. </p> <p>For more information, see <a href="../../../home/c-get-started/c-admin-intrf/c-svr-mtr-intfc.md#concept-3bea7441de20409585e63060d5489f45" format="dita" scope="local"> The Server Monitor Interface </a>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Related Servers </p> </td> 
    <td colname="col2"> <p>For Data Workbench server clusters only. </p> <p>A menu that lists the common names of the computers listed in the master <span class="filepath"> Data Workbench server’s *.address </span> file. This list usually includes all of the processing <span class="keyword"> Data Workbench servers </span> in the cluster. This menu appears only if Data Workbench has a copy of the master <span class="filepath"> Data Workbench server’s *.address </span> file. </p> <p>When you click <span class="uicontrol"> Related Servers </span>, you can click either: 
      <ul id="ul_3B28B8579B1945FD80669EDFDFDA84A6"> 
@@ -101,33 +101,33 @@ The following tables describe the information provided when you right-click a no
   <b> Sensor Servers Manager </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Item </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Product </p> </td> 
    <td colname="col2"> <p>Product name, version, and build number. </p> <p>Example: Sensor 3.76; J3.67 </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>ID </p> </td> 
    <td colname="col2"> The <span class="wintitle"> Sensor </span> ID specified in the <span class="wintitle"> Sensor </span> configuration file for this installation. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>IP </p> </td> 
    <td colname="col2"> <p>IP address of the web or application server on which <span class="wintitle"> Sensor </span> is installed. </p> <p>Example: 100.0.0.1 </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>PID </p> </td> 
    <td colname="col2"> <p>Process ID assigned by the operating system. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>SSL </p> </td> 
    <td colname="col2"> <p>Whether <span class="wintitle"> Sensor </span> and the Data Workbench server communicate using SSL. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> <p>Time </p> </td> 
    <td colname="col2"> <p>Time (HH:MM:SS) that the <span class="wintitle"> Sensor </span> last established a connection with the Data Workbench server. </p> </td> 
   </tr> 

@@ -66,13 +66,13 @@ For [!DNL Sensor] files, the following parameters are available:
   <b>Log Processing.cfg: <span class="wintitle"> Sensor</span> Files </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Log Paths </td> 
    <td colname="col2"> <p>The directories where the <span class="filepath"> .vsl</span> files are stored. The default location is the Logs directory. A relative path refers to the installation directory of the data workbench server. </p> <p>You can use wildcard characters to specify which <span class="filepath"> .vsl</span> files to process: 
      <ul id="ul_AE144ED0FAB94FE8B32599A058659DE1"> 
@@ -80,19 +80,19 @@ For [!DNL Sensor] files, the following parameters are available:
       <li id="li_4664400FC12E44B39B28438B85D20ED8"> ? matches a single character </li> 
      </ul> </p> <p> For example, the log path <span class="filepath"> Logs\*.vsl</span> matches any file in the Logs directory ending in <span class="filepath"> .vsl</span>. The log path <span class="filepath"> Logs\*-SENSOR?.vsl</span> matches files in the Logs directory with any date (YYYYMMDD) and a single character after SENSOR, as in SENSOR1. </p> <p> If you want to search all subdirectories of the specified path, you must set the Recursive parameter to true. </p> <p> <p>Note: If the files are to be read from a data workbench server's <span class="wintitle"> File Server Unit</span>, then you must enter the appropriate URI(s) in the Log Paths parameter. For example, the <span class="filepath"> URI /Logs/*-*.vsl</span> matches any <span class="filepath"> .vsl</span> file in the Logs directory. See <a href="../../../home/c-dataset-const-proc/c-log-proc-config-file/c-ins-svr-file-svr-unit.md#concept-995abff3fce34e439fb3f7f47191c80d" format="dita" scope="local"> Configuring an Insight Server File Server Unit</a>. </p> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Log Server </td> 
    <td colname="col2">Information (Address, Name, Port, and so on) necessary to connect to a file server. If there is an entry in the Log Server parameter, the <span class="wintitle"> Log Paths</span> are interpreted as URIs. Otherwise, they are interpreted as local paths. See <a href="../../../home/c-dataset-const-proc/c-log-proc-config-file/c-ins-svr-file-svr-unit.md#concept-995abff3fce34e439fb3f7f47191c80d" format="dita" scope="local"> Configuring an Insight Server File Server Unit</a>. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Log Source ID </td> 
    <td colname="col2"> <p>This parameter's value can be any string. If a value is specified, this parameter enables you to differentiate log entries from different log sources for source identification or targeted processing. The x-log-source-id field is populated with a value identifying the log source for each log entry. For example, if you want to identify log entries from a <span class="wintitle"> Sensor</span> named VSensor01, you could type <span class="filepath"> from VSensor01</span>, and that string would be passed to the x-log-source-id field for every log entry from that source. </p> <p> For information about the x-log-source-id field, see <a href="../../../home/c-dataset-const-proc/c-ev-data-rec-fields.md#concept-06bda4be1a4649a2905a4422e9e6c42f" format="dita" scope="local"> Event Data Record Fields</a>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Recursive </td> 
    <td colname="col2"> True or false. If set to true, all subdirectories of each path specified in <span class="wintitle"> Log Paths</span> are searched for files matching the specified file name or wildcard pattern. The default value is false. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Use Start/End Times </td> 
    <td colname="col2"> <p>True or false. If set to true and Start Time or End Time is specified, then all files for this log source must have file names starting with dates in ISO format (YYYYMMDD). It is assumed that each file contains data for one GMT day (for example, the time range starting at 0000 GMT on one day and ending at 0000 GMT the following day). If the log sources files contain data that do not correspond to a GMT day, then this parameter must be set to false to avoid incorrect results. </p> <p> <p>Note: By default, <span class="filepath"> .vsl </span>files containing data collected by <span class="wintitle"> Sensor</span> automatically meet the naming and time range requirements described above. If you set this parameter to true, the data workbench server always processes data from files whose names include ISO dates that fall between the specified Start Time and End Time. If you set this parameter to false, the data workbench server reads all of the <span class="filepath"> .vsl</span> files during log processing to determine which files contain data within the Start Time and End Time range. </p> </p> <p> For information about the Start Time and End Time parameters, see <a href="../../../home/c-dataset-const-proc/c-log-proc-config-file/c-info-log-proc-param.md#concept-41bd49bf6b64442d91c232ec67529a3d" format="dita" scope="local"> Data Filters</a>. </p> </td> 
   </tr> 
@@ -139,17 +139,17 @@ For log files log sources, the parameters in the following table are available.
   <b>Log Processing.cfg: Log Files </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Name </td> 
    <td colname="col2"> The identifier for the log file source. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Log Paths </td> 
    <td colname="col2"> <p>The directories where the log files are stored. The default location is the Logs directory. A relative path refers to the installation directory of the data workbench server. </p> <p> You can use wildcard characters to specify which log files to process: 
      <ul id="ul_1F02D26A08D846E2A3114E5C33F60ECF"> 
@@ -157,35 +157,35 @@ For log files log sources, the parameters in the following table are available.
       <li id="li_24FDB500C5934CAAA4124C435DF4B290"> ? matches a single character. </li> 
      </ul> </p> <p> For example, the log path <span class="filepath"> Logs\*.log</span> matches any file in the Logs directory ending in <span class="filepath"> .log</span>. </p> <p> If you want to search all subdirectories of the specified path, then you must set the Recursive parameter to true. </p> <p> If the files are to be read from a data workbench server's <span class="wintitle"> File Server Unit</span>, then you must enter the appropriate URI(s) in the Log Paths parameter. For example, the <span class="filepath"> URI/Logs/*.log</span> matches any <span class="filepath"> .log</span> file in the Logs directory. See <a href="../../../home/c-dataset-const-proc/c-log-proc-config-file/c-ins-svr-file-svr-unit.md#concept-995abff3fce34e439fb3f7f47191c80d" format="dita" scope="local"> Configuring an Insight Server File Server Unit</a>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Log Server </td> 
    <td colname="col2"> Information (Address, Name, Port, and so on) necessary to connect to a file server. If there is an entry in the Log Server parameter, the <span class="wintitle"> Log Paths</span> are interpreted as URIs. Otherwise, they are interpreted as local paths. See <a href="../../../home/c-dataset-const-proc/c-log-proc-config-file/c-ins-svr-file-svr-unit.md#concept-995abff3fce34e439fb3f7f47191c80d" format="dita" scope="local"> Configuring an Insight Server File Server Unit</a>. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Compressed </td> 
    <td colname="col2"> True or false. This value should be set to true if the log files to be read by the data workbench server are compressed gzip files. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Decoder Group </td> 
    <td colname="col2"> The name of the text file decoder group to be applied to the log file log source. This name must match exactly the name of the corresponding text file decoder group specified in the <span class="wintitle"> Log Processing Dataset Include</span> file. See <a href="../../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-log-proc-dataset-inc-files/c-text-file-dec-groups.md#concept-0db34988e17c41bfb1797f1d8e78aabd" format="dita" scope="local"> Text File Decoder Groups</a>. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Log Source ID </td> 
    <td colname="col2"> <p>This parameter's value can be any string. If a value is specified, this parameter enables you to differentiate log entries from different log sources for source identification or targeted processing. The x-log-source-id field is populated with a value identifying the log source for each log entry. For example, if you want to identify log entries from a log file source named LogFile01, you could type <span class="filepath"> from LogFile01</span>, and that string would be passed to the x-log-source-id field for every log entry from that source. </p> <p> For information about the x-log-source-id field, see <a href="../../../home/c-dataset-const-proc/c-ev-data-rec-fields.md#concept-06bda4be1a4649a2905a4422e9e6c42f" format="dita" scope="local"> Event Data Record Fields</a>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Mask Pattern </td> 
    <td colname="col2"> <p>A regular expression with a single capturing subpattern that extracts a consistent name used to identify the source of a series of log files. Only the file name is considered. The path and extension are not considered for the regular expression matching. If you do not specify a <span class="wintitle"> mask pattern</span>, then a mask is generated automatically. </p> <p> For the files <span class="filepath"> Logs\010105server1.log</span> and <span class="filepath"> Logs\010105server2.log</span>, the <span class="wintitle"> mask pattern</span> would be [0-9]{6}(.*). This pattern extracts the string "server1" or "server2" from the file names above. </p> <p> See <a href="../../../home/c-dataset-const-proc/c-reg-exp.md#concept-070077baa419475094ef0469e92c5b9c" format="dita" scope="local"> Regular Expressions</a>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Recursive </td> 
    <td colname="col2"> True or false. If this parameter is set to true, all subdirectories of each path specified in <span class="wintitle"> Log Paths</span> are searched for files matching the specified file name or wildcard pattern. The default value is false. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Reject File </td> 
    <td colname="col2"> The path and file name of the file containing the log entries that do not meet the conditions of the decoder. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Use Start/End Times </td> 
    <td colname="col2"> <p>True or false. If this parameter is set to true and Start Time or End Time is specified, then all files for this log source must have file names starting with dates in ISO format (YYYYMMDD). It is assumed that each file contains data for one GMT day (for example, the time range starting at 0000 GMT on one day and ending at 0000 GMT the following day). If the log sources file names do not begin with ISO dates, or if the files contain data that do not correspond to a GMT day, then this parameter must be set to false to avoid incorrect results. </p> <p> <p>Note:  If the naming and time range requirements described above are satisfied for the log files and you set this parameter to true, the specified text file decoder group limits the files read to those whose names have ISO dates that fall between the specified Start Time and End Time. If you set this parameter to false, the data workbench server reads all of the log files during log processing to determine which files contain data within the Start Time and End Time range. </p> </p> <p> For information about the Start Time and End Time parameters, see <a href="../../../home/c-dataset-const-proc/c-log-proc-config-file/c-info-log-proc-param.md#concept-41bd49bf6b64442d91c232ec67529a3d" format="dita" scope="local"> Data Filters</a>. </p> </td> 
   </tr> 
@@ -240,17 +240,17 @@ For XML log sources, the parameters in the following table are available.
   <b> <b> Log Processing.cfg: XML Log Sources</b> </b> 
  </desc> 
  <thead> 
-  <tr valign="top"> 
+  <tr> 
    <th colname="col1" class="entry"> Field </th> 
    <th colname="col2" class="entry"> Description </th> 
   </tr> 
  </thead>
  <tbody> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Name </td> 
    <td colname="col2"> The identifier for the XML log source. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Log Paths </td> 
    <td colname="col2"> <p>The directories where the XML log sources are stored. The default location is the Logs directory. A relative path refers to the installation directory of the data workbench server. </p> <p> You can use wildcard characters to specify which XML log sources to process: 
      <ul id="ul_0AE5D0ADE0F64CFAA856492A49239F58"> 
@@ -258,35 +258,35 @@ For XML log sources, the parameters in the following table are available.
       <li id="li_81B597436A1241FF94E73C18A0ABBFA1"> ? matches a single character </li> 
      </ul> </p> <p>For example, the log path <span class="filepath"> Logs\*.xml</span> matches any file in the Logs directory ending in <span class="filepath"> .xml</span>. </p> <p> If you want to search all subdirectories of the specified path, you must set the <span class="wintitle"> Recursive</span> field to true. </p> <p> <p>Note: If the files are to be read from a data workbench server's <span class="wintitle"> File Server Unit</span>, you must enter the appropriate URI(s) in the <span class="wintitle"> Log Paths</span> field. For example, the <span class="filepath"> URI/Logs/*.xml</span> matches any <span class="filepath"> .xml</span> file in the Logs directory. See <a href="../../../home/c-dataset-const-proc/c-log-proc-config-file/c-ins-svr-file-svr-unit.md#concept-995abff3fce34e439fb3f7f47191c80d" format="dita" scope="local"> Configuring an Insight Server File Server Unit</a>. </p> </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Log Server </td> 
    <td colname="col2"> Information (Address, Name, Port, and so on) necessary to connect to a file server. If there is an entry in the <span class="wintitle"> Log Server</span> field, the <span class="wintitle"> Log Paths</span> are interpreted as URIs. Otherwise, they are interpreted as local paths. See <a href="../../../home/c-dataset-const-proc/c-log-proc-config-file/c-ins-svr-file-svr-unit.md#concept-995abff3fce34e439fb3f7f47191c80d" format="dita" scope="local"> Configuring an Insight Server File Server Unit</a>. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Compressed </td> 
    <td colname="col2"> True or false. This value should be set to true if the XML log sources to be read by the data workbench server are compressed gzip files. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Decoder Group </td> 
    <td colname="col2"> The name of the XML decoder group to be applied to the XML log source. This name must match exactly the name of the corresponding XML decoder group specified in the <span class="wintitle"> Log Processing Dataset Include</span> file. See <a href="../../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-log-proc-dataset-inc-files/c-xml-dec-grps.md#concept-5eda5ab253724674832f6951e2a0d1c3" format="dita" scope="local"> XML Decoder Groups</a>. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Log Source ID </td> 
    <td colname="col2"> <p>This field's value can be any string. If a value is specified, this field enables you to differentiate log entries from different log sources for source identification or targeted processing. The x-log-source-id field is populated with a value identifying the log source for each log entry. For example, if you want to identify log entries from a log file source named XMLFile01, you could type <span class="filepath"> from XMLFile01</span>, and that string would be passed to the x-log-source-id field for every log entry from that source. </p> <p> For information about the x-log-source-id field, see <a href="../../../home/c-dataset-const-proc/c-ev-data-rec-fields.md#concept-06bda4be1a4649a2905a4422e9e6c42f" format="dita" scope="local"> Event Data Record Fields</a>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Mask Pattern </td> 
    <td colname="col2"> <p>A regular expression with a single capturing subpattern that extracts a consistent name used to identify the source of a series of log files. Only the file name is considered. The path and extension are not considered for the regular expression matching. If you do not specify a <span class="wintitle"> mask pattern</span>, then a mask is generated automatically. </p> <p> For the files <span class="filepath"> Logs\010105server1.xml</span> and <span class="filepath"> Logs\010105server2.xml</span>, the mask pattern would be [0-9]{6}(.*). This pattern extracts the string "server1" or "server2" from the file names above. </p> <p> See <a href="../../../home/c-dataset-const-proc/c-reg-exp.md#concept-070077baa419475094ef0469e92c5b9c" format="dita" scope="local"> Regular Expressions</a>. </p> </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Recursive </td> 
    <td colname="col2"> True or false. If this parameter is set to true, all subdirectories of each path specified in <span class="wintitle"> Log Paths</span> are searched for files matching the specified file name or wildcard pattern. The default value is false. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Reject File </td> 
    <td colname="col2"> The path and file name of the file containing the log entries that do not meet the conditions of the decoder. </td> 
   </tr> 
-  <tr valign="top"> 
+  <tr> 
    <td colname="col1"> Use Start/End Times </td> 
    <td colname="col2"> <p>True or false. If this parameter is set to true and Start Time or End Time is specified, then all files for this log source must have file names starting with dates in ISO format (YYYYMMDD). It is assumed that each file contains data for one GMT day (for example, the time range starting at 0000 GMT on one day and ending at 0000 GMT the following day). If the log sources file names do not begin with ISO dates, or if the files contain data that do not correspond to a GMT day, then this parameter must be set to false to avoid incorrect results. </p> <p> <p>Note:  If the naming and time range requirements described above are satisfied for the XML files and you set this parameter to true, the specified XML decoder group limits the files read to those whose names have ISO dates that fall between the specified Start Time and End Time. If you set this parameter to false, the data workbench server reads all of the XML files during log processing to determine which files contain data within the Start Time and End Time range. </p> </p> <p> For information about the Start Time and End Time parameters, see <a href="../../../home/c-dataset-const-proc/c-log-proc-config-file/c-info-log-proc-param.md#concept-41bd49bf6b64442d91c232ec67529a3d" format="dita" scope="local"> Data Filters</a>. </p> </td> 
   </tr> 
@@ -303,7 +303,7 @@ AVRO-log-file.xml
 
 The Avro data feed provides a more efficient way to integrate data into Data Workbench:
 
-<a id="section_45E3105B971C4220AE9CF573BEBF6080"></a>
+<!-- <a id="section_45E3105B971C4220AE9CF573BEBF6080"></a> -->
 
 * Avro provides a single-source format for traffic and commerce data. 
 * The Avro feed is compressed data of multiple source chunks provided per day. It provisions only populated fields and provides monitoring and notification features, access to historical data, and auto-recovery. 
