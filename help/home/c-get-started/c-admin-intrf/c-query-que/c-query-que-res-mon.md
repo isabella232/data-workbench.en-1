@@ -15,9 +15,6 @@ The resource monitor vector contains the Memory Budget Monitor and the Number of
  The following table describes the resource monitor fields used for query queuing.
 
 <table id="table_9991EED2647A460FACA2DC80D4973A8E"> 
- <desc>
-   Resource Monitors Parameters Table 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Field </th> 

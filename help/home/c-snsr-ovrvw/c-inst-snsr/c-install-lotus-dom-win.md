@@ -108,7 +108,7 @@ The configuration file contains required parameters and optional parameters.
 
 **To edit the Sensor configuration file**
 
-* Open the <Sensor directory>/txlogd.conf file in a text editor and set the required parameters as well as any desired optional parameters. 
+* Open the `<Sensor directory>/txlogd.conf` file in a text editor and set the required parameters as well as any desired optional parameters. 
 * Save and close the file.
 
 ## Start the Transmitter and Create the Disk Queue {#section-55630de65f264274aefd771da2002852}

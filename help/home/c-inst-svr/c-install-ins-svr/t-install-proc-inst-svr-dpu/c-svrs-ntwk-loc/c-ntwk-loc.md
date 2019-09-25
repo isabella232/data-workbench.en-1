@@ -30,9 +30,6 @@ In the address file, a network location is defined in a structure called a Netwo
 As shown in the example above, the NetworkLocation structure consists of three main parameters:
 
 <table id="table_9142A0EFA15E4C37975E7ACE234F6FDD"> 
- <desc> 
-  <b>NetworkLocation Parameters</b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 

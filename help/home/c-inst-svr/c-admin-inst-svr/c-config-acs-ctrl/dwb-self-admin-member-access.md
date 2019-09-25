@@ -10,7 +10,7 @@ uuid: c31128f9-1094-4337-9bf6-96401278df33
 
 Administrators can give workstation users the partial ability to manage access control for custom groups.
 
-**Self-administration of group member access** gives rights to non-administrators to add and delete members in a custom group. The administrator creates a **User List** file and sets up group access in the ** [ [!DNL Access Control.cfg] ](https://marketing.adobe.com/resources/help/en_US/insight/svrprod/?f=c_config_acs_ctrl)** file for the new group members.
+**Self-administration of group member access** gives rights to non-administrators to add and delete members in a custom group. The administrator creates a **User List** file and sets up group access in the **[Access Control.cfg](https://marketing.adobe.com/resources/help/en_US/insight/svrprod/?f=c_config_acs_ctrl)** file for the new group members.
 
 **Accessing the Servers Manager**
 
@@ -21,7 +21,7 @@ Setting up the ** [!DNL User List]** file and synching it with the ** [!DNL Comm
 1. Open the **Servers Manager** workspace. 
 1. Right-click >*your server name*> in the diagram and select **Files**.
 
-   The server files will open in a table with columns *File*, *<server name>*, and *Temp*. 
+   The server files will open in a table with columns *File*, *`<server name>`*, and *Temp*. 
 
 1. **Make Local** by right-clicking in the server column of a server file (for this feature ** [!DNL Access Control]** and ** [!DNL Components/Communications.cfg)]**.
 
@@ -33,11 +33,11 @@ The administrator needs to create a ** [!DNL User List.cfg]** file in the ** [!D
 
 1. Right-click** Access Control** row in the **Temp** column and select **Open** > **Folder**. ![](assets/6_4_workstation_groups_3.png)
 
-   The Access Control folder in the **Temp** folder will open listing a single ** [!DNL Access Control.cfg]** file.
+   The Access Control folder in the **Temp** folder will open listing a single **[!DNL Access Control.cfg]** file.
 
-1. Add another text file to this folder and name it ** [!DNL User List.cfg]** (next to the ** [!DNL Access Control.cfg]**). 
+1. Add another text file to this folder and name it **[!DNL User List.cfg]** (next to the **[!DNL Access Control.cfg]**). 
 
-1. Add the following parameters to the ** [!DNL User List.cfg] **file.
+1. Add the following parameters to the **[!DNL User List.cfg]** file.
 
 The User List file should contain a vector of **AccessGroup** objects, and each **AccessGroup** object should have a name and a vector of strings called **Members**.
 
@@ -96,7 +96,7 @@ An administrator first enables this feature by opening the ** [!DNL Components] 
    component = CommServer:  
      Access Control File = Path: Access Control\\Access Control.cfg 
      Access Control User List File =  
-<b>string</b>: Access Control\\User List.cfg
+    <string>: Access Control\\User List.cfg
    ```
 
    After:
@@ -105,18 +105,18 @@ An administrator first enables this feature by opening the ** [!DNL Components] 
    component = CommServer:  
      Access Control File = Path: Access Control\\Access Control.cfg 
      Access Control User List File =  
-<b>Path</b>: Access Control\\User List.cfg
+    <Path>: Access Control\\User List.cfg
    ```
 
-1. Save the ** [!DNL Communications.cfg] **file and (if necessary) save it to the server. This will restart components in the server to make sure you haven't made any mistakes that could prevent the ** [!DNL Communications.cfg] **file from being parsed. 
-1. If your system includes processing servers, modify the configuration file in the ** [!DNL Components for Processing Servers.cfg] **file. 
-1. Right-click ** [!DNL Communications.cfg]** and save to server.
+1. Save the **[!DNL Communications.cfg]** file and (if necessary) save it to the server. This will restart components in the server to make sure you haven't made any mistakes that could prevent the ** [!DNL Communications.cfg]** file from being parsed. 
+1. If your system includes processing servers, modify the configuration file in the **[!DNL Components for Processing Servers.cfg]** file. 
+1. Right-click **[!DNL Communications.cfg]** and save to server.
 
 The Data Workbench administrator can now confirm that the intended user(s) have access to the user list file and allow the users to manage the group. The user(s) will be able to open the User List file, edit it, and add and remove CN or OU members as needed.
 
 ## Synch up the Access Control.cfg file {#section-ca6da453dfb4432bb40b86ef15ede872}
 
-The administrator can then edit the ** [!DNL Access Control.cfg]** and insert references to the group(s) defined by the *User List* file.
+The administrator can then edit the **[!DNL Access Control.cfg]** and insert references to the group(s) defined by the *User List* file.
 
 The references to the group(s) should be inserted just like any other member, but with the following syntax:
 
@@ -126,4 +126,4 @@ $(Group Name)
 
 Where "Group Name" matches what's defined in the user list file, including white spaces. ![](assets/6_4_workstation_groups_2.png)
 
-At this point the Data Workbench administrator can confirm that select group users have access to the user list file. The select users can then open the ** [!DNL User List.cfg]** file, edit it, and add and remove CN or OU members as needed. 
+At this point the Data Workbench administrator can confirm that select group users have access to the user list file. The select users can then open the **[!DNL User List.cfg]** file, edit it, and add and remove CN or OU members as needed. 

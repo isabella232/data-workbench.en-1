@@ -62,9 +62,6 @@ where YYYYMMDD is the date of the file, and *SENSORID* is the name (assigned by 
 For [!DNL Sensor] files, the following parameters are available:
 
 <table id="table_F583B475600041AFA3B9399AE0592146"> 
- <desc> 
-  <b>Log Processing.cfg: <span class="wintitle"> Sensor</span> Files </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
@@ -135,9 +132,6 @@ For log files log sources, the parameters in the following table are available.
 >The processing of log file log sources requires additional parameters that are defined in a [!DNL Log Processing Dataset Include] file, which contains a subset of the parameters included in a [!DNL Log Processing.cfg] file as well as special parameters for defining decoders for extracting data from the log file. For information about defining decoders for log file log sources, see [Text File Decoder Groups](../../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-log-proc-dataset-inc-files/c-text-file-dec-groups.md#concept-0db34988e17c41bfb1797f1d8e78aabd).
 
 <table id="table_F33735B5B90A48B0B21FA02D9198CCA9"> 
- <desc> 
-  <b>Log Processing.cfg: Log Files </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
@@ -236,9 +230,6 @@ For XML log sources, the parameters in the following table are available.
 >The processing of XML log sources requires additional parameters that are defined in a [!DNL Log Processing Dataset Include] file, which contains a subset of the parameters included in a [!DNL Log Processing.cfg] file as well as special parameters for defining decoders for extracting data from the XML file. For information about defining decoders for XML log sources, see [XML Decoder Groups](../../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-log-proc-dataset-inc-files/c-xml-dec-grps.md#concept-5eda5ab253724674832f6951e2a0d1c3).
 
 <table id="table_86B849F379CF4FEBA9294ACEF8F55184"> 
- <desc> 
-  <b> <b> Log Processing.cfg: XML Log Sources</b> </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Field </th> 

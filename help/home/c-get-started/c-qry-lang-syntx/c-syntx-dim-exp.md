@@ -19,9 +19,6 @@ Dimension expressions are never used alone, but can be used anywhere a dimension
 1. The form [A,B) represents a range of numbers, from A up to but not including B.
 
 <table id="table_2D9AE1E2397843C284E838330370A1EE"> 
- <desc> 
-  <b>Syntax for Dimension Expressions</b> 
- </desc> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Identifier </p> </td> 

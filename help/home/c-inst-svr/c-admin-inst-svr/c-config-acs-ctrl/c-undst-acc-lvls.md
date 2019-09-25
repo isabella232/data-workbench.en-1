@@ -27,9 +27,6 @@ Access levels describe which URIs on the machine a group of users is permitted t
 The URIs in the pre-defined access control groups have been configured as follows: 
 
 <table id="table_8E6FDD741BF24E2DAD96A2919FAE6C7F"> 
- <desc> 
-  <b>Access Control Group URIs </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Group Name </th> 

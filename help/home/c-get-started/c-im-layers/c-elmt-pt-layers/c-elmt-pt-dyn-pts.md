@@ -41,9 +41,6 @@ Layer = ElementPointLayer:
 ```
 
 <table id="table_8756BDCC49F447C0855BA64BC0078A0C"> 
- <desc> 
-  <b>Element point layer parameters: dynamic points </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 

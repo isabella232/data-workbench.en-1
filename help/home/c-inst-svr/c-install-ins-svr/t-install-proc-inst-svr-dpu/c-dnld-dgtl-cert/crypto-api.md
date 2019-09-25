@@ -10,11 +10,11 @@ uuid: a8021295-375a-460b-8686-acf3bc43cd17
 
 The Windows Certificate Store fallows you to store the client's certificate and private key in the Windows Certificate Store for SSL communication with servers.
 
-The Windows Certificate Store for the Client is a new feature that allows you to store the SSL communication certificate and private key in the Windows Certificate Store rather than in [!DNL Insight/Certificates/<CertName>.pem] file. Using the Windows Certificate Store may be preferable if you use the certificate store for other applications and wish to do certificate management in one place, or for users that enjoy the additional Windows audit logging that the Windows Certificate store provides.
+The Windows Certificate Store for the Client is a new feature that allows you to store the SSL communication certificate and private key in the Windows Certificate Store rather than in `Insight/Certificates/<CertName>.pem` file. Using the Windows Certificate Store may be preferable if you use the certificate store for other applications and wish to do certificate management in one place, or for users that enjoy the additional Windows audit logging that the Windows Certificate store provides.
 
 >[!NOTE]
 >
->Licensing with the license server is still maintained using the existing [!DNL <Common Name>.pem] file, and that the certificate obtained from the certificate store will only be used for communication to the servers that you specify.
+>Licensing with the license server is still maintained using the existing `<Common Name>.pem` file, and that the certificate obtained from the certificate store will only be used for communication to the servers that you specify.
 
 ## Prerequisites {#section-69b18600052145ff8e5299b7123e69c5}
 
@@ -38,17 +38,14 @@ In [Using Custom Certificates](../../../../../home/c-inst-svr/c-install-ins-svr/
 </filepath>>\Certificates\
 ```
 
-The certificate's name is [!DNL <Common Name>.pem] (such as [!DNL Analytics Server 1.pem](not the [!DNL trust_ca_cert.pem] file.)
+The certificate's name is `<Common Name>.pem` (such as [!DNL Analytics Server 1.pem](not the [!DNL trust_ca_cert.pem] file.)
 
 Before the certificate and private key can be imported, they must be converted from . [!DNL pem] format to a [!DNL .pfx] format, such as [!DNL pkcs12.pfx] ).
 
 1. Open a command prompt or terminal and navigate to the directory: 
 
    ```
-   <CommonName>.pem c: cd \< 
-<filepath>
-  DWB Install folder 
-</filepath>>\Certificates
+   <CommonName>.pem c: cd \<DWB Install folder \Certificates
    ```
 
 1. Run [!DNL openssl] with the following arguments (with the actual [!DNL .pem] file name): 
@@ -70,11 +67,11 @@ Before the certificate and private key can be imported, they must be converted f
 
    ![](assets/6_5_crypto_api_4.png)
 
-1. Click **Browse** and select the [!DNL <CommonName>.pfx] file you created previously. You will have to change the file extension dropdown box from an X.509 Certificate to either **Personal Information Exchange** or to **All Files** in order to see it.
+1. Click **Browse** and select the `<CommonName>.pfx` file you created previously. You will have to change the file extension dropdown box from an X.509 Certificate to either **Personal Information Exchange** or to **All Files** in order to see it.
 
    Select the file and click **Open**, and then **Next**. 
 
-1. Do not enter a password, and make sure that only the options **Mark this key as exportable** and** Include all extended properties** are selected.
+1. Do not enter a password, and make sure that only the options **Mark this key as exportable** and **Include all extended properties** are selected.
 
    ![](assets/6_5_crypto_api_3.png)
 
@@ -127,4 +124,3 @@ ERROR Fatal error: the cert could not be found!
 >[!NOTE]
 >
 >The L4 logging framework can be enabled by setting up the [!DNL L4.cfg] file (see your account manager to set this up).
-

@@ -28,9 +28,6 @@ To specify a LatLonProjection for images with embedded projection information, y
 1. Edit the Projection Info parameters using the following parameters table as a guide:
 
 <table id="table_32F6EADB2DA34592ABD6FFAC9E00BB27"> 
- <desc>
-  <b>LatLonProjection Parameters </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
@@ -104,9 +101,6 @@ To specify a UTM projection for any terrain image source, you must open the [!DN
    ```
 
 <table id="table_71AEEAE808B9436B9846987A54D5D1D2"> 
- <desc>
-  <b>TransverseMercatorProjection Parameters </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 

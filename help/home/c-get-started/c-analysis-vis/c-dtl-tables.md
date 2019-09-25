@@ -19,9 +19,6 @@ Detail tables enable you to view additional information about a subset of data, 
 The following table describes the elements of a detail table.
 
 <table id="table_C88C7F7F5AEA4820B908923E45CC0A62"> 
- <desc> 
-  <b>Detail Table Elements </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Element </th> 

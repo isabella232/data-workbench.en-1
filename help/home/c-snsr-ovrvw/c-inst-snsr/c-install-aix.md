@@ -164,7 +164,7 @@ To add the collector to your web app, open the web.xml file for the web server w
 If Sensor is capturing data for multiple web servers on the server computer, you must perform the following procedure for each web server.
 
 1. Using a text editor, open the httpd.conf file for the web server whose events Sensor captures. 
-1. Add the following <filter> and <filter-mapping> elements to the descriptor file. If you did not install txlogd.conf in the /etc directory, you need to enter the correct path to this file in the <param-value> element. 
+1. Add the following `<filter>` and `<filter-mapping>` elements to the descriptor file. If you did not install txlogd.conf in the /etc directory, you need to enter the correct path to this file in the `<param-value>` element. 
 
    ```
    <filter> 

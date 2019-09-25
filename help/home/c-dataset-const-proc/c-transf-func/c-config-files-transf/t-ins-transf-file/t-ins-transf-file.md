@@ -28,9 +28,6 @@ If the data that you want to export is processed by a data workbench server clus
 1. Edit the parameters in the configuration file using the table below as a guide:
 
   <table id="table_91D9C4C1BE2E43158D9D06C6284EE3C7"> 
-  <desc> 
-    <b> Data Workbench Transform.cfg </b> 
-  </desc> 
   <thead> 
     <tr> 
     <th colname="col1" class="entry"> Parameter </th> 
@@ -42,17 +39,17 @@ If the data that you want to export is processed by a data workbench server clus
     <td colname="col1"> End Time </td> 
     <td colname="col2"> <p>Optional. Filter data to include log entries with timestamps up to, but not including, this time. Adobe recommends using one of the following formats for the time: 
       <ul id="ul_C8C7F0F631594F7095CB83EF54E7CD0E"> 
-        <li id="li_77AB6EEE8EEC4698AA886DE8BB0E2783"> January 1 2013HH:MM:SS EDT </li> 
-        <li id="li_33806070F991476BB986906876CAF7F1"> Jan 1 2013 HH:MM:SS GMT </li> 
+       <li id="li_77AB6EEE8EEC4698AA886DE8BB0E2783"> January 1 2013HH:MM:SS EDT </li> 
+       <li id="li_33806070F991476BB986906876CAF7F1"> Jan 1 2013 HH:MM:SS GMT </li> 
       </ul> </p> <p> For example, specifying July 29 2013 00:00:00 EDT as the <span class="wintitle"> End Time </span> includes data through July 28, 2013, at 11:59:59 PM EDT. </p> <p> You must specify a time zone. The time zone does not default to GMT if not specified. For a list of time zone abbreviations supported by the data workbench server, see <a href="../../../../../home/c-dataset-const-proc/c-time-zone.md#concept-9b540ec3e770490d94e9d5a985765477"> Time Zone Codes </a>. </p> <p> The Use Start/End Times parameter for Sensor and log file sources is related to this parameter. </p> </td> 
     </tr> 
     <tr> 
     <td colname="col1"> Exporters </td> 
     <td colname="col2"> <p>The subfields of an exporter specify how the output data is processed and/or formatted. You can define multiple exporters for a set of log sources. Each exporter type creates output independently. </p> <p> Three types of exporters exist: 
       <ul id="ul_C3C39F6DF3DC4F4CA2161EDB69599642"> 
-        <li id="li_635FB271D0544D52B1C31740442D2E08"> ExportTextFile </li> 
-        <li id="li_D496194848B44823A58890E03FFDD18E"> ExportDelimitedTextFile </li> 
-        <li id="li_AEE9AA87076141FC91330D3FCFAB2101"> ExportVSLFile </li> 
+       <li id="li_635FB271D0544D52B1C31740442D2E08"> ExportTextFile </li> 
+       <li id="li_D496194848B44823A58890E03FFDD18E"> ExportDelimitedTextFile </li> 
+       <li id="li_AEE9AA87076141FC91330D3FCFAB2101"> ExportVSLFile </li> 
       </ul> </p> <p> For more information about exporter types, see <a href="../../../../../home/c-dataset-const-proc/c-transf-func/c-config-files-transf/t-ins-transf-file/t-def-exp.md#task-900c40d1914347f288587bf0ca394ff2"> Defining Exporters </a>. </p> </td> 
     </tr> 
     <tr> 
@@ -79,8 +76,8 @@ If the data that you want to export is processed by a data workbench server clus
     <td colname="col1"> Stages </td> 
     <td colname="col2"> <p>Optional. The names of the processing stages that can be used in <span class="wintitle"> Log Processing Dataset Include </span> files that are executed in addition to the data workbench <span class="filepath"> Transform.cfg </span> file. Processing stages provide a way to order the transformations that are defined in <span class="wintitle"> Log Processing Dataset Include </span> files. This parameter is very helpful if you have defined one or more transformations within multiple <span class="wintitle"> Log Processing Dataset Include </span> files and you want specific transformations to be performed at specific points during the export process. </p> <p> The order in which you list the stages here determines the order in which the transformations in the <span class="wintitle"> Log Processing Dataset Include </span> files are executed during data export. <span class="wintitle"> Preprocessing </span> and <span class="wintitle"> Postprocessing </span> are built-in stages; <span class="wintitle"> Preprocessing </span> is always the first stage, and <span class="wintitle"> Postprocessing </span> is always the last stage. By default, there is one named stage called <span class="wintitle"> Default </span>. </p> <p> <b>To add a new processing stage</b> </p> 
       <ul id="ul_869C52DD30E443A496DC6363C3FC62B5"> 
-      <li id="li_6493B2A335A8497C9A1BC6292C88CA81"> In the data workbench <span class="filepath"> Transform.cfg </span> window, right-click <span class="uicontrol"> Stages </span>, then click <span class="uicontrol"> Add New </span> &gt; <span class="uicontrol"> Stage </span>. </li> 
-      <li id="li_EE25E50CEB53450EA6465B08B0AE5442"> Enter a name for the new stage. </li> 
+       <li id="li_6493B2A335A8497C9A1BC6292C88CA81"> In the data workbench <span class="filepath"> Transform.cfg </span> window, right-click <span class="uicontrol"> Stages </span>, then click <span class="uicontrol"> Add New </span> &gt; <span class="uicontrol"> Stage </span>. </li> 
+       <li id="li_EE25E50CEB53450EA6465B08B0AE5442"> Enter a name for the new stage. </li> 
       </ul> <p> <b>To delete an existing processing stage</b> </p> 
       <ul id="ul_4950BC26E0CD4837A4CB377605A52D3C"> 
       <li id="li_A61E2C17966E4F96A1256B8390623B0F"> Right-click the number corresponding to the stage that you want to delete and click <span class="uicontrol"> Remove </span><i>&lt; <span class="uicontrol"> #stage_number </span>&gt;</i>. </li> 
@@ -90,18 +87,18 @@ If the data that you want to export is processed by a data workbench server clus
     <td colname="col1"> Start Time </td> 
     <td colname="col2"> <p>Optional. Filter data to include log entries with timestamps at or after this time. Adobe recommends using one of the following formats for the time: </p> 
       <ul id="ul_8F9B82A8AE7F45BE8C7949D2E96C7BEC"> 
-      <li id="li_8F7BCFF251CB4F1B87DDA1A259FA9C7B"> January 1 2013 HH:MM:SS EDT </li> 
-      <li id="li_4BCE317EE1914074B3642687CFED5FC2"> Jan 1 2013 HH:MM:SS GMT </li> 
+       <li id="li_8F7BCFF251CB4F1B87DDA1A259FA9C7B"> January 1 2013 HH:MM:SS EDT </li> 
+       <li id="li_4BCE317EE1914074B3642687CFED5FC2"> Jan 1 2013 HH:MM:SS GMT </li> 
       </ul> <p> For example, specifying July 29 2013 00:00:00 EDT as the Start Time includes data starting from July 29, 2013, at 12:00:00 AM EDT. </p> <p> You must specify a time zone. The time zone does not default to GMT if not specified. For a list of time zone abbreviations supported by the data workbench server, see <a href="../../../../../home/c-dataset-const-proc/c-time-zone.md#concept-9b540ec3e770490d94e9d5a985765477"> Time Zone Codes </a>. </p> <p> <p>Note:  The Use Start/End Times parameter for Sensor and log file sources is related to this parameter. </p> </p> </td> 
     </tr> 
     <tr> 
     <td colname="col1"> Transformations </td> 
     <td colname="col2"> <p>Optional. Defines the transformations that are to be applied to the data. For information about the available transformation types, see <a href="../../../../../home/c-dataset-const-proc/c-data-trans/c-data-trans.md#concept-99c6f5e6e5194adb9e98afdc0e91cf38"> Data Transformations </a>. </p> <p> <p>Note:  The following transformation types do not work when defined in the data workbench <span class="filepath"> Transform.cfg </span> file: </p> </p> 
       <ul id="ul_B091DFBD1C33471BBC01AEC7E92FC8CC"> 
-      <li id="li_660EBECFC407488199CCCC886326806D"> AppendURI </li> 
-      <li id="li_56BCEBE4A2D044AE87F5B747C6501817"> CrossRows </li> 
-      <li id="li_B23B4E81B37942DCA55FEC1A6239C5FA"> ODBCLookup </li> 
-      <li id="li_EF0AFF13C40D4AB49EAB4EF1691F8FA4"> Sessionize </li> 
+       <li id="li_660EBECFC407488199CCCC886326806D"> AppendURI </li> 
+       <li id="li_56BCEBE4A2D044AE87F5B747C6501817"> CrossRows </li> 
+       <li id="li_B23B4E81B37942DCA55FEC1A6239C5FA"> ODBCLookup </li> 
+       <li id="li_EF0AFF13C40D4AB49EAB4EF1691F8FA4"> Sessionize </li> 
       </ul> </td> 
     </tr> 
   </tbody> 
@@ -119,7 +116,7 @@ If the data that you want to export is processed by a data workbench server clus
    See [Data Transformations](../../../../../home/c-dataset-const-proc/c-data-trans/c-data-trans.md#concept-99c6f5e6e5194adb9e98afdc0e91cf38) for descriptions and examples of the transformations that you can use with transformation functionality. 
 
 1. Right-click **[!UICONTROL (modified)]** at the top of the window, then click **[!UICONTROL Save]**.
-1. To make the locally made changes take effect, in the [!DNL Profile Manager], right-click the check mark for data workbench [!DNL Transform.cfg] in the [!DNL User] column, then click **[!UICONTROL Save to]** > *< **[!UICONTROL profile name]**>*, where profile name is the name of the profile for which you are exporting data. Reprocessing of the data begins after synchronization of the profile.
+1. To make the locally made changes take effect, in the [!DNL Profile Manager], right-click the check mark for data workbench [!DNL Transform.cfg] in the [!DNL User] column, then click **[!UICONTROL Save to]** >  **[!UICONTROL profile name]**, where profile name is the name of the profile for which you are exporting data. Reprocessing of the data begins after synchronization of the profile.
 
    >[!NOTE]
    >

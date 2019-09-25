@@ -25,9 +25,6 @@ You can name a [!DNL Transformation Dataset Include] file anything you want, but
 The following table describes the parameters that are available in a [!DNL Transformation Dataset Include] file:
 
 <table id="table_7BD343888D9145BCBA889B531A4D18F8"> 
- <desc> 
-  <b> <b> <span class="wintitle"> Transformation Dataset Include</span> File Parameters </b> </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 

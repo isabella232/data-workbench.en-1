@@ -34,9 +34,6 @@ If a single dataset is limited by the capacity or speed of a single DPU, you can
 To achieve the best performance from your DPU investment, Adobe recommends the following high-performance components described in the following table:
 
 <table id="table_DA0A60CFBA7D4EF98B5ED5A3D8D6777B"> 
- <desc> 
-  <b> <span class="keyword"> Server </span> DPU Requirements </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> </th> 

@@ -40,7 +40,7 @@ The Propensity Scoring Visualization includes these features accessible from its
 |  Options  |Set the Training Filter to limit the subset of visitors. The default filter is **[!UICONTROL Train on Everyone]**, but you can change it by making workspace selections or building a filter using the **[!UICONTROL Filter Editor]**.  |
 |  Set Target  | Set the Dependent Variable.  |
 |  Metric  | Add Metrics as Independent Variables.  |
-|  Elements  | Drag Dimension elements using the <Ctrl> + <Alt> keys from Dimension tables.  |
+|  Elements  | Drag Dimension elements using the `<Ctrl>` + `<Alt>` keys from Dimension tables.  |
 
 **See also**:
 

@@ -12,9 +12,6 @@ uuid: 187f4199-ec7f-4d5a-93eb-64a62d51ec7b
 Information about the required Sensor txlogd.conf parameters.
 
 <table id="table_69CFE10A3707403F9793137B128E706A"> 
- <desc> 
-  <b>Required Txlogd.conf Parameters </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> In this Parameter... </th> 

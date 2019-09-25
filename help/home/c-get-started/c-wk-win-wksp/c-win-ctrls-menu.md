@@ -19,9 +19,6 @@ Right-click the top border of the window.
 These menu options vary by window type. The table in the following procedure contains descriptions of the basic menu items available for most types of windows. Additional options available for particular types of windows are addressed in their respective sections in this guide.
 
 <table id="table_13ADF7B7E50E44D890768A5F9BAC8D06"> 
- <desc> 
-  <b>Window Controls</b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Menu Option </th> 
@@ -77,4 +74,3 @@ These menu options vary by window type. The table in the following procedure con
   </tr> 
  </tbody> 
 </table>
-

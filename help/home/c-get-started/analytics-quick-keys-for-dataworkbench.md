@@ -59,9 +59,6 @@ Imports a workspace
 <!-- <a id="section_0597BF92E1AF4BCF9F1C8CEFFE52649A"></a> -->
 
 <table id="table_B774FDAD85AD443897F0F9BC3EC843C7"> 
- <desc>
-  <b>General keyboard shortcuts for text</b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Action </th> 
@@ -89,9 +86,6 @@ Imports a workspace
 </table>
 
 <table id="table_BFCDE46CE5F64AF291A67EC488EF92A1"> 
- <desc>
-  <b>Keyboard shortcuts within a workspace</b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Action </th> 
@@ -127,9 +121,6 @@ Imports a workspace
 </table>
 
 <table id="table_99414A5999F94A2EAB2BBBA27EE487F5"> 
- <desc>
-  <b>Keyboard shortcuts within an open configuration (.cfg) file</b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Action </th> 
@@ -147,4 +138,3 @@ Imports a workspace
   </tr> 
  </tbody> 
 </table>
-

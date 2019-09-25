@@ -27,9 +27,6 @@ This section discusses the following topics:
 The following table lists the dimension types and the colors in which their names appear in the [!DNL Dataset Schema] interface. Parents for the sample dimensions (from the example above) are noted as well.
 
 <table id="table_20D1A9EAAED247338476C475C63255F5"> 
- <desc> 
-  <b> <span class="wintitle"> Dataset Schema</span> Interface </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Dimension Type </th> 

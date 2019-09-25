@@ -142,10 +142,10 @@ For WebSphere servers, the collector operates as a filter in the servlet contain
 To add the collector to the web application, add the filter to the web application’s web.xml deployment descriptor and restart the web application.
 
 1. Using a text editor, open the web.xml file for the web server whose events Sensor captures. 
-1. Add the following <filter> and <filter-mapping> elements to the descriptor file. If you did not install txlogd.conf in the /etc directory, you need to enter the correct path to this file in the <param-value> element.
+1. Add the following `<filter>` and `<filter-mapping>` elements to the descriptor file. If you did not install txlogd.conf in the /etc directory, you need to enter the correct path to this file in the `<param-value>` element.
 
    ```
-   <filter> 
+   <filter>
      <filter-name>VSCollectorFilter</filter-name> 
      <description></description> 
      <filter-class> 
@@ -158,7 +158,7 @@ To add the collector to the web application, add the filter to the web applicati
      </init-param> 
    </filter> 
     
-   <filter-mapping> 
+   <filter-mapping>
      <filter-name>VSCollectorFilter</filter-name> 
      <url-pattern>/*</url-pattern> 
    </filter-mapping>

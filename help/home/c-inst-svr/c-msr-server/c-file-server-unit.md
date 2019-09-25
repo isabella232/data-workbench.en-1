@@ -24,19 +24,22 @@ The server's File Serving Unit (FSU) is the main data storage and management com
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Operating System, CPU, RAM </p> </td> 
-   <td colspan="2"> <p>These requirements are the same as those of the DPU. However, for the FSU, Adobe recommends using the minimum requirements rather than following the recommendations. </p> </td> 
+   <td colname="col2"> <p>These requirements are the same as those of the DPU. However, for the FSU, Adobe recommends using the minimum requirements rather than following the recommendations. </p> </td> 
+   <td colname="col3"> </td>
   </tr> 
   <tr> 
    <td colname="col1"> <p>Disk System </p> <p>The FSU requires highly-available, redundant storage for large volumes of data. Adobe will work with you to determine your exact requirements. </p> </td> 
-   <td colspan="2"> <p>Adobe recommends: </p> 
+   <td colname="col1"> <p>Adobe recommends: </p> 
     <ul id="ul_FFEEE5052FFD4876BA9A6476DD096539"> 
      <li id="li_F98750D509D640C68885D53FC691ED43">(12 or more) * (750GB or greater) SATA HDDs in a RAID 5/6 configuration. </li> 
      <li id="li_3F84F63F9541476987015C27FDE8251B">High-performance SAN connection supporting 100MB/s+ sustained bandwidth. </li> 
     </ul> <p>As the FSU holds the raw source data, any loss would be unrecoverable, and Adobe suggests backing up this data on a regular basis. </p> </td> 
+   <td colname="col2"> </td>
   </tr> 
   <tr> 
    <td colname="col1"> <p>Network Performance </p> </td> 
-   <td colspan="2"> <p>Adobe requires switched-gigabit Ethernet connections between FSUs and DPUs working together. </p> </td> 
+   <td colname="col2"> <p>Adobe requires switched-gigabit Ethernet connections between FSUs and DPUs working together. </p> </td> 
+   <td colname="col3"> </td>
   </tr> 
  </tbody> 
 </table>

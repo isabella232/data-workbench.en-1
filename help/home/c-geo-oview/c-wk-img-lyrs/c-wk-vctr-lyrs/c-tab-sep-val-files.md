@@ -52,9 +52,6 @@ Layer = VectorLayer:
 ```
 
 <table id="table_152F73536AB9403AB43854B81D6A9A15"> 
- <desc> 
-  <b>Vector layer parameters: .vec files </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 

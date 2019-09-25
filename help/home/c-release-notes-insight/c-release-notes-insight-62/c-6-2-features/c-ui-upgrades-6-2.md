@@ -84,7 +84,7 @@ A new **[!UICONTROL Help]** icon is added to access the documentation and other 
 
 >[!NOTE]
 >
->You can also press <F1> to open the documentation from a workspace.
+>You can also press `<F1>` to open the documentation from a workspace.
 
 ## Drag Workspace Views {#section-9129c340c21d45a3864c923884cd4382}
 

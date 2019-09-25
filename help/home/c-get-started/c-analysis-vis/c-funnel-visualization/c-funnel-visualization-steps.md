@@ -26,7 +26,7 @@ Follow these steps to build a new funnel visualization
 
    ![](assets/step2-funnel.png)
 
-1. Add a dimension by selecting the element, then drag while then holding **[!UICONTROL <Ctrl>]** + **[!UICONTROL <Alt>]**. 
+1. Add a dimension by selecting the element, then drag while then holding **[!UICONTROL `<Ctrl>`]** + **[!UICONTROL `<Alt>`]**. 
 
 1. Drag the element into position over the target zone, **[!UICONTROL Drag Dimension Element Here]**.
 

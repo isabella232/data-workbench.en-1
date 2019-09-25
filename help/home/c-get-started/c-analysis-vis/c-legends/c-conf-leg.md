@@ -21,9 +21,6 @@ The following confidence legend displays confidence details about the Conversion
 ![](assets/lgd_ConfidenceLegend.png)
 
 <table id="table_387F22C7EF4E4DE9AD810D3D9204676F"> 
- <desc> 
-  <b>Confidence Legend Fields </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Field </th> 

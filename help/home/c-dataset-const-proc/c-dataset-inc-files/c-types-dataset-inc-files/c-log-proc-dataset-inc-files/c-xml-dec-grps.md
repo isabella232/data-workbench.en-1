@@ -23,9 +23,6 @@ The top level of an XML decoder is a decoder group (XMLDecoderGroup), which is a
 The following table describes the Tables parameter and all of the sub-parameters that you must specify to define an XML decoder group.
 
 <table id="table_06C40C5149E94548A1B0C2ED4397624B"> 
- <desc> 
-  <b> <b> XMLDecoderGroup</b> </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
@@ -129,9 +126,9 @@ You can create a table like the one above in data workbench by using a field vie
 
 You can now use the ** [!DNL #value]** tag in XML paths to pull the value of an XML element.
 
-For example, previously specifying a path of **<Hit><Page name="Home Page" index="20">home.html</Page></Hit>** left you unable to read the value of the [!DNL <Page>] tag. To read the value of a [!DNL <Page>] tag and its attributes, you can use [!DNL Hit.Page.@name] and [!DNL Hit.Page.@index] respectively. You can also pull the value of the tag using ** [!DNL Hit.Page.#value]** expression.
+For example, previously specifying a path of **`<Hit><Page name="Home Page" index="20">home.html</Page></Hit>`** left you unable to read the value of the `<Page>` tag. To read the value of a `<Page>` tag and its attributes, you can use [!DNL Hit.Page.@name] and [!DNL Hit.Page.@index] respectively. You can also pull the value of the tag using **`Hit.Page.#value`** expression.
 
-For example, you can read the value of tag [!DNL <varValue>] by adding following field in decoder:
+For example, you can read the value of tag `<varValue>` by adding following field in decoder:
 
 ```
 7 = XMLDecoderField: 
@@ -143,7 +140,7 @@ Path = string: varValue
 Table = string: Log Entry
 ```
 
-Similarly, you can read the value of tag [!DNL <Rep>] by adding following field in decoder:
+Similarly, you can read the value of tag `<Rep>` by adding following field in decoder:
 
 ```
 7 = XMLDecoderField: 
@@ -155,7 +152,7 @@ Path = string: Reps
 Table = string: Log Entry
 ```
 
-In contrast, to read the value of element tag with no attribute, a [!DNL <text>] tag under a [!DNL <line>] tag and its value can be read directly by giving " [!DNL text]" in a path or using [!DNL line.text], depending on how you have built the decoder.
+In contrast, to read the value of element tag with no attribute, a `<text>` tag under a `<line>` tag and its value can be read directly by giving " [!DNL text]" in a path or using [!DNL line.text], depending on how you have built the decoder.
 
 ```
 2 = XMLDecoderField: 

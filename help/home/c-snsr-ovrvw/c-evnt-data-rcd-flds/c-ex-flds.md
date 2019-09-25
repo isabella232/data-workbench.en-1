@@ -39,9 +39,6 @@ SpecialLogField cs(log field) = serverVariable stage
 The following table includes descriptions of the components of a “SpecialLogField” entry.
 
 <table id="table_053D5F34D56E4B15A85CA3B4FAD6E1B1"> 
- <desc> 
-  <b>SpecialLogField Entries </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Component </th> 

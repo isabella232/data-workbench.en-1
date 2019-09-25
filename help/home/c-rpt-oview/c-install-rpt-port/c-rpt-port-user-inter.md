@@ -46,7 +46,7 @@ To specify the tabs that you want [!DNL Report Portal] to display, you must conf
 **To edit the TopNavigation.xml file**
 
 1. On the machine where IIS is running, open the [!DNL TopNavigation.xml] file in a text editor such as Notepad. 
-1. Edit the list of [!DNL <TopNav>] elements so that it defines the names and order of the report sets whose output you want [!DNL Report Portal] to display, as in the following example: 
+1. Edit the list of `<TopNav>` elements so that it defines the names and order of the report sets whose output you want [!DNL Report Portal] to display, as in the following example: 
 
    ```
    <?xml version="1.0" encoding="UTF-8" standalone="no" ?>

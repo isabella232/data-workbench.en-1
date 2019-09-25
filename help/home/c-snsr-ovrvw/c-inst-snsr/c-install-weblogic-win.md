@@ -140,7 +140,7 @@ For JBoss servers, the collector operates as a filter in the servlet container.
 To add the collector to your web server, you must edit the [!DNL web.xml] file as described below and restart your web application.
 
 1. Using a text editor, open the [!DNL web.xml] file for the web server whose events Sensor captures. 
-1. Add the following <filter> and <filter-mapping> elements to the descriptor file. If you did not install txlogd.conf in the /etc directory, you need to enter the correct path to this file in the <param-value> element: 
+1. Add the following `<filter>` and `<filter-mapping>` elements to the descriptor file. If you did not install txlogd.conf in the /etc directory, you need to enter the correct path to this file in the `<param-value>` element: 
 
    ```
    <filter> 

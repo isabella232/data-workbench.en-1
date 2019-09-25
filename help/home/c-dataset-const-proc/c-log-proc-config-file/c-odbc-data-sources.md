@@ -48,9 +48,6 @@ After installing the database client software on the appropriate data workbench 
 For data from databases using the Open Database Connectivity (ODBC) standard, the following parameters are available: 
 
 <table id="table_606D8A90DA4A43C29F2C6130F8C753F8"> 
- <desc> 
-  <b>Log Processing.cfg: ODBC Data Sources </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 

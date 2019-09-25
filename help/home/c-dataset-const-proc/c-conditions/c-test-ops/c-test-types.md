@@ -15,9 +15,6 @@ The Compare condition and Range condition require that you specify the type of c
  The following table describes the available types ( [!DNL LEXICAL], [!DNL NUMERIC], and [!DNL DATETIME]).
 
 <table id="table_1B3AD8BDF0414D0AB8EE0E6D1B53E2CE"> 
- <desc> 
-  <b>Test Types for Test Operations</b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Test Type </th> 

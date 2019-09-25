@@ -41,7 +41,7 @@ Follow these steps to use the Propensity Scoring visualization.
 
 * **Metrics**. From the Propensity Scoring toolbar, select a metric from the **[!UICONTROL Metrics]** menu. 
 
-* **Dimension elements**: Right-click in the workspace and select **[!UICONTROL Table]**. Select one or more Dimension elements and drag to the left column under **[!UICONTROL Independent Variables]** or to the **[!UICONTROL Element]** box using the <Ctrl> + <Alt> keys.
+* **Dimension elements**: Right-click in the workspace and select **[!UICONTROL Table]**. Select one or more Dimension elements and drag to the left column under **[!UICONTROL Independent Variables]** or to the **[!UICONTROL Element]** box using the `<Ctrl>` + `<Alt>` keys.
 
 1. Set **[!UICONTROL Training Filter]**. You can define the set of visitors that you want to score by clicking **[!UICONTROL Options]** > **[!UICONTROL Set Training Filter]** from the Propensity Scoring toolbar. This will provide a subset of data built using only the visitors that you want to score. For example, who visited in the last month, visitors who reside in Australia, or visitors who viewed specific products.
 

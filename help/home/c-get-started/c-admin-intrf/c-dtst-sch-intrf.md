@@ -25,9 +25,6 @@ The Dataset Schema interface displays the extended dimensions (countable, simple
 The following table lists the dimension types and the colors in which their names appear in the [!DNL Dataset Schema] interface. Parents for the sample dimensions (from the example above) are noted as well.
 
 <table id="table_CF888522626E49A4A10D87085CAB5CC1"> 
- <desc> 
-  <b> <span class="wintitle"> Dataset Schema</span> Interface </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Dimension Type </th> 

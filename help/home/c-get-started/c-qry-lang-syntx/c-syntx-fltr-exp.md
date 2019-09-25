@@ -19,9 +19,6 @@ Filters can be edited using the [!DNL Filter Editor]. See [Filter Editors](../..
 In the following table, each syntax description includes an example of a metric expression using that filter. For example, Sessions[True] is a metric defined using the “True” filter. The Sessions[True] metric is the same as the Sessions metric because the True filter admits every element of the Session dimension.
 
 <table id="table_5D66E6C11B384460BAAA7A6130214594"> 
- <desc> 
-  <b>Syntax for filter expressions</b> 
- </desc> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>True </p> </td> 

@@ -17,7 +17,7 @@ For additional information on setting up FTP servers, see [File Transfer Protoco
 ## Validation Steps - External FTP {#section-24428111b5c542ce81a765cd63424b97}
 
 1. Open a Command Prompt. (Windows+R and type cmd) 
-1. Type ftp <ftp server> 
+1. Type ftp `<ftp server>` 
 1. Provide user name and password. ![](assets/dwb_impl_ftp1.png)
 
 1. Change local directory from where some file can be moved. Use this command:

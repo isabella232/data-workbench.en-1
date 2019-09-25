@@ -62,9 +62,6 @@ When specifying remote data sources for a dataset, you must specify the type of 
 1. Complete the Log Server parameters defined in the following table:
 
 <table id="table_5881B8DEFF984BC7A620CEEA3A637912"> 
- <desc> 
-  <b> <b> Log Server Parameters</b> </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 

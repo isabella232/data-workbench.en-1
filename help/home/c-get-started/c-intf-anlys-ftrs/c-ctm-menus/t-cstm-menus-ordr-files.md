@@ -62,7 +62,7 @@ The steps in this section apply to all types of menus.
     </tr> 
     <tr> 
     <td colname="col1"> <p>Add a group header </p> </td> 
-    <td colname="col2"> <p>Type three hyphens before and after the heading text that you want to appear. </p> <p>For example, the following would result in a Manage group header for a set of related menu items. </p> <p>---Manage--- </p> <p>Profile </p> <p>Dataset </p> <p style="text-align: center;"> <img id="image_DB5BB8A33553499A9FC6B53C544CD4CC" src="assets/cfg_ordertxt_example.png"> </img> </p> </td> 
+    <td colname="col2"> <p>Type three hyphens before and after the heading text that you want to appear. </p> <p>For example, the following would result in a Manage group header for a set of related menu items. </p> <p>---Manage--- </p> <p>Profile </p> <p>Dataset </p> <p> <img id="image_DB5BB8A33553499A9FC6B53C544CD4CC" src="assets/cfg_ordertxt_example.png"> </img> </p> </td> 
     </tr> 
     <tr> 
     <td colname="col1"> <p>Add a line to separate sections of a menu </p> </td> 

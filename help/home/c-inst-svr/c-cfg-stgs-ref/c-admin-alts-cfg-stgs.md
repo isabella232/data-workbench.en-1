@@ -16,9 +16,6 @@ Complete the parameters in the following file:
 [!DNL Product Name installation directory\Components\Administrative Alerts.cfg]
 
 <table id="table_5A2298906D5F4215B8FAC42CACBC0002"> 
- <desc> 
-  <b>Administrative Alert Configuration Settings </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 

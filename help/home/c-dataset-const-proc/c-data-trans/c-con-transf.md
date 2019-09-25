@@ -13,9 +13,6 @@ uuid: 91dddca6-4c17-4107-b78b-0f8b8870ef8d
 Table showing what conventions apply when constructing transformations.
 
 <table id="table_BEB0F6C416D144B5A2DD3D1A21613B21"> 
- <desc> 
-  <b> <b> Transformation Conventions</b> </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Convention </th> 

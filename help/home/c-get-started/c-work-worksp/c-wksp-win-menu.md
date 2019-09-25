@@ -23,9 +23,6 @@ Right click in the workspace window (anywhere in the background of your workspac
 The following table contains descriptions of each menu item.
 
 <table id="table_00C0D3E6098E473E8D3B66F48FB635B3"> 
- <desc> 
-  <b>Workspace Window menu </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Menu Option </th> 
@@ -35,7 +32,7 @@ The following table contains descriptions of each menu item.
  <tbody> 
   <tr> 
    <td colname="col1"> Table </td> 
-   <td colname="col2"> Adds a table to your workspace based on the selected dimension. See <a href="../../../home/c-get-started/c-vis/c-vis.md#concept-f6c7728d5aaa4304bbf2e4dfaed48739"> Working with Visualizations </a> and <a href="../../../home/c-get-started/c-analysis-vis/c-tables/c-tables.md#concept-c632cb8ad9724f90ac5c294d52ae667f"> Tables </a>. </td> 
+   <td colname="col2"> Adds a table to your workspace based on the selected dimension. See <a href="../../../home/c-get-started/c-vis/c-vis.md#concept-f6c7728d5aaa4304bbf2e4dfaed48739"> Working with Visualizations</a> and <a href="../../../home/c-get-started/c-analysis-vis/c-tables/c-tables.md#concept-c632cb8ad9724f90ac5c294d52ae667f"> Tables </a>. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Visualization </td> 
@@ -72,4 +69,3 @@ The following table contains descriptions of each menu item.
   </tr> 
  </tbody> 
 </table>
-
