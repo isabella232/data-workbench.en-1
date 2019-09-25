@@ -38,14 +38,14 @@ From a **Detail Table** (right-click **[!UICONTROL Tools]** > **[!UICONTROL Deta
   <tr> 
    <td colname="col1"><b>Attribute Type</b> </td> 
    <td colname="col2"> <p>This parameter accepts values of (<i>int</i>, <i>string</i>). </p> <p>Note: If an attribute is <b>not</b> subscribed to in Analytics: <p> 
-      <ul id="ul_B77BF6FDA3FB4F1BBF9380C2FD938270"> 
-       <li id="li_3D099456AF6B4103B227D841C81AB936">The attribute will be created with any valid attribute type supported by Analytics (for this release it is limited to only <i>string</i> and <i>int</i>). </li> 
-       <li id="li_EA1DBDB2E6BE49278C6CD6A5503EDC8A">If an invalid attribute type is entered, then you will receive an error stating a failure to subscribe to Analytics. </li> 
-      </ul> </p> <p>If an attribute is <b>already</b> subscribed to in Analytics: </p> <p> 
-      <ul id="ul_16415B639F1C49A5AE9932C128184171"> 
-       <li id="li_83C90D44FE5C4D979DEA786660C7F3EC">Make sure to enter the right attribute type for the already subscribed to attribute. </li> 
-       <li id="li_02C5024E335C4C59B4F7B0084232CC24">If you enter the wrong type for the attribute, then its behavior will be dependent on Analytics' handling of attribute types. </li> 
-      </ul> </p> </p> </td> 
+    <ul id="ul_B77BF6FDA3FB4F1BBF9380C2FD938270"> 
+    <li id="li_3D099456AF6B4103B227D841C81AB936">The attribute will be created with any valid attribute type supported by Analytics (for this release it is limited to only <i>string</i> and <i>int</i>). </li> 
+    <li id="li_EA1DBDB2E6BE49278C6CD6A5503EDC8A">If an invalid attribute type is entered, then you will receive an error stating a failure to subscribe to Analytics. </li> 
+    </ul> </p> <p>If an attribute is <b>already</b> subscribed to in Analytics: </p> <p> 
+    <ul id="ul_16415B639F1C49A5AE9932C128184171"> 
+    <li id="li_83C90D44FE5C4D979DEA786660C7F3EC">Make sure to enter the right attribute type for the already subscribed to attribute. </li> 
+    <li id="li_02C5024E335C4C59B4F7B0084232CC24">If you enter the wrong type for the attribute, then its behavior will be dependent on Analytics' handling of attribute types. </li> 
+    </ul> </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p><b>Field Name</b> </p> </td> 
@@ -70,10 +70,8 @@ From a **Detail Table** (right-click **[!UICONTROL Tools]** > **[!UICONTROL Deta
 
 1. Enter ECID Field parameter.
 
-   | **ECID field** |Name of the dimension in your profile that represents the Adobe Experience Cloud ID. This is a mandatory field and any invalid dimension value entered will not export.  |
-   |---|---|
+   **ECID field**: Name of the dimension in your profile that represents the Adobe Experience Cloud ID. This is a mandatory field and any invalid dimension value entered will not export.
 
 1. (optional) Complete the Visitor ID Field parameter.
 
-   | **Visitor ID Field** | If the user wishes to send any other custom ID for a visitor in his/her data, this is where they enter the name of the dimension which represents the custom visitor id. This is an optional field an can be left empty.  |
-   |---|---|
+   **Visitor ID Field**: If the user wishes to send any other custom ID for a visitor in his/her data, this is where they enter the name of the dimension which represents the custom visitor id. This is an optional field an can be left empty.

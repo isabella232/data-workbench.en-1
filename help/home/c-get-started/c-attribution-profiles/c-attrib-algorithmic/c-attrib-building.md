@@ -133,7 +133,8 @@ The **Options** menu provides advanced features to set up and display Best Fit A
    <td colname="col2"> Hides the top menu bar for presentation. </td> 
   </tr> 
   <tr> 
-   <td colspan="2"> <p><b>Options &gt; Advanced</b> includes features to set the training set size and specify the approach to take in the case of a class imbalance. </p> </td> 
+   <td colname="col1"> <p><b>Options &gt; Advanced</b> includes features to set the training set size and specify the approach to take in the case of a class imbalance. </p> </td> 
+   <td colname="col2"> </td> 
   </tr> 
   <tr> 
    <td colname="col1"><span class="uicontrol"> Advanced &gt; Training Set Size </span> </td> 

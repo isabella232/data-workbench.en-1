@@ -94,7 +94,7 @@ It is also recommended that client upgrade their server clusters with fresh inst
 
 Upgrade Server cluster
 
-**Prepare the language file (.zbin file). **The Insight administrator selects the <language>.zbin file for the required language (for example: en-us.zbin , zh-cn.zbin) located in the [!DNL base/localization/<langauge>.zbin] folder. The administrator then copies the language file and renames it to "insight.zbin".
+**Prepare the language file (.zbin file).** The Insight administrator selects the `<language>.zbin` file for the required language (for example: en-us.zbin , zh-cn.zbin) located in the `/localization/<langauge>.zbin` folder. The administrator then copies the language file and renames it to "insight.zbin".
 
 After preparing the language file (.zbin), both the Insight Client and Report Server need to be updated. The Insight Client is updated during the [client upgrade process](../../../home/c-release-notes-insight/c-release-notes-insight.md#section-f316103b48374b6eac77e8feb5c47ecf), but in most cases the Insight administrator will update the Report Server.
 
@@ -255,5 +255,5 @@ To use the new SiteCatalyst data feed:
 
 ## Fixes {#section-203f917dd6224114a1f801309c4c2cee}
 
-* Now, the key combination to leave a workspace without saving changes has been updated to **[!UICONTROL <Ctrl> + <Backspace>]**. Previously, you voided changes and closed a workspace by pressing <Ctrl> + <Delete>.
+* Now, the key combination to leave a workspace without saving changes has been updated to **[!UICONTROL `<Ctrl>` + <Backspace>]**. Previously, you voided changes and closed a workspace by pressing `<Ctrl>` + <Delete>.
 

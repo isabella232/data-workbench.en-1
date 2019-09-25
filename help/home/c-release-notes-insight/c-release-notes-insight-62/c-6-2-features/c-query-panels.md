@@ -66,8 +66,8 @@ The **Finder** includes the following features:
    <td colname="col1"><b>Search</b> </td> 
    <td colname="col2">A <span class="uicontrol"> Search</span> box in the Finder panels lets you filter names for Dimensions, Metrics, and Filters. 
     <ul id="ul_0F6F377E9906472E99008EBE7483F689"> 
-     <li id="li_75857895EDB045C8B2960393854B257D"> <p>Pattern matching (simple glob search). Start typing the name of a required dimension, metric, or filter entity in the Search field and only matching strings contained anywhere in the name will be filtered and displayed in the Finders pane. </p> <p>For example, enter: </p> <code><b>Search:</b>click</code> <p>You could get the following results in the Dimensions Finder: </p> <p style="text-align: center;"><img placement="break" id="image_7CBAAABA92BB47658B7F9F5C0263CF20" src="assets/finders_glob_search.png" /> </p> <p>Standard pattern matching lets you use the wildcard characters, such as . (dot), "?" , and "*" (star). </p> </li> 
-     <li id="li_044F9EC1399B44CD81E1852F85137704"> <p>Regular expressions. More complex regular expressions are also supported for added search capability. Add the prefix "re:" before your search term (no spaces) to interpret as a regular expression. </p> <p>For example, enter: </p> <code><b>Search:</b>re.*ip</code> <p>You could get the following results in the Dimensions Finder: </p> <p style="text-align: center;"><img placement="break" id="image_F47DB90B36504997AA1C509855B89A47" src="assets/finders_regex_search.png" /> </p> </li> 
+     <li id="li_75857895EDB045C8B2960393854B257D"> <p>Pattern matching (simple glob search). Start typing the name of a required dimension, metric, or filter entity in the Search field and only matching strings contained anywhere in the name will be filtered and displayed in the Finders pane. </p> <p>For example, enter: </p> <code><b>Search:</b>click</code> <p>You could get the following results in the Dimensions Finder: </p> <p><img placement="break" id="image_7CBAAABA92BB47658B7F9F5C0263CF20" src="assets/finders_glob_search.png" /> </p> <p>Standard pattern matching lets you use the wildcard characters, such as . (dot), "?" , and "*" (star). </p> </li> 
+     <li id="li_044F9EC1399B44CD81E1852F85137704"> <p>Regular expressions. More complex regular expressions are also supported for added search capability. Add the prefix "re:" before your search term (no spaces) to interpret as a regular expression. </p> <p>For example, enter: </p> <code><b>Search:</b>re.*ip</code> <p>You could get the following results in the Dimensions Finder: </p> <p><img placement="break" id="image_F47DB90B36504997AA1C509855B89A47" src="assets/finders_regex_search.png" /> </p> </li> 
     </ul> <p>For in-depth search information, see <a href="http://marketing.adobe.com/resources/help/en_US/insight/dataset/c_reg_exp.html" format="http" scope="external"> regular expressions</a>. </p> </td> 
   </tr> 
   <tr> 
@@ -81,7 +81,7 @@ The **Finder** includes the following features:
   </tr> 
   <tr> 
    <td colname="col1"><b>Label</b> </td> 
-   <td colname="col2">In each tab, you can right-click and select <span class="uicontrol"> Label</span> to rename the Finder pane. <p style="text-align: center;"><img placement="break" id="image_F61C57F6548646069242DFB2490C67B9" src="assets/label_change.png" /> </p> <p>The default Dimensions, Metrics, and Filters labels can be changed to a tab name that meets your organization's conventions. </p> </td> 
+   <td colname="col2">In each tab, you can right-click and select <span class="uicontrol"> Label</span> to rename the Finder pane. <p><img placement="break" id="image_F61C57F6548646069242DFB2490C67B9" src="assets/label_change.png" /> </p> <p>The default Dimensions, Metrics, and Filters labels can be changed to a tab name that meets your organization's conventions. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"><b>Add Item</b> </td> 
@@ -89,7 +89,7 @@ The **Finder** includes the following features:
   </tr> 
   <tr> 
    <td colname="col1"><b>Finders bar</b> </td> 
-   <td colname="col2">Right-click in the <span class="uicontrol"> Finders</span> bar in the left sidebar to open a menu for additional features. <p style="text-align: center;"><img placement="break" id="image_4DA4930294B84308A1E627C828C35663" src="assets/finders_menu.png" /> </p> </td> 
+   <td colname="col2">Right-click in the <span class="uicontrol"> Finders</span> bar in the left sidebar to open a menu for additional features. <p><img placement="break" id="image_4DA4930294B84308A1E627C828C35663" src="assets/finders_menu.png" /> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"><b>Close</b> </td> 

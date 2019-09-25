@@ -1,6 +1,6 @@
 ---
-description: Data Workbench 6.4 adds new workspace icons, tool tips, splash screens, and <F1> shortcut to the help.
-seo-description: Data Workbench 6.4 adds new workspace icons, tool tips, splash screens, and <F1> shortcut to the help.
+description: Data Workbench 6.4 adds new workspace icons, tool tips, splash screens, and F1 shortcut to the help.
+seo-description: Data Workbench 6.4 adds new workspace icons, tool tips, splash screens, and F1 shortcut to the help.
 seo-title: New User Interface Features
 title: New User Interface Features
 uuid: cda1f15f-5a78-438d-b5a5-bf6573f0e0f4
@@ -8,7 +8,7 @@ uuid: cda1f15f-5a78-438d-b5a5-bf6573f0e0f4
 
 # New User Interface Features{#new-user-interface-features}
 
-Data Workbench 6.4 adds new workspace icons, tool tips, splash screens, and <F1> shortcut to the help.
+Data Workbench 6.4 adds new workspace icons, tool tips, splash screens, and `<F1>` shortcut to the help.
 
 <table id="table_106EE08B339548A6A8762F0D53BF5C22"> 
  <thead> 
@@ -20,7 +20,7 @@ Data Workbench 6.4 adds new workspace icons, tool tips, splash screens, and <F1>
  <tbody> 
   <tr> 
    <td colname="col1">Open Trace Directory in Help Menu<img placement="break" id="image_B37C62D07B1D4CE8A6C93C3F74CCBCB3" src="assets/6_4_trace_dir.png" /> </td> 
-   <td colname="col2"> <p>Access and open the logs files directly by clicking the Help icon on the toolbar . </p> <p style="text-align: center;"><img placement="break" id="image_91F184A832D243038E3287D5DD9F6066" src="assets/6_4_trace_log_files.png" /> </p> </td> 
+   <td colname="col2"> <p>Access and open the logs files directly by clicking the Help icon on the toolbar . </p> <p><img placement="break" id="image_91F184A832D243038E3287D5DD9F6066" src="assets/6_4_trace_log_files.png" /> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Type &lt;F1&gt; to open help </td> 

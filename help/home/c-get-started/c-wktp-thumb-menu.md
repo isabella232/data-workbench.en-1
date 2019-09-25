@@ -69,7 +69,7 @@ Appears only for user workspaces. Deletes the user workspace, which exists only 
 
 **Save to server**
 
-Appears only for local versions of server workspaces and user workspaces and works only for those users with the appropriate permissions. Saves the local copy of the workspace to the server. By default, workspaces are saved to the appropriate working [!DNL <profile name>\Workspaces\<tab name>] folder.
+Appears only for local versions of server workspaces and user workspaces and works only for those users with the appropriate permissions. Saves the local copy of the workspace to the server. By default, workspaces are saved to the appropriate working `<profile name>\Workspaces\<tab name>` folder.
 
 **Bookmark**
 

@@ -41,7 +41,7 @@ Here are the basic features of the funnel visualization.
   <tr> 
    <td colname="col01"> <img id="image_0DA7567BDBDF4BEF9CA840D2F88A414E" src="assets/funnel_visualization_capture_5.png" /> </td> 
    <td colname="col1"> Percent Fallout </td> 
-   <td colname="col2">Percentages that describe three scopes of fallout for users that did not complete the path. <p>Percentages are presented in three scopes: </p><p style="text-align: center;"><img id="image_B85C46DDF12C41D5BF213D5F9DC04967" placement="break" src="assets/funnel_path_browser_5.png" /></p><p><img id="image_BC37007D7B4B425C8F87905CE68F0114" src="assets/funnel_path_browser_6.png" /> The percentage of fallout from the step previous to this step. </p><p><img id="image_B10866B083424360AFF1B19E836A94CF" src="assets/funnel_path_browser_7.png" /> The percentage of fallout from the first step in the funnel. </p><p><img id="image_19B9AE916B584E18A82F5D5E10674414" src="assets/funnel_path_browser_8.png" /> The percentage of fallout based on the total number of visitors. </p></td> 
+   <td colname="col2">Percentages that describe three scopes of fallout for users that did not complete the path. <p>Percentages are presented in three scopes: </p><p><img id="image_B85C46DDF12C41D5BF213D5F9DC04967" placement="break" src="assets/funnel_path_browser_5.png" /></p><p><img id="image_BC37007D7B4B425C8F87905CE68F0114" src="assets/funnel_path_browser_6.png" /> The percentage of fallout from the step previous to this step. </p><p><img id="image_B10866B083424360AFF1B19E836A94CF" src="assets/funnel_path_browser_7.png" /> The percentage of fallout from the first step in the funnel. </p><p><img id="image_19B9AE916B584E18A82F5D5E10674414" src="assets/funnel_path_browser_8.png" /> The percentage of fallout based on the total number of visitors. </p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -60,7 +60,7 @@ The disks in a funnel represent the steps in the navigation, the cones represent
 
   ![](assets/funnel_path_browser_9.png)
 
-* **Drag more elements**. Add more elements to your funnel by dragging and dropping them from the Dimension table to the funnel using the <Ctrl> + <Alt> keys. You can drag multiple steps at the same time from the Dimension table by selecting multiple items (using <Ctrl> + click) and then dragging them to the Funnel visualization using the <Ctrl> + <Alt> keys.. 
+* **Drag more elements**. Add more elements to your funnel by dragging and dropping them from the Dimension table to the funnel using the `<Ctrl>` + `<Alt>` keys. You can drag multiple steps at the same time from the Dimension table by selecting multiple items (using `<Ctrl>` + click) and then dragging them to the Funnel visualization using the `<Ctrl>` + `<Alt>` keys.. 
 * **Delete a step**: Delete elements by right-clicking on the step in the visualization and clicking **Yes**.
 
   ![](assets/funnel_path_browser_4.png)
@@ -73,4 +73,3 @@ The disks in a funnel represent the steps in the navigation, the cones represent
 * **Display in a tabular view**. Right-click the title to display the Funnel Visualization menu and click **[!UICONTROL Show Tabular View]**. Once in tabular view, you can select **[!UICONTROL Show Graph View]** to return to graphic representation of the funnel. To open the Tabular View, right-click on the title and select Show Tabular View from the menu. 
 
 * **Compare sequences**. An efficient way to compare two similar sequences is to display their two visualizations side-by-side. You can also display both the tabular view and the graph view side-by-side using the Duplicate feature. To open, right-click on the title and select Duplicate from the menu.
-
