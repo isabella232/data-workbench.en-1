@@ -78,7 +78,7 @@ The following table provides descriptions of the available [!DNL Insight.cfg] fi
   </tr> 
   <tr> 
    <td colname="col1"> <p>Default Online Level </p> </td> 
-   <td colname="col2"> <p>Optional. Enables you to make your instance of Data Workbench work by default as streaming, offline or online each time it opens. The options are Streaming, Online, or Offline. The default configuration for Data Workbench is to work Offline. </p> <p> <p>Note: Before deciding to work online by default, make sure to weigh the benefits and consequences outlined in <a href="../../home/c-get-started/c-off-on.md#concept-cef8758ede044b18b3558376c5eb9f54" format="dita" scope="local"> Working Offline and Online</a>. </p> </p> </td> 
+   <td colname="col2"> <p>Optional. Enables you to make your instance of Data Workbench work by default as streaming, offline or online each time it opens. The options are Streaming, Online, or Offline. The default configuration for Data Workbench is to work Offline. </p> <p> <p>Note: Before deciding to work online by default, make sure to weigh the benefits and consequences outlined in <a href="../../home/c-get-started/c-off-on.md#concept-cef8758ede044b18b3558376c5eb9f54"> Working Offline and Online</a>. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Fonts </p> </td> 
@@ -176,11 +176,11 @@ The following table provides descriptions of the available [!DNL Insight.cfg] fi
       <li id="li_E3D8222BC55D4CEB90BCCAE606711306">Hide option in <span class="filepath"> order.txt</span> files </li> 
       <li id="li_2ADE4EFC1F964D0A90B40CFB3D2766E8">Show parameter in <span class="filepath"> .metric</span>, <span class="filepath"> .dim</span>, and <span class="filepath"> .filter</span> files. </li> 
       <li id="li_BBCD248A8F33440092B52E407E300FCC">Hidden parameter in the <span class="filepath"> Transformation.cfg</span> file. </li> 
-     </ul> </p> <p>For more information about these methods, see <a href="../../home/c-get-started/c-intf-anlys-ftrs/c-ctm-menus/t-cstm-menus-ordr-files.md#task-a391800a8dd444deb3e1516d5189f999" format="dita" scope="local"> Hide a menu item</a>. </p> <p>The options are true or false. The default setting is false. Change this parameter to true to temporarily unhide hidden metrics, dimensions, and filters. </p> </td> 
+     </ul> </p> <p>For more information about these methods, see <a href="../../home/c-get-started/c-intf-anlys-ftrs/c-ctm-menus/t-cstm-menus-ordr-files.md#task-a391800a8dd444deb3e1516d5189f999"> Hide a menu item</a>. </p> <p>The options are true or false. The default setting is false. Change this parameter to true to temporarily unhide hidden metrics, dimensions, and filters. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Unlock </p> </td> 
-   <td colname="col2"> <p>Optional. Specifies whether you are allowed to unlock locked workspaces. The options are true and false. True enables you to unlock any locked workspace, while false does not. The default value is false. For more information about locked workspaces, see <a href="../../home/c-get-started/c-work-worksp/c-unlock-wksp.md#concept-18ada952aecf45c79a806b31b294023e" format="dita" scope="local"> Unlocking a Workspace</a>. </p> </td> 
+   <td colname="col2"> <p>Optional. Specifies whether you are allowed to unlock locked workspaces. The options are true and false. True enables you to unlock any locked workspace, while false does not. The default value is false. For more information about locked workspaces, see <a href="../../home/c-get-started/c-work-worksp/c-unlock-wksp.md#concept-18ada952aecf45c79a806b31b294023e"> Unlocking a Workspace</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Update Software </p> </td> 

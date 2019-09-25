@@ -33,7 +33,7 @@ The following confidence legend displays confidence details about the Conversion
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Metric or Formula </p> </td> 
-   <td colname="col2"> <p>The metric name or metric expression for which you want to view confidence information. Any selections that you make in your workspace are reflected in the legend. This example displays details about the Conversion metric. </p> <p>For information about syntax rules for entering an expression, see <a href="../../../../home/c-get-started/c-qry-lang-syntx/c-qry-lang-syntx.md#concept-15d1d3f5164a47d49468c5acb7299d9f" format="dita" scope="local"> Query Language Syntax</a>. </p> </td> 
+   <td colname="col2"> <p>The metric name or metric expression for which you want to view confidence information. Any selections that you make in your workspace are reflected in the legend. This example displays details about the Conversion metric. </p> <p>For information about syntax rules for entering an expression, see <a href="../../../../home/c-get-started/c-qry-lang-syntx/c-qry-lang-syntx.md#concept-15d1d3f5164a47d49468c5acb7299d9f"> Query Language Syntax</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Measured value </p> </td> 

@@ -25,41 +25,41 @@ Data Workbench 6.2 includes these new features:
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-ui-upgrades-6-2.md#concept-56e61b50ffc44c57acceaee45a6efbfc" format="dita" scope="local"> Data Workbench Client UI updates </a> </td> 
+   <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-ui-upgrades-6-2.md#concept-56e61b50ffc44c57acceaee45a6efbfc"> Data Workbench Client UI updates </a> </td> 
    <td colname="col2">Data Workbench 6.2 includes new user interface features: 
     <ul id="ul_19CD7706B5C046178C8C496D5E05CA62"> 
      <li id="li_97A386C80ACF49878CBA5C81A3619BA3"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/?f=c_bookmark_about" format="http" scope="external"> New bookmarks panel </a> </li> 
-     <li id="li_63CF3372E811495D91FA405F460CB020"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-ui-upgrades-6-2.md#section-c108bbd1661249e79c146727ff3d2470" format="dita" scope="local"> New icons in the workspace toolbar</a> </li> 
-     <li id="li_17CB20AC740242DB8D717E5260D52BA1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-ui-upgrades-6-2.md#section-9129c340c21d45a3864c923884cd4382" format="dita" scope="local"> Position objects in the workspace within a screen</a> </li> 
-     <li id="li_B296EDDF9B8249F8A0A485EB41B6256D"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-ui-upgrades-6-2.md#section-d8322f72423f437aa2e34f2188b1341c" format="dita" scope="local"> New quick keys to change workspace views</a> </li> 
+     <li id="li_63CF3372E811495D91FA405F460CB020"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-ui-upgrades-6-2.md#section-c108bbd1661249e79c146727ff3d2470"> New icons in the workspace toolbar</a> </li> 
+     <li id="li_17CB20AC740242DB8D717E5260D52BA1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-ui-upgrades-6-2.md#section-9129c340c21d45a3864c923884cd4382"> Position objects in the workspace within a screen</a> </li> 
+     <li id="li_B296EDDF9B8249F8A0A485EB41B6256D"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-ui-upgrades-6-2.md#section-d8322f72423f437aa2e34f2188b1341c"> New quick keys to change workspace views</a> </li> 
     </ul> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/c_decision_trees.html" format="dita" scope="local"> Decision Trees</a> </td> 
+   <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/c_decision_trees.html"> Decision Trees</a> </td> 
    <td colname="col2"> Decision trees are a predictive analytics visualization used to evaluate visitor characteristics and relationships. The Decision Tree Builder generates a decision tree visualization based on a specified positive case and a set of inputs. </td> 
   </tr> 
   <tr> 
-   <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-query-panels.md#concept-8906c8e39d80495585928f29e0e88d01" format="dita" scope="local"> Finders</a> </td> 
+   <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-query-panels.md#concept-8906c8e39d80495585928f29e0e88d01"> Finders</a> </td> 
    <td colname="col2">Use Finder panels in Data Workbench to select metrics, dimensions, and filters. These panels provide search support, sorting options, and drag and drop capabilities. <p> <p>Note:  With the new Finder panels, you can export a list of your Dimensions, Metrics, and Filters to an MS Excel spreadsheet. </p> </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"><a href="../../../home/c-get-started/c-analysis-vis/c-correlation-analysis/c-correlation-binary-filter.md#concept-24e1daff43c540f69019f236976da31c" format="dita" scope="local"> Update to Binary Filter in Correlation Matrix </a> </td> 
+   <td colname="col1"><a href="../../../home/c-get-started/c-analysis-vis/c-correlation-analysis/c-correlation-binary-filter.md#concept-24e1daff43c540f69019f236976da31c"> Update to Binary Filter in Correlation Matrix </a> </td> 
    <td colname="col2"> The Binary Filter has been updated with new features, requiring you to rebuild any Correlation Matrix with a Binary Filter built in previous versions. </td> 
   </tr> 
   <tr> 
-   <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/c_density_map.html" format="dita" scope="local"> Density Map</a> </td> 
+   <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/c_density_map.html"> Density Map</a> </td> 
    <td colname="col2"> The density map is a visualization that displays elements as shaded rectangles within a square map. </td> 
   </tr> 
   <tr> 
-   <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/c_rules_attrib.html" format="dita" scope="local"> Attribution Profile </a> </td> 
+   <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/c_rules_attrib.html"> Attribution Profile </a> </td> 
    <td colname="col2"> To quickly analyze attribution values (events to attribute responsibility for a successful conversion or sale), Data Workbench provides a rules-based Attribution profile with features for the Architect to set up the Attribution reports and the Analyst to run the reports. </td> 
   </tr> 
   <tr> 
-   <td colname="col1"><a href="../../../home/c-get-started/c-template-report-types.md#concept-f4346d6fb5c34484ad0eca95b7791e42" format="dita" scope="local"> Analytic Reports</a> </td> 
+   <td colname="col1"><a href="../../../home/c-get-started/c-template-report-types.md#concept-f4346d6fb5c34484ad0eca95b7791e42"> Analytic Reports</a> </td> 
    <td colname="col2"> Report templates standardize Adobe Analytics' reports for users of the data workbench who utilize the Adobe SC profile. These reports are identical to reports employed in Marketing Reports &amp; Analytics (formerly SiteCatalyst). </td> 
   </tr> 
   <tr> 
-   <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/c_3d_scatterplots.html" format="dita" scope="local"> 3D Scatter Plots </a> </td> 
+   <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/c_3d_scatterplots.html"> 3D Scatter Plots </a> </td> 
    <td colname="col2"> A 3D Scatter Plot graphs the elements of a data dimension (such as Days or Referral Site) on a three-dimensional grid where the x, y, and z axes represent various metrics. </td> 
   </tr> 
  </tbody> 

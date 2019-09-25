@@ -35,7 +35,7 @@ The Log Processing Dataset Include file for an inherited profile contains parame
      <ul id="ul_54087499003C48C8B0AD9660A2F46EA9"> 
       <li id="li_E361861E61D246DDB3964C97CC5187E9"> Right-click <span class="uicontrol"> Decoder Group</span> and click <span class="uicontrol"> Add new</span> &gt; <span class="uicontrol"> TextFileDecoderGroup</span> or <span class="uicontrol"> XMLDecoderGroup</span>. </li> 
       <li id="li_B2D61A0763AD4FEDB619BF9550EF4602"> In the Name parameter for the new group, enter the desired name of the decoder group. </li> 
-     </ul> </p> <p> <p>Note:  When you specify a Decoder Group in the <span class="filepath"> Log Processing.cfg</span> file for the dataset profile, the name must match exactly the name that you enter here. For more information, see <a href="../../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-sources.md#concept-3d4fb817c057447d90f166b1183b461e" format="dita" scope="local"> Log Files</a>. </p> </p> <p> For information about the decoders that you can define for each group, see <a href="../../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-log-proc-dataset-inc-files/c-text-file-dec-groups.md#concept-0db34988e17c41bfb1797f1d8e78aabd" format="dita" scope="local"> Text File Decoder Groups</a> or <a href="../../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-log-proc-dataset-inc-files/c-xml-dec-grps.md#concept-5eda5ab253724674832f6951e2a0d1c3" format="dita" scope="local"> XML Decoder Groups</a>. </p> </td> 
+     </ul> </p> <p> <p>Note:  When you specify a Decoder Group in the <span class="filepath"> Log Processing.cfg</span> file for the dataset profile, the name must match exactly the name that you enter here. For more information, see <a href="../../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-sources.md#concept-3d4fb817c057447d90f166b1183b461e"> Log Files</a>. </p> </p> <p> For information about the decoders that you can define for each group, see <a href="../../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-log-proc-dataset-inc-files/c-text-file-dec-groups.md#concept-0db34988e17c41bfb1797f1d8e78aabd"> Text File Decoder Groups</a> or <a href="../../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-log-proc-dataset-inc-files/c-xml-dec-grps.md#concept-5eda5ab253724674832f6951e2a0d1c3"> XML Decoder Groups</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Fields </td> 
@@ -47,15 +47,15 @@ The Log Processing Dataset Include file for an inherited profile contains parame
   </tr> 
   <tr> 
    <td colname="col1"> Log Entry Condition </td> 
-   <td colname="col2"> <p>Optional. Defines the rules by which log entries are considered for inclusion in the dataset. See <a href="../../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-info-log-proc-param.md#concept-ecaff95cee4e40bc90f81e099c5fc934" format="dita" scope="local"> Log Entry Condition</a>. </p> <p> <p>Note:  To be included in the dataset, a log entry must satisfy the <span class="wintitle"> Log Entry Condition</span> in the <span class="filepath"> Log Processing.cfg</span> file and in every <span class="wintitle"> Log Processing Dataset Include</span> file. </p> </p> </td> 
+   <td colname="col2"> <p>Optional. Defines the rules by which log entries are considered for inclusion in the dataset. See <a href="../../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-info-log-proc-param.md#concept-ecaff95cee4e40bc90f81e099c5fc934"> Log Entry Condition</a>. </p> <p> <p>Note:  To be included in the dataset, a log entry must satisfy the <span class="wintitle"> Log Entry Condition</span> in the <span class="filepath"> Log Processing.cfg</span> file and in every <span class="wintitle"> Log Processing Dataset Include</span> file. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Parameters </td> 
-   <td colname="col2"> Optional. A variable that you can reference in other configuration parameters. For more information, see <a href="../../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-def-param-dataset-inc-files/c-def-param-dataset-inc-files.md#concept-5ad06acc8dc44bf2a99643fafdd56b50" format="dita" scope="local"> Defining Parameters in Dataset Include Files</a>. </td> 
+   <td colname="col2"> Optional. A variable that you can reference in other configuration parameters. For more information, see <a href="../../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-def-param-dataset-inc-files/c-def-param-dataset-inc-files.md#concept-5ad06acc8dc44bf2a99643fafdd56b50"> Defining Parameters in Dataset Include Files</a>. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Reprocess </td> 
-   <td colname="col2"> <p>Optional. Any character or combination of characters can be entered here. Changing this parameter and saving the file to the data workbench server initiates data reprocessing. </p> <p> For information about reprocessing your data, see <a href="../../../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823" format="dita" scope="local"> Reprocessing and Retransformation</a>. </p> </td> 
+   <td colname="col2"> <p>Optional. Any character or combination of characters can be entered here. Changing this parameter and saving the file to the data workbench server initiates data reprocessing. </p> <p> For information about reprocessing your data, see <a href="../../../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823"> Reprocessing and Retransformation</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Stage </td> 
@@ -63,7 +63,7 @@ The Log Processing Dataset Include file for an inherited profile contains parame
   </tr> 
   <tr> 
    <td colname="col1"> Transformations </td> 
-   <td colname="col2"> Optional. Defines the data transformations that need to be applied during log processing. For information about the available transformation types, see <a href="../../../../../home/c-dataset-const-proc/c-data-trans/c-data-trans.md#concept-99c6f5e6e5194adb9e98afdc0e91cf38" format="dita" scope="local"> Data Transformations</a>. </td> 
+   <td colname="col2"> Optional. Defines the data transformations that need to be applied during log processing. For information about the available transformation types, see <a href="../../../../../home/c-dataset-const-proc/c-data-trans/c-data-trans.md#concept-99c6f5e6e5194adb9e98afdc0e91cf38"> Data Transformations</a>. </td> 
   </tr> 
  </tbody> 
 </table>

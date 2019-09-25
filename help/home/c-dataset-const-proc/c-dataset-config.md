@@ -66,63 +66,63 @@ For information about specific dataset configuration tasks, use the table below 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Define log sources </p> </td> 
-   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-sources.md#concept-6714c720fac044cbb9af003bf401b2ea" format="dita" scope="local"> Log Sources </a> </p> </td> 
+   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-sources.md#concept-6714c720fac044cbb9af003bf401b2ea"> Log Sources </a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Determine which log entries enter the dataset during log processing </p> </td> 
-   <td colname="col2"> <p> <a href="../../home/c-dataset-const-proc/c-log-proc-config-file/c-info-log-proc-param.md#concept-41bd49bf6b64442d91c232ec67529a3d" format="dita" scope="local"> Data Filters</a> </p> <p> <a href="../../home/c-dataset-const-proc/c-log-proc-config-file/c-info-log-proc-param.md#concept-ecaff95cee4e40bc90f81e099c5fc934" format="dita" scope="local"> Log Entry Condition</a> </p> </td> 
+   <td colname="col2"> <p> <a href="../../home/c-dataset-const-proc/c-log-proc-config-file/c-info-log-proc-param.md#concept-41bd49bf6b64442d91c232ec67529a3d"> Data Filters</a> </p> <p> <a href="../../home/c-dataset-const-proc/c-log-proc-config-file/c-info-log-proc-param.md#concept-ecaff95cee4e40bc90f81e099c5fc934"> Log Entry Condition</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Enable the splitting of tracking IDs with large amounts of event data </p> </td> 
-   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-log-proc-config-file/c-info-log-proc-param.md#concept-64b416bbe42f4d689f90df246f7f7caf" format="dita" scope="local"> Key Splitting</a> </p> </td> 
+   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-log-proc-config-file/c-info-log-proc-param.md#concept-64b416bbe42f4d689f90df246f7f7caf"> Key Splitting</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Configure an Insight Server to run as a file server unit </p> </td> 
-   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-log-proc-config-file/c-ins-svr-file-svr-unit.md#concept-995abff3fce34e439fb3f7f47191c80d" format="dita" scope="local"> Configuring an Insight Server File Server Unit </a> </p> </td> 
+   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-log-proc-config-file/c-ins-svr-file-svr-unit.md#concept-995abff3fce34e439fb3f7f47191c80d"> Configuring an Insight Server File Server Unit </a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Configure an Insight Server to run as a centralized normalization server </p> </td> 
-   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-log-proc-config-file/c-ins-svr-file-svr-unit.md#concept-995abff3fce34e439fb3f7f47191c80d" format="dita" scope="local"> Configuring an Insight Server File Server Unit </a> </p> </td> 
+   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-log-proc-config-file/c-ins-svr-file-svr-unit.md#concept-995abff3fce34e439fb3f7f47191c80d"> Configuring an Insight Server File Server Unit </a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Set the time zone to be used for creating time dimensions and making time conversions </p> </td> 
-   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-trans-config-file/c-spec-trans-param/c-time-zones.md#concept-9cf16b1cb4874f7d85e1dd950fdb4956" format="dita" scope="local"> Time Zones </a> </p> </td> 
+   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-trans-config-file/c-spec-trans-param/c-time-zones.md#concept-9cf16b1cb4874f7d85e1dd950fdb4956"> Time Zones </a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Make minor changes to the dataset configuration files included with the internal profiles provided by Adobe </p> </td> 
-   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-work-dataset-inc-files/t-edit-ex-dataset-inc-files.md#task-456c04e38ebc425fb35677a6bb6aa077" format="dita" scope="local"> Editing Existing Dataset Include Files </a> </p> </td> 
+   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-work-dataset-inc-files/t-edit-ex-dataset-inc-files.md#task-456c04e38ebc425fb35677a6bb6aa077"> Editing Existing Dataset Include Files </a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Specify new fields of data to be passed from log processing to transformation </p> </td> 
-   <td colname="col2"> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-work-dataset-inc-files/t-create-new-dataset-inc-files.md#task-b29f30605c374a6ca747ac843337b06e" format="dita" scope="local"> Creating New Dataset Include Files </a> </p> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-log-proc-dataset-inc-files/c-log-proc-dataset-inc-files.md#concept-999475a22519432e98844622ca95b6ab" format="dita" scope="local"> Log Processing Dataset Include Files </a> </p> </td> 
+   <td colname="col2"> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-work-dataset-inc-files/t-create-new-dataset-inc-files.md#task-b29f30605c374a6ca747ac843337b06e"> Creating New Dataset Include Files </a> </p> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-log-proc-dataset-inc-files/c-log-proc-dataset-inc-files.md#concept-999475a22519432e98844622ca95b6ab"> Log Processing Dataset Include Files </a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Define transformations </p> </td> 
-   <td colname="col2"> <p> <a href="../../home/c-dataset-const-proc/c-data-trans/c-data-trans.md#concept-99c6f5e6e5194adb9e98afdc0e91cf38" format="dita" scope="local"> Data Transformations </a> </p> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-work-dataset-inc-files/t-create-new-dataset-inc-files.md#task-b29f30605c374a6ca747ac843337b06e" format="dita" scope="local"> Creating New Dataset Include Files </a> </p> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-trans-dataset-inc-files.md#concept-c64aa78ed9ce40b8a0f4932c82ff5ace" format="dita" scope="local"> Transformation Dataset Include Files </a> </p> </td> 
+   <td colname="col2"> <p> <a href="../../home/c-dataset-const-proc/c-data-trans/c-data-trans.md#concept-99c6f5e6e5194adb9e98afdc0e91cf38"> Data Transformations </a> </p> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-work-dataset-inc-files/t-create-new-dataset-inc-files.md#task-b29f30605c374a6ca747ac843337b06e"> Creating New Dataset Include Files </a> </p> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-trans-dataset-inc-files.md#concept-c64aa78ed9ce40b8a0f4932c82ff5ace"> Transformation Dataset Include Files </a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Create extended dimensions </p> </td> 
-   <td colname="col2"> <p> <a href="../../home/c-dataset-const-proc/c-ex-dim/c-ex-dim.md#concept-79b9e2b3f5794833b8b73b003f06ddca" format="dita" scope="local"> Extended Dimensions </a> </p> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-work-dataset-inc-files/t-create-new-dataset-inc-files.md#task-b29f30605c374a6ca747ac843337b06e" format="dita" scope="local"> Creating New Dataset Include Files </a> </p> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-trans-dataset-inc-files.md#concept-c64aa78ed9ce40b8a0f4932c82ff5ace" format="dita" scope="local"> Transformation Dataset Include Files </a> </p> </td> 
+   <td colname="col2"> <p> <a href="../../home/c-dataset-const-proc/c-ex-dim/c-ex-dim.md#concept-79b9e2b3f5794833b8b73b003f06ddca"> Extended Dimensions </a> </p> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-work-dataset-inc-files/t-create-new-dataset-inc-files.md#task-b29f30605c374a6ca747ac843337b06e"> Creating New Dataset Include Files </a> </p> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-trans-dataset-inc-files.md#concept-c64aa78ed9ce40b8a0f4932c82ff5ace"> Transformation Dataset Include Files </a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Define parameters to use throughout log processing or transformation </p> </td> 
-   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-def-param-dataset-inc-files/c-def-param-dataset-inc-files.md#concept-5ad06acc8dc44bf2a99643fafdd56b50" format="dita" scope="local"> Defining Parameters in Dataset Include Files </a> </p> </td> 
+   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-def-param-dataset-inc-files/c-def-param-dataset-inc-files.md#concept-5ad06acc8dc44bf2a99643fafdd56b50"> Defining Parameters in Dataset Include Files </a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Learn about the Insight interfaces that enable you to monitor or manage your dataset </p> </td> 
-   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-dataset-config-tools/c-dataset-config-int/c-dataset-config-int.md#concept-0ea33a52ce234ec8951e7b4430fbc5ab" format="dita" scope="local"> Working With Dataset Configuration Interfaces </a> </p> </td> 
+   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-dataset-config-tools/c-dataset-config-int/c-dataset-config-int.md#concept-0ea33a52ce234ec8951e7b4430fbc5ab"> Working With Dataset Configuration Interfaces </a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Hide certain extended dimensions so they do not show on the dimension menu in Insight </p> </td> 
-   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-dataset-config-tools/c-hide-dataset-comp/c-hide-dataset-comp.md#concept-50d9a004736f42f6b0aa7cde0d6148ff" format="dita" scope="local"> Hiding Dataset Components </a> </p> </td> 
+   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-dataset-config-tools/c-hide-dataset-comp/c-hide-dataset-comp.md#concept-50d9a004736f42f6b0aa7cde0d6148ff"> Hiding Dataset Components </a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Override certain dataset configuration files in a profile that you cannot or do not want to modify </p> </td> 
-   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-dataset-config-tools/c-hide-dataset-comp/c-hide-dataset-comp.md#concept-50d9a004736f42f6b0aa7cde0d6148ff" format="dita" scope="local"> Hiding Dataset Components </a> </p> </td> 
+   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-dataset-config-tools/c-hide-dataset-comp/c-hide-dataset-comp.md#concept-50d9a004736f42f6b0aa7cde0d6148ff"> Hiding Dataset Components </a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Reprocess your dataset </p> </td> 
-   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823" format="dita" scope="local"> Reprocessing and Retransformation </a> </p> </td> 
+   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823"> Reprocessing and Retransformation </a> </p> </td> 
   </tr> 
  </tbody> 
 </table>

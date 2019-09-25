@@ -39,15 +39,15 @@ This menu provides you with different options depending on the type of visualiza
   </tr> 
   <tr> 
    <td colname="col1"> <p>Zoom to All </p> </td> 
-   <td colname="col2"> <p>Returns to a display of all of the data within the graph. See <a href="../../../home/c-get-started/c-vis/c-zoom-vis.md#concept-7e33670bb5344f78a316f1a84cc20530" format="dita" scope="local"> Zooming in Visualizations</a>. </p> </td> 
+   <td colname="col2"> <p>Returns to a display of all of the data within the graph. See <a href="../../../home/c-get-started/c-vis/c-zoom-vis.md#concept-7e33670bb5344f78a316f1a84cc20530"> Zooming in Visualizations</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Zoom to Selection </p> </td> 
-   <td colname="col2"> <p>Zooms in on a selected subset of data in a line graph. See <a href="../../../home/c-get-started/c-vis/c-zoom-vis.md#concept-7e33670bb5344f78a316f1a84cc20530" format="dita" scope="local"> Zooming in Visualizations</a>. For more information about selections, see <a href="../../../home/c-get-started/c-vis/c-sel-vis/c-sel-vis.md#concept-012870ec22c7476e9afbf3b8b2515746" format="dita" scope="local"> Making Selections in Visualizations</a>. </p> </td> 
+   <td colname="col2"> <p>Zooms in on a selected subset of data in a line graph. See <a href="../../../home/c-get-started/c-vis/c-zoom-vis.md#concept-7e33670bb5344f78a316f1a84cc20530"> Zooming in Visualizations</a>. For more information about selections, see <a href="../../../home/c-get-started/c-vis/c-sel-vis/c-sel-vis.md#concept-012870ec22c7476e9afbf3b8b2515746"> Making Selections in Visualizations</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Metric Editor </p> </td> 
-   <td colname="col2"> <p>Enables you to edit the definition of the metric identified by the metric name field. See <a href="../../../home/c-get-started/c-admin-intrf/c-prof-mgr/c-drvd-mtrcs.md#section-db6d924cf4e14bcc8d57cfe1059fc797" format="dita" scope="local"> Editing Existing Derived Metrics</a>. </p> </td> 
+   <td colname="col2"> <p>Enables you to edit the definition of the metric identified by the metric name field. See <a href="../../../home/c-get-started/c-admin-intrf/c-prof-mgr/c-drvd-mtrcs.md#section-db6d924cf4e14bcc8d57cfe1059fc797"> Editing Existing Derived Metrics</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Metrics </p> </td> 
@@ -101,7 +101,7 @@ This menu provides you with different options depending on the type of visualiza
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Add Callout </p> </td> 
-   <td colname="col2"> <p>Adds a callout for the selected element, which draws attention to that element. See <a href="../../../home/c-get-started/c-vis/c-call-wkspc.md#concept-212b09e763044d938987b4a9c658adc0" format="dita" scope="local"> Adding Callouts to a Workspace</a>. </p> </td> 
+   <td colname="col2"> <p>Adds a callout for the selected element, which draws attention to that element. See <a href="../../../home/c-get-started/c-vis/c-call-wkspc.md#concept-212b09e763044d938987b4a9c658adc0"> Adding Callouts to a Workspace</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Rename Element </p> </td> 
@@ -133,7 +133,7 @@ This menu provides you with different options depending on the type of visualiza
   </tr> 
   <tr> 
    <td colname="col1"> <p>Series Legend </p> </td> 
-   <td colname="col2"> <p>Color-codes the elements within the selected dimension as a series. See <a href="../../../home/c-get-started/c-analysis-vis/c-tables/c-srs-leg.md#concept-c48042a705524bc4b63cd6f24874cc12" format="dita" scope="local"> Using Series Legends</a>. </p> </td> 
+   <td colname="col2"> <p>Color-codes the elements within the selected dimension as a series. See <a href="../../../home/c-get-started/c-analysis-vis/c-tables/c-srs-leg.md#concept-c48042a705524bc4b63cd6f24874cc12"> Using Series Legends</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Add Visualization </p> </td> 
@@ -145,7 +145,7 @@ This menu provides you with different options depending on the type of visualiza
   </tr> 
   <tr> 
    <td colname="col1"> <p>Hierarchy View </p> </td> 
-   <td colname="col2"> <p>Changes the current page visualization into a page hierarchy visualization, which displays the pages in a site organized hierarchically by file name and sorted alphabetically. See <a href="../../../home/c-get-started/c-analysis-vis/c-tables/c-hier-vews.md#concept-b461183424a841eb94f8143a0eaf9bff" format="dita" scope="local"> Applying Hierarchy Views</a>. </p> </td> 
+   <td colname="col2"> <p>Changes the current page visualization into a page hierarchy visualization, which displays the pages in a site organized hierarchically by file name and sorted alphabetically. See <a href="../../../home/c-get-started/c-analysis-vis/c-tables/c-hier-vews.md#concept-b461183424a841eb94f8143a0eaf9bff"> Applying Hierarchy Views</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Layout </p> </td> 

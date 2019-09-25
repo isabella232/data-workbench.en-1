@@ -39,7 +39,7 @@ If you have more than one profile available, you can select the appropriate prof
   </tr> 
   <tr> 
    <td colname="col1"> Search </td> 
-   <td colname="col2"> To find specific reports, click the <span class="uicontrol"> Search </span> button to open the <a href="../../../home/c-rpt-oview/c-search-adv.md#concept-083b751e28b645ceaa4d9784d21f78ca" format="dita" scope="local"> Advanced Search </a> feature. </td> 
+   <td colname="col2"> To find specific reports, click the <span class="uicontrol"> Search </span> button to open the <a href="../../../home/c-rpt-oview/c-search-adv.md#concept-083b751e28b645ceaa4d9784d21f78ca"> Advanced Search </a> feature. </td> 
   </tr> 
  </tbody> 
 </table>

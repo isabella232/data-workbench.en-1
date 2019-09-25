@@ -42,8 +42,8 @@ Data Workbench 6.1 includes these new features:
      </ul> </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-support-for-chinese.md#concept-e69dac7de1484720ad469d6c208e7541" format="dita" scope="local"> Data workbench now in Chinese </a> </td> 
-   <td colname="col2">Data workbench now supports Simplified Chinese for the client application. <p>Data workbench also supports the <a href="../../../home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-localized-ime.md#concept-86d7602cd6ec416b8d4a518f325e001e" format="dita" scope="local"> Input Method Editor (IME)</a> as a secondary text entry process for international languages. </p> </td> 
+   <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-support-for-chinese.md#concept-e69dac7de1484720ad469d6c208e7541"> Data workbench now in Chinese </a> </td> 
+   <td colname="col2">Data workbench now supports Simplified Chinese for the client application. <p>Data workbench also supports the <a href="../../../home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-localized-ime.md#concept-86d7602cd6ec416b8d4a518f325e001e"> Input Method Editor (IME)</a> as a secondary text entry process for international languages. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/index.html#Syntax_for_Math_Expressions" format="http" scope="external"> Math Functions</a> </td> 
@@ -58,15 +58,15 @@ Data Workbench 6.1 includes these new features:
    <td colname="col2">The Correlation Matrix has been updated with a <span class="uicontrol"> Binary Filter</span> to let you constrain values for one or both of the correlated metrics, allowing you to better focus your comparison. <p>Also, you can now add Dimension elements from a Dimension table by clicking Ctrl + Alt and dragging elements to the matrix column or row to be evaluated. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-funnel-hide-fallout.md#concept-cb550a98b11d432482db58183b0b965b" format="dita" scope="local"> Hide Fallout label in funnel visualization</a> </td> 
+   <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-funnel-hide-fallout.md#concept-cb550a98b11d432482db58183b0b965b"> Hide Fallout label in funnel visualization</a> </td> 
    <td colname="col2">Toggle between displaying and hiding fallout labels in a Funnel visualization by right-clicking the title and selecting <span class="uicontrol"> Hide Fallout</span>. </td> 
   </tr> 
   <tr> 
-   <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-sort-tables.md#concept-23bf1ce3dced4811b7b9a7f5928cd179" format="dita" scope="local"> Tables sorted</a> alphabetically or by ordinals </td> 
+   <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-sort-tables.md#concept-23bf1ce3dced4811b7b9a7f5928cd179"> Tables sorted</a> alphabetically or by ordinals </td> 
    <td colname="col2"> From a Dimension table, you can sort elements alphabetically or by ordinals using the new arrow in the title of the column. The # character will display when a column is sorted by ordinals. </td> 
   </tr> 
   <tr> 
-   <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-keyboard-shortcuts.md#concept-944ee0fdd5a04a5cbd56acc6c3ab2935" format="dita" scope="local"> New keyboard shortcuts </a> </td> 
+   <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-keyboard-shortcuts.md#concept-944ee0fdd5a04a5cbd56acc6c3ab2935"> New keyboard shortcuts </a> </td> 
    <td colname="col2"> Additional shortcut keys have been added for adding and editing workspaces and configuration files. </td> 
   </tr> 
  </tbody> 

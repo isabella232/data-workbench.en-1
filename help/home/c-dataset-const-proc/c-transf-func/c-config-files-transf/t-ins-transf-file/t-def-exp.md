@@ -85,7 +85,7 @@ Transformation functionality provides three types of exporters for exporting [!D
       <li id="li_EE8CF71BA12149F49D4B7F7108262CD0"> NONE. No rotation is performed. All of the data is written to the same file (or a set of files as determined by other parameter settings). See the <span class="wintitle"> File Name Format</span> parameter in this table. </li> 
       </ul> <p>The default file rotation period is DAY. </p> 
       <ul id="ul_0F3BC98275634F759E5022FF2C19715E"> 
-      <li id="li_24DC4D144DA94ED0B7B50E8BB39DB8E3"> Set the file rotation to NONE only when working in <span class="wintitle"> Offline Mode</span>. See the <a href="../../../../../home/c-dataset-const-proc/c-transf-func/c-config-files-transf/t-ins-transf-file/t-ins-transf-file.md#task-857fc535ccdb4c39b763179efa4b0f13" format="dita" scope="local"> Offline Mode</a> parameter description. </li> 
+      <li id="li_24DC4D144DA94ED0B7B50E8BB39DB8E3"> Set the file rotation to NONE only when working in <span class="wintitle"> Offline Mode</span>. See the <a href="../../../../../home/c-dataset-const-proc/c-transf-func/c-config-files-transf/t-ins-transf-file/t-ins-transf-file.md#task-857fc535ccdb4c39b763179efa4b0f13"> Offline Mode</a> parameter description. </li> 
       </ul> </td> 
       </tr> 
       <tr> 

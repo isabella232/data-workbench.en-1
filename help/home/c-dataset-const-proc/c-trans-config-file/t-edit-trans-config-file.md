@@ -50,11 +50,11 @@ Steps for editing the Transformation.cfg file for a dataset profile.
       <ul id="ul_1EC55DA4936946C98E447E1476E8280F"> 
       <li id="li_F2D862833F4B451C965E1ED6C05DCE1B"> January 1 2013 HH:MM:SS EDT </li> 
       <li id="li_EB7FFEB2E2C24EAFB8E4B14F2479DA3D"> Jan 1 2013 HH:MM:SS GMT </li> 
-      </ul> </p> <p> For example, specifying "July 29 2013 00:00:00 EDT" as the End Time includes data through July 28, 2013, at 11:59:59 PM EDT. </p> <p> You must specify a time zone. The time zone does not default to GMT if not specified. For a list of time zone abbreviations supported by the data workbench server, see <a href="../../../home/c-dataset-const-proc/c-time-zone.md#concept-9b540ec3e770490d94e9d5a985765477" format="dita" scope="local"> Time Zone Codes </a>. </p> <p> <p>Note:  If you specify a value for End Time, a parameter named End Time is set and applied throughout the transformation phase of dataset construction. For information about parameters, see <a href="../../../home/c-dataset-const-proc/c-dataset-inc-files/c-def-param-dataset-inc-files/c-def-param-dataset-inc-files.md#concept-5ad06acc8dc44bf2a99643fafdd56b50" format="dita" scope="local"> Defining Parameters in Dataset Include Files </a>. </p> </p> </td> 
+      </ul> </p> <p> For example, specifying "July 29 2013 00:00:00 EDT" as the End Time includes data through July 28, 2013, at 11:59:59 PM EDT. </p> <p> You must specify a time zone. The time zone does not default to GMT if not specified. For a list of time zone abbreviations supported by the data workbench server, see <a href="../../../home/c-dataset-const-proc/c-time-zone.md#concept-9b540ec3e770490d94e9d5a985765477"> Time Zone Codes </a>. </p> <p> <p>Note:  If you specify a value for End Time, a parameter named End Time is set and applied throughout the transformation phase of dataset construction. For information about parameters, see <a href="../../../home/c-dataset-const-proc/c-dataset-inc-files/c-def-param-dataset-inc-files/c-def-param-dataset-inc-files.md#concept-5ad06acc8dc44bf2a99643fafdd56b50"> Defining Parameters in Dataset Include Files </a>. </p> </p> </td> 
    </tr> 
    <tr> 
       <td colname="col1"> Extended Dimensions </td> 
-      <td colname="col2"> Optional. Adobe recommends defining extended dimensions in one or more <span class="wintitle"> Transformation Dataset Include </span> files. For information, see <a href="../../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-trans-dataset-inc-files.md#concept-c64aa78ed9ce40b8a0f4932c82ff5ace" format="dita" scope="local"> Transformation Dataset Include Files </a>. </td> 
+      <td colname="col2"> Optional. Adobe recommends defining extended dimensions in one or more <span class="wintitle"> Transformation Dataset Include </span> files. For information, see <a href="../../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-trans-dataset-inc-files.md#concept-c64aa78ed9ce40b8a0f4932c82ff5ace"> Transformation Dataset Include Files </a>. </td> 
    </tr> 
    <tr> 
       <td colname="col1"> Hash Threshold </td> 
@@ -62,15 +62,15 @@ Steps for editing the Transformation.cfg file for a dataset profile.
    </tr> 
    <tr> 
       <td colname="col1"> Log Entry Condition </td> 
-      <td colname="col2"> Optional. Defines the rules by which log entries output from log processing are considered for inclusion in the dataset profile. See <a href="../../../home/c-dataset-const-proc/c-log-proc-config-file/c-info-log-proc-param.md#concept-ecaff95cee4e40bc90f81e099c5fc934" format="dita" scope="local"> Log Entry Condition </a>. </td> 
+      <td colname="col2"> Optional. Defines the rules by which log entries output from log processing are considered for inclusion in the dataset profile. See <a href="../../../home/c-dataset-const-proc/c-log-proc-config-file/c-info-log-proc-param.md#concept-ecaff95cee4e40bc90f81e099c5fc934"> Log Entry Condition </a>. </td> 
    </tr> 
    <tr> 
       <td colname="col1"> New Visitor Condition </td> 
-      <td colname="col2"> Optional. For use with web data. Defines the rules by which visitors are considered for inclusion in the data. The <span class="wintitle"> New Visitor Condition </span> defines the first log entry for a visitor (ordered by time) that is to be used in the dataset. All subsequent log entries for this visitor are included in the dataset regardless of whether they meet this condition. See <a href="../../../home/c-dataset-const-proc/c-trans-config-file/c-spec-trans-param/c-new-vstr-con.md#concept-1d0d8e26718447ad9d235e00b33a36f3" format="dita" scope="local"> New Visitor Condition </a>. </td> 
+      <td colname="col2"> Optional. For use with web data. Defines the rules by which visitors are considered for inclusion in the data. The <span class="wintitle"> New Visitor Condition </span> defines the first log entry for a visitor (ordered by time) that is to be used in the dataset. All subsequent log entries for this visitor are included in the dataset regardless of whether they meet this condition. See <a href="../../../home/c-dataset-const-proc/c-trans-config-file/c-spec-trans-param/c-new-vstr-con.md#concept-1d0d8e26718447ad9d235e00b33a36f3"> New Visitor Condition </a>. </td> 
    </tr> 
    <tr> 
       <td colname="col1"> Reprocess </td> 
-      <td colname="col2"> <p>Optional. Any character or combination of characters can be entered here. Changing this parameter and saving the file initiates data retransformation. </p> <p> For information about reprocessing your data, see <a href="../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823" format="dita" scope="local"> Reprocessing and Retransformation </a>. </p> </td> 
+      <td colname="col2"> <p>Optional. Any character or combination of characters can be entered here. Changing this parameter and saving the file initiates data retransformation. </p> <p> For information about reprocessing your data, see <a href="../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823"> Reprocessing and Retransformation </a>. </p> </td> 
    </tr> 
    <tr> 
       <td colname="col1"> Schema Checking </td> 
@@ -85,7 +85,7 @@ Steps for editing the Transformation.cfg file for a dataset profile.
       </ul> </p> <p> <b>To delete an existing processing stage</b> </p> <p> 
       <ul id="ul_2EFA5A40982A48919E9946BF1955110A"> 
          <li id="li_3B3829DA34FD4774B3F9F94074099794"> Right-click the number corresponding to the stage that you want to delete and click <span class="uicontrol"> Remove </span><i>&lt; <span class="uicontrol"> #stage_number </span>&gt;</i>. </li> 
-      </ul> </p> <p> <p>Note:  When you specify a Stage in a <span class="wintitle"> Transformation Dataset Include </span> files the name of the stage must match exactly the name that you enter here. For more information about dataset include files, see <a href="../../../home/c-dataset-const-proc/c-dataset-inc-files/c-dataset-inc-files.md#concept-a9b6a30edfc942b0b2a2888a0a8989df" format="dita" scope="local"> Dataset Include Files </a>. </p> </p> </td> 
+      </ul> </p> <p> <p>Note:  When you specify a Stage in a <span class="wintitle"> Transformation Dataset Include </span> files the name of the stage must match exactly the name that you enter here. For more information about dataset include files, see <a href="../../../home/c-dataset-const-proc/c-dataset-inc-files/c-dataset-inc-files.md#concept-a9b6a30edfc942b0b2a2888a0a8989df"> Dataset Include Files </a>. </p> </p> </td> 
    </tr> 
    <tr> 
       <td colname="col1"> Start Time </td> 
@@ -93,15 +93,15 @@ Steps for editing the Transformation.cfg file for a dataset profile.
       <ul id="ul_6BC86CCB1FC447ACAC4045E08C8EF8F8"> 
          <li id="li_2151B3F7FAD54F38B6C33E25CDCACBBE"> January 1 2013 HH:MM:SS EDT </li> 
          <li id="li_CA1BB675C1244104915FB9ED96A3013D"> Jan 1 2013 HH:MM:SS GMT </li> 
-      </ul> </p> <p> For example, specifying July 29 2013 00:00:00 EDT as the <span class="wintitle"> Start Time </span> includes data starting from July 29, 2013, at 12:00:00 AM EDT. </p> <p> You must specify a time zone. The time zone does not default to GMT if not specified. For a list of time zone abbreviations supported by data workbench Server, see <a href="../../../home/c-dataset-const-proc/c-time-zone.md#concept-9b540ec3e770490d94e9d5a985765477" format="dita" scope="local"> Time Zone Codes </a>. </p> <p> <p>Note:  If you specify a value for Start Time, a parameter named Start Time is set and applied throughout the transformation phase of dataset construction. For information about parameters, see <a href="../../../home/c-dataset-const-proc/c-dataset-inc-files/c-def-param-dataset-inc-files/c-def-param-dataset-inc-files.md#concept-5ad06acc8dc44bf2a99643fafdd56b50" format="dita" scope="local"> Defining Parameters in Dataset Include Files </a>. </p> </p> </td> 
+      </ul> </p> <p> For example, specifying July 29 2013 00:00:00 EDT as the <span class="wintitle"> Start Time </span> includes data starting from July 29, 2013, at 12:00:00 AM EDT. </p> <p> You must specify a time zone. The time zone does not default to GMT if not specified. For a list of time zone abbreviations supported by data workbench Server, see <a href="../../../home/c-dataset-const-proc/c-time-zone.md#concept-9b540ec3e770490d94e9d5a985765477"> Time Zone Codes </a>. </p> <p> <p>Note:  If you specify a value for Start Time, a parameter named Start Time is set and applied throughout the transformation phase of dataset construction. For information about parameters, see <a href="../../../home/c-dataset-const-proc/c-dataset-inc-files/c-def-param-dataset-inc-files/c-def-param-dataset-inc-files.md#concept-5ad06acc8dc44bf2a99643fafdd56b50"> Defining Parameters in Dataset Include Files </a>. </p> </p> </td> 
    </tr> 
    <tr> 
       <td colname="col1"> Transformations </td> 
-      <td colname="col2"> Optional. Adobe recommends defining transformations for the transformation phase of dataset construction in one or more <span class="wintitle"> Transformation Dataset Include </span> files. For information, see <a href="../../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-trans-dataset-inc-files.md#concept-c64aa78ed9ce40b8a0f4932c82ff5ace" format="dita" scope="local"> Transformation Dataset Include Files </a>. </td> 
+      <td colname="col2"> Optional. Adobe recommends defining transformations for the transformation phase of dataset construction in one or more <span class="wintitle"> Transformation Dataset Include </span> files. For information, see <a href="../../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-trans-dataset-inc-files.md#concept-c64aa78ed9ce40b8a0f4932c82ff5ace"> Transformation Dataset Include Files </a>. </td> 
    </tr> 
    <tr> 
       <td colname="col1"> Time Zone </td> 
-      <td colname="col2"> <p>Time zone of the dataset profile. Time zones are used for time conversions and for creating time dimensions. See <a href="../../../home/c-dataset-const-proc/c-trans-config-file/c-spec-trans-param/c-time-zones.md#concept-9cf16b1cb4874f7d85e1dd950fdb4956" format="dita" scope="local"> Time Zones </a>. </p> <p> <p>Note:  When defined in the <span class="filepath"> Log Processing.cfg </span> file, the Time Zone parameter is used for time conversions only. </p> </p> </td> 
+      <td colname="col2"> <p>Time zone of the dataset profile. Time zones are used for time conversions and for creating time dimensions. See <a href="../../../home/c-dataset-const-proc/c-trans-config-file/c-spec-trans-param/c-time-zones.md#concept-9cf16b1cb4874f7d85e1dd950fdb4956"> Time Zones </a>. </p> <p> <p>Note:  When defined in the <span class="filepath"> Log Processing.cfg </span> file, the Time Zone parameter is used for time conversions only. </p> </p> </td> 
    </tr> 
    </tbody> 
    </table>

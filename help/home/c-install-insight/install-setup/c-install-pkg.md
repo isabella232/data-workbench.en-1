@@ -67,7 +67,7 @@ Data Files (** [!DNL Insight.cfg]**, Profiles, Certificates, trace logs, and use
  <tbody> 
   <tr> 
    <td colname="col1"> <b> <span class="filepath"> Insight.cfg </span> </b> </td> 
-   <td colname="col2"> The Data Workbench configuration file. Defines parameters within which Data Workbench operates. See <a href="../../../home/c-install-insight/install-setup/c-conn-isvr.md#concept-9f47b2cd7c12492693a2cf810cfc1d9e" format="dita" scope="local"> Configuring the Connection to Insight Server </a>. </td> 
+   <td colname="col2"> The Data Workbench configuration file. Defines parameters within which Data Workbench operates. See <a href="../../../home/c-install-insight/install-setup/c-conn-isvr.md#concept-9f47b2cd7c12492693a2cf810cfc1d9e"> Configuring the Connection to Insight Server </a>. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <b> <span class="filepath"> Base </span> </b> </td> 
@@ -75,7 +75,7 @@ Data Files (** [!DNL Insight.cfg]**, Profiles, Certificates, trace logs, and use
   </tr> 
   <tr> 
    <td colname="col1"> <b> <span class="filepath"> Certificates </span> </b> </td> 
-   <td colname="col2"> Contains the certificate file, <span class="filepath"> trust_ca_cert.pem </span>, and the named user digital certificate for Data Workbench. See <a href="../../../home/c-install-insight/install-setup/c-dgtl-crtf.md#concept-4c6a900074d4464fb6ec7862f7e54f10" format="dita" scope="local"> Downloading and Installing the Digital Certificate </a>. </td> 
+   <td colname="col2"> Contains the certificate file, <span class="filepath"> trust_ca_cert.pem </span>, and the named user digital certificate for Data Workbench. See <a href="../../../home/c-install-insight/install-setup/c-dgtl-crtf.md#concept-4c6a900074d4464fb6ec7862f7e54f10"> Downloading and Installing the Digital Certificate </a>. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <b> <span class="filepath"> Configuration </span> </b> </td> 

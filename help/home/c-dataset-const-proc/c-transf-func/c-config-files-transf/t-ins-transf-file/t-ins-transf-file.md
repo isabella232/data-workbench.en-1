@@ -44,7 +44,7 @@ If the data that you want to export is processed by a data workbench server clus
       <ul id="ul_C8C7F0F631594F7095CB83EF54E7CD0E"> 
         <li id="li_77AB6EEE8EEC4698AA886DE8BB0E2783"> January 1 2013HH:MM:SS EDT </li> 
         <li id="li_33806070F991476BB986906876CAF7F1"> Jan 1 2013 HH:MM:SS GMT </li> 
-      </ul> </p> <p> For example, specifying July 29 2013 00:00:00 EDT as the <span class="wintitle"> End Time </span> includes data through July 28, 2013, at 11:59:59 PM EDT. </p> <p> You must specify a time zone. The time zone does not default to GMT if not specified. For a list of time zone abbreviations supported by the data workbench server, see <a href="../../../../../home/c-dataset-const-proc/c-time-zone.md#concept-9b540ec3e770490d94e9d5a985765477" format="dita" scope="local"> Time Zone Codes </a>. </p> <p> The Use Start/End Times parameter for Sensor and log file sources is related to this parameter. </p> </td> 
+      </ul> </p> <p> For example, specifying July 29 2013 00:00:00 EDT as the <span class="wintitle"> End Time </span> includes data through July 28, 2013, at 11:59:59 PM EDT. </p> <p> You must specify a time zone. The time zone does not default to GMT if not specified. For a list of time zone abbreviations supported by the data workbench server, see <a href="../../../../../home/c-dataset-const-proc/c-time-zone.md#concept-9b540ec3e770490d94e9d5a985765477"> Time Zone Codes </a>. </p> <p> The Use Start/End Times parameter for Sensor and log file sources is related to this parameter. </p> </td> 
     </tr> 
     <tr> 
     <td colname="col1"> Exporters </td> 
@@ -53,7 +53,7 @@ If the data that you want to export is processed by a data workbench server clus
         <li id="li_635FB271D0544D52B1C31740442D2E08"> ExportTextFile </li> 
         <li id="li_D496194848B44823A58890E03FFDD18E"> ExportDelimitedTextFile </li> 
         <li id="li_AEE9AA87076141FC91330D3FCFAB2101"> ExportVSLFile </li> 
-      </ul> </p> <p> For more information about exporter types, see <a href="../../../../../home/c-dataset-const-proc/c-transf-func/c-config-files-transf/t-ins-transf-file/t-def-exp.md#task-900c40d1914347f288587bf0ca394ff2" format="dita" scope="local"> Defining Exporters </a>. </p> </td> 
+      </ul> </p> <p> For more information about exporter types, see <a href="../../../../../home/c-dataset-const-proc/c-transf-func/c-config-files-transf/t-ins-transf-file/t-def-exp.md#task-900c40d1914347f288587bf0ca394ff2"> Defining Exporters </a>. </p> </td> 
     </tr> 
     <tr> 
     <td colname="col1"> Hash Threshold </td> 
@@ -61,11 +61,11 @@ If the data that you want to export is processed by a data workbench server clus
     </tr> 
     <tr> 
     <td colname="col1"> Log Entry Condition </td> 
-    <td colname="col2"> Optional. Defines the rules by which log entries are considered for export. For more information about the <span class="wintitle"> Log Entry Condition </span>, see <a href="../../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-proc-config-file.md#concept-20e3148be47841a1b33ae55d23667d33" format="dita" scope="local"> Log Processing Configuration File </a>. </td> 
+    <td colname="col2"> Optional. Defines the rules by which log entries are considered for export. For more information about the <span class="wintitle"> Log Entry Condition </span>, see <a href="../../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-proc-config-file.md#concept-20e3148be47841a1b33ae55d23667d33"> Log Processing Configuration File </a>. </td> 
     </tr> 
     <tr> 
     <td colname="col1"> Log Sources </td> 
-    <td colname="col2"> <p>The sources of data. <span class="wintitle"> Log sources </span> can be <span class="filepath"> .vsl </span> files, log files, or XML files or data from ODBC-compliant databases. For information about <span class="wintitle"> log sources </span>, see <a href="../../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-proc-config-file.md#concept-20e3148be47841a1b33ae55d23667d33" format="dita" scope="local"> Log Processing Configuration File </a>. </p> <p> <span class="wintitle"> Transform </span> expects all source data to be in chronological order within lexicographically ordered input files. If this requirement is not satisfied, As Of calculations are incorrect, and additional input data may be processed after the output files are closed. </p> </td> 
+    <td colname="col2"> <p>The sources of data. <span class="wintitle"> Log sources </span> can be <span class="filepath"> .vsl </span> files, log files, or XML files or data from ODBC-compliant databases. For information about <span class="wintitle"> log sources </span>, see <a href="../../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-proc-config-file.md#concept-20e3148be47841a1b33ae55d23667d33"> Log Processing Configuration File </a>. </p> <p> <span class="wintitle"> Transform </span> expects all source data to be in chronological order within lexicographically ordered input files. If this requirement is not satisfied, As Of calculations are incorrect, and additional input data may be processed after the output files are closed. </p> </td> 
     </tr> 
     <tr> 
     <td colname="col1"> Offline Mode </td> 
@@ -73,7 +73,7 @@ If the data that you want to export is processed by a data workbench server clus
     </tr> 
     <tr> 
     <td colname="col1"> Reprocess </td> 
-    <td colname="col2"> <p>Optional. Any character or combination of characters can be entered here. Changing this parameter and saving the file to the <span class="wintitle"> Transform </span> machine initiates data reprocessing. </p> <p> For information about reprocessing your data, see <a href="../../../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823" format="dita" scope="local"> Reprocessing and Retransformation </a>. </p> </td> 
+    <td colname="col2"> <p>Optional. Any character or combination of characters can be entered here. Changing this parameter and saving the file to the <span class="wintitle"> Transform </span> machine initiates data reprocessing. </p> <p> For information about reprocessing your data, see <a href="../../../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823"> Reprocessing and Retransformation </a>. </p> </td> 
     </tr> 
     <tr> 
     <td colname="col1"> Stages </td> 
@@ -84,7 +84,7 @@ If the data that you want to export is processed by a data workbench server clus
       </ul> <p> <b>To delete an existing processing stage</b> </p> 
       <ul id="ul_4950BC26E0CD4837A4CB377605A52D3C"> 
       <li id="li_A61E2C17966E4F96A1256B8390623B0F"> Right-click the number corresponding to the stage that you want to delete and click <span class="uicontrol"> Remove </span><i>&lt; <span class="uicontrol"> #stage_number </span>&gt;</i>. </li> 
-      </ul> <p> <p>Note:  When you specify a Stage in a <span class="wintitle"> Log Processing Dataset Include </span> file the name of the stage must match exactly the name that you enter here. For more information about dataset include files, see <a href="../../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-dataset-inc-files.md#concept-a9b6a30edfc942b0b2a2888a0a8989df" format="dita" scope="local"> Dataset Include Files </a>. </p> </p> </td> 
+      </ul> <p> <p>Note:  When you specify a Stage in a <span class="wintitle"> Log Processing Dataset Include </span> file the name of the stage must match exactly the name that you enter here. For more information about dataset include files, see <a href="../../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-dataset-inc-files.md#concept-a9b6a30edfc942b0b2a2888a0a8989df"> Dataset Include Files </a>. </p> </p> </td> 
     </tr> 
     <tr> 
     <td colname="col1"> Start Time </td> 
@@ -92,11 +92,11 @@ If the data that you want to export is processed by a data workbench server clus
       <ul id="ul_8F9B82A8AE7F45BE8C7949D2E96C7BEC"> 
       <li id="li_8F7BCFF251CB4F1B87DDA1A259FA9C7B"> January 1 2013 HH:MM:SS EDT </li> 
       <li id="li_4BCE317EE1914074B3642687CFED5FC2"> Jan 1 2013 HH:MM:SS GMT </li> 
-      </ul> <p> For example, specifying July 29 2013 00:00:00 EDT as the Start Time includes data starting from July 29, 2013, at 12:00:00 AM EDT. </p> <p> You must specify a time zone. The time zone does not default to GMT if not specified. For a list of time zone abbreviations supported by the data workbench server, see <a href="../../../../../home/c-dataset-const-proc/c-time-zone.md#concept-9b540ec3e770490d94e9d5a985765477" format="dita" scope="local"> Time Zone Codes </a>. </p> <p> <p>Note:  The Use Start/End Times parameter for Sensor and log file sources is related to this parameter. </p> </p> </td> 
+      </ul> <p> For example, specifying July 29 2013 00:00:00 EDT as the Start Time includes data starting from July 29, 2013, at 12:00:00 AM EDT. </p> <p> You must specify a time zone. The time zone does not default to GMT if not specified. For a list of time zone abbreviations supported by the data workbench server, see <a href="../../../../../home/c-dataset-const-proc/c-time-zone.md#concept-9b540ec3e770490d94e9d5a985765477"> Time Zone Codes </a>. </p> <p> <p>Note:  The Use Start/End Times parameter for Sensor and log file sources is related to this parameter. </p> </p> </td> 
     </tr> 
     <tr> 
     <td colname="col1"> Transformations </td> 
-    <td colname="col2"> <p>Optional. Defines the transformations that are to be applied to the data. For information about the available transformation types, see <a href="../../../../../home/c-dataset-const-proc/c-data-trans/c-data-trans.md#concept-99c6f5e6e5194adb9e98afdc0e91cf38" format="dita" scope="local"> Data Transformations </a>. </p> <p> <p>Note:  The following transformation types do not work when defined in the data workbench <span class="filepath"> Transform.cfg </span> file: </p> </p> 
+    <td colname="col2"> <p>Optional. Defines the transformations that are to be applied to the data. For information about the available transformation types, see <a href="../../../../../home/c-dataset-const-proc/c-data-trans/c-data-trans.md#concept-99c6f5e6e5194adb9e98afdc0e91cf38"> Data Transformations </a>. </p> <p> <p>Note:  The following transformation types do not work when defined in the data workbench <span class="filepath"> Transform.cfg </span> file: </p> </p> 
       <ul id="ul_B091DFBD1C33471BBC01AEC7E92FC8CC"> 
       <li id="li_660EBECFC407488199CCCC886326806D"> AppendURI </li> 
       <li id="li_56BCEBE4A2D044AE87F5B747C6501817"> CrossRows </li> 

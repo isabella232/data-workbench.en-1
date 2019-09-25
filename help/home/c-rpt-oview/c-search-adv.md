@@ -32,7 +32,7 @@ The Report Portal provides a search feature to find reports based on a tree view
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Folder tree </p> </td> 
-   <td colname="col2"> <p>Select reports based on the custom hierarchy of report folders. These folders are defined and organized as a <a href="../../home/c-rpt-oview/c-work-rpt-sets/c-work-rpt-sets.md#concept-a5f078668e1245e684cb2a778c8803d5" format="dita" scope="local"> report set</a>. </p> </td> 
+   <td colname="col2"> <p>Select reports based on the custom hierarchy of report folders. These folders are defined and organized as a <a href="../../home/c-rpt-oview/c-work-rpt-sets/c-work-rpt-sets.md#concept-a5f078668e1245e684cb2a778c8803d5"> report set</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Date tree </p> </td> 

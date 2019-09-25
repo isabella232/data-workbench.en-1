@@ -50,7 +50,7 @@ Information about working with filter conditions including creating a new filter
   </tr> 
   <tr> 
    <td colname="col1"> <p>formula </p> </td> 
-   <td colname="col2"> <p>Defines a filter condition based on the formula that you enter. You must use the appropriate syntax for the filter to work. </p> <p> <p>Note: For information about the syntax for defining filters, see <a href="../../../../home/c-get-started/c-qry-lang-syntx/c-syntx-fltr-exp.md#concept-72f2563f809747a2a3cff7ec72462a15" format="dita" scope="local"> Syntax for Filter Expressions</a>. </p> </p> </td> 
+   <td colname="col2"> <p>Defines a filter condition based on the formula that you enter. You must use the appropriate syntax for the filter to work. </p> <p> <p>Note: For information about the syntax for defining filters, see <a href="../../../../home/c-get-started/c-qry-lang-syntx/c-syntx-fltr-exp.md#concept-72f2563f809747a2a3cff7ec72462a15"> Syntax for Filter Expressions</a>. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>metric value </p> </td> 

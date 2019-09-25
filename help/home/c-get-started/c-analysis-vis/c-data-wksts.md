@@ -87,11 +87,11 @@ Data Workbench automatically updates the references in the new cell to refer to 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Indicator </p> </td> 
-   <td colname="col2"> <p>Creates a metric indicator using this cell. For more information, see <a href="../../../home/c-get-started/c-analysis-vis/c-wksts/c-metric-ind.md#concept-f0e911b23b2c4e8da3e1ea7b9ae04183" format="dita" scope="local"> Creating Metric Indicators</a>. </p> <p>Click <span class="uicontrol"> Default</span> to remove the selected formatting. </p> </td> 
+   <td colname="col2"> <p>Creates a metric indicator using this cell. For more information, see <a href="../../../home/c-get-started/c-analysis-vis/c-wksts/c-metric-ind.md#concept-f0e911b23b2c4e8da3e1ea7b9ae04183"> Creating Metric Indicators</a>. </p> <p>Click <span class="uicontrol"> Default</span> to remove the selected formatting. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Input Cell </p> </td> 
-   <td colname="col2"> <p>Makes the selected cell an input cell. For more information, see <a href="../../../home/c-get-started/c-analysis-vis/c-wksts/c-input-cells.md#concept-08cd2c05a28a43dd9f7698b37e23e590" format="dita" scope="local"> Creating Input Cells</a>. </p> <p>Click <span class="uicontrol"> Default</span> to remove the selected formatting. </p> </td> 
+   <td colname="col2"> <p>Makes the selected cell an input cell. For more information, see <a href="../../../home/c-get-started/c-analysis-vis/c-wksts/c-input-cells.md#concept-08cd2c05a28a43dd9f7698b37e23e590"> Creating Input Cells</a>. </p> <p>Click <span class="uicontrol"> Default</span> to remove the selected formatting. </p> </td> 
   </tr> 
  </tbody> 
 </table>

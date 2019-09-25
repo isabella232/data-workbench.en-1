@@ -53,7 +53,7 @@ To configure a segment for export, you must open and edit a [!DNL .export] file.
   </tr> 
   <tr> 
    <td colname="col1"> Filter </td> 
-   <td colname="col2"> <p>Optional. A named filter or a filter expression. You can either create a named filter using a filter editor, then type the name of that filter here, or you can type a filter expression itself. </p> <p>For more information about filter editors, see <a href="../../../home/c-get-started/c-analysis-vis/c-filter-editors/c-filter-editors.md#concept-2f343ecbed8240f18b0c1f1eccef11e3" format="dita" scope="local"> Filter Editors </a>. For more information about filter expression syntax, see <a href="../../../home/c-get-started/c-qry-lang-syntx/c-syntx-fltr-exp.md#concept-72f2563f809747a2a3cff7ec72462a15" format="dita" scope="local"> Syntax for Filter Expressions </a>. </p> <p>Elements of Level that match the filter are exported, while all other elements are not. </p> </td> 
+   <td colname="col2"> <p>Optional. A named filter or a filter expression. You can either create a named filter using a filter editor, then type the name of that filter here, or you can type a filter expression itself. </p> <p>For more information about filter editors, see <a href="../../../home/c-get-started/c-analysis-vis/c-filter-editors/c-filter-editors.md#concept-2f343ecbed8240f18b0c1f1eccef11e3"> Filter Editors </a>. For more information about filter expression syntax, see <a href="../../../home/c-get-started/c-qry-lang-syntx/c-syntx-fltr-exp.md#concept-72f2563f809747a2a3cff7ec72462a15"> Syntax for Filter Expressions </a>. </p> <p>Elements of Level that match the filter are exported, while all other elements are not. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Level </td> 
@@ -65,7 +65,7 @@ To configure a segment for export, you must open and edit a [!DNL .export] file.
   </tr> 
   <tr> 
    <td colname="col1"> Output Format </td> 
-   <td colname="col2"> The metric or dimension data to be exported for each Level element. If the output is a tab-delimited file, the fields should be separated by Tab characters, and the format should end with the appropriate new-line characters. For more information, see <a href="../../../home/c-get-started/c-exp-data-seg-exp/c-abt-otpt-frmt.md#concept-ac7e24d1374a4b418365db7cc98c361e" format="dita" scope="local"> About the Output Format </a>. </td> 
+   <td colname="col2"> The metric or dimension data to be exported for each Level element. If the output is a tab-delimited file, the fields should be separated by Tab characters, and the format should end with the appropriate new-line characters. For more information, see <a href="../../../home/c-get-started/c-exp-data-seg-exp/c-abt-otpt-frmt.md#concept-ac7e24d1374a4b418365db7cc98c361e"> About the Output Format </a>. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Schedule End Time </td> 

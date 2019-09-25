@@ -56,7 +56,7 @@ To configure the retrieval of data from a [!DNL Repeater] to a target [!DNL Insi
    </tr> 
    <tr> 
       <td colname="col1"> Remote URI </td> 
-      <td colname="col2">The URI, including a file mask, to access the <span class="wintitle"> Repeater’s</span> file store. The <span class="filepath"> Communications.cfg</span> file on the <span class="wintitle"> Repeater</span> should be configured so that the event data can be accessed using this URI. See <a href="../../../home/c-inst-svr/c-admin-inst-svr/c-mntr-disk-spc/t-mntr-evt-data-spc.md#task-a54d4bd16b96437f943cd09e5d848440" format="dita" scope="local"> Monitoring Event Data Space</a>. </td> 
+      <td colname="col2">The URI, including a file mask, to access the <span class="wintitle"> Repeater’s</span> file store. The <span class="filepath"> Communications.cfg</span> file on the <span class="wintitle"> Repeater</span> should be configured so that the event data can be accessed using this URI. See <a href="../../../home/c-inst-svr/c-admin-inst-svr/c-mntr-disk-spc/t-mntr-evt-data-spc.md#task-a54d4bd16b96437f943cd09e5d848440"> Monitoring Event Data Space</a>. </td> 
    </tr> 
    <tr> 
       <td colname="col1"> Server </td> 
@@ -92,7 +92,7 @@ To configure the retrieval of data from a [!DNL Repeater] to a target [!DNL Insi
       <ul id="ul_AE15A159A4C043398B37AD56FDFD9DCA">
       <li id="li_4DEF0F13D13E43E39CBD1A0F32765F32">January 1 2013 HH:MM:SS EDT </li>
       <li id="li_E3275312E93D4C1FAA028543DC21B51A">Jan 1 2013 HH:MM:SS GMT </li>
-      </ul></p> <p> <p>Note: You must specify a time zone. The time zone does not default to system time if not specified. If you wish to implement Daylight Saving Time or a similar clock-shifting policy, you must save the <span class="filepath"> .dst</span> file containing the appropriate rules in the Base\Dataset\Timezone directory on the <span class="keyword"> Insight Server</span> machine. For a list of supported time zone abbreviations and information about implementing Daylight Saving Time, see <a href="../../../home/c-inst-svr/c-time-zn-cds.md#concept-eed5ba32d5d347cf94b76db83b29f211" format="dita" scope="local"> Time Zone Codes</a>. </p> </p> <p> <p>Note:  To use these settings, the names of the event data files must begin with an ISO date (YYYYMMDD), and each file must contain data for the 24-hour period starting at 12 AM GMT on that date. </p> </p> </td> 
+      </ul></p> <p> <p>Note: You must specify a time zone. The time zone does not default to system time if not specified. If you wish to implement Daylight Saving Time or a similar clock-shifting policy, you must save the <span class="filepath"> .dst</span> file containing the appropriate rules in the Base\Dataset\Timezone directory on the <span class="keyword"> Insight Server</span> machine. For a list of supported time zone abbreviations and information about implementing Daylight Saving Time, see <a href="../../../home/c-inst-svr/c-time-zn-cds.md#concept-eed5ba32d5d347cf94b76db83b29f211"> Time Zone Codes</a>. </p> </p> <p> <p>Note:  To use these settings, the names of the event data files must begin with an ISO date (YYYYMMDD), and each file must contain data for the 24-hour period starting at 12 AM GMT on that date. </p> </p> </td> 
    </tr> 
    </tbody> 
    </table>

@@ -26,7 +26,7 @@ Notes:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Identifier </p> </td> 
-   <td colname="col2"> <p>An identifier references a named metric. For the rules governing legal identifiers, see <a href="../../../home/c-get-started/c-qry-lang-syntx/c-syntx-id.md#concept-735fa36fc49643269b3646aaaa8f2fa8" format="dita" scope="local"> Syntax for Identifiers </a>. </p> <p>Example: Revenue = Total_Price </p> </td> 
+   <td colname="col2"> <p>An identifier references a named metric. For the rules governing legal identifiers, see <a href="../../../home/c-get-started/c-qry-lang-syntx/c-syntx-id.md#concept-735fa36fc49643269b3646aaaa8f2fa8"> Syntax for Identifiers </a>. </p> <p>Example: Revenue = Total_Price </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>(Metric) </p> </td> 

@@ -46,15 +46,15 @@ In a workspace, click **[!UICONTROL Export]**.
   </tr> 
   <tr> 
    <td colname="col1"> Export PNG </td> 
-   <td colname="col2">Saves a snapshot of a workspace in Portable Network Graphic format (<span class="filepath"> .png</span> file). See <a href="../../../home/c-get-started/c-work-worksp/c-ex-wksp.md#section-f9fbe0f0a1c341e2b063cce106cac35e" format="dita" scope="local"> Exporting Workspaces as PNG Files</a>. </td> 
+   <td colname="col2">Saves a snapshot of a workspace in Portable Network Graphic format (<span class="filepath"> .png</span> file). See <a href="../../../home/c-get-started/c-work-worksp/c-ex-wksp.md#section-f9fbe0f0a1c341e2b063cce106cac35e"> Exporting Workspaces as PNG Files</a>. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Excel </td> 
-   <td colname="col2">If Microsoft Excel is installed on the Data Workbench machine, automatically starts Microsoft Excel and exports the data from certain visualizations, certain legends, and text annotations to a new Excel file (<span class="filepath"> .xls</span> or <span class="filepath"> .xlsx</span>). See <a href="../../../home/c-get-started/c-work-worksp/c-ex-wksp.md#section-fe214e3dbc364d2eba3834d62d295acb" format="dita" scope="local"> Exporting Workspace Data to Microsoft Excel</a>. </td> 
+   <td colname="col2">If Microsoft Excel is installed on the Data Workbench machine, automatically starts Microsoft Excel and exports the data from certain visualizations, certain legends, and text annotations to a new Excel file (<span class="filepath"> .xls</span> or <span class="filepath"> .xlsx</span>). See <a href="../../../home/c-get-started/c-work-worksp/c-ex-wksp.md#section-fe214e3dbc364d2eba3834d62d295acb"> Exporting Workspace Data to Microsoft Excel</a>. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Export (Excel) from Template </td> 
-   <td colname="col2">If Microsoft Excel is installed on the Data Workbench machine, automatically starts Microsoft Excel and exports the data from certain visualizations, certain legends, and text annotations to the template Excel file (<span class="filepath"> .xls</span> or <span class="filepath"> .xlsx</span>) that you select. See <a href="../../../home/c-get-started/c-work-worksp/c-ex-wksp.md#section-814772929ca64cf6b92b89d3fdd02302" format="dita" scope="local"> Exporting to a Template Excel File</a>. </td> 
+   <td colname="col2">If Microsoft Excel is installed on the Data Workbench machine, automatically starts Microsoft Excel and exports the data from certain visualizations, certain legends, and text annotations to the template Excel file (<span class="filepath"> .xls</span> or <span class="filepath"> .xlsx</span>) that you select. See <a href="../../../home/c-get-started/c-work-worksp/c-ex-wksp.md#section-814772929ca64cf6b92b89d3fdd02302"> Exporting to a Template Excel File</a>. </td> 
   </tr> 
  </tbody> 
 </table>

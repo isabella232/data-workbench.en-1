@@ -25,7 +25,7 @@ Dimension expressions are never used alone, but can be used anywhere a dimension
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Identifier </p> </td> 
-   <td colname="col2"> <p>An identifier references a named dimension. For the rules governing legal identifiers, see <a href="../../../home/c-get-started/c-qry-lang-syntx/c-syntx-id.md#concept-735fa36fc49643269b3646aaaa8f2fa8" format="dita" scope="local"> Syntax for Identifiers </a>. </p> <p>Example: Sessions[ Session_Number = “1” ] is the number of Sessions that had a Session Number of “1.” Session Number is a named dimension referenced by identifier. </p> </td> 
+   <td colname="col2"> <p>An identifier references a named dimension. For the rules governing legal identifiers, see <a href="../../../home/c-get-started/c-qry-lang-syntx/c-syntx-id.md#concept-735fa36fc49643269b3646aaaa8f2fa8"> Syntax for Identifiers </a>. </p> <p>Example: Sessions[ Session_Number = “1” ] is the number of Sessions that had a Session Number of “1.” Session Number is a named dimension referenced by identifier. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>(Dimension) </p> </td> 
@@ -57,7 +57,7 @@ Dimension expressions are never used alone, but can be used anywhere a dimension
   </tr> 
   <tr> 
    <td colname="col1"> <p>latency(Level, Clip, Dim, Filter, MaxBefore, MaxAfter, FormatString) </p> </td> 
-   <td colname="col2"> <p>See <a href="../../../home/c-get-started/c-intf-anlys-ftrs/c-config-ltcy-tbls/t-create-ltncy-dims.md#task-6d46ea8c89a047318d9c71bf105ef64a" format="dita" scope="local"> Creating Latency Dimensions </a>. </p> </td> 
+   <td colname="col2"> <p>See <a href="../../../home/c-get-started/c-intf-anlys-ftrs/c-config-ltcy-tbls/t-create-ltncy-dims.md#task-6d46ea8c89a047318d9c71bf105ef64a"> Creating Latency Dimensions </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>cartesian_product(Separator {,Dim}*) </p> </td> 

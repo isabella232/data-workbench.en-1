@@ -65,19 +65,19 @@ The following tables describe the information provided when you right-click a no
   </tr> 
   <tr> 
    <td colname="col1"> <p>Detailed Status </p> </td> 
-   <td colname="col2"> <p>A link to the <span class="keyword"> Data Workbench server </span> <span class="wintitle"> Detailed Status </span> interface, which is useful for troubleshooting errors or other issues with the Data Workbench server. </p> <p>For more information, see <a href="../../../home/c-get-started/c-admin-intrf/c-det-stat-interf.md#concept-99c2c8374c17448db8a646f8d77bf72c" format="dita" scope="local"> The Detailed Status Interface </a>. </p> </td> 
+   <td colname="col2"> <p>A link to the <span class="keyword"> Data Workbench server </span> <span class="wintitle"> Detailed Status </span> interface, which is useful for troubleshooting errors or other issues with the Data Workbench server. </p> <p>For more information, see <a href="../../../home/c-get-started/c-admin-intrf/c-det-stat-interf.md#concept-99c2c8374c17448db8a646f8d77bf72c"> The Detailed Status Interface </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Remote Desktop </p> </td> 
-   <td colname="col2"> <p>Opens a <span class="wintitle"> Remote Desktop </span> session to the Data Workbench server computer. </p> <p>For more information, see <a href="../../../home/c-get-started/c-admin-intrf/t-rmt-dsktp-opt.md#task-dc0bdb4630474a17af67b931bc22d9ef" format="dita" scope="local"> The Remote Desktop Option </a>. </p> </td> 
+   <td colname="col2"> <p>Opens a <span class="wintitle"> Remote Desktop </span> session to the Data Workbench server computer. </p> <p>For more information, see <a href="../../../home/c-get-started/c-admin-intrf/t-rmt-dsktp-opt.md#task-dc0bdb4630474a17af67b931bc22d9ef"> The Remote Desktop Option </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Server Files </p> </td> 
-   <td colname="col2"> <p>A link to the <span class="wintitle"> Server Files Manager </span>, which displays the directories and files in the Data Workbench server installation directory. </p> <p>For more information, see <a href="../../../home/c-get-started/c-admin-intrf/c-svr-files-mgr.md#concept-73a0808487c8424285ae7302f53bc5f4" format="dita" scope="local"> The Server Files Manager </a>. </p> </td> 
+   <td colname="col2"> <p>A link to the <span class="wintitle"> Server Files Manager </span>, which displays the directories and files in the Data Workbench server installation directory. </p> <p>For more information, see <a href="../../../home/c-get-started/c-admin-intrf/c-svr-files-mgr.md#concept-73a0808487c8424285ae7302f53bc5f4"> The Server Files Manager </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Server Monitor </p> </td> 
-   <td colname="col2"> <p>A link to the <span class="wintitle"> Server Monitor </span> interface, which is useful for troubleshooting or tracking performance parameters. </p> <p>For more information, see <a href="../../../home/c-get-started/c-admin-intrf/c-svr-mtr-intfc.md#concept-3bea7441de20409585e63060d5489f45" format="dita" scope="local"> The Server Monitor Interface </a>. </p> </td> 
+   <td colname="col2"> <p>A link to the <span class="wintitle"> Server Monitor </span> interface, which is useful for troubleshooting or tracking performance parameters. </p> <p>For more information, see <a href="../../../home/c-get-started/c-admin-intrf/c-svr-mtr-intfc.md#concept-3bea7441de20409585e63060d5489f45"> The Server Monitor Interface </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Related Servers </p> </td> 
@@ -86,10 +86,10 @@ The following tables describe the information provided when you right-click a no
       <li id="li_90094B46CB304C179136BB75FF0D6DBD"> <span class="uicontrol"> Server Monitor List </span>, which displays the <span class="wintitle"> Server Monitor </span> interface listing details for all of the related servers </li> 
       <li id="li_CD6FF5BB52874ABCB536C2DE2376587A">The common name of any Data Workbench server, which displays a context menu that enables you to open any of the following for that particular server: 
        <ul id="ul_928510D1DE68471583F2EE7547AEB824"> 
-        <li id="li_8399338137354A59B9B4D24AF7EEE868"> <span class="uicontrol"> Detailed Status </span>. See <a href="../../../home/c-get-started/c-admin-intrf/c-det-stat-interf.md#concept-99c2c8374c17448db8a646f8d77bf72c" format="dita" scope="local"> The Detailed Status Interface </a>. </li> 
-        <li id="li_0FE569C56B3F4583BC1F3DF3B4F55765"> <span class="uicontrol"> Remote Desktop </span>. See <a href="../../../home/c-get-started/c-admin-intrf/t-rmt-dsktp-opt.md#task-dc0bdb4630474a17af67b931bc22d9ef" format="dita" scope="local"> The Remote Desktop Option </a>. </li> 
-        <li id="li_2B6F8419CB5945C9B411F6A7C2C859FF"> <span class="uicontrol"> Server Files Manager </span>. See <a href="../../../home/c-get-started/c-admin-intrf/c-svr-files-mgr.md#concept-73a0808487c8424285ae7302f53bc5f4" format="dita" scope="local"> The Server Files Manager </a>. </li> 
-        <li id="li_F22F974EB4DE4F0F93623AE98C7DCEBC"> <span class="uicontrol"> Server Monitor </span>. See <a href="../../../home/c-get-started/c-admin-intrf/c-svr-mtr-intfc.md#concept-3bea7441de20409585e63060d5489f45" format="dita" scope="local"> The Server Monitor Interface </a>. </li> 
+        <li id="li_8399338137354A59B9B4D24AF7EEE868"> <span class="uicontrol"> Detailed Status </span>. See <a href="../../../home/c-get-started/c-admin-intrf/c-det-stat-interf.md#concept-99c2c8374c17448db8a646f8d77bf72c"> The Detailed Status Interface </a>. </li> 
+        <li id="li_0FE569C56B3F4583BC1F3DF3B4F55765"> <span class="uicontrol"> Remote Desktop </span>. See <a href="../../../home/c-get-started/c-admin-intrf/t-rmt-dsktp-opt.md#task-dc0bdb4630474a17af67b931bc22d9ef"> The Remote Desktop Option </a>. </li> 
+        <li id="li_2B6F8419CB5945C9B411F6A7C2C859FF"> <span class="uicontrol"> Server Files Manager </span>. See <a href="../../../home/c-get-started/c-admin-intrf/c-svr-files-mgr.md#concept-73a0808487c8424285ae7302f53bc5f4"> The Server Files Manager </a>. </li> 
+        <li id="li_F22F974EB4DE4F0F93623AE98C7DCEBC"> <span class="uicontrol"> Server Monitor </span>. See <a href="../../../home/c-get-started/c-admin-intrf/c-svr-mtr-intfc.md#concept-3bea7441de20409585e63060d5489f45"> The Server Monitor Interface </a>. </li> 
        </ul> </li> 
      </ul> </p> </td> 
   </tr> 

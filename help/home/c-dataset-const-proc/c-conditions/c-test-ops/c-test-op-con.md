@@ -68,7 +68,7 @@ The parameters of the [!DNL Compare] condition are described in the following ta
   </tr> 
   <tr> 
    <td colname="col1"> Type </td> 
-   <td colname="col2">The type of comparison to be made. Available types are <span class="wintitle"> LEXICAL</span>, <span class="wintitle"> NUMERIC</span>, and <span class="wintitle"> DATETIME</span>. For descriptions of the types, see <a href="../../../../home/c-dataset-const-proc/c-conditions/c-test-ops/c-test-types.md#concept-a9fca97a2f03464cb0cbab8b5f809d0a" format="dita" scope="local"> Test Types for Test Operations</a>. </td> 
+   <td colname="col2">The type of comparison to be made. Available types are <span class="wintitle"> LEXICAL</span>, <span class="wintitle"> NUMERIC</span>, and <span class="wintitle"> DATETIME</span>. For descriptions of the types, see <a href="../../../../home/c-dataset-const-proc/c-conditions/c-test-ops/c-test-types.md#concept-a9fca97a2f03464cb0cbab8b5f809d0a"> Test Types for Test Operations</a>. </td> 
    <td colname="col3"> <span class="wintitle"> LEXICAL</span> </td> 
   </tr> 
  </tbody> 
@@ -125,17 +125,17 @@ The parameters of the [!DNL Range] condition are described in the following tabl
   </tr> 
   <tr> 
    <td colname="col1"> Min </td> 
-   <td colname="col2"> <p>Lower bound of range. </p> <p> This parameter's value must be a literal value or a string - not a field name. If you use a date for this field, you must specify a time zone. For a list of supported time zone abbreviations, see <a href="../../../../home/c-dataset-const-proc/c-time-zone.md#concept-9b540ec3e770490d94e9d5a985765477" format="dita" scope="local"> Time Zone Codes</a>. </p> </td> 
+   <td colname="col2"> <p>Lower bound of range. </p> <p> This parameter's value must be a literal value or a string - not a field name. If you use a date for this field, you must specify a time zone. For a list of supported time zone abbreviations, see <a href="../../../../home/c-dataset-const-proc/c-time-zone.md#concept-9b540ec3e770490d94e9d5a985765477"> Time Zone Codes</a>. </p> </td> 
    <td colname="col3"> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Max </td> 
-   <td colname="col2"> <p>Upper bound of range. </p> <p> <p>Note: This parameter's value must be a literal value or a string - not a field name. If you use a date for this field, you must specify a time zone. For a list of supported time zone abbreviations, see <a href="../../../../home/c-dataset-const-proc/c-time-zone.md#concept-9b540ec3e770490d94e9d5a985765477" format="dita" scope="local"> Time Zone Codes</a>. </p> </p> </td> 
+   <td colname="col2"> <p>Upper bound of range. </p> <p> <p>Note: This parameter's value must be a literal value or a string - not a field name. If you use a date for this field, you must specify a time zone. For a list of supported time zone abbreviations, see <a href="../../../../home/c-dataset-const-proc/c-time-zone.md#concept-9b540ec3e770490d94e9d5a985765477"> Time Zone Codes</a>. </p> </p> </td> 
    <td colname="col3"> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Type </td> 
-   <td colname="col2">The type of comparison to be made. Available types are <span class="wintitle"> LEXICAL</span>, <span class="wintitle"> NUMERIC</span>, and <span class="wintitle"> DATETIME</span>. For descriptions of the types, see <a href="../../../../home/c-dataset-const-proc/c-conditions/c-test-ops/c-test-types.md#concept-a9fca97a2f03464cb0cbab8b5f809d0a" format="dita" scope="local"> Test Types for Test Operations</a>. </td> 
+   <td colname="col2">The type of comparison to be made. Available types are <span class="wintitle"> LEXICAL</span>, <span class="wintitle"> NUMERIC</span>, and <span class="wintitle"> DATETIME</span>. For descriptions of the types, see <a href="../../../../home/c-dataset-const-proc/c-conditions/c-test-ops/c-test-types.md#concept-a9fca97a2f03464cb0cbab8b5f809d0a"> Test Types for Test Operations</a>. </td> 
    <td colname="col3"> </td> 
   </tr> 
  </tbody> 

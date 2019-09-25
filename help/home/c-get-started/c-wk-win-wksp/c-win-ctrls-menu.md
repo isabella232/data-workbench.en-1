@@ -39,15 +39,15 @@ These menu options vary by window type. The table in the following procedure con
   </tr> 
   <tr> 
    <td colname="col1"> Display As </td> 
-   <td colname="col2">(Available for tables only.) Displays the data in a table as numbers, bars, or both at the same time. See <a href="../../../home/c-get-started/c-analysis-vis/c-tables/c-chg-tbl-disp.md#concept-c515caeefce9495f88873a10dc112770" format="dita" scope="local"> Changing the Table Display</a>. </td> 
+   <td colname="col2">(Available for tables only.) Displays the data in a table as numbers, bars, or both at the same time. See <a href="../../../home/c-get-started/c-analysis-vis/c-tables/c-chg-tbl-disp.md#concept-c515caeefce9495f88873a10dc112770"> Changing the Table Display</a>. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Display </td> 
-   <td colname="col2">(Available for graphs only.) Displays the data in a graph as lines or bars. See <a href="../../../home/c-get-started/c-analysis-vis/c-graphs/c-chg-graph-disp.md#concept-eaba669d90f64cfa872f1397205fe2f7" format="dita" scope="local"> Changing the Graph Display</a>. </td> 
+   <td colname="col2">(Available for graphs only.) Displays the data in a graph as lines or bars. See <a href="../../../home/c-get-started/c-analysis-vis/c-graphs/c-chg-graph-disp.md#concept-eaba669d90f64cfa872f1397205fe2f7"> Changing the Graph Display</a>. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Fit to Window </td> 
-   <td colname="col2">Allows the contents of the window to automatically expand or shrink to fit the window each time you resize it. See <a href="../../../home/c-get-started/c-analysis-vis/c-annots/c-image-annots.md#concept-02081ed7d91c4fdcb8fc863f2a51c962" format="dita" scope="local"> Working with Image Annotations</a> and <a href="../../../home/c-get-started/c-analysis-vis/c-tables/c-fit-data-win.md#concept-b812b1171fc240d9a4cf6d6d57f621a6" format="dita" scope="local"> Fitting Data to the Window</a>. </td> 
+   <td colname="col2">Allows the contents of the window to automatically expand or shrink to fit the window each time you resize it. See <a href="../../../home/c-get-started/c-analysis-vis/c-annots/c-image-annots.md#concept-02081ed7d91c4fdcb8fc863f2a51c962"> Working with Image Annotations</a> and <a href="../../../home/c-get-started/c-analysis-vis/c-tables/c-fit-data-win.md#concept-b812b1171fc240d9a4cf6d6d57f621a6"> Fitting Data to the Window</a>. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Order </td> 
