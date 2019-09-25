@@ -27,16 +27,13 @@ Steps for editing the Transformation.cfg file for a dataset profile.
 
 1. Edit the parameters in the configuration file using the following table as a guide.
 
-       When editing the [!DNL Transformation.cfg] file within a data workbench window, you can use shortcut keys for basic editing features, including cut (Ctrl+x ), copy (Ctrl+c) , paste (Ctrl+v ), undo (Ctrl+z ), redo (Ctrl+Shift+z ), select section (click+drag), and select all (Ctrl+a ). In addition, you can use the shortcuts to copy and paste text from one configuration file ( [!DNL .cfg]) to another.
+   When editing the [!DNL Transformation.cfg] file within a data workbench window, you can use shortcut keys for basic editing features, including cut (Ctrl+x ), copy (Ctrl+c) , paste (Ctrl+v ), undo (Ctrl+z ), redo (Ctrl+Shift+z ), select section (click+drag), and select all (Ctrl+a ). In addition, you can use the shortcuts to copy and paste text from one configuration file ( [!DNL .cfg]) to another.
 
-       >[!NOTE]
-       >
-       >A [!DNL Transformation Dataset Include] files for an inherited profile contains a subset of the parameters described in the following table as well as some additional parameters. For information about [!DNL Transformation Dataset Include] files, see [Dataset Include Files](../../../home/c-dataset-const-proc/c-dataset-inc-files/c-dataset-inc-files.md#concept-a9b6a30edfc942b0b2a2888a0a8989df)
+   >[!NOTE]
+   >
+   >A [!DNL Transformation Dataset Include] files for an inherited profile contains a subset of the parameters described in the following table as well as some additional parameters. For information about [!DNL Transformation Dataset Include] files, see [Dataset Include Files](../../../home/c-dataset-const-proc/c-dataset-inc-files/c-dataset-inc-files.md#concept-a9b6a30edfc942b0b2a2888a0a8989df)
 
    <table id="table_5E184F67CCEC4421B2BBD4261711A6FE"> 
-   <desc> 
-   <b> <b> Transformation.cfg</b> </b> 
-   </desc> 
    <thead> 
    <tr> 
       <th colname="col1" class="entry"> Parameter </th> 
@@ -48,8 +45,8 @@ Steps for editing the Transformation.cfg file for a dataset profile.
       <td colname="col1"> End Time </td> 
       <td colname="col2"> <p>Optional. Filter data to include log entries with timestamps up to, but not including, this time. Adobe recommends using one of the following formats for the time: 
       <ul id="ul_1EC55DA4936946C98E447E1476E8280F"> 
-      <li id="li_F2D862833F4B451C965E1ED6C05DCE1B"> January 1 2013 HH:MM:SS EDT </li> 
-      <li id="li_EB7FFEB2E2C24EAFB8E4B14F2479DA3D"> Jan 1 2013 HH:MM:SS GMT </li> 
+       <li id="li_F2D862833F4B451C965E1ED6C05DCE1B"> January 1 2013 HH:MM:SS EDT </li> 
+       <li id="li_EB7FFEB2E2C24EAFB8E4B14F2479DA3D"> Jan 1 2013 HH:MM:SS GMT </li> 
       </ul> </p> <p> For example, specifying "July 29 2013 00:00:00 EDT" as the End Time includes data through July 28, 2013, at 11:59:59 PM EDT. </p> <p> You must specify a time zone. The time zone does not default to GMT if not specified. For a list of time zone abbreviations supported by the data workbench server, see <a href="../../../home/c-dataset-const-proc/c-time-zone.md#concept-9b540ec3e770490d94e9d5a985765477"> Time Zone Codes </a>. </p> <p> <p>Note:  If you specify a value for End Time, a parameter named End Time is set and applied throughout the transformation phase of dataset construction. For information about parameters, see <a href="../../../home/c-dataset-const-proc/c-dataset-inc-files/c-def-param-dataset-inc-files/c-def-param-dataset-inc-files.md#concept-5ad06acc8dc44bf2a99643fafdd56b50"> Defining Parameters in Dataset Include Files </a>. </p> </p> </td> 
    </tr> 
    <tr> 
@@ -80,19 +77,19 @@ Steps for editing the Transformation.cfg file for a dataset profile.
       <td colname="col1"> Stages </td> 
       <td colname="col2"> <p>Optional. The names of the processing stages that can be used in <span class="wintitle"> Transformation Dataset Include </span> files. Processing stages provide a way to order the transformations that are defined in <span class="wintitle"> Transformation Dataset Include </span> files. This parameter is very helpful if you have defined one or more transformations within multiple <span class="wintitle"> Transformation Dataset Include </span> files and you want specific transformations to be performed at specific points during transformation. </p> <p> The order in which you list the stages here determines the order in which the transformations in the <span class="wintitle"> Transformation Dataset Include </span> files are executed during transformation. <span class="wintitle"> Preprocessing </span> and <span class="wintitle"> Postprocessing </span> are built-in stages; <span class="wintitle"> Preprocessing </span> is always the first stage, and <span class="wintitle"> Postprocessing </span> is always the last stage. By default, there is one named stage called <span class="wintitle"> Default </span>. </p> <p> <b>To add a new processing stage</b> </p> <p> 
       <ul id="ul_6AF2EF72CEE34FA88575C46FA333BDA1"> 
-         <li id="li_80627E7A89CE4E57A4228C4F5496533F"> In the <span class="filepath"> Transformation.cfg </span> window, right-click <span class="uicontrol"> Stages </span> and click <span class="uicontrol"> Add New </span> &gt; <span class="uicontrol"> Stage </span>. </li> 
-         <li id="li_321BEDB1E95F4AA4B282EED32A4CA196"> Enter a name for the new stage. </li> 
+       <li id="li_80627E7A89CE4E57A4228C4F5496533F"> In the <span class="filepath"> Transformation.cfg </span> window, right-click <span class="uicontrol"> Stages </span> and click <span class="uicontrol"> Add New </span> &gt; <span class="uicontrol"> Stage </span>. </li> 
+       <li id="li_321BEDB1E95F4AA4B282EED32A4CA196"> Enter a name for the new stage. </li> 
       </ul> </p> <p> <b>To delete an existing processing stage</b> </p> <p> 
       <ul id="ul_2EFA5A40982A48919E9946BF1955110A"> 
-         <li id="li_3B3829DA34FD4774B3F9F94074099794"> Right-click the number corresponding to the stage that you want to delete and click <span class="uicontrol"> Remove </span><i>&lt; <span class="uicontrol"> #stage_number </span>&gt;</i>. </li> 
+       <li id="li_3B3829DA34FD4774B3F9F94074099794"> Right-click the number corresponding to the stage that you want to delete and click <span class="uicontrol"> Remove </span><i>&lt; <span class="uicontrol"> #stage_number </span>&gt;</i>. </li> 
       </ul> </p> <p> <p>Note:  When you specify a Stage in a <span class="wintitle"> Transformation Dataset Include </span> files the name of the stage must match exactly the name that you enter here. For more information about dataset include files, see <a href="../../../home/c-dataset-const-proc/c-dataset-inc-files/c-dataset-inc-files.md#concept-a9b6a30edfc942b0b2a2888a0a8989df"> Dataset Include Files </a>. </p> </p> </td> 
    </tr> 
    <tr> 
       <td colname="col1"> Start Time </td> 
       <td colname="col2"> <p>Optional. Filter data to include log entries with timestamps at or after this time. Adobe recommends using one of the following formats for the time: 
       <ul id="ul_6BC86CCB1FC447ACAC4045E08C8EF8F8"> 
-         <li id="li_2151B3F7FAD54F38B6C33E25CDCACBBE"> January 1 2013 HH:MM:SS EDT </li> 
-         <li id="li_CA1BB675C1244104915FB9ED96A3013D"> Jan 1 2013 HH:MM:SS GMT </li> 
+       <li id="li_2151B3F7FAD54F38B6C33E25CDCACBBE"> January 1 2013 HH:MM:SS EDT </li> 
+       <li id="li_CA1BB675C1244104915FB9ED96A3013D"> Jan 1 2013 HH:MM:SS GMT </li> 
       </ul> </p> <p> For example, specifying July 29 2013 00:00:00 EDT as the <span class="wintitle"> Start Time </span> includes data starting from July 29, 2013, at 12:00:00 AM EDT. </p> <p> You must specify a time zone. The time zone does not default to GMT if not specified. For a list of time zone abbreviations supported by data workbench Server, see <a href="../../../home/c-dataset-const-proc/c-time-zone.md#concept-9b540ec3e770490d94e9d5a985765477"> Time Zone Codes </a>. </p> <p> <p>Note:  If you specify a value for Start Time, a parameter named Start Time is set and applied throughout the transformation phase of dataset construction. For information about parameters, see <a href="../../../home/c-dataset-const-proc/c-dataset-inc-files/c-def-param-dataset-inc-files/c-def-param-dataset-inc-files.md#concept-5ad06acc8dc44bf2a99643fafdd56b50"> Defining Parameters in Dataset Include Files </a>. </p> </p> </td> 
    </tr> 
    <tr> 

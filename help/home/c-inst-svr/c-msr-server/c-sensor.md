@@ -21,7 +21,7 @@ The following table describes system recommendations for [!DNL Sensor]:
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Features </th> 
-   <th class="entry" colspan="2"> Recommended </th> 
+   <th colname="col2" class="entry"> Recommended </th> 
   </tr> 
  </thead>
  <tbody> 

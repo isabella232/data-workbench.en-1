@@ -84,7 +84,7 @@ You must edit the file to specify, among other things, the size of the disk queu
 
 **To edit the Sensor configuration file**
 
-1. Open the [!DNL <SensorDirectory>/txlogd.conf]file in a text editor and set the required parameters as well as any desired optional parameters.
+1. Open the `<SensorDirectory>/txlogd.conf` file in a text editor and set the required parameters as well as any desired optional parameters.
 
    For descriptions of [!DNL txlogd.conf] parameters, see [Sensor Txlogd.conf File Parameters](../../../home/c-snsr-ovrvw/sensor-txlogd-params/sensor-txlogd-params.md#concept-4bb629f058894b4abc65a31eb02eebed). 
 

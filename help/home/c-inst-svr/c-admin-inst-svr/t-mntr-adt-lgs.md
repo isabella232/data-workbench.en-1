@@ -9,7 +9,7 @@ uuid: 38af9328-3f72-48a4-a0de-bf7477fedc25
 
 # Monitoring Audit Logs{#monitoring-audit-logs}
 
-Audit log files track all attempted connections to and disconnections from Insight Server, each of which is logged in the <YYYYMMDD>-access.txt files located by default in the Audit folder within the Insight Server installation directory.
+Audit log files track all attempted connections to and disconnections from Insight Server, each of which is logged in the `<YYYYMMDD>-access.txt` files located by default in the Audit folder within the Insight Server installation directory.
 
  **Recommended Frequency:** Daily or as needed for troubleshooting
 
