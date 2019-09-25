@@ -32,7 +32,7 @@ This appendix is not a comprehensive introduction to regular expressions. A part
 |---|---|
 |  Literal  | A literal is a character we use in a regular expression to locate a specific sequence of characters. For example, to find product in [!DNL shop/products.html], the string product is a literal, or what we are literally looking for in the string.  |
 |  Metacharacter  | A metacharacter is a special character that has a unique interpretation in the context of regular expressions. For example, the period (.) is a metacharacter that is used to match any character.  |
-|  Escape Sequence  | An escape sequence is simply a way to tell the regular expression engine that we would like to use one of the metacharacters as a literal. Escape sequences always start with the backslash character (\). By placing the backslash (which is also a metacharacter) in front of a metacharacter, the regular expression engine interprets the escaped metacharacter as a literal. For example, if you want to match the metacharacter period (.), you need to use an escape sequence. However, to match one of the periods in the string 168.196.0.11, you could use the regular expression consisting of a backslash and a period (\.).  |
+|  Escape Sequence  | An escape sequence is simply a way to tell the regular expression engine that we would like to use one of the metacharacters as a literal. Escape sequences always start with the backslash character (`\`). By placing the backslash (which is also a metacharacter) in front of a metacharacter, the regular expression engine interprets the escaped metacharacter as a literal. For example, if you want to match the metacharacter period (`.`), you need to use an escape sequence. However, to match one of the periods in the string 168.196.0.11, you could use the regular expression consisting of a backslash and a period (`\.`).  |
 |  Pattern  | This is shorthand terminology for the regular expression. In essence, a regular expression is a pattern you are trying to match against the target string.  |
 |  Target String  | This term refers to the string we are searching within to locate the desired pattern.  |
 
@@ -42,17 +42,17 @@ Literal matching takes a literal string without any escape characters and looks 
 
 In this example, you see how literal matching works. Consider a situation in which data is collected from website traffic, and the cs(referrer) field contains the following value:
 
-[!DNL http://www.abc.com/adventurenews/today.html?ad=123AZ45]
+`http://www.abc.com/adventurenews/today.html?ad=123AZ45`
 
 To determine whether the referrer represents someone who clicked on one of the advertisements, you need to see whether the referrer contains the string ad. You could simply use the literal string ad to search the target string and determine if an advertisement was used to route the traffic to the site. While this would match the target string, it would match in two locations and is thus ambiguous and can lead to false positives.
 
 The following URL contains the string ad in two different places:
 
-[!DNL http://www.abc.com/ad vertnews/today.html?ad =123AZ45]
+`http://www.abc.com/ad vertnews/today.html?ad =123AZ45`
 
 Thus, if you are trying to determine which sessions started as a result of a particular advertisement campaign, simply using the literal ad as the regular expression is clearly not sufficient. Changing the literal to "ad=" would eliminate this ambiguity and result in the expression making only a single match. However, even this may not be sufficient to ensure that the referrer was part of the advertisement campaign. Consider the following referrer:
 
-[!DNL http://www.xyz.com/hello.html?pad=something]
+`http://www.xyz.com/hello.html?pad=something`
 
 You do not have any control over the URLs that others may be using to create links to the site. Literal matching is too simple a mechanism to locate sessions that started as a result of the advertisement campaign. The following section discusses how you can use metacharacters for more flexible and powerful matching.
 
@@ -62,9 +62,9 @@ A metacharacter is a special character in a program or data field that provides 
 
 |  metacharacter  | description  |
 |---|---|
-|  . (dot)  | Matches a single character, for example: [!DNL re:x.z] matches "xyz" or "xxz".  |
-|  &#42; (star)  | Matches one or more characters, for example: [!DNL re:Z*] matches "ZZZ".  |
-|  ? (wildcard)  | Matches 0 or 1 of previous expression to force minimal matching, for example: [!DNL xy?z] matches "xy" and "xyz".  |
+|  . (dot)  | Matches a single character, for example: `re:x.z` matches "xyz" or "xxz".  |
+|  * (star)  | Matches one or more characters, for example: `re:Z*` matches "ZZZ".  |
+|  ? (wildcard)  | Matches 0 or 1 of previous expression to force minimal matching, for example: `xy?z` matches "xy" and "xyz".  |
 
 Additional common regular expressions can also be used to create more complex search strings.
 
@@ -99,27 +99,27 @@ Consider the following examples:
 
 |  Pattern  | String  | Match  |
 |---|---|---|
-|  Win9[58]  | OS=Win95  | Win95  |
+|  Win9`[58]`  | OS=Win95  | Win95  |
 |  Win95|8  | OS=Win98  | Win98  |
-|  [0-9]  | Mozilla/3.0  | 3  |
-|  Lesson[A-Z]  | Lesson a  | No match because lower-cased a is not in the range of upper-cased A through Z.  |
+|  `[0-9]`  | Mozilla/3.0  | 3  |
+|  Lesson`[A-Z]`  | Lesson a  | No match because lower-cased a is not in the range of upper-cased A through Z.  |
 
 **Negation**
 
-Negation is a way to say that you would like to match anything except the given characters. The negation metacharacter, the circumflex or caret (^), is used as the first character inside brackets to say that you would like the match to be anything but the remaining characters in the brackets. For example, to match any character but a semicolon (;), you would write
+Negation is a way to say that you would like to match anything except the given characters. The negation metacharacter, the circumflex or caret (`^`), is used as the first character inside brackets to say that you would like the match to be anything but the remaining characters in the brackets. For example, to match any character but a semicolon (`;`), you would write
 
-[^;]
+[`^;`]
 
 This would match any character except the semicolon.
 
-** Positioning**
+**Positioning**
 
 To force a match to the beginning or end of a target string, one of two metacharacters are used. 
 
 |  For this metacharacter...  | The regular expression processor will...  |
 |---|---|
-|  Circumflex or Caret (^)  | Match against the beginning of the string. For example, ^[Tt]he would match the target string "The Beginning" but would not match "This is the beginning."  |
-|  Dollar sign ($)  | Match against the end of the string. For example, [Ee]nd$ would match "This is the end" but would not match "The end is a special time."  |
+|  Circumflex or Caret (`^`)  | Match against the beginning of the string. For example, ^`[Tt]`he would match the target string "The Beginning" but would not match "This is the beginning."  |
+|  Dollar sign (`$`)  | Match against the end of the string. For example, `[Ee]`nd$ would match "This is the end" but would not match "The end is a special time."  |
 
 >[!NOTE]
 >
@@ -127,7 +127,7 @@ To force a match to the beginning or end of a target string, one of two metachar
 
 **Matching Anything**
 
-The period (.) is a special metacharacter that matches any character in the target string. For example, the regular expression ^…$ matches any target string that is exactly three characters long. The regular expression "…" matches any target string that contains at least three characters.
+The period (.) is a special metacharacter that matches any character in the target string. For example, the regular expression `^…$` matches any target string that is exactly three characters long. The regular expression "…" matches any target string that contains at least three characters.
 
 **Repeated Patterns**
 
