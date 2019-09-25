@@ -255,5 +255,5 @@ To use the new SiteCatalyst data feed:
 
 ## Fixes {#section-203f917dd6224114a1f801309c4c2cee}
 
-* Now, the key combination to leave a workspace without saving changes has been updated to **[!UICONTROL `<Ctrl>` + <Backspace>]**. Previously, you voided changes and closed a workspace by pressing `<Ctrl>` + <Delete>.
+* Now, the key combination to leave a workspace without saving changes has been updated to **[!UICONTROL `<Ctrl>` + `<Backspace>`]**. Previously, you voided changes and closed a workspace by pressing `<Ctrl>` + `<Delete>`.
 

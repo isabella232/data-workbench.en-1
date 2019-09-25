@@ -26,9 +26,6 @@ Use these actions when performing tasks within the client user interface.
 |  Shift + select  | Remove from selection  |
 
 <table id="table_468868B713E94F08BFF8F5C468F5100B"> 
- <desc> 
-  <b>Closing workspaces</b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Action </th> 
@@ -71,9 +68,6 @@ Use these actions when performing tasks within the client user interface.
 Use these shortcut keys for workspaces and configuration files.
 
 <table id="table_169AD5F75C92449FACEAC64660B4B50D"> 
- <desc>
-  <b>Keyboard shortcuts from the workbench thumbnail view</b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Action </th> 
@@ -100,9 +94,6 @@ Use these shortcut keys for workspaces and configuration files.
 |  Ctrl + A  | Selects all  |
 
 <table id="table_A01C514C99F043338D183A6839E03DEA"> 
- <desc>
-  <b>Resize and refit workspaces between window and full page views</b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Commands </th> 
@@ -142,9 +133,6 @@ Use these shortcut keys for workspaces and configuration files.
 |  Commonly-used files menu  |Click **Add > Open** from a workspace to open recently opened files (saves the last ten) or files that you "pin" to the new menu. From the menu, you can click the pin icon in the list to save the visualization.  |
 
 <table id="table_99414A5999F94A2EAB2BBBA27EE487F5"> 
- <desc>
-  <b>Keyboard shortcuts within an open configuration (.cfg) file</b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Action </th> 

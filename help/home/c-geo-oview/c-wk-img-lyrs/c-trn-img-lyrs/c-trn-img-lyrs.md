@@ -24,9 +24,6 @@ To define a terrain image layer, you must have the following:
 * **A Terrain Images.cfg** file that specifies the terrain image file(s) to be used for the layer(s). The [!DNL Terrain Images.cfg] file enables you to add one or more sources to create a terrain image layer. The format of your terrain image file determines the type of source that you should add. The following table provides descriptions of the available terrain image layer sources, including the supported terrain image file formats:
 
 <table id="table_BF8D5933BFBE45039BD164C258D3B450"> 
- <desc>
-  <b>Terrain Image Layer Sources</b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Type </th> 
@@ -76,9 +73,6 @@ To define a terrain image layer, you must have the following:
    ![](assets/cfg_TerrainImages_ALL.png)
 
 <table id="table_83171CB58F8B4816BCCA9BFFD5ECD92A"> 
- <desc>
-  <b>Terrain Images.cfg: Sources </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 

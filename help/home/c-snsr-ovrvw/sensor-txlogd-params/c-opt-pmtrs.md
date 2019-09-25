@@ -12,9 +12,6 @@ uuid: 8515a571-93ce-49cd-9ded-c9273259d0ee
 Information about optional Sensor txlogd.conf file parameters.
 
 <table id="table_5FF491A7A6C24E43A06A5C344BF05430"> 
- <desc>
-   Optional Txlogd.conf Parameters for All Web Servers 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
@@ -104,9 +101,6 @@ Information about optional Sensor txlogd.conf file parameters.
 </table>
 
 <table id="table_598C3CDA5AA440228AF88C3BE4A8F77C"> 
- <desc>
-   Optional Txlogd.conf Parameters for IIS Web Servers 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
@@ -130,9 +124,6 @@ Information about optional Sensor txlogd.conf file parameters.
 </table>
 
 <table id="table_88696CCA93874BB683538BD614E07890"> 
- <desc>
-   Optional Txlogd.conf Parameters for Apache 1.3, Apache 2, and Apache 2.2 Web Servers 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> In this Parameter... </th> 
@@ -156,9 +147,6 @@ Information about optional Sensor txlogd.conf file parameters.
 </table>
 
 <table id="table_BF01F6265B8544DA9D9AD2C80A64C0F3"> 
- <desc>
-   Optional Txlogd.conf Parameters for IHS 2 Web Servers 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> In this Parameter... </th> 

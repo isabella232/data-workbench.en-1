@@ -67,9 +67,6 @@ To define a terrain image layer, you must have the following:
    ![](assets/cfg_TerrainImages_ALL.png)
 
 <table id="table_345ACB4C48524516AADB731D87FC6792"> 
- <desc>
-  <b>Terrain Images.cfg: Sources </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
@@ -111,9 +108,6 @@ To define a terrain image layer, you must have the following:
 1. Edit the Source Image Location, Temp Image Storage, and Write Layers To parameters using the following table as a guide. These parameters apply to all of the terrain image sources that you define in the [!DNL Sources] section of this file.
 
 <table id="table_103F02C54ED94C6C922450F5B2781CAE"> 
- <desc>
-  <b>Terrain Images.cfg: Additional Parameters </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
