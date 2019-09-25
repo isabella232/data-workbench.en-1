@@ -31,9 +31,6 @@ A [!DNL Categorize] transformation is generally easier and faster than using a [
 >The substring test used in [!DNL Categorize] is case-sensitive unless otherwise specified using the [!DNL Case Sensitive] parameter.
 
 <table id="table_1773344FAAE34BD4919CC4414249FDEE"> 
- <desc> 
-  <b> <span class="wintitle"> Categorize</span> </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
@@ -135,9 +132,6 @@ The [!DNL FlatFileLookup] transformation uses a lookup table composed of any num
 The lookup table used during this transformation is populated from a flat file whose location you specify when you define the transformation. 
 
 <table id="table_772B8ABF3B44493F99069010DDB5F77A"> 
- <desc> 
-  <b> <span class="wintitle"> FlatFileLookup</span> </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 
@@ -237,9 +231,6 @@ The [!DNL ODBCLookup] transformation operates like a [!DNL FlatFileLookup] trans
 >[!DNL ODBCLookup] transformations can be executed only during the transformation phase of the dataset construction process. When possible, Adobe recommends that you use the [!DNL FlatFileLookup] transformation instead of the [!DNL ODBCLookup] transformation. [!DNL FlatFileLookup] transformations are inherently more reliable because they do not depend on the availability of an outside system. Additionally, there is less risk that the lookup table is modified if it resides in a flat file that you control locally.
 
 <table id="table_B903DB291BCC4F44B09D54300216D288"> 
- <desc> 
-  <b> <span class="wintitle"> ODBCLookup</span> </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 

@@ -61,9 +61,6 @@ The following table describes system recommendations for [!DNL Sensor]:
 The following table lists the most common combinations that [!DNL Sensor] supports: 
 
 <table id="table_99EA23BBC1A148B49643F4B5E4341C08"> 
- <desc> 
-  <b>Support Server Software </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Web Server Software </th> 

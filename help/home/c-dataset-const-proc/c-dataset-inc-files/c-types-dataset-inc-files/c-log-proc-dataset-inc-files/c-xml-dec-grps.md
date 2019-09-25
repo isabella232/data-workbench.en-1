@@ -23,9 +23,6 @@ The top level of an XML decoder is a decoder group (XMLDecoderGroup), which is a
 The following table describes the Tables parameter and all of the sub-parameters that you must specify to define an XML decoder group.
 
 <table id="table_06C40C5149E94548A1B0C2ED4397624B"> 
- <desc> 
-  <b> <b> XMLDecoderGroup</b> </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 

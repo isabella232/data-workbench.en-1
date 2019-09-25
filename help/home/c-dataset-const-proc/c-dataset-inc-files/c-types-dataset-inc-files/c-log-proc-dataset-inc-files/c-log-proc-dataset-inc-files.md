@@ -19,9 +19,6 @@ The Log Processing Dataset Include file for an inherited profile contains parame
 >Many web-specific configuration parameters for Site are defined in [!DNL Log Processing Dataset Include] files. For information about these parameters, see [Configuration Settings for Web Data](../../../../../home/c-dataset-const-proc/c-config-web-data/c-config-web-data.md#concept-9a306b65483a484bb3f6f3c1d7e77519).
 
 <table id="table_E2112652CCD443E889A529EEDC4ADF1C"> 
- <desc> 
-  <b> <span class="wintitle"> Log Processing Dataset Include</span> File Parameters </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 

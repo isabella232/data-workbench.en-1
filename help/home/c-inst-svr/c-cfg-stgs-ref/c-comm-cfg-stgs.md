@@ -20,9 +20,6 @@ Complete the parameters in the following file:
 >Before modifying any parameters not listed in this table, please contact Adobe.
 
 <table id="table_C87F1150E53548F484A8C0CFE91F1079"> 
- <desc> 
-  <b>Communications Configuration Settings </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 

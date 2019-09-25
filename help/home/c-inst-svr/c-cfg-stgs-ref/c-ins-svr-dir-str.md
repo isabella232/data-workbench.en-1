@@ -79,9 +79,6 @@ The following directories are included in the [!DNL Insight Server] installation
 The directories listed below are created after [!DNL Insight Server] is registered and run for the first time:
 
 <table id="table_89CC9F3E568044C8A0072BF0A6EDCCEF"> 
- <desc> 
-  <b> <span class="keyword"> Insight Server </span> Startup Files </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Directory </th> 

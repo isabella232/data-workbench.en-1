@@ -23,9 +23,6 @@ This menu provides you with different options depending on the type of visualiza
 ![](assets/mnu_Metric.png)
 
 <table id="table_81EFAC2D754843DD98C2DDF81A35A2B4"> 
- <desc> 
-  <b>Metric menu </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Menu Option </th> 
@@ -89,9 +86,6 @@ This menu provides you with different options depending on the type of visualiza
 ![](assets/mnu_Dimension.png)
 
 <table id="table_D8BB675B710B48A783B1C9EB206033E9"> 
- <desc> 
-  <b>Dimension menu </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Menu Option </th> 

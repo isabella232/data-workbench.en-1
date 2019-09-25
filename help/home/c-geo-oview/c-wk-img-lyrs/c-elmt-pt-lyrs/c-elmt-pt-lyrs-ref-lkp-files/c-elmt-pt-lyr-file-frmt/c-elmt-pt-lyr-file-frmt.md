@@ -30,9 +30,6 @@ Layer = ElementPointLayer:
 ```
 
 <table id="table_B2BC5FE8C80E4680B9A565878192D75B"> 
- <desc> 
-  <b>Element Point Layer Parameters: Lookup Files </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> Parameter </th> 

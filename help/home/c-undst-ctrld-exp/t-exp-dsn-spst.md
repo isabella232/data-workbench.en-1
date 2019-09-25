@@ -32,9 +32,6 @@ The experiment design spreadsheet can provide useful statistical inferences only
 1. Enter text or values for all of the fields in blue in this file, which are described in the following table. The calculated fields are defined in the second table.
 
 <table id="table_C343F7A4BF3D4E0E9A5E9739EC7C2E10"> 
- <desc> 
-  <b>Fields to Define </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> In this field… </th> 

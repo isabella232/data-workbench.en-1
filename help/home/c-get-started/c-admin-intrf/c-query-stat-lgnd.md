@@ -17,9 +17,6 @@ The Query Status Legend provides detailed information about the queries you are 
 The following table lists the tasks that can be completed using the [!DNL Query Status Legend].
 
 <table id="table_BD9330D4B3014A84B24EF0E71872F627"> 
- <desc> 
-  <b> <span class="wintitle"> Query status legend</span> </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> To perform this task... </th> 

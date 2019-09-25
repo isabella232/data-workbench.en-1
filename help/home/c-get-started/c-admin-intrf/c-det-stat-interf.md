@@ -25,9 +25,6 @@ For more information about the Data Workbench server, see the *Server Products I
 The following table lists the tasks that can be completed using the [!DNL Detailed Status] interface.
 
 <table id="table_E685F31DCDB343F49FFA1019F2E8DA85"> 
- <desc> 
-  <b> <span class="wintitle"> Detailed Status</span> interface tasks </b> 
- </desc> 
  <thead> 
   <tr> 
    <th colname="col1" class="entry"> To perform this task... </th> 
