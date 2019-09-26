@@ -28,7 +28,7 @@ Launch the installation wizard executable and walk through each step to install 
 
    **New Installation** overwrites any previously installed files.
 
-   **Upgrade** updates your Workstation to the latest version or lets you repair an existing installation. Data Workbench will compare installed ** [!DNL Insight.exe]** files and run the Workstation Setup Wizard if a newer version of the client is available. 
+   **Upgrade** updates your Workstation to the latest version or lets you repair an existing installation. Data Workbench will compare installed **Insight.exe** files and run the Workstation Setup Wizard if a newer version of the client is available. 
 
 1. Select install location:
 
@@ -61,7 +61,7 @@ Launch the installation wizard executable and walk through each step to install 
 
 1. Locate the **Data Workbench Certificate**.
 
-   If the setup wizard cannot find the Data Workbench certificate during installation, it will open a dialog to browse to the location of the certificate (a ** [!DNL .pem]** file located by default in the client ** [!DNL Certificates]** folder), or click **Skip** to find the certificate after installation.
+   If the setup wizard cannot find the Data Workbench certificate during installation, it will open a dialog to browse to the location of the certificate (a **.pem** file located by default in the client **Certificates** folder), or click **Skip** to find the certificate after installation.
 
    Click **Install** after locating the certificate. 
 
@@ -75,7 +75,7 @@ Launch the installation wizard executable and walk through each step to install 
 
 1. **Configure connections **to servers in ** [!DNL Insight.cfg]** file.
 
-   After installation of the workstation, the Enhanced Workstation Configuration Experience workspace will open with additional information about [entering server connection information](https://marketing.adobe.com/resources/help/en_US/insight/client/?f=c_insght_config_param) in the *Insight.cfg* file and an option to select a profile from the drop-down. You can also view the connection status to your servers.
+   After installation of the workstation, the Enhanced Workstation Configuration Experience workspace will open with additional information about [entering server connection information](/help/home/c-get-started/c-insght-config-param.md) in the *Insight.cfg* file and an option to select a profile from the drop-down. You can also view the connection status to your servers.
 
    ![](assets/6_4_workstation_install_conf_conn.png)
 
@@ -83,7 +83,7 @@ Launch the installation wizard executable and walk through each step to install 
 
 The Data Workbench folder structure has two installation locations:
 
-* **Program Files** The ** [!DNL Insight.exe] **and supporting client files (** [!DNL Insight.ini]**) are now located by default at
+* **Program Files** The **Insight.exe** and supporting client files (**Insight.ini**) are now located by default at
 
   ```
   C:\Program Files\Adobe\Analytics\DataWorkbench
@@ -91,15 +91,13 @@ The Data Workbench folder structure has two installation locations:
 
 * The **Appdata** folder.
 
-  ** [!DNL Insight.cfg]**, profiles, certificates, trace logs, and user files are now located by default at 
+  **Insight.cfg**, profiles, certificates, trace logs, and user files are now located by default at 
 
   ```
-  <filepath>
   C:\Users\<Winuser>\AppData\Adobe\Analytics\DataWorkbench\ 
-</filepath>
   ```
 
-  You can set the path for the ** [!DNL Appdata]** folder in the** [!DNL Insight.ini]**file:
+  You can set the path for the **Appdata** folder in the `Insight.ini` file:
 
   ```
   [InitialSettings] 
@@ -109,11 +107,10 @@ The Data Workbench folder structure has two installation locations:
 
 ## Uninstalling the Workstation {#section-5ce2e233fe4348469ef1b3c451dd5b70}
 
-Data Workbench now includes an executable to uninstall the workstation (located by default at ** [!DNL Program Files\Adobe\Adobe Analytics\Data Workbench]\ [!DNL unins000.exe]**).
+Data Workbench now includes an executable to uninstall the workstation (located by default at **`Program Files\Adobe\Adobe Analytics\Data Workbench\ unins000.exe`**).
 
 Launch and follow steps to remove the Data Workbench Workstation files from your hard drive.
 
 >[!NOTE]
 >
 >You can launch the **unins000.exe** executable from the folder, using the **Uninstall Data Workbench** shortcut from Start Menu, or from **[!UICONTROL Control Panel]** > **[!UICONTROL Program and Features]**.
-

@@ -1,11 +1,11 @@
 ---
 cloud: experience-cloud
-product: adobe
-archtype: end-user
-user-guide: null
+product: analytics
+audience: end-user
+user-guide-title: Data Workbench Help
 ---
 
-# Table of Contents {#table-of-contents}
+# Data Workbench Help {#using}
 
 + [Data Workbench Help](home/home.md)
 + Release notes {#release-notes}

@@ -10,7 +10,7 @@ uuid: c31128f9-1094-4337-9bf6-96401278df33
 
 Administrators can give workstation users the partial ability to manage access control for custom groups.
 
-**Self-administration of group member access** gives rights to non-administrators to add and delete members in a custom group. The administrator creates a **User List** file and sets up group access in the **[Access Control.cfg](https://marketing.adobe.com/resources/help/en_US/insight/svrprod/?f=c_config_acs_ctrl)** file for the new group members.
+**Self-administration of group member access** gives rights to non-administrators to add and delete members in a custom group. The administrator creates a **User List** file and sets up group access in the **[Access Control.cfg](https://marketing.adobe.com/resources/help/en_US/insight/svrprod/c_config_acs_ctrl.html)** file for the new group members.
 
 **Accessing the Servers Manager**
 

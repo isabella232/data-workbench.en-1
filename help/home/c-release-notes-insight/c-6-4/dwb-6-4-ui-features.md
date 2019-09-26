@@ -41,5 +41,5 @@ Data Workbench 6.4 adds new workspace icons, tool tips, splash screens, and `<F1
 
 >[!NOTE]
 >
->You can turn off the icons in the toolbar and return to text names. Add the **[!DNL Toolbar Icons = bool: false]** [parameter to the Insight.cfg file](https://marketing.adobe.com/resources/help/en_US/insight/client/?f=c_insght_config_param). False turns off the icons in the workstation user interface and displays menu names in text in the toolbar.
+>You can turn off the icons in the toolbar and return to text names. Add the **[!DNL Toolbar Icons = bool: false]** [parameter to the Insight.cfg file](https://marketing.adobe.com/resources/help/en_US/insight/client/c_insght_config_param.html). False turns off the icons in the workstation user interface and displays menu names in text in the toolbar.
 

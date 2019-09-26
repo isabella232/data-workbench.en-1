@@ -10,41 +10,45 @@ uuid: 987b69f1-b82a-4719-a71d-b0250a4a4f92
 
 # Data Workbench Help{#data-workbench-help}
 
-[Data Workbench](http://www.adobe.com/solutions/digital-analytics/data-workbench.html?promoid=KAUCO) is part of [Adobe Analytics](http://www.adobe.com/solutions/digital-analytics.html). It has highly-flexible, powerful, multi-channel capabilities designed to collect, process, analyze, and visualize data from online and offline customer interactions across all types of web, CRM, POS, and other data types. Interactive reports in Data Workbench let you analyze and react to pertinent statistical information to monitor activity and predict customer trends.
+[Data Workbench](http://www.adobe.com/solutions/digital-analytics/data-workbench.html) is part of [Adobe Analytics](http://www.adobe.com/solutions/digital-analytics.html). It has highly-flexible, powerful, multi-channel capabilities designed to collect, process, analyze, and visualize data from online and offline customer interactions across all types of web, CRM, POS, and other data types. Interactive reports in Data Workbench let you analyze and react to pertinent statistical information to monitor activity and predict customer trends.
 
-[ ![](assets/pdf_icon.png) Download All Data Workbench documentation](https://marketing.adobe.com/resources/help/en_US/insight/dwb_docs.zip) in PDF. 
+[Analytics Documentation](https://docs.adobe.com/content/help/en/analytics/landing/home.html)
 
-<p class="head"> <b>New and Popular Topics </b> </p>
+[![](assets/pdf_icon.png) Download All Data Workbench documentation](/help/home/assets/data-workbench.pdf) in PDF. 
 
-[**Data Workbench 6.6**](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/c_6_6.html) is now released. It includes updates to Propensity Score and a new Segment Export Wizard.
+## Key Topics
 
-[**Data Workbench 6.52**](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/?f=c_6_52) is released. It includes an AVRO upgrade for processing data source log files.
+Data Workbench includes these predictive analytics features, data visualizations, and reports:
 
-[**Data Workbench 6.51**](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/?f=c_6_51) is released. It includes a new AVRO Feed and gradient overlays to the Bar Graph display.
+* [Best Fit Attribution](/help/home/c-get-started/c-attribution-profiles/c-attrib-algorithmic/c-attrib-algorithmic.md) 
+* [Propensity Scoring](/help/home/c-get-started/c-analysis-vis/c-visitor-propensity/c-visitor-propensity.md) 
+* [Decision Trees](/help/home/c-get-started/c-analysis-vis/c-decision-trees/c-decision-trees.md)
+* [Correlation Matrix](/help/home/c-get-started/c-analysis-vis/c-correlation-analysis/c-correlation-analysis.md) 
+* [Clustering](/help/home/c-get-started/c-analysis-vis/c-visitor-cluster/c-visitor-cluster.md) 
+* [Chord Visualization](/help/home/c-get-started/c-analysis-vis/c-chord-visualization.md) 
+* [Attribution Profile](/help/home/c-get-started/c-attribution-profiles/c-rules-attrib/c-rules-attrib.md) 
+* [Master Marketing Profile Export and Integration](/help/home/c-get-started/c-exp-data-seg-exp/c-mmp-integration.md)
 
-** [Data Workbench 6.5](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/?f=c_6_5_)** is released. Install the latest version of Data Workbench with new features, including
+## Release Notes and New Features
 
-* [Associations Table](https://marketing.adobe.com/resources/help/en_US/insight/client/?f=associations-visualization) and [Associations Chord](https://marketing.adobe.com/resources/help/en_US/insight/client/?f=associations-chord) visualizations. 
+[Data Workbench 6.6.1](/help/home/c-release-notes-insight/c-6-6-1.md) is now released. It includes updates to MMP configuration for splitting record files.
 
-* [Regression Tree option](https://marketing.adobe.com/resources/help/en_US/insight/client/?f=c_decision_trees_regression) and other updates for Decision Trees.
+[Data Workbench 6.6](/help/home/c-release-notes-insight/c-6-6.md) is now released. It includes updates to Propensity Score and a new Segment Export Wizard.
 
-** [Data Workbench 6.4](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/?f=c_6_4_)** includes:
+[Data Workbench 6.52](/help/home/c-release-notes-insight/c-6-52.md) is released. It includes an AVRO upgrade for processing data source log files.
 
-* [Exporting to Analytics Core Services](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/?f=dwb_CRS_integration) 
-* [Workstation Setup Wizard](https://marketing.adobe.com/resources/help/en_US/insight/install/?f=dwb_client_installer) 
-* [Presentation Layer for Annotating Visualizations](https://marketing.adobe.com/resources/help/en_US/insight/client/?f=c_present_layer) 
-* [Metric Dim Wizard](https://marketing.adobe.com/resources/help/en_US/insight/client/?f=dwb_create_metricdim)
+[Data Workbench 6.51](/help/home/c-release-notes-insight/c-6-51.md) is released. It includes a new AVRO Feed and gradient overlays to the Bar Graph display.
 
-Data Workbench also includes these predictive analytics features, data visualizations, and reports:
+[Data Workbench 6.5](/help/home/c-release-notes-insight/c-6-5.md) is released. Install the latest version of Data Workbench with new features, including:
 
-* [Best Fit Attribution](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/?f=c_attrib_algorithmic) 
-* [Propensity Scoring](http://marketing.adobe.com/resources/help/en_US/insight/client/index.html#Propensity_Scoring) 
-* [Decision Trees](http://marketing.adobe.com/resources/help/en_US/insight/client/c_decision_trees.html) 
-* [Correlation Matrix](https://marketing.adobe.com/resources/help/en_US/insight/client/?f=c_correlation_analysis) 
-* [Clustering](https://marketing.adobe.com/resources/help/en_US/insight/client/?f=c_visitor_cluster) 
-* [Chord Visualization](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/?f=c_chord_visualization) 
-* [Attribution Profile](http://marketing.adobe.com/resources/help/en_US/insight/client/c_rules_attrib.html) 
-* [Master Marketing Profile Export and Integration](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/?f=c_mmp_integration)
+* [Associations Table](/help/home/c-get-started/c-analysis-vis/associations-visualization.md) and [Associations Chord](/help/home/c-get-started/c-analysis-vis/associations-chord.md) visualizations. 
+* [Regression Tree option](/help/home/c-get-started/c-analysis-vis/c-decision-trees/c-decision-trees-regression.md) and other updates for Decision Trees.
+
+[Data Workbench 6.4](/help/home/c-release-notes-insight/c-6-4/c-6-4.md) includes:
+
+* [Exporting to Analytics Core Services](/help/home/c-release-notes-insight/c-6-4/dwb-crs-integration.md)
+* [Workstation Setup Wizard](/help/home/c-install-insight/install-setup/dwb-client-installer.md) 
+* [Presentation Layer for Annotating Visualizations](/help/home/c-get-started/c-vis/c-present-layer.md) 
+* [Metric Dim Wizard](/help/home/c-get-started/c-vis/dwb-create-metricdim/dwb-create-metricdim.md)
 
 *Last updated*: **8/2/2016**
-

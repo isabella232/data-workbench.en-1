@@ -92,7 +92,7 @@ If you have customized profiles that take precedence over the default files prov
   >
   >To take advantage of the Fast Merge improvements, make sure you have at least 8 GBs of RAM per DPU.
 
-* **Adobe Target with DWB integration update**. A new export file, [!DNL ExportIntegration.exe], replaces the existing [!DNL TnTSend.exe] file on the Insight Server ( [!DNL E:\Server\Scripts\TnTSend.exe]). This new export file supports both [Adobe Target](http://www.adobe.com/solutions/?f=testing-targeting) integration and coordination with the new Master Marketing Profile (MMP) and [Adobe Audience Manager](http://www.adobe.com/products/?f=audiencemanager).
+* **Adobe Target with DWB integration update**. A new export file, [!DNL ExportIntegration.exe], replaces the existing [!DNL TnTSend.exe] file on the Insight Server (`E:\Server\Scripts\TnTSend.exe`). This new export file supports both [Adobe Target](https://www.adobe.com/marketing/target.html) integration and coordination with the new Master Marketing Profile (MMP) and [Adobe Audience Manager](https://www.adobe.com/analytics/audience-manager.html).
 
   You will need to update the following commands for Adobe Target exports.
 

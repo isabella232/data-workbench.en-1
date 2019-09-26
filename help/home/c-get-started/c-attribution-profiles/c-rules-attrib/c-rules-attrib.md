@@ -42,8 +42,8 @@ The Architecture tab includes workspaces to step through each of the configurati
 
 These workspaces are organized into four categories:
 
-1. ** Basic Reports** expose a single model within a workspace. 
-1. ** Comparative Reports** extended the analyses by presenting multiple models within a single view. 
+1. **Basic Reports** expose a single model within a workspace. 
+1. **Comparative Reports** extended the analyses by presenting multiple models within a single view. 
 1. **Investigation Reports** expands the reporting templates to present the attribution models in different formats. This section also introduces and exposes the position-based weighting ratios. 
 1. **Pathing Reports** provide visibility into the customer's marketing journey with multiple pathing visualizations to fully explore and express the process flows and interaction paths
 

@@ -94,7 +94,7 @@ If a workspace is larger than the viewable screen, you can move the view to see 
 
 ## Quick Keys to Change Workspace Views {#section-d8322f72423f437aa2e34f2188b1341c}
 
-New quick keys let you resize and refit workspaces between window and full page views. See the [Quick Reference](http://marketing.adobe.com/resources/help/en_US/insight/client/?f=c_qk_ref) for more keyboard quick keys. 
+New quick keys let you resize and refit workspaces between window and full page views. See the [Quick Reference](https://marketing.adobe.com/resources/help/en_US/insight/client/c_qk_ref.html) for more keyboard quick keys. 
 
 <table id="table_A01C514C99F043338D183A6839E03DEA"> 
  <thead> 

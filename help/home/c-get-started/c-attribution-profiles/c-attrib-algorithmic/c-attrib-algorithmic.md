@@ -14,7 +14,7 @@ Best Fit Attribution is a machine-learning approach to assigning attribution val
 
 ![](assets/attrib_windows_5.png)
 
-For example, if a customer visits your site through an organic search, then engages with a campaign, and then signs up for an email, [rules-based Attribution](http://marketing.adobe.com/resources/help/en_US/insight/client/?f=c_rules_attrib) would identify the first touch or last touch, or evenly distribute success attribution across all touch points using preset attribution models. Where rules-based attribution is defined by the user, the Best Fit attributes sets values through an algorithm by calculating the probability of a conversion as a function of the observed touch points.
+For example, if a customer visits your site through an organic search, then engages with a campaign, and then signs up for an email, [rules-based Attribution](/help/home/c-get-started/c-attribution-profiles/c-rules-attrib/c-rules-attrib.md) would identify the first touch or last touch, or evenly distribute success attribution across all touch points using preset attribution models. Where rules-based attribution is defined by the user, the Best Fit attributes sets values through an algorithm by calculating the probability of a conversion as a function of the observed touch points.
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ The Touch metric then determines the allocation of attribution scores to identif
 
 In many cases, the Touch window should include the Success window to evaluate a long lead time in the sales cycle.
 
-**Set the Revenue metric. **
+**Set the Revenue metric.**
 
 You can opt to identify revenue across touch points by setting an appropriate revenue metric. If specified, the model will display the distribution of revenue over the input channels. ![](assets/attrib_windows_6.png)
 
@@ -93,7 +93,7 @@ When entering channels you have two options:
 
 **Option 1: Add a Touch Metric and add Dimension Elements for Channels**.
 
-This is the easier approach. Best Fit Attribution creates the metrics automatically to evaluate for attribution. In the example below the Touch Metric is ** *Hits* ** and Channels are: ** *Display Campaigns* **, ** *Email Campaigns* **, and ** *SEM Campaigns* **.
+This is the easier approach. Best Fit Attribution creates the metrics automatically to evaluate for attribution. In the example below the Touch Metric is ***Hits*** and Channels are: ***Display Campaigns***, ***Email Campaigns***, and ***SEM Campaigns***.
 
 Using this method, Best Fit Attribution creates a metric in the background for evaluating the attribution across the channels (but you never see the auto-generated metric and they are not saved). In the example below, three metrics are created where Hits is filtered for each of the three channels (e.g, *Display Campaigns*, *Email Campaigns*, and *SEM Campaigns*). This is the easiest because you let the Best Fit Attribution create the metrics for you.
 
@@ -105,6 +105,8 @@ In the second option, you create and save the metrics for the channels that you 
 
 ![](assets/attrib_create_metric.png)
 
-Then, instead of entering a Touch Metric and Dimension Elements for the Channels you can click on the menu bar in the visualization and select **Inputs** > **Add Channel** and then select the metrics that you created. ![](assets/attrib_results_2.png)
+Then, instead of entering a Touch Metric and Dimension Elements for the Channels you can click on the menu bar in the visualization and select **Inputs** > **Add Channel** and then select the metrics that you created. 
+
+![](assets/attrib_results_2.png)
 
 See the example of the second method below. You can see that the results of both options are identical. 

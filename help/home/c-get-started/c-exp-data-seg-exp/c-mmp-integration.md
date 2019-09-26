@@ -49,7 +49,7 @@ Profiles and Audiences is part of the [Experience Cloud Identity Service](https:
    >
    >The [!DNL MMPExport.cfg]file also lets you take all records, split them into sets, and create chunks of records. The chunks of records are then exported to Amazon S3. Three mandatory parameters are required to create chunks of records: [!DNL numRecordsPerChunk], [!DNL numThreads], and [!DNL maxRetriesOnSendFailure].
 
-   **Definition of Parameters ** 
+**Definition of Parameters** 
 
 <table id="table_DDEFBC45895A4663973F9C2EB9052FEF"> 
  <thead> 
@@ -117,19 +117,17 @@ Profiles and Audiences is part of the [Experience Cloud Identity Service](https:
 **Generating MMP export from the client**
 
 1. From the client, open a workspace and right-click **[!UICONTROL Tools]**> **[!UICONTROL Detail Table]**. 
-
 1. Add **Level**. 
 1. Right-click the header and select **Add Attributes**. 
 1. Right-click the header and select **New Master Marketing Profile Export**. ![](assets/mmp_mmp_export.png)
+1. Expand **Query**. 
 
-1. Expand **Query**. ![](assets/mmp_mmp_query.png)
+   ![](assets/mmp_mmp_query.png)
 
 1. Expand **MMP Configuration**. 
 1. (required) Enter the **MMP Segment Name** and **MMP Visitor ID Field**. These parameters cannot be left empty. 
-
 1. The **MMP Segment Name** should match the Segment ID defined in the MMP. 
 1. The **MMP Visitor ID** is the attribute column defined in step 4 that corresponds to the **Visitor ID**. 
-
 1. Once these fields are entered, you can save the export by right-clicking the header for the export and choose **Save** as "User\.export". 
 1. Open **Admin** > **Profile Manager **and save the export to the profile.
 

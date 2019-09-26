@@ -44,16 +44,13 @@ The Propensity Scoring Visualization includes these features accessible from its
 
 **See also**:
 
-1. The [Gain and Lift charts](../../../../home/c-get-started/c-analysis-vis/c-visitor-propensity/c-propensity-gain-lift-chart.md#concept-0d049f6baf534f7fb97f271843ba6c4a). These views can be opened from a complete scoring model or from [!DNL Add Visualization> Predictive Analytics > Scoring.] 
-
-1. The [Model Viewer](../../../../home/c-get-started/c-analysis-vis/c-visitor-propensity/c-propensity-model-viewer.md#concept-d4fdf4b335c04b0ea07e70ab9a7ce9dd). These views can be opened from a complete scoring model or from [!DNL Add Visualization> Predictive Analytics > Scoring.] 
-
-1. The [Complex Filter Description](../../../../home/c-get-started/c-analysis-vis/c-visitor-propensity/c-propensity-complex-filter.md#concept-f9c55e54837f4b5995a00bc950ce5dff) feature.
+* The [Gain and Lift charts](../../../../home/c-get-started/c-analysis-vis/c-visitor-propensity/c-propensity-gain-lift-chart.md#concept-0d049f6baf534f7fb97f271843ba6c4a). These views can be opened from a complete scoring model or from [!DNL Add Visualization> Predictive Analytics > Scoring.] 
+* The [Model Viewer](../../../../home/c-get-started/c-analysis-vis/c-visitor-propensity/c-propensity-model-viewer.md#concept-d4fdf4b335c04b0ea07e70ab9a7ce9dd). These views can be opened from a complete scoring model or from [!DNL Add Visualization> Predictive Analytics > Scoring.] 
+* The [Complex Filter Description](../../../../home/c-get-started/c-analysis-vis/c-visitor-propensity/c-propensity-complex-filter.md#concept-f9c55e54837f4b5995a00bc950ce5dff) feature.
 
 ## Using the Propensity Scoring Visualization {#section-63ced03fa2eb44f2b8a98d61a6c88122}
 
-* **Define one or more filters to define the visitor population for scoring**. This optional **[!UICONTROL Training Filter]** lets you target visitors based on selected criteria. If no training filter is applied, then all visitors are targeted for scoring. If the Training Filter is set, then the scoring result is meaningful to the defined visitor population, although each visitor will still be given a score. 
-
+* **Define one or more filters to define the visitor population for scoring**. This optional **[!UICONTROL Training Filter]** lets you target visitors based on selected criteria. If no training filter is applied, then all visitors are targeted for scoring. If the Training Filter is set, then the scoring result is meaningful to the defined visitor population, although each visitor will still be given a score.
 * **Identify the positive visitors**. To define the dependent variable to specify a target filter identifying the positive visitors that match the desired outcome. This can be as simple as Revenue > $10, or a much more complex filter. 
 * **The Target filter is not allowed to be the same as the Training filter**. Logically, the Target Filter should be an addition to the Training Filter, resulting in a positive subset of the visitor population to be scored. 
 * **Select variables of interest (independent variables) as inputs to the Propensity Scoring algorithm**. These can be Metrics or individual elements of a Dimension. Propensity Scoring will start preprocessing just as in [Visitor Clustering](../../../../home/c-get-started/c-analysis-vis/c-visitor-cluster/c-visitor-cluster.md#concept-1c2406ef7b284a56a02daa38eaa2e73d). The system begins capturing a certain amount of samples that match the definition of the previously set training filter (if any). Currently, the sample size is set as 10% of scoring population (defined by training filter), with a minimum of 20,000 and maximum of 100,000, and is bound to the scoring population size. 
