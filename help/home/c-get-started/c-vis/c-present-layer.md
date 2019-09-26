@@ -36,7 +36,7 @@ The Presentation Layer lets you mark up and annotate your workspace visualizatio
 
    ![](assets/6_4_presentation_layer_right_menu.png)
 
-1. **Edit and add callout features. **
+1. **Edit and add callout features.**
 
    Click icon again to capture a static representation of the workspace visualization and open an overlay to add or edit annotations.
 
@@ -69,4 +69,3 @@ The Presentation Layer lets you mark up and annotate your workspace visualizatio
    After annotating your workspace visualizations, you can export the presentation layer with visualizations and share as a .png graphic file.
 
    Click **Export** > **Export PNG**.
-

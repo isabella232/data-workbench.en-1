@@ -29,7 +29,7 @@ The **[!UICONTROL Maximum Iterations]** in the **[!UICONTROL Options]** menu all
 >
 >Once the clusters have been defined, the Cluster Dimension can be saved for use just like any other dimension. It can also be loaded into the Cluster Explorer to examine the separation of cluster centers.
 
-In the [Cluster Builder](https://marketing.adobe.com/resources/help/en_US/insight/client/c_visitor_cluster.html), you can select **[!UICONTROL Options]** > **[!UICONTROL Algorithm]** to select algorithms when defining clusters. Currently, there are 3 supported algorithms:
+In the Cluster Builder, you can select **[!UICONTROL Options]** > **[!UICONTROL Algorithm]** to select algorithms when defining clusters. Currently, there are 3 supported algorithms:
 
 * KMeans 
 * Kmeans`++` 

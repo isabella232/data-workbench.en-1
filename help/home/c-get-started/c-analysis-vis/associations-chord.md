@@ -10,7 +10,7 @@ uuid: c656ffc8-e45a-44c0-a29b-cdc10dcbd1f2
 
 The Association Chord visualization allows you to show both the proportion and association between metrics, dimensions, and elements, displaying larger chords as an indication of a stronger association.
 
-The Associations Table compares values with Cramer's V calculation rather than using Pearson's correlation coefficient as employed in the [Correlation Matrix](https://marketing.adobe.com/resources/help/en_US/insight/client/?f=c_correlation_analysis) and [Correlation Chord](https://marketing.adobe.com/resources/help/en_US/insight/client/?f=c_chord_visualization) visualizations (these can only compare metrics, while the Association Table and Chord can compare metrics, dimensions, and elements). The Associations Chord also provides another view into a previously built [Associations Table](../../../home/c-get-started/c-analysis-vis/associations-visualization.md#concept-9d937dda38174875b32095c6eaf22f2f).
+The Associations Table compares values with Cramer's V calculation rather than using Pearson's correlation coefficient as employed in the [Correlation Matrix](/help/home/c-get-started/c-analysis-vis/c-correlation-analysis/c-correlation-analysis.md) and [Correlation Chord](/help/home/c-get-started/c-analysis-vis/associations-visualization.md) visualizations (these can only compare metrics, while the Association Table and Chord can compare metrics, dimensions, and elements). The Associations Chord also provides another view into a previously built [Associations Table](../../../home/c-get-started/c-analysis-vis/associations-visualization.md#concept-9d937dda38174875b32095c6eaf22f2f).
 
 **To build an Association Chord**
 
@@ -30,7 +30,9 @@ The Associations Table compares values with Cramer's V calculation rather than u
 
 1. **Choose additional metrics, dimensions, and elements to associate**.
 
-   After two or more values are selected, the chart will automatically refresh and begin displaying association data. Continue adding metrics as needed to associate data points. ![](assets/association_chord.png)
+   After two or more values are selected, the chart will automatically refresh and begin displaying association data. Continue adding metrics as needed to associate data points.
+   
+   ![](assets/association_chord.png)
 
    The Chord visualization displays the proportion of the whole represented by the area of each segment. Continue to add metrics/dimensions/elements as need to identify and investigate significant relationships. 
 

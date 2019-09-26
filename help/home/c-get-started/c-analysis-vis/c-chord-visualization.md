@@ -26,7 +26,9 @@ The Chord visualization lets you see identify correlations between metrics, allo
 
 1. **Choose metrics to correlate**.
 
-   Drag metrics from the **[!UICONTROL Finder]** by clicking **[!UICONTROL Ctrl-Alt]** to drag metrics from the table to the chart. After two or more metrics are selected, the chart will automatically refresh and begin displaying correlation data. Continue adding metrics as needed to correlate data points. ![](assets/chord_drag_metric.png)
+   Drag metrics from the **[!UICONTROL Finder]** by clicking **[!UICONTROL Ctrl-Alt]** to drag metrics from the table to the chart. After two or more metrics are selected, the chart will automatically refresh and begin displaying correlation data. Continue adding metrics as needed to correlate data points.
+   
+   ![](assets/chord_drag_metric.png)
 
    The Chord visualization displays the proportion of the whole represented by the area of each segment. Continue to add metrics as need to identify and investigate significant relationships.
 
@@ -34,7 +36,9 @@ The Chord visualization lets you see identify correlations between metrics, allo
 
 1. **View the Chord visualization**.
 
-   Hover over each metric in the visualization to see relationships. In the example, you can see a correlation between Units and most other metrics (except for the **Visit Duration** metric). ![](assets/chord_visualization_1.png)
+   Hover over each metric in the visualization to see relationships. In the example, you can see a correlation between Units and most other metrics (except for the **Visit Duration** metric). 
+   
+   ![](assets/chord_visualization_1.png)
 
    When you hover over the **Visit Duration** metric on the Chord visualization, you can see there is very little or at most weak correlation between all other metrics. 
 

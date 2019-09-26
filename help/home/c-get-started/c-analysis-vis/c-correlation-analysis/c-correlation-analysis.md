@@ -40,9 +40,7 @@ The Correlation Matrix compares metrics over a countable or non-countable dimens
 
 1. Add more metrics to the Correlation Matrix.
 
-   Right-click in a metric column or row. For example, from the Metric menu, add
-
-[!DNL Metric] > [!DNL Custom Events] > [!DNL Custom Event 1-10] > [!DNL Sign in Error].
+   Right-click in a metric column or row. For example, from the Metric menu, add [!DNL Metric] > [!DNL Custom Events] > [!DNL Custom Event 1-10] > [!DNL Sign in Error].
 
    ![](assets/correlation_matrix_11.png)
 
@@ -95,4 +93,3 @@ However, the 1 to 1 correlation (when a single selection is made of all elements
 >[!NOTE]
 >
 >The Scatter Plot and Pearsons matrix will display "Calculation Error" if the application is unable to run the Pearsons correlation calculation. This is usually due to insufficient data, which can cause the equation to attempt to divide by 0.
-

@@ -61,7 +61,7 @@ You can select the metric format and set the bucket values for a dimension expre
    ```
    %[flags][width][.precision][length][specifier]
    %
-<b>0.2lf</b> = % _ [flags] 0 [width] .2 [.precision] l [length] f[ specifier]
+   0.2lf = % _ [flags] 0 [width] .2 [.precision] l [length] f[ specifier]
    ```
 
    In the **Preview** field, a value will appear based on the metric and format selected. 
@@ -70,7 +70,9 @@ You can select the metric format and set the bucket values for a dimension expre
 
    You can define a metric dim with various ranges, or buckets. This returns subsets of elements based on size, such as [0-4], [5-10],...). Elements of the Dimension Level relate to the elements whose range contains the value of metric. See the bucket expression description at [Syntax for Dimension Expressions](https://marketing.adobe.com/resources/help/en_US/insight/client/?f=c_syntx_dim_exp). 
 
-1. `<q>Click <b>Preview</b> to open table of Metric Dim values before saving.</q>`  ![](assets/6_4_workstation_metricdim_preview.png)
+1. Click **Preview** to open table of Metric Dim values before saving.
+
+   ![](assets/6_4_workstation_metricdim_preview.png)
 
    The table details metric values per metric dim. 
 
