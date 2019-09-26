@@ -28,7 +28,7 @@ Data Workbench 6.2 includes these new features:
    <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-ui-upgrades-6-2.md#concept-56e61b50ffc44c57acceaee45a6efbfc"> Data Workbench Client UI updates </a> </td> 
    <td colname="col2">Data Workbench 6.2 includes new user interface features: 
     <ul id="ul_19CD7706B5C046178C8C496D5E05CA62"> 
-     <li id="li_97A386C80ACF49878CBA5C81A3619BA3"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/?f=c_bookmark_about" format="http" scope="external"> New bookmarks panel </a> </li> 
+     <li id="li_97A386C80ACF49878CBA5C81A3619BA3"><a href="https://marketing.adobe.com/resources/help/en_US/insight/client/c_bookmark_about.html" format="http" scope="external"> New bookmarks panel </a> </li> 
      <li id="li_63CF3372E811495D91FA405F460CB020"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-ui-upgrades-6-2.md#section-c108bbd1661249e79c146727ff3d2470"> New icons in the workspace toolbar</a> </li> 
      <li id="li_17CB20AC740242DB8D717E5260D52BA1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-ui-upgrades-6-2.md#section-9129c340c21d45a3864c923884cd4382"> Position objects in the workspace within a screen</a> </li> 
      <li id="li_B296EDDF9B8249F8A0A485EB41B6256D"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-ui-upgrades-6-2.md#section-d8322f72423f437aa2e34f2188b1341c"> New quick keys to change workspace views</a> </li> 
@@ -79,10 +79,10 @@ Data Workbench 6.2 includes these new features:
 
 ## Upgrade Requirement {#section-3cc74d08f7454d698b5a6d3f1dcde282}
 
-* The Attribution profile is configured for users who have implemented the Adobe SC profile to employ the Analytics (SC/Insight) data feed. By default, the Marketing and Conversion events are employed as the default interactions evaluated in the rules-based models. See [Deploying the Attribution Profile](http://marketing.adobe.com/resources/help/en_US/insight/whatsnew/?f=c_attrib_profile_deploy) for additional information. 
+* The Attribution profile is configured for users who have implemented the Adobe SC profile to employ the Analytics (SC/Insight) data feed. By default, the Marketing and Conversion events are employed as the default interactions evaluated in the rules-based models. See [Deploying the Attribution Profile](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/c_attrib_profile_deploy.html) for additional information. 
 * For users of the Adobe SC profile upgrading to Data Workbench 6.2, if you are not using the default configurations, verify that the [!DNL x-bot_id] value in the [!DNL SC Fields.cfg] file is being decoded properly and that the [!DNL x-bot_id] field is listed properly in the [!DNL Decoding Instructions.cfg] and the [!DNL Exclude Hit.cfg] files. This will only be an issue if you have modified the configuration file from the default configuration. 
 
-* If you have deleted unused fields in the [!DNL Dataset > Log Processing > SC Fields.cfg] file for the Adobe SC profile, you will need to update to accommodate updated field values used for the Attribution profile (see [Deploying the Attribution Profile](http://marketing.adobe.com/resources/help/en_US/insight/whatsnew/?f=c_attrib_profile_deploy)).
+* If you have deleted unused fields in the [!DNL Dataset > Log Processing > SC Fields.cfg] file for the Adobe SC profile, you will need to update to accommodate updated field values used for the Attribution profile (see [Deploying the Attribution Profile](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/c_attrib_profile_deploy.html)).
 
 ## Known Issues {#section-dbb307639835493a83409f5f461932b8}
 

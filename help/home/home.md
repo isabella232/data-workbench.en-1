@@ -14,7 +14,7 @@ uuid: 987b69f1-b82a-4719-a71d-b0250a4a4f92
 
 [Analytics Documentation](https://docs.adobe.com/content/help/en/analytics/landing/home.html)
 
-[![](assets/pdf_icon.png) Download All Data Workbench documentation](https://marketing.adobe.com/resources/help/en_US/insight/dwb_docs.zip) in PDF. 
+[![](assets/pdf_icon.png) Download All Data Workbench documentation](/help/home/assets/data-workbench.pdf) in PDF. 
 
 ## Key Topics
 

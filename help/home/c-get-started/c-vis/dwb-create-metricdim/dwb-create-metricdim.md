@@ -44,7 +44,7 @@ A Metric Dim converts a metric into a new dimension. For example, a Metric Dim b
 
    ![](assets/6_4_workstation_metricdim_create_metric.png)
 
-   You can add your own [metric expression](https://marketing.adobe.com/resources/help/en_US/insight/client/?f=c_syntx_mtrc_exp) or cut and paste from another metric editor or visualization. Syntax errors, formula errors, undefined filters, and other errors are reported in the wizard. 
+   You can add your own [metric expression](https://marketing.adobe.com/resources/help/en_US/insight/client/c_syntx_mtrc_exp.html) or cut and paste from another metric editor or visualization. Syntax errors, formula errors, undefined filters, and other errors are reported in the wizard. 
 
 1. Click **Next**.
 
@@ -68,7 +68,7 @@ You can select the metric format and set the bucket values for a dimension expre
 
 1. Add **Bucket Count** expression.
 
-   You can define a metric dim with various ranges, or buckets. This returns subsets of elements based on size, such as [0-4], [5-10],...). Elements of the Dimension Level relate to the elements whose range contains the value of metric. See the bucket expression description at [Syntax for Dimension Expressions](https://marketing.adobe.com/resources/help/en_US/insight/client/?f=c_syntx_dim_exp). 
+   You can define a metric dim with various ranges, or buckets. This returns subsets of elements based on size, such as [0-4], [5-10],...). Elements of the Dimension Level relate to the elements whose range contains the value of metric. See the bucket expression description at [Syntax for Dimension Expressions](https://marketing.adobe.com/resources/help/en_US/insight/client/c_syntx_dim_exp.html). 
 
 1. Click **Preview** to open table of Metric Dim values before saving.
 
