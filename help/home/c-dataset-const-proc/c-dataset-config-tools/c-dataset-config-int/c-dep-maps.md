@@ -14,7 +14,7 @@ Dependency maps enable you to visualize and manage the configuration of the comp
 
 * **Dataset components:** Log sources, filters, fields, transformations, and extended dimensions defined in your dataset's [!DNL Log Processing.cfg], [!DNL Transformation.cfg], and [!DNL dataset include] files. 
 
-* ** Query model components:** Metrics, dimensions, and filters defined in the Dimensions, Metrics, and Filters folders. 
+* **Query model components:** Metrics, dimensions, and filters defined in the Dimensions, Metrics, and Filters folders. 
 * **Workspaces and visualizations:** Workspaces, reports, menu options, and globe layers.
 
 For more information about working with query model components, workspaces, and visualizations in dependency maps, see the *Data Workbench User Guide*.

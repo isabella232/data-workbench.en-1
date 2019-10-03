@@ -46,5 +46,5 @@ To open a URI from a visualization, you first must edit the [!DNL Open URI.cfg] 
 </table>
 
 1. Save the file. 
-1. To make this change available to all users of the working profile, right-click the check mark for the [!DNL .vw] file in the [!DNL User] column and click **[!UICONTROL Save to]** > *< **[!UICONTROL working profile name]**>*.
+1. To make this change available to all users of the working profile, right-click the check mark for the [!DNL .vw] file in the [!DNL User] column and click **[!UICONTROL Save to]** > **[!UICONTROL working profile name]**.
 

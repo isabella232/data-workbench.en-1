@@ -22,7 +22,7 @@ Data Workbench Workstation now supports user authentication through username and
 
 For more information, see [Self-Provisioning of Users](https://marketing.adobe.com/resources/help/en_US/insight/client/c_self-provisioning-users.html).
 
-**Flat file lookup **
+**Flat file lookup**
 
 Data Workbench Workstation now supports user authentication through username and password. With this new method, administrators can create and manage their own user accounts, eliminating the need to contact Customer Care.
 
@@ -46,7 +46,7 @@ Added support for Email attribute in [!DNL User List.cfg]. For more information,
 
 Help menu now shows a shortcut to Open Certificates directory.
 
-**`TargetBulkUpload` export **
+**`TargetBulkUpload` export**
 
 URLs will be provided at the end of the export trace file and the `targetbulkuploadexportname.log.completed` file to track the record of stuck batches.
 

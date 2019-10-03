@@ -14,7 +14,7 @@ uuid: 987b69f1-b82a-4719-a71d-b0250a4a4f92
 
 [Analytics Documentation](https://docs.adobe.com/content/help/en/analytics/landing/home.html)
 
-[![](assets/pdf_icon.png) Download All Data Workbench documentation](/help/home/assets/data-workbench.pdf) in PDF. 
+[![](assets/pdf_icon.png) Download All Data Workbench documentation](/help/home/assets/data-workbench.pdf) View this help in PDF. 
 
 ## Key Topics
 
@@ -51,4 +51,4 @@ Data Workbench includes these predictive analytics features, data visualizations
 * [Presentation Layer for Annotating Visualizations](/help/home/c-get-started/c-vis/c-present-layer.md) 
 * [Metric Dim Wizard](/help/home/c-get-started/c-vis/dwb-create-metricdim/dwb-create-metricdim.md)
 
-*Last updated*: **8/2/2016**
+*Last updated*: **9/30/2019**

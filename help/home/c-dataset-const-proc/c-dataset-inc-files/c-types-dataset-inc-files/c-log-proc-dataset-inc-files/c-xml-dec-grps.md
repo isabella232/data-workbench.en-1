@@ -124,7 +124,7 @@ You can create a table like the one above in data workbench by using a field vie
 
 ## Using #value on XML element to read its attribute value {#section-88758428afb94f0baa5a986604d53bc1}
 
-You can now use the ** [!DNL #value]** tag in XML paths to pull the value of an XML element.
+You can now use the **[!DNL #value]** tag in XML paths to pull the value of an XML element.
 
 For example, previously specifying a path of **`<Hit><Page name="Home Page" index="20">home.html</Page></Hit>`** left you unable to read the value of the `<Page>` tag. To read the value of a `<Page>` tag and its attributes, you can use [!DNL Hit.Page.@name] and [!DNL Hit.Page.@index] respectively. You can also pull the value of the tag using **`Hit.Page.#value`** expression.
 

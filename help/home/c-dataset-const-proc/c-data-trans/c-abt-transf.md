@@ -15,7 +15,7 @@ Transformations enable you to extract information available in your data files a
 Transformations operate on the log entries (you can think of log entries as rows of data) in your log sources. For each row of data, the transformation takes the value of the specified input field, performs a set of processing steps, and records the result in the output field that you specify. You can define transformations to be executed during either the log processing or transformation phase of the dataset construction process:
 
 * **During log processing:** Transformations executed during the log processing phase of dataset construction are applied to each event data record (log entry) to update existing log fields or produce new fields. The results of the transformations are used along with log entry conditions to evaluate which log entries are filtered out of the dataset during log processing. 
-* ** During transformation:** Transformations executed during the transformation phase of dataset construction operate on the fields of data passed from log processing to create extended dimensions that you can use in your analyses. See [Extended Dimensions](../../../home/c-dataset-const-proc/c-ex-dim/c-ex-dim.md#concept-79b9e2b3f5794833b8b73b003f06ddca).
+* **During transformation:** Transformations executed during the transformation phase of dataset construction operate on the fields of data passed from log processing to create extended dimensions that you can use in your analyses. See [Extended Dimensions](../../../home/c-dataset-const-proc/c-ex-dim/c-ex-dim.md#concept-79b9e2b3f5794833b8b73b003f06ddca).
 
 >[!NOTE]
 >
