@@ -34,7 +34,7 @@ The default configuration for Data Workbench is to work offline, but as describe
 1. Open the [!DNL Insight.cfg] file in a text editor. 
 1. Add the highlighted line to the file as shown in the following example:
 
-...
+```
 Update Software = bool: true
 Default to Online = bool: true
 Color Set = int: 0
