@@ -59,7 +59,7 @@ Export to an Excel template (.xltx).
 
 Copies the workspace. For more information about pasting a copied workspace, see [Copying and Pasting Existing Workspaces](../../home/c-get-started/c-work-worksp/c-create-worksp.md#section-f91ae89b845640c9a4a52820a6110e65).
 
-**Revert to server version **
+**Revert to server version**
 
 Appears only for local versions of server workspaces. Deletes the local copy of this workspace. The original remains on the server.
 

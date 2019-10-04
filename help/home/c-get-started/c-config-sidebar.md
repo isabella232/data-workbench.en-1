@@ -43,7 +43,7 @@ You can open a sidebar visualization file from a saved location or from the clip
 
 ## Copying a Sidebar Panel {#section-720ae057632a4b8dbb94412e06a370b1}
 
-1. Right-click the panel’s top border, then click **[!UICONTROL Copy]** > **[!UICONTROL Window]**. 
+1. Right-click the panel’s top border, then click **[!UICONTROL Copy]** > **[!UICONTROL Window]**.
 1. To paste the panel, click **[!UICONTROL Add]** > **[!UICONTROL Open]** > **[!UICONTROL From Clipboard]**.
 
 ## Saving a Sidebar Panel {#section-fb19936b12704fb0a4c592abb579db1d}

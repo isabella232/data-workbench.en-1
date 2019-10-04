@@ -14,17 +14,17 @@ You can export a workspace as a .png image file or export the data from certain 
 
 ## Export a workspaces as a PNG file {#section-f9fbe0f0a1c341e2b063cce106cac35e}
 
-You can save a snapshot of a workspace in Portable Network Graphic format ( [!DNL .png] files). The following color options are available when saving workspaces as [!DNL .png] files:
+You can save a snapshot of a workspace in Portable Network Graphic format (`.png` files). The following color options are available when saving workspaces as `.png` files:
 
-* **Black background** copies the workspace as displayed. 
-* **White background** copies the elements of the workspace in color and displays them on a white background. 
+* **Black background** copies the workspace as displayed.
+* **White background** copies the elements of the workspace in color and displays them on a white background.
 * **White background (B&W)** copies the elements of the workspace in grayscale and displays them on a white background.
 
 **To export a workspace as a .png file**
 
 In the title bar menu of a workspace, click **[!UICONTROL Export]** > **[!UICONTROL Export PNG]** > *< **[!UICONTROL color option]**>*.
 
-The [!DNL Save Image As] dialog box appears.
+The [!UICONTROL Save Image As] dialog box appears.
 
 Navigate to the directory in which you want to save the file, change the name of the file if necessary, and click **[!UICONTROL Save]**.
 
@@ -47,7 +47,7 @@ If these requirements are met, Data Workbench automatically starts Microsoft Exc
 
 ## Apply custom titles {#section-a332e157554546cb8e88922a8d7a4fa2}
 
-Unless you have specified a Custom title for the window on the [!DNL Export] menu, the [!DNL Export title] listed (for example, City Table) is used as the worksheet name.
+Unless you have specified a Custom title for the window on the [!UICONTROL Export] menu, the [!UICONTROL Export title] listed (for example, City Table) is used as the worksheet name.
 
 1. Right-click the top border of the window and click in the **[!UICONTROL Custom title]** field. 
 1. Type the title that you want to apply to the window.
@@ -56,9 +56,9 @@ Unless you have specified a Custom title for the window on the [!DNL Export] men
 
 >[!NOTE]
 >
->If you enter a hyphen (-) in the [!DNL Custom title] field, this visualization is not exported with the workspace.
+>If you enter a hyphen (-) in the [!UICONTROL Custom title] field, this visualization is not exported with the workspace.
 
-When you export the workspace to Excel, the worksheet containing the data for this window is named using the title that you specified instead of the title in the [!DNL Export title] field.
+When you export the workspace to Excel, the worksheet containing the data for this window is named using the title that you specified instead of the title in the [!UICONTROL Export title] field.
 
 ## Export a workspace or sidebar to Excel {#section-360438b66d5f4734826ab463b4a01a75}
 
@@ -69,11 +69,11 @@ When you export the workspace to Excel, the worksheet containing the data for th
 
 ## Export to a template Excel file {#section-814772929ca64cf6b92b89d3fdd02302}
 
-You can export data in your workspace to a template Excel file ( [!DNL .xls] or [!DNL .xlsx]). Using a template file can reduce the amount of time that you spend formatting your data each time the workspace is exported.
+You can export data in your workspace to a template Excel file (`.xls` or `.xlsx`). Using a template file can reduce the amount of time that you spend formatting your data each time the workspace is exported.
 
 >[!NOTE]
 >
->This template file must be an [!DNL .xls] or [!DNL .xlsx] file, not an [!DNL .xlt] file.
+>This template file must be an `.xls` or `.xlsx` file, not an `.xlt` file.
 
 When the data is exported, the existing tabbed sheets in the template (each representing one visualization) are repopulated with the most recent data from the workspace, while any new windows that are not present in the template as tabbed sheets are ignored. Any other tabbed sheets in the template file remain unchanged.
 
@@ -86,20 +86,20 @@ Let’s say that you want to use exported campaign data from a table visualizati
 1. Right-click the title bar of the workspace and click **[!UICONTROL Export]** > **[!UICONTROL Export to Excel from Template]**. 
 1. Specify whether to export a workspace, sidebar, or both.
 
-   The [!DNL Select a template worksheet] dialog box opens. 
+   The [!UICONTROL Select a template worksheet] dialog box opens. 
 
 1. Complete one of the following steps as appropriate:
 
-    * If you are using a [!DNL .xls] template file:
+    * If you are using a `.xls` template file:
 
-        1. Browse to and select the template [!DNL .xls] file. 
+        1. Browse to and select the template `.xls` file. 
         1. Click **[!UICONTROL Open]**.
 
-    * If you are using a [!DNL .xlsx] template file:
+    * If you are using a `.xlsx` template file:
 
-        1. Browse to the location of the template file. The [!DNL .xlsx] file name is not displayed. 
-        1. In the [!DNL File name] field, type [!DNL *.xlsx] and click **[!UICONTROL Open]**. All [!DNL .xlsx] file names display in the file list. 
+        1. Browse to the location of the template file. The `.xlsx` file name is not displayed. 
+        1. In the [!UICONTROL File name] field, type `.xlsx` and click **[!UICONTROL Open]**. All `.xlsx` file names display in the file list. 
         
-        1. Select the template [!DNL .xlsx] file. 
+        1. Select the template `.xlsx` file. 
         1. Click **[!UICONTROL Open]**.
 

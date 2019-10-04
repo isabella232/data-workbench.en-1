@@ -16,7 +16,7 @@ By default, closing an unlocked workspace saves any changes that have been made 
 
 ## Save a workspace locally {#section-3f331c880f1a490c96844103c2432d61}
 
-The default save location is the User\*profile name*\Workspaces\*tab name* folder within the Data Workbench installation directory. For example, if you are working with the Movies profile and you save a workspace locally from the [!DNL Custom] tab, the workspace is saved to the User\Movies\Workspaces\Custom folder in your Data Workbench installation directory.
+The default save location is the User\*profile name*\Workspaces\*tab name* folder within the Data Workbench installation directory. For example, if you are working with the Movies profile and you save a workspace locally from the [!DNL Custom] tab, the workspace is saved to the **User\Movies\Workspaces\Custom** folder in your Data Workbench installation directory.
 
 **To save changes to a workspace**
 
