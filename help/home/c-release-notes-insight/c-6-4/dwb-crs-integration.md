@@ -28,7 +28,9 @@ From a **Detail Table** (right-click **[!UICONTROL Tools]** > **[!UICONTROL Deta
 1. **Right-click CRS Attributes > Add New.** 
 1. **Enter** ***CRS Attributes*** **parameters**.
 
-   Open the new entry and enter or verify values in the *CRS Attributes* section of the export file: ![](assets/6_4_CRS1.png)
+   Open the new entry and enter or verify values in the *CRS Attributes* section of the export file: 
+   
+   ![](assets/6_4_CRS1.png)
 
    <table id="table_8156A2C66C0E41D381C31F1082CCA479"> 
     <tbody> 

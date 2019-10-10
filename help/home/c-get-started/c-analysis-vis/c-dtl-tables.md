@@ -10,7 +10,7 @@ uuid: 2becff5e-c78d-4ac7-8cda-814ad0193efd
 
 # Detail table{#detail-table}
 
-Detail tables enable you to view additional information about a subset of data, which is defined by the selections that you make in other visualizations.
+Detail tables enable you to view additional information about a subset of data, which is defined by the selections that you make in other visualizations. 
 
  The additional information that you see is a sampling of all of the available data.
 

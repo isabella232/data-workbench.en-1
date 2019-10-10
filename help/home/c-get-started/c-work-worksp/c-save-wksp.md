@@ -16,7 +16,7 @@ By default, closing an unlocked workspace saves any changes that have been made 
 
 ## Save a workspace locally {#section-3f331c880f1a490c96844103c2432d61}
 
-The default save location is the User\*profile name*\Workspaces\*tab name* folder within the Data Workbench installation directory. For example, if you are working with the Movies profile and you save a workspace locally from the [!DNL Custom] tab, the workspace is saved to the **User\Movies\Workspaces\Custom** folder in your Data Workbench installation directory.
+The default save location is the **User\profile name\Workspaces\tab name** folder within the Data Workbench installation directory. For example, if you are working with the Movies profile and you save a workspace locally from the [!UICONTROL Custom] tab, the workspace is saved to the **User\Movies\Workspaces\Custom** folder in your Data Workbench installation directory.
 
 **To save changes to a workspace**
 
@@ -41,4 +41,3 @@ Saving workspaces to the connected Data Workbench server is also referred to as 
 * On the desired [!DNL Worktop] tab, right-click the thumbnail of the workspace that you want to save to the Data Workbench server and click **[!UICONTROL Save to server]**.
 
 ![](assets/mnu_workspaceManager_SaveToServerwksp.png)
-
