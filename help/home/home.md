@@ -10,6 +10,8 @@ uuid: 987b69f1-b82a-4719-a71d-b0250a4a4f92
 
 # Data Workbench Help{#data-workbench-help}
 
+![Banner](/help/home/assets/doc_banner_workbench.png)
+
 [Data Workbench](http://www.adobe.com/solutions/digital-analytics/data-workbench.html) is part of [Adobe Analytics](http://www.adobe.com/solutions/digital-analytics.html). It has highly-flexible, powerful, multi-channel capabilities designed to collect, process, analyze, and visualize data from online and offline customer interactions across all types of web, CRM, POS, and other data types. Interactive reports in Data Workbench let you analyze and react to pertinent statistical information to monitor activity and predict customer trends.
 
 * [![analytics icon](assets/analytics-icon-24.png) Analytics Documentation](https://docs.adobe.com/content/help/en/analytics/landing/home.html)
@@ -24,11 +26,15 @@ Data Workbench includes these predictive analytics features, data visualizations
 * [Decision Trees](/help/home/c-get-started/c-analysis-vis/c-decision-trees/c-decision-trees.md)
 * [Correlation Matrix](/help/home/c-get-started/c-analysis-vis/c-correlation-analysis/c-correlation-analysis.md) 
 * [Clustering](/help/home/c-get-started/c-analysis-vis/c-visitor-cluster/c-visitor-cluster.md) 
-* [Chord Visualization](/help/home/c-get-started/c-analysis-vis/c-chord-visualization.md) 
+* [Chord Visualization](/help/home/c-get-started/c-analysis-vis/c-chord-visualization.md)
 * [Attribution Profile](/help/home/c-get-started/c-attribution-profiles/c-rules-attrib/c-rules-attrib.md) 
 * [Master Marketing Profile Export and Integration](/help/home/c-get-started/c-exp-data-seg-exp/c-mmp-integration.md)
 
-## Release Notes and New Features
+## More Analytics user guides
+
+[Analytics User Guides](/help/landing/home.md)
+
+## Data Workbench Release Notes and New Features
 
 [Data Workbench 6.6.1](/help/home/c-release-notes-insight/c-6-6-1.md) is now released. It includes updates to MMP configuration for splitting record files.
 
