@@ -32,7 +32,7 @@ Data Workbench includes these predictive analytics features, data visualizations
 
 ## More Analytics user guides
 
-[Analytics User Guides](/help/landing/home.md)
+[Analytics User Guides](https://docs.adobe.com/content/help/en/analytics/landing/home.html)
 
 ## Data Workbench Release Notes and New Features
 
