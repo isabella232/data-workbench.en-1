@@ -14,15 +14,17 @@ A Metric Dim converts a metric into a new dimension. For example, a Metric Dim b
 
 ## Step 1: Select Dimension and Metric {#section-58b6ea7bbba5487ba1a3c264aa3dcb95}
 
-1. **Open the Metric Dim Wizard**.
+1. Open the Metric Dim Wizard.
 
-   In a workspace, right-click and select **Tools** > **Create Metric Dim**. 
+   In a workspace, right-click and select **[UICONTROL Tools]** > **[UICONTROL Create Metric Dim]**. 
 
-1. **Name the Metric Dim**.
+1. Name the Metric Dim.
 
    As a default, the Name field will auto-populate based on Level and Metric selections. 
 
-1. **Select a Dimension Level.** The dimension level is the parent dimension containing all constituent element values to filter input and define a dimension type.
+1. Select a Dimension Level.
+   
+   The dimension level is the parent dimension containing all constituent element values to filter input and define a dimension type.
 
    Dimension levels include:
 
@@ -32,13 +34,13 @@ A Metric Dim converts a metric into a new dimension. For example, a Metric Dim b
     * Visit 
     * Visitor
 
-1. **Select a Metric**.
+1. Select a Metric.
 
    Select a pre-built metric to extend and save as a metric dim. 
 
    ![](assets/6_4_workstation_metricdim_metric.png)
 
-1. (optional) **Create a Metric Formula**.
+1. (optional) Create a Metric Formula.
 
    Click the box to enter a custom metric formula. The calculated Preview value will appear validating the expression.
 
@@ -46,31 +48,36 @@ A Metric Dim converts a metric into a new dimension. For example, a Metric Dim b
 
    You can add your own [metric expression](https://marketing.adobe.com/resources/help/en_US/insight/client/c_syntx_mtrc_exp.html) or cut and paste from another metric editor or visualization. Syntax errors, formula errors, undefined filters, and other errors are reported in the wizard.
 
-1. Click **Next**.
+1. Click **[!UICONTROL Next]**.
 
 ## Step 2: Format and Set Buckets {#section-5bddf3cd306545d7806a501637f80f77}
 
-1. Select a **Format** for the new metric dim. ![](assets/6_4_workstation_metricdim_format_metric.png)The format defines how the metric will be presented when opened in a visualization. These formats are selected [printf standards](http://www.cplusplus.com/reference/cstdio/printf/), defined below: 
+1. Select a format for the new metric dim. 
+
+   ![](assets/6_4_workstation_metricdim_format_metric.png)
+   
+   The format defines how the metric will be presented when opened in a visualization. These formats are selected [printf standards](http://www.cplusplus.com/reference/cstdio/printf/), defined below: 
 
    ```
    %[flags][width][.precision][length][specifier]
-   %
-<b>0.2lf</b> = % _ [flags] 0 [width] .2 [.precision] l [length] f[ specifier]
+   % 0.2lf = % _ [flags] 0 [width] .2 [.precision] l [length] f[ specifier]
    ```
 
-   In the **Preview** field, a value will appear based on the metric and format selected. 
+   In the **[!UICONTROL Preview]** field, a value will appear based on the metric and format selected. 
 
-1. Add **Bucket Count** expression.
+1. Add Bucket Count expression.
 
    You can define a metric dim with various ranges, or buckets. This returns subsets of elements based on size, such as [0-4], [5-10],...). Elements of the Dimension Level relate to the elements whose range contains the value of metric. See the bucket expression description at [Syntax for Dimension Expressions](https://marketing.adobe.com/resources/help/en_US/insight/client/c_syntx_dim_exp.html). 
 
-1. Click **Preview** to open table of Metric Dim values before saving. ![](assets/6_4_workstation_metricdim_preview.png)
+1. Click **[!UICONTROL Preview]** to open table of Metric Dim values before saving. 
+
+   ![](assets/6_4_workstation_metricdim_preview.png)
 
    The table details metric values per metric dim. 
 
-1. Click **Show in Dimension Menu** to add the newly created dimension to the **Dimension** tab in the **Finder**. 
+1. Click **[!UICONTROL Show in Dimension Menu]** to add the newly created dimension to the **Dimension** tab in the **Finder**. 
 
-1. Click **Next**.
+1. Click **[!UICONTROL Next]**.
 
 ## Step 3: Finish and Save {#section-d9043235b18a425f9de0db668d4b1683}
 
@@ -78,11 +85,11 @@ A Metric Dim converts a metric into a new dimension. For example, a Metric Dim b
 
    |  Field  | Description  |
    |---|---|
-   |  Launch Metric Dim Editor  | Open the Metric Dim Editor.  |
-   |  Launch Graph  | Launch a PNG graphic of the table.  |
-   |  Launch Table  | Launch a table in the workspace with values in columns listing values of the new metric dim compared with values of the selected metric.  |
+   |  **[!UICONTROL Launch Metric Dim Editor]**  | Open the Metric Dim Editor.  |
+   |  **[!UICONTROL Launch Graph]**  | Launch a PNG graphic of the table.  |
+   |  **[!UICONTROL Launch Table]**  | Launch a table in the workspace with values in columns listing values of the new metric dim compared with values of the selected metric.  |
 
-1. Click **Finish** and save.
+1. Click **[!UICONTROL Finish]** and save.
 
    A save dialog will open allowing you to save the file. The selected options to view values will open in the workspace.
 

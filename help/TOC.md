@@ -12,18 +12,13 @@ user-guide-title: Data Workbench Help
    + [Data Workbench 6.73 Release Notes](home/c-release-notes-insight/dwb-6-73-release-notes.md)
    + [Data Workbench 6.72 Release Notes](home/c-release-notes-insight/dwb-6-72-release-notes.md)
    + [Data Workbench 6.7 Release Notes](home/c-release-notes-insight/dwb-6-7-release-notes.md)
-   + [DWB Report Portal 2.1](home/c-release-notes-insight/reportserver-2-1.md)
+   + [Data Workbench Report Portal 2.1](home/c-release-notes-insight/reportserver-2-1.md)
    + [Data Workbench 6.61 Release Notes](home/c-release-notes-insight/c-6-6-1.md)
    + [Data Workbench 6.6 Release Notes](home/c-release-notes-insight/c-6-6.md)
    + [Data Workbench 6.52 Update](home/c-release-notes-insight/c-6-52.md)
    + [Data Workbench 6.51 Update](home/c-release-notes-insight/c-6-51.md)
    + [Data Workbench 6.5 Release Notes](home/c-release-notes-insight/c-6-5.md)
-   + Data Workbench 6.4 Release Notes {#data-workbench-6-4-notes}
-      + [Data Workbench 6.4 Release Notes Overview](home/c-release-notes-insight/c-6-4/c-6-4.md)
-      + [Presentation Layer](home/c-release-notes-insight/c-6-4/dwb-6-4-present-layer.md)
-      + [Metric Dim Wizard](home/c-release-notes-insight/c-6-4/dwb-6-4-metric-dim.md)
-      + [New User Interface Features](home/c-release-notes-insight/c-6-4/dwb-6-4-ui-features.md)
-      + [Device Atlas with In-Memory Cache](home/c-release-notes-insight/c-6-4/dwb-device-atlas-upgrade.md)
+   + [Data Workbench 6.4 Release Notes Overview](home/c-release-notes-insight/c-6-4/c-6-4.md)
    + [Data Workbench 6.31 Update](home/c-release-notes-insight/c-6-3-1.md)
    + Data Workbench 6.3 Release Notes {#dwb-6-3-notes}
       + [Data Workbench 6.3 Release Notes Overview](home/c-release-notes-insight/c-6-3/c-6-3.md)
@@ -269,6 +264,7 @@ user-guide-title: Data Workbench Help
          + [Export to Microsoft Excel](home/c-get-started/c-analysis-vis/c-wksts/c-exp-ms-excel.md)
    + Imagery layers {#imagery-layers}
       + [About imagery layers](home/c-get-started/c-im-layers/c-ustd-img-layers.md)
+      + [Presentation Layer](home/c-get-started/c-im-layers/presentation-layer.md)
       + Terrain image layers {#terrain-image-layers}
          + [Terrain image layers](home/c-get-started/c-im-layers/c-ter-img-layers/c-ter-img-layers.md)
          + [Specify projection information for terrain images](home/c-get-started/c-im-layers/c-ter-img-layers/c-proj-info-ter-imgs.md)
@@ -611,6 +607,7 @@ user-guide-title: Data Workbench Help
    + [About Data Workbench Metrics, Dimensions, and Filters](home/c-about/c-about.md)
    + [Expanding Metrics, Dimensions, and Filters](home/c-about/c-expand-capabilities.md)
    + [Dimension Types](home/c-about/c-dimension-types.md)
+   + [Metric Dim Wizard](home/c-about/metric-dim.md)
    + Built-in Metrics, Dimensions, and Filters {#built-in-metrics}
       + [About Built-in Metrics, Dimensions, and Filters](home/c-about/c-builtin-metrics-dims/c-builtin-metrics-dims.md)
       + [Built-in Metrics](home/c-about/c-builtin-metrics-dims/c-builtin-metrics.md)

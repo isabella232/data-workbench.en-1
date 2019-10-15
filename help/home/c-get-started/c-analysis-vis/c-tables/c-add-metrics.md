@@ -25,4 +25,3 @@ The following example shows the Average Score metric by the Movie dimension (in 
 **To change a metric**
 
 * Right-click the label or an element of the metric that you want to change, click **[!UICONTROL Change Metric]** > *< **[!UICONTROL metric name]**>*. The new metric replaces the original metric.
-

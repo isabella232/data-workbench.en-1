@@ -10,10 +10,10 @@ uuid: a2da9fd9-733a-449e-b7fd-1f328d1108a4
 
 The Presentation Layer lets you mark up and annotate your workspace visualizations and then publish with your call-outs and comments. Add text descriptions, graphic objects, callout arrows, color coding, images, and other features in an overlay to add annotations and clarify important data points, and then share with stakeholders.
 
-**Add Annotations to your Visualizations:**
+**Add Annotations to your Visualizations**
 
-1. Open a workspace.
-1. Click **Allow Presentation Layer**.
+1. Open a workspace. 
+1. Click **[!UICONTROL Allow Presentation Layer]**.
 
    Toggle the command in this menu to allow or disallow working in the presentation layer. A checkmark will appear when the presentation layer is allowed.
 
@@ -23,7 +23,7 @@ The Presentation Layer lets you mark up and annotate your workspace visualizatio
 
    ![](assets/dwb_presentation_icon2.png) This clickable icon shows that you are in the **Hide Presentation Layer** mode but not able to see annotations.
 
-1. Click icon to toggle to **Show Presentation Layer**.
+1. Click **[!UICONTROL Show Presentation Layer]**.
 
    View annotations in the presentation layer.
 
@@ -34,7 +34,7 @@ The Presentation Layer lets you mark up and annotate your workspace visualizatio
    >You can also right-click in the workspace to change modes using menu commands. ![](assets/6_4_presentation_layer_right_menu.png)   >
    >
 
-1. **Edit and add callout features. **
+1. Edit and add callout features.
 
    Click icon again to capture a static representation of the workspace visualization and open an overlay to add or edit annotations.
 
@@ -42,27 +42,27 @@ The Presentation Layer lets you mark up and annotate your workspace visualizatio
 
    A gray overlay appears while in edit mode.
 
-1. **Add callout features**.
+1. Add callout features.
 
    Right-click the visualization to add a new text box, arrows, images, and other callout features to highlight and annotate for presentation.
 
    ![](assets/6_4_presentation_layer_add_annotation.png)
 
-1. **Set graphic features**.
+1. Set graphic features.
 
    Select a graphic object and right-click to set options. You can set colors for a box or other graphic object, adjust text settings in a text box, and add arrows or set layering for lines. ![](assets/6_4_presentation_layer_options.png)
 
-1. **Add images to the workspace**.
+1. Add images to the workspace.
 
    Right-click to add your .png and .jpg images to the overlay and resize.
 
-1. **Assign colors to graphic objects**.
+1. Assign colors to graphic objects.
 
    You can select objects in the presentation layer and assign colors using the color picker. ![](assets/dwb_presentation_colorpicker.png)
 
-1. **Export and share presentation layer**.
+1. Export and share presentation layer.
 
    After annotating your workspace visualizations, you can export the presentation layer with visualizations and share as a .png graphic file.
 
-   Click **Export** > **Export PNG**.
+   Click **[!UICONTROL Export]** > **[!UICONTROL Export PNG]**.
 
