@@ -10,8 +10,6 @@ uuid: 8631c936-d53b-493d-9f58-72f541c3ddce
 
 Data Workbench 6.2 release notes include new features, upgrade requirements, bug fixes, and known issues.
 
-To view previous features and fixes based for each past release, see the [release note archives](https://marketing.adobe.com/resources/help/en_US/insight/insight_release_notes_prev.pdf).
-
 ## New Features {#section-1225066ea8f44cf68e42e019d0bca816}
 
 Data Workbench 6.2 includes these new features: 

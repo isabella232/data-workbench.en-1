@@ -18,7 +18,7 @@ For example, if a customer visits your site through an organic search, then enga
 
 >[!NOTE]
 >
->To run **Best Fit Attribution** in Data Workbench, you need to update your server certificate ( [!DNL .pem file]) to support Adobe Analytics Premium. You also need to add **Premium** to your custom [!DNL Profile.cfg] for the client and receive new certificates from Adobe ClientCare for Server and Report Server. See [upgrade instructions](../../../../home/c-release-notes-insight/c-6-3/c-6-3.md#section-8704a9ac358246cd81233dd0982d534f) for Data Workbench 6.3.
+>To run **Best Fit Attribution** in Data Workbench, you need to update your server certificate ( [!DNL .pem file]) to support Adobe Analytics Premium. You also need to add **Premium** to your custom [!DNL Profile.cfg] for the client and receive new certificates from Adobe ClientCare for Server and Report Server. 
 
 ## Basic Setup {#section-db597eaee462412ea7280d1426366c61}
 

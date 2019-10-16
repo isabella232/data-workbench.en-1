@@ -27,7 +27,7 @@ Data Workbench 6.1 includes these new features:
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/install/index.html#Data_Workbench_Client_Minimum_System_Requirements" format="http" scope="external"> 64-bit Windows upgrade </a> </td> 
+   <td colname="col1"> 64-bit Windows upgrade </a> </td> 
    <td colname="col2"> The data workbench server, report server, and client components are upgraded to run only on 64-bit Windows operating systems. </td> 
   </tr> 
   <tr> 

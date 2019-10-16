@@ -10,14 +10,6 @@ uuid: 1bc18c90-8b46-4c90-b7a7-2c6710e1e28c
 
 Data Workbench 6.2 includes new user interface updates to the bookmarks panel, new icons in the workspace toolbar, the ability to drag the workspace within a screen, new quick keys, and updates to the pie chart visualization.
 
-[New Bookmark Features](../../../../home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-ui-upgrades-6-2.md#section-e361b605441540ca8213c3fddb5e0718)
-
-[New Icons in Workspace](../../../../home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-ui-upgrades-6-2.md#section-c108bbd1661249e79c146727ff3d2470)
-
-[Drag Workspace Views](../../../../home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-ui-upgrades-6-2.md#section-9129c340c21d45a3864c923884cd4382)
-
-[Quick Keys to Change Workspace Views](../../../../home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-ui-upgrades-6-2.md#section-d8322f72423f437aa2e34f2188b1341c)
-
 ## New Bookmark Features {#section-e361b605441540ca8213c3fddb5e0718}
 
 You can now bookmark significant workspaces to quickly move between visualizations and reports employed in your workflow.
