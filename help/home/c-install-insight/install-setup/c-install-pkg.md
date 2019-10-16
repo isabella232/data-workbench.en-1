@@ -14,7 +14,7 @@ The following directories are included in the Insight package.
 
 ## Program Files {#section-ddb14bf42cdd4dc7a6b4310a5b4388e4}
 
-The Workstation executable (** [!DNL Insight.exe]**) and supporting files are installed by default to this folder.
+The Workstation executable (**[!DNL Insight.exe]**) and supporting files are installed by default to this folder.
 
 ```
 C:\Program Files\Adobe\Adobe Analytics\Data Workbench
@@ -49,7 +49,7 @@ C:\Program Files\Adobe\Adobe Analytics\Data Workbench
 
 ## AppData Files {#section-afddeedf8d29451f996fa46b2dfe932c}
 
-Data Files (** [!DNL Insight.cfg]**, Profiles, Certificates, trace logs, and user files) are saved by default to: 
+Data Files (**[!DNL Insight.cfg]**, Profiles, Certificates, trace logs, and user files) are saved by default to: 
 
 ```
 <filepath>

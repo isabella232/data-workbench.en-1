@@ -10,9 +10,9 @@ uuid: a2098522-bf05-4680-9b78-6fb284695a0a
 
 Configure the time dimensions to display correctly for the locale.
 
-You can configure the displayed format of time dimensions based on locale in the ** [!DNL Standard Time Dimensions.cfg]** file (located by default at ** [!DNL Server/Profiles/<my profile>/Dataset/Transformation/Time/Standard Time Dimensions.cfg]**).
+You can configure the displayed format of time dimensions based on locale in the **[!DNL Standard Time Dimensions.cfg]** file (located by default at **[!DNL Server/Profiles/`<my profile>`/Dataset/Transformation/Time/Standard Time Dimensions.cfg]**).
 
-For example, in North America you can express the date May 3rd, 2015 as 5/3/15, or ** `%m/%d/%y`**. However, in other parts of the world this could be interpreted as `%d/%m/%y`, or March 5th, 2015 due to an ambiguity in the values. To avoid this situation, an administrator might want to change the displayed format to match the expectations of the users in a locale.
+For example, in North America you can express the date May 3rd, 2015 as 5/3/15, or **`%m/%d/%y`**. However, in other parts of the world this could be interpreted as `%d/%m/%y`, or March 5th, 2015 due to an ambiguity in the values. To avoid this situation, an administrator might want to change the displayed format to match the expectations of the users in a locale.
 
 ## 1. Override Default Time Dimensions in Standard Time Dimensions.cfg {#section-7d0b24657bef4b15abb3cbea66cb617f}
 
@@ -60,9 +60,9 @@ Transformation Include = TransformationInclude:
 
 ## 2. Configure the meta.cfg file {#section-5e077d3298dd48fda7f7bb16af9ea00c}
 
-Additionally, it's necessary for the package administrator to add these parameters and their defaults to profile's ** [!DNL meta.cfg]** file. This allows editing from the workstation.
+Additionally, it's necessary for the package administrator to add these parameters and their defaults to profile's **[!DNL meta.cfg]** file. This allows editing from the workstation.
 
-Here's an excerpt from a configured ** [!DNL meta.cfg]**file.
+Here's an excerpt from a configured **[!DNL meta.cfg]**file.
 
 ```
 dimensions = vector: 6 items 
@@ -93,8 +93,8 @@ dimensions = vector: 6 items
         Month = string: Month
 ```
 
-Here is an example of a ** [!DNL meta.cfg]** file in the workstation:
+Here is an example of a **[!DNL meta.cfg]** file in the workstation:
 
 ![](assets/dwb_time_format.png)
 
-The administrator is then able to go into the **File Manager**, open the file(s) where the time dimensions are configured (e.g., ** [!DNL Standard Time Dimensions.cfg]**), and edit them using in the workstation. 
+The administrator is then able to go into the **File Manager**, open the file(s) where the time dimensions are configured (e.g., **[!DNL Standard Time Dimensions.cfg]**), and edit them using in the workstation. 

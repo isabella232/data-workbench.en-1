@@ -35,7 +35,7 @@ Directions for installing the data workbench Monitoring Profile.
 1. Copy the [!DNL insight_monitor.zip/insight_monitor_agent] to a temporary location. 
 1. Update [!DNL insight_monitor_agent.cfg] file for your environment. Follow the comments inside the configuration file:
 
-   **The Monitoring configuration file: **
+   **The Monitoring configuration file:**
 
    ![](assets/monitor_agent_cfg_sensor.png)
 

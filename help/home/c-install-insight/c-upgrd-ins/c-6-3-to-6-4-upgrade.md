@@ -20,9 +20,9 @@ Follow these requirements and recommendations when upgrading to Data Workbench 6
 
 * **Add** ***Excluded Processes*** for *MS System Center Endpoint Protection in Windows 2012 Servers* for the following executables:
 
-    * ** [!DNL InsightServer64.exe]** 
-    * ** [!DNL ReportServer.exe]** 
-    * ** [!DNL ExportIntegration.exe]**
+    * **[!DNL InsightServer64.exe]** 
+    * **[!DNL ReportServer.exe]** 
+    * **[!DNL ExportIntegration.exe]**
 
   This will allow "white list" rights for these interfacing executables. 
 
@@ -35,8 +35,8 @@ Follow these requirements and recommendations when upgrading to Data Workbench 6
 
 * **Update *Attribution-Premium* settings**. If you have customized profiles with parameter settings that override the default *Adobe SC* profile, then you need to update the custom fields in these configuration files:
 
-    * ** [!DNL Decoding Instructions.cfg]** 
-    * ** [!DNL SC Fields.cfg]**
+    * **[!DNL Decoding Instructions.cfg]** 
+    * **[!DNL SC Fields.cfg]**
 
 * Because of this reorganization, you will want to remove the old *Attribution* and *Premium* folders from your server installation.
 
@@ -71,7 +71,7 @@ Follow these requirements and recommendations when upgrading to Data Workbench 6
 
 * **Update custom Meta.cfg files** (if necessary).
 
-  The** [!DNL Meta.cfg]** files in ** [!DNL Base\Context and AdobeSC\Context]** folders have been updated in this release.
+  The **[!DNL Meta.cfg]** files in **[!DNL Base\Context and AdobeSC\Context]** folders have been updated in this release.
 
   If you override the **meta.cfg** file during installation, then your profile copy needs to be updated with this these parameters and the **metadata vector** appropriately entered:
 
@@ -96,7 +96,7 @@ Follow these requirements and recommendations when upgrading to Data Workbench 6
 
 * **Set Report Server permissions** to generate Microsoft Excel reports On Windows 2012 servers.
 
-    1. Set permission of the root folder (** [!DNL E:\ReportServer\]**) to* Everyone = full control*. 
+    1. Set permission of the root folder (**[!DNL E:\ReportServer\]**) to *Everyone = full control*. 
     
     1. Create the following folders with appropriate permissions:     
     
@@ -113,7 +113,7 @@ Follow these requirements and recommendations when upgrading to Data Workbench 6
 
     1. Assign "SYSTEM" as the owner for these folders.
 
-* **Add fonts to the Report Server. ** In the ** [!DNL ReportServer.cfg]**file, add these fonts (for all languages): 
+* **Add fonts to the Report Server.** In the **[!DNL ReportServer.cfg]**file, add these fonts (for all languages): 
 
   ```
   Fonts = vector: 3 items 
@@ -145,7 +145,7 @@ Follow these requirements and recommendations when upgrading to Data Workbench 6
 
 * **Add fonts to the Workstation**.
 
-  In the ** [!DNL Insight.cfg]** file, add these fonts (for all languages):
+  In the **[!DNL Insight.cfg]** file, add these fonts (for all languages):
 
   ```
   Fonts = vector: 3 items 

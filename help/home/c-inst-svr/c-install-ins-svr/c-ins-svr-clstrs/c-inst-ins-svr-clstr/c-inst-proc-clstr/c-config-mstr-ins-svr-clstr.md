@@ -24,7 +24,7 @@ To complete these steps, you need to know the common names (as specified on the 
 
 >[!NOTE]
 >
->The procedures described in this section require [!DNL Insight]. If you have not installed [!DNL Insight], follow the instructions in the ** [!DNL Insight] User Guide** before proceeding.
+>The procedures described in this section require [!DNL Insight]. If you have not installed [!DNL Insight], follow the instructions in the **[!DNL Insight] User Guide** before proceeding.
 
 ## Adding the Processing Insight Servers to the Address File {#section-2fe5298180164e8dbaa59ea6b6ff682d}
 
@@ -78,7 +78,7 @@ Use the following procedure to add the processing [!DNL Insight Servers’] comm
 
 To use [!DNL Insight Servers] in a cluster, each [!DNL Insight Server] in the cluster (including the master [!DNL Insight Server]) must belong to the Cluster Servers access control group. The Cluster Servers group identifies the servers (by IP address) that are allowed to participate in the cluster. Although this file is maintained and administered on the master [!DNL Insight Server], it is used by all of the [!DNL Insight Servers] in the cluster.
 
-**To edit the access control file **
+**To edit the access control file**
 
 1. In [!DNL Insight], on the [!DNL Admin] > [!DNL Dataset and Profile] tab, click the **[!UICONTROL Servers Manager]** thumbnail to open the Servers Manager workspace. 
 

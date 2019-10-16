@@ -26,7 +26,7 @@ The size of each point on the scatter plot is determined by the radius metric. T
 
 ## Select points {#section-4b4d45f39b884d54bb7407b3b2f4ea50}
 
-**To select a single point **
+**To select a single point**
 
 * Click the point.
 

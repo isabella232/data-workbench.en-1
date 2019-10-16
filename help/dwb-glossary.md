@@ -188,7 +188,7 @@ A type of visualization in data workbench that plots metrics for a specified dim
 
 A condition that determines whether an event data record (a log entry) will be included in the dataset. For example, a log entry condition might specify that only event data records associated with a particular Web site are to be admitted to the dataset. Log entry conditions are specified in the log processing configuration file on the data workbench server.
 
-**Many-to-Many Dimension **
+**Many-to-Many Dimension**
 
 In the Adobe Platform, a dimension that has a many-to-many relationship with a parent Countable dimension. A many-to-many dimension represents a set of values for each element of its parent dimension. For example, in Site, the Search Phrase dimension has a many-to-many relationship to its parent, the Session dimension (that is, a Session can have any number of Search Phrases, and a Search Phrase can have any number of Sessions.)
 
@@ -320,7 +320,7 @@ An identifier that uniquely distinguishes the primary entities being analyzed in
 
 A method of changing the value of a variable using some mathematical operation. On the data workbench server, for example, analysts can use the split transformation to break the name-value pairs in a query string into individual variables.
 
-**Two-Dimensional Bar Graph **
+**Two-Dimensional Bar Graph**
 
 A type of visualization in data workbench that simultaneously displays two dimensions and up to two metrics in a three-dimensional graphical view.
 

@@ -42,7 +42,7 @@ Make sure you have the these tasks completed before installing the Data Workbenc
 * **Implement security measures.** You should follow your company’s normal enterprise security policies for Data Workbench computers. To serve its primary purposes, Data Workbench requires only the ability to connect to a server (via ports 80 and 443) and to any servers collecting data. You can use the Data Workbench hardware for any other purpose as long you maintain the Data Workbench software and allocate at least 10 GB of storage space for Data Workbench. 
 * To render visualizations accurately, the computer on which you install the workbench must have an appropriate **graphics adapter **installed (see Graphic Adapter requirements below).
 
-** Data Workbench Client Requirements **
+**Data Workbench Client Requirements**
 
 **Operating System**
 
@@ -79,7 +79,7 @@ Make sure you have the these tasks completed before installing the Data Workbenc
 * Required: 512 Kbps link to the DPU 
 * Recommended: 2Mbps or faster link to the DPU
 
-**File System **
+**File System**
 
 NTFS
 
