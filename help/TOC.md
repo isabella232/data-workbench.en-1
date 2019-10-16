@@ -264,7 +264,6 @@ user-guide-title: Data Workbench Help
          + [Export to Microsoft Excel](home/c-get-started/c-analysis-vis/c-wksts/c-exp-ms-excel.md)
    + Imagery layers {#imagery-layers}
       + [About imagery layers](home/c-get-started/c-im-layers/c-ustd-img-layers.md)
-      + [Presentation Layer](home/c-get-started/c-im-layers/presentation-layer.md)
       + Terrain image layers {#terrain-image-layers}
          + [Terrain image layers](home/c-get-started/c-im-layers/c-ter-img-layers/c-ter-img-layers.md)
          + [Specify projection information for terrain images](home/c-get-started/c-im-layers/c-ter-img-layers/c-proj-info-ter-imgs.md)
