@@ -356,6 +356,6 @@ Use the **Search** box to find values in the list.
 
 Assign a name for the group of fields and save as a decoder file. The name should match the Decoder group name specified in your log source.
 
-**Step 5: Save the decoder file. **
+**Step 5: Save the decoder file.**
 
 The file menu will open to name the decoder file and save as a [!DNL .cfg] file in the **Logs** folder. 

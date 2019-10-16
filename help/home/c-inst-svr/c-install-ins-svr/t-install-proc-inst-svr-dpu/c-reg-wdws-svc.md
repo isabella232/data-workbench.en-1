@@ -31,7 +31,7 @@ Procedure to start Insight Server and simultaneously register it as a Microsoft 
 
 1. To confirm that [!DNL Insight Server] is running correctly, click **[!UICONTROL Start]** > **[!UICONTROL Control Panel]** > **[!UICONTROL Administrative Tools]** > **[!UICONTROL Services]**. This command sequence can vary depending on which version of Windows you are using.
 
-    1. In the service list, locate the entry for ** [!DNL Adobe Insight Server]** and confirm that its status is Started and its startup type is Automatic. 
+    1. In the service list, locate the entry for **[!DNL Adobe Insight Server]** and confirm that its status is Started and its startup type is Automatic. 
     1. Close the Services control panel.
 
 1. To check whether [!DNL Insight Server] experienced any errors during start-up, click **[!UICONTROL Start]** > **[!UICONTROL Control Panel]** > **[!UICONTROL Administrative Tools]** > **[!UICONTROL Event Viewer]**. This command sequence can vary depending on which version of Windows you are using.

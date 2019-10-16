@@ -16,7 +16,7 @@ To set the export configuration, two new export configuration files were added t
 
 * Set the **FTPServerInfo.cfg** file.
 
-  Enter the FTP server information and set connection retries allowed from the workstation. Edit from the workstation or the server at [!DNL Server\Addresses\Export\]** [!DNL FTPServerInfo.cfg]** file. 
+  Enter the FTP server information and set connection retries allowed from the workstation. Edit from the workstation or the server at [!DNL Server\Addresses\Export\] **[!DNL FTPServerInfo.cfg]** file. 
 
   ```
   FTP Servers = vector: 1 items 
@@ -32,7 +32,7 @@ To set the export configuration, two new export configuration files were added t
 
 * Set the **FTPUserCredentials.cfg** file.
 
-  Enter user credentials to connect to servers using the [!DNL Server\Admin\Export\]** [!DNL FTPUserCredentials.cfg]** file. This file contains user credentials needed to connect to servers and can only be edited from server and not from workstation (client). 
+  Enter user credentials to connect to servers using the [!DNL Server\Admin\Export\] **[!DNL FTPUserCredentials.cfg]** file. This file contains user credentials needed to connect to servers and can only be edited from server and not from workstation (client). 
 
   ```
   FTP User Credentials = vector: 1 items 

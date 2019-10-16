@@ -32,13 +32,13 @@ To define an element point layer that references a lookup file, you must create 
 
 The element point layer lookup file must contain at least the following three columns:
 
-* ** [!DNL Key] column:** This column should contain common key data, which enables the Data Workbench server to connect the data in the lookup file to that in the dataset. The [!DNL key] column must be the first column in the lookup file. Each row in this column identifies an element of the dimension. 
+* **[!DNL Key] column:** This column should contain common key data, which enables the Data Workbench server to connect the data in the lookup file to that in the dataset. The [!DNL key] column must be the first column in the lookup file. Each row in this column identifies an element of the dimension. 
 
-* ** [!DNL Longitude] column:** This column should contain the longitude for each data point in the [!DNL Key] column. 
+* **[!DNL Longitude] column:** This column should contain the longitude for each data point in the [!DNL Key] column. 
 
-* ** [!DNL Latitude] column:** This column should contain the latitude for each data point in the [!DNL Key] column. 
+* **[!DNL Latitude] column:** This column should contain the latitude for each data point in the [!DNL Key] column. 
 
-* ** [!DNL Name] column (Optional):** If you want to specify a name to be displayed on the map for each data point, you can include a [!DNL Name] column in the lookup file.
+* **[!DNL Name] column (Optional):** If you want to specify a name to be displayed on the map for each data point, you can include a [!DNL Name] column in the lookup file.
 
 Each row in the [!DNL Zip Points.txt] lookup file contains a ZIP Code in the first column followed by the longitude, latitude, and associated city name.
 

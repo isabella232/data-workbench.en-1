@@ -54,11 +54,11 @@ Path Browser visualization
 
 ![](assets/attrib_model_path_browser.png)
 
-**2D Process Map visualization ** 
+**2D Process Map visualization** 
 
 ![](assets/attrib_model_2Dprocess_map.png)
 
-**3D Process Map visualization **
+**3D Process Map visualization**
 
 ![](assets/attrib_model_3Dprocess_map.png)
 
