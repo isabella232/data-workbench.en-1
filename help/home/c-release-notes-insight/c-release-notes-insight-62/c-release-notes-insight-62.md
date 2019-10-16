@@ -12,7 +12,7 @@ Data Workbench 6.2 release notes include new features, upgrade requirements, bug
 
 ## New Features {#section-1225066ea8f44cf68e42e019d0bca816}
 
-Data Workbench 6.2 includes these new features: 
+Data Workbench 6.2 includes these new features:
 
 <table id="table_E28A6D31E7D941F7A0C2048F0F0F7838"> 
  <thead> 
@@ -26,11 +26,7 @@ Data Workbench 6.2 includes these new features:
    <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/c_decision_trees.html"> Decision Trees</a> </td> 
    <td colname="col2"> Decision trees are a predictive analytics visualization used to evaluate visitor characteristics and relationships. The Decision Tree Builder generates a decision tree visualization based on a specified positive case and a set of inputs. </td> 
   </tr> 
-  <tr> 
-   <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-query-panels.md#concept-8906c8e39d80495585928f29e0e88d01"> Finders</a> </td> 
-   <td colname="col2">Use Finder panels in Data Workbench to select metrics, dimensions, and filters. These panels provide search support, sorting options, and drag and drop capabilities. <p> <p>Note:  With the new Finder panels, you can export a list of your Dimensions, Metrics, and Filters to an MS Excel spreadsheet. </p> </p> </td> 
-  </tr> 
-  <tr> 
+   <tr> 
    <td colname="col1"><a href="../../../home/c-get-started/c-analysis-vis/c-correlation-analysis/c-correlation-binary-filter.md#concept-24e1daff43c540f69019f236976da31c"> Update to Binary Filter in Correlation Matrix </a> </td> 
    <td colname="col2"> The Binary Filter has been updated with new features, requiring you to rebuild any Correlation Matrix with a Binary Filter built in previous versions. </td> 
   </tr> 

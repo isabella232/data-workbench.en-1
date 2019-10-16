@@ -61,11 +61,7 @@ Data Workbench 6.1 includes these new features:
    <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-funnel-hide-fallout.md#concept-cb550a98b11d432482db58183b0b965b"> Hide Fallout label in funnel visualization</a> </td> 
    <td colname="col2">Toggle between displaying and hiding fallout labels in a Funnel visualization by right-clicking the title and selecting <span class="uicontrol"> Hide Fallout</span>. </td> 
   </tr> 
-  <tr> 
-   <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-keyboard-shortcuts.md#concept-944ee0fdd5a04a5cbd56acc6c3ab2935"> New keyboard shortcuts </a> </td> 
-   <td colname="col2"> Additional shortcut keys have been added for adding and editing workspaces and configuration files. </td> 
-  </tr> 
- </tbody> 
+  </tbody> 
 </table>
 
 ## Sorting Table Columns{#sorting-table-columns}
