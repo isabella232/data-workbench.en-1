@@ -14,40 +14,15 @@ Data Workbench 6.2 release notes include new features, upgrade requirements, bug
 
 Data Workbench 6.2 includes these new features:
 
-<table id="table_E28A6D31E7D941F7A0C2048F0F0F7838"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Features </th> 
-   <th colname="col2" class="entry"> Description </th> 
-  </tr>
- </thead>
- <tbody> 
-   <tr> 
-   <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/c_decision_trees.html"> Decision Trees</a> </td> 
-   <td colname="col2"> Decision trees are a predictive analytics visualization used to evaluate visitor characteristics and relationships. The Decision Tree Builder generates a decision tree visualization based on a specified positive case and a set of inputs. </td> 
-  </tr> 
-   <tr> 
-   <td colname="col1"><a href="../../../home/c-get-started/c-analysis-vis/c-correlation-analysis/c-correlation-binary-filter.md#concept-24e1daff43c540f69019f236976da31c"> Update to Binary Filter in Correlation Matrix </a> </td> 
-   <td colname="col2"> The Binary Filter has been updated with new features, requiring you to rebuild any Correlation Matrix with a Binary Filter built in previous versions. </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/c_density_map.html"> Density Map</a> </td> 
-   <td colname="col2"> The density map is a visualization that displays elements as shaded rectangles within a square map. </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/c_rules_attrib.html"> Attribution Profile </a> </td> 
-   <td colname="col2"> To quickly analyze attribution values (events to attribute responsibility for a successful conversion or sale), Data Workbench provides a rules-based Attribution profile with features for the Architect to set up the Attribution reports and the Analyst to run the reports. </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"><a href="../../../home/c-get-started/c-template-report-types.md#concept-f4346d6fb5c34484ad0eca95b7791e42"> Analytic Reports</a> </td> 
-   <td colname="col2"> Report templates standardize Adobe Analytics' reports for users of the data workbench who utilize the Adobe SC profile. These reports are identical to reports employed in Marketing Reports &amp; Analytics (formerly SiteCatalyst). </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/c_3d_scatterplots.html"> 3D Scatter Plots </a> </td> 
-   <td colname="col2"> A 3D Scatter Plot graphs the elements of a data dimension (such as Days or Referral Site) on a three-dimensional grid where the x, y, and z axes represent various metrics. </td> 
-  </tr> 
- </tbody> 
-</table>
+| Features | Description |
+|--- |--- |
+|Decision Trees|Decision trees are a predictive analytics visualization used to evaluate visitor characteristics and relationships. The Decision Tree Builder generates a decision tree visualization based on a specified positive case and a set of inputs.|
+|Update to Binary Filter in Correlation Matrix|The Binary Filter has been updated with new features, requiring you to rebuild any Correlation Matrix with a Binary Filter built in previous versions.|
+|Density Map|The density map is a visualization that displays elements as shaded rectangles within a square map.|
+|Attribution Profile|To quickly analyze attribution values (events to attribute responsibility for a successful conversion or sale), Data Workbench provides a rules-based Attribution profile with features for the Architect to set up the Attribution reports and the Analyst to run the reports.|
+|Analytic Reports|Report templates standardize Adobe Analytics' reports for users of the data workbench who utilize the Adobe SC profile. These reports are identical to reports employed in Marketing Reports & Analytics (formerly SiteCatalyst).|
+|3D Scatter Plots|A 3D Scatter Plot graphs the elements of a data dimension (such as Days or Referral Site) on a three-dimensional grid where the x, y, and z axes represent various metrics.|
+
 
 ## Data Workbench Client UI Updates{#data-workbench-client-ui-updates}
 
@@ -129,7 +104,7 @@ If a workspace is larger than the viewable screen, you can move the view to see 
 
 ## Quick Keys to Change Workspace Views {#section-d8322f72423f437aa2e34f2188b1341c}
 
-New quick keys let you resize and refit workspaces between window and full page views. See the [Quick Reference](https://marketing.adobe.com/resources/help/en_US/insight/client/c_qk_ref.html) for more keyboard quick keys. 
+New quick keys let you resize and refit workspaces between window and full page views. 
 
 <table id="table_A01C514C99F043338D183A6839E03DEA"> 
  <thead> 
@@ -175,10 +150,10 @@ New quick keys let you resize and refit workspaces between window and full page 
 
 ## Upgrade Requirement {#section-3cc74d08f7454d698b5a6d3f1dcde282}
 
-* The Attribution profile is configured for users who have implemented the Adobe SC profile to employ the Analytics (SC/Insight) data feed. By default, the Marketing and Conversion events are employed as the default interactions evaluated in the rules-based models. See [Deploying the Attribution Profile](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/c_attrib_profile_deploy.html) for additional information. 
+* The Attribution profile is configured for users who have implemented the Adobe SC profile to employ the Analytics (SC/Insight) data feed. By default, the Marketing and Conversion events are employed as the default interactions evaluated in the rules-based models.  
 * For users of the Adobe SC profile upgrading to Data Workbench 6.2, if you are not using the default configurations, verify that the [!DNL x-bot_id] value in the [!DNL SC Fields.cfg] file is being decoded properly and that the [!DNL x-bot_id] field is listed properly in the [!DNL Decoding Instructions.cfg] and the [!DNL Exclude Hit.cfg] files. This will only be an issue if you have modified the configuration file from the default configuration. 
 
-* If you have deleted unused fields in the [!DNL Dataset > Log Processing > SC Fields.cfg] file for the Adobe SC profile, you will need to update to accommodate updated field values used for the Attribution profile (see [Deploying the Attribution Profile](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/c_attrib_profile_deploy.html)).
+* If you have deleted unused fields in the **[!UICONTROL Dataset]** > **[!UICONTROL Log Processing** > **[!DNL SC Fields.cfg]** file for the Adobe SC profile, you will need to update to accommodate updated field values used for the Attribution profile.
 
 ## Known Issues {#section-dbb307639835493a83409f5f461932b8}
 
