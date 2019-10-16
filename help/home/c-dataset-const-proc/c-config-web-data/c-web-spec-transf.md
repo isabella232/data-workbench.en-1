@@ -23,11 +23,11 @@ Information about web-specific settings that are defined in Transformation Datas
 
 The [!DNL Page View Condition] is a condition operation that determines whether a particular log entry (that is, a page request) should be included in the data gathered about a visitor's page view history. When the log entry satisfies the [!DNL Page View Condition], it becomes an element of the Page View countable dimension. If a log entry does not satisfy the [!DNL Page View Condition], its data fields still are accessible by other dimensions. In addition to the Page View dimension, the following dimensions can be affected by the results of the [!DNL Page View Condition]:
 
-* ** [!DNL URI] and [!DNL Page]:** These dimensions are directly affected by the [!DNL Page View Condition]. If the given page does not pass the [!DNL Page View Condition,] it is not be included in the URI or Page dimensions. 
+* **[!DNL URI] and [!DNL Page]:** These dimensions are directly affected by the [!DNL Page View Condition]. If the given page does not pass the [!DNL Page View Condition,] it is not be included in the URI or Page dimensions. 
 
-* ** [!DNL Visitor Page Views] and [!DNL Session Page Views]:** The Visitor Page Views and Session Page Views dimensions are a count of the number of pages viewed by a visitor to or in a given session, respectively. Pages filtered out by the [!DNL Page View Condition] are not part of this count. 
+* **[!DNL Visitor Page Views] and [!DNL Session Page Views]:** The Visitor Page Views and Session Page Views dimensions are a count of the number of pages viewed by a visitor to or in a given session, respectively. Pages filtered out by the [!DNL Page View Condition] are not part of this count. 
 
-* **Session Number: **The [!DNL Page View Condition] has an indirect effect on the Session Number dimension. The Session Number dimension is created prior to the [!DNL Page View Condition]; therefore, when considering [!DNL Session Number] in relation to the [!DNL Page Views], it is possible to have sessions with no page views.
+* **Session Number:** The [!DNL Page View Condition] has an indirect effect on the Session Number dimension. The Session Number dimension is created prior to the [!DNL Page View Condition]; therefore, when considering [!DNL Session Number] in relation to the [!DNL Page Views], it is possible to have sessions with no page views.
 
 Your default implementation of [!DNL Site] includes a [!DNL Transformation Dataset Include] file in which the Page View countable dimension and the related [!DNL Page View Condition] are defined.
 
@@ -159,13 +159,13 @@ If you are working with [!DNL Site], your default implementation likely includes
 
 1. Save the [!DNL Session Parameters.cfg] file by right-clicking **[!UICONTROL (modified)]** at the top of the window and clicking **[!UICONTROL Save]**. 
 
-1. To make the locally made changes take effect, in the [!DNL Profile Manager], right-click the check mark for the file in the [!DNL User] column, then click **[!UICONTROL Save to]** > *< **[!UICONTROL profile name]**>*, where profile name is the name of the dataset profile or the inherited profile to which the dataset include file belongs.
+1. To make the locally made changes take effect, in the [!DNL Profile Manager], right-click the check mark for the file in the [!DNL User] column, then click **[!UICONTROL Save to]** >  **[!UICONTROL profile name]**, where profile name is the name of the dataset profile or the inherited profile to which the dataset include file belongs.
 
    >[!NOTE]
    >
    >Do not save the modified configuration file to any of the internal profiles provided by Adobe, as your changes are overwritten when you install updates to these profiles.
 
-** [!DNL Internal Domains] **
+**[!DNL Internal Domains]**
 
 [!DNL Internal Domains] is a vector parameter that lists domain level hosts (internal referrers) that should be treated as part of a particular website. These hosts are removed from the referrer dimension (which is a list of the external referrer information). When cs(referrer-domain) matches any of the strings listed in the set of internal domains, Session Timeout is ignored and Maximum Session Duration is used to determine session length.
 

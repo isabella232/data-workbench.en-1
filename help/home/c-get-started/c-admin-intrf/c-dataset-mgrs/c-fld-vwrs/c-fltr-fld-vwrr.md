@@ -25,7 +25,7 @@ Field values that contain the text or satisfy the regular expression display in 
 
 For information about regular expressions, see the *Dataset Configuration Guide*.
 
-**To filter out blank rows **
+**To filter out blank rows**
 
 * Right-click within the column for the field for which you want to filter out blank rows and click **[!UICONTROL Filter out blank rows]**.
 

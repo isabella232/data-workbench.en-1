@@ -69,11 +69,11 @@ Launch the installation wizard executable and walk through each step to install 
 
    >[!NOTE]
    >
-   >The default log location for the Workstation Set up Wizard at ** [!DNL C:\Users\<userName>\AppData\Local\Temp.]**
+   >The default log location for the Workstation Set up Wizard at **[!DNL C:\Users\`<userName>`\AppData\Local\Temp.]**
 
    Select the **Launch application** checkbox to open the workbench after setup. 
 
-1. **Configure connections **to servers in ** [!DNL Insight.cfg]** file.
+1. **Configure connections** to servers in **[!DNL Insight.cfg]** file.
 
    After installation of the workstation, the Enhanced Workstation Configuration Experience workspace will open with additional information about [entering server connection information](/help/home/c-get-started/c-insght-config-param.md) in the *Insight.cfg* file and an option to select a profile from the drop-down. You can also view the connection status to your servers.
 

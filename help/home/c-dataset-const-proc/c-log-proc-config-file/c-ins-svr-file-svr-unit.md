@@ -113,7 +113,7 @@ Following is an example of a defined [!DNL Log Server] in the [!DNL Log Processi
 
 In the previous process, you configured a profile for a given dataset to read log files from an FSU. Now you must edit the permissions on the FSU to allow connections from the DPUs that are running the profile. The following steps walk you through editing the permissions file [!DNL Access Control.cfg].
 
-** To edit permissions on the FSU**
+**To edit permissions on the FSU**
 
 1. Open the [!DNL Server Files Manager] for the data workbench server machine that you are setting up as your FSU and click **[!UICONTROL Access Control]** to show its contents.
 

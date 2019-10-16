@@ -106,7 +106,7 @@ Steps to edit the Log Processing.cfg file for a dataset profile.
    </tr> 
    <tr> 
       <td colname="col1"> Time Zone </td> 
-      <td colname="col2"> <p>Optional. Time zone of the the data workbench server that is used for time conversions (such as the conversion represented by the x-local-timestring field) during log processing. </p> <p> <p>Note:  You must specify the Time Zone if you want to access the converted time field during the log processing phase of dataset construction. Otherwise, the data workbench server records an error in the event logs. </p> </p> <p>See <a href="../../../home/c-dataset-const-proc/c-trans-config-file/c-spec-trans-param/c-time-zones.md#concept-9cf16b1cb4874f7d85e1dd950fdb4956"> Time Zones </a>. </p> </td> 
+      <td colname="col2"> <p>Optional. Time zone of the data workbench server that is used for time conversions (such as the conversion represented by the x-local-timestring field) during log processing. </p> <p> <p>Note:  You must specify the Time Zone if you want to access the converted time field during the log processing phase of dataset construction. Otherwise, the data workbench server records an error in the event logs. </p> </p> <p>See <a href="../../../home/c-dataset-const-proc/c-trans-config-file/c-spec-trans-param/c-time-zones.md#concept-9cf16b1cb4874f7d85e1dd950fdb4956"> Time Zones </a>. </p> </td> 
    </tr> 
    <tr> 
       <td colname="col1"> Transformations </td> 

@@ -14,7 +14,7 @@ Administrators can give workstation users the partial ability to manage access c
 
 **Accessing the Servers Manager**
 
-Setting up the ** [!DNL User List]** file and synching it with the ** [!DNL Communications.cfg]** file is done in the **Servers Manager** workspace.
+Setting up the **[!DNL User List]** file and synching it with the **[!DNL Communications.cfg]** file is done in the **Servers Manager** workspace.
 
 1. On the worktop, click the **Admin** tab > **Dataset and Profile** tab. 
 
@@ -23,13 +23,13 @@ Setting up the ** [!DNL User List]** file and synching it with the ** [!DNL Comm
 
    The server files will open in a table with columns *File*, *`<server name>`*, and *Temp*. 
 
-1. **Make Local** by right-clicking in the server column of a server file (for this feature ** [!DNL Access Control]** and ** [!DNL Components/Communications.cfg)]**.
+1. **Make Local** by right-clicking in the server column of a server file (for this feature **[!DNL Access Control]** and **[!DNL Components/Communications.cfg)]**.
 
    A white checkmark will appear in the **Temp** column. You can edit in the Temp folder. Then right-click the checkmark and **Save To** the server. (It turns red when synched with server).
 
 ## Create a User List.cfg file {#section-c25bcaf34f4546e6b8b65f5e7f69ac09}
 
-The administrator needs to create a ** [!DNL User List.cfg]** file in the ** [!DNL Access Control]** folder.
+The administrator needs to create a **[!DNL User List.cfg]** file in the **[!DNL Access Control]** folder.
 
 1. Right-click** Access Control** row in the **Temp** column and select **Open** > **Folder**. ![](assets/6_4_workstation_groups_3.png)
 
@@ -49,11 +49,11 @@ Access Control Groups = vector: 1 items
       0 = string: CN:Joe User
 ```
 
-You can then edit and add users this in the Workstation view of the ** [!DNL User List.cfg]**file.
+You can then edit and add users this in the Workstation view of the **[!DNL User List.cfg]**file.
 
 ![](assets/6_4_workstation_groups_4.png)
 
-Here's the most basic parameters to add to the ** [!DNL User List.cfg]**file. The Members can then be added in the Workstation view.
+Here's the most basic parameters to add to the **[!DNL User List.cfg]** file. The Members can then be added in the Workstation view.
 
 ```
 Access Control Groups = vector: 1 items 
@@ -64,7 +64,7 @@ Access Control Groups = vector: 1 items
 
 >[!IMPORTANT]
 >
->As with any ** [!DNL .cfg]** file that you manually edit, make sure to use spaces instead of tabs and to pay close attention to the whitespace and syntax. A mistake in this file will cause *Adobe Insight Server* to ignore the User List file.
+>As with any **[!DNL .cfg]** file that you manually edit, make sure to use spaces instead of tabs and to pay close attention to the whitespace and syntax. A mistake in this file will cause *Adobe Insight Server* to ignore the User List file.
 
 The **Name** field in each **Access Group** will be referenced within the [!DNL Access Control.cfg] file.
 
@@ -74,7 +74,7 @@ The **Name** field in each **Access Group** will be referenced within the [!DNL 
 
 ## Set up the Communications.cfg file {#section-9d6f05ba81c14f15be63e361533459e8}
 
-An administrator first enables this feature by opening the ** [!DNL Components] > [!DNL Communications.cfg] **file and adding a new key with the name ** [!DNL Access Control User List File]**. The string value of this key is the path where this new file will be located.
+An administrator first enables this feature by opening the **[!DNL Components] > [!DNL Communications.cfg]** file and adding a new key with the name **[!DNL Access Control User List File]**. The string value of this key is the path where this new file will be located.
 
 1. From the server files, click **Components** and right-click the checkmark in the server column. Click **Make Local**.
 
@@ -108,7 +108,7 @@ An administrator first enables this feature by opening the ** [!DNL Components] 
     <Path>: Access Control\\User List.cfg
    ```
 
-1. Save the **[!DNL Communications.cfg]** file and (if necessary) save it to the server. This will restart components in the server to make sure you haven't made any mistakes that could prevent the ** [!DNL Communications.cfg]** file from being parsed. 
+1. Save the **[!DNL Communications.cfg]** file and (if necessary) save it to the server. This will restart components in the server to make sure you haven't made any mistakes that could prevent the **[!DNL Communications.cfg]** file from being parsed. 
 1. If your system includes processing servers, modify the configuration file in the **[!DNL Components for Processing Servers.cfg]** file. 
 1. Right-click **[!DNL Communications.cfg]** and save to server.
 

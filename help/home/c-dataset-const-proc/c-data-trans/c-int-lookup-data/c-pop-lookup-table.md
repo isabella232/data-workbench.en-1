@@ -21,5 +21,5 @@ If you use an [!DNL ODBCLookup] transformation, the lookup table is loaded into 
 
 >[!NOTE]
 >
->Lookup tables are loaded when the the data workbench server initially begins constructing the dataset. Once established, lookup files are not meant to be changed. If you change the flat file or [!DNL ODBC] table that is used for the transformation phase, you are required to retransform the entire dataset. If you change a flat file that is used during the log processing phase, the new lookup data is applied to all new records that enter the dataset, but the changes are not applied retroactively.
+>Lookup tables are loaded when the data workbench server initially begins constructing the dataset. Once established, lookup files are not meant to be changed. If you change the flat file or [!DNL ODBC] table that is used for the transformation phase, you are required to retransform the entire dataset. If you change a flat file that is used during the log processing phase, the new lookup data is applied to all new records that enter the dataset, but the changes are not applied retroactively.
 

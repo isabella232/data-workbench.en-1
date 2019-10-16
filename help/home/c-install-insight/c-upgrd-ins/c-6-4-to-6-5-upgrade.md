@@ -14,7 +14,7 @@ Follow these steps to upgrade to Data Workbench v6.5.
 
 Follow these requirements and recommendations when upgrading to Data Workbench 6.5.
 
-* Changes in the ** [!DNL Components for Processing Servers\Communications.cfg]** file require you to update this file for the DWB 6.5 release. The *SourceListServer*, *SegmentExportServer*, and *NormalizeServer* entries were removed. ( DPU's should not be running *sourcelist*, *segment export*, or *normalize servers*. ) 
+* Changes in the **[!DNL Components for Processing Servers\Communications.cfg]** file require you to update this file for the DWB 6.5 release. The *SourceListServer*, *SegmentExportServer*, and *NormalizeServer* entries were removed. ( DPU's should not be running *sourcelist*, *segment export*, or *normalize servers*. ) 
 
 * Correlation Chord, Correlation Matrix, Association Chord, Association Matrix, Propensity Score and Best Fit Attribution visualizations are now multi-pass visualizations.
 
