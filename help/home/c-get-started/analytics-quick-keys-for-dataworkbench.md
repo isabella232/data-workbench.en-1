@@ -8,7 +8,7 @@ uuid: 134bcf04-767c-4170-b375-545862b2d333
 
 # Keyboard shortcuts for the Data Workbench Client{#keyboard-shortcuts-for-the-data-workbench-client}
 
-Use these shortcut keys for workspaces and configuration files.
+Use these shortcut keys for workspaces and configuration files. 
 
 ## Keyboard shortcuts from the workbench thumbnail view {#section-7c5656d8e99446cca588b9da5bd68e8f}
 

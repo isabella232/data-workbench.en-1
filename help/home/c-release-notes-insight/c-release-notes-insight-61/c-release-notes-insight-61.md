@@ -62,15 +62,39 @@ Data Workbench 6.1 includes these new features:
    <td colname="col2">Toggle between displaying and hiding fallout labels in a Funnel visualization by right-clicking the title and selecting <span class="uicontrol"> Hide Fallout</span>. </td> 
   </tr> 
   <tr> 
-   <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-sort-tables.md#concept-23bf1ce3dced4811b7b9a7f5928cd179"> Tables sorted</a> alphabetically or by ordinals </td> 
-   <td colname="col2"> From a Dimension table, you can sort elements alphabetically or by ordinals using the new arrow in the title of the column. The # character will display when a column is sorted by ordinals. </td> 
-  </tr> 
-  <tr> 
    <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-keyboard-shortcuts.md#concept-944ee0fdd5a04a5cbd56acc6c3ab2935"> New keyboard shortcuts </a> </td> 
    <td colname="col2"> Additional shortcut keys have been added for adding and editing workspaces and configuration files. </td> 
   </tr> 
  </tbody> 
 </table>
+
+## Sorting Table Columns{#sorting-table-columns}
+
+Sort table columns alphabetically or by ordinals.
+
+To better select elements in a Dimension table, you can order the first column alphabetically or by ordinals by selecting the **[!UICONTROL Sort]** menu option.
+
+The # character will display when a column is sorted by ordinals (the default).
+
+**Select Sort Option**
+
+To change sorting options between ordinal and alphabet, right-click and select **[!UICONTROL Sort]**. Click the arrow to reverse the order.
+
+![](assets/sort_table_alpha.png)
+
+>[!NOTE]
+>
+>You can sort other columns by ordinal by clicking the name of the column.
+
+## Hide Fallout Labels in Funnel{#hide-fallout-labels-in-funnel}
+
+Toggle to open fallout labels in a Funnel visualization.
+
+The Funnel visualization identifies where a customer abandons a marketing campaign or diverts from a defined conversion path while interacting with your website or cross-channel campaign. The left side of the Funnel visualization displays the results of a visit or visitors, while the right side displays the "Fallout" of those who abandon a specified path.
+
+![](assets/c_funnel_hide_fallout.png)
+
+When in a **[!UICONTROL Funnel]** visualization, you can right-click the title and select **[!UICONTROL Hide Fallout]** from the menu to hide the fallout labels. 
 
 ## Known Issues {#section-ff2180c6871c413480e15fa915c253b9}
 

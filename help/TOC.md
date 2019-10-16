@@ -18,33 +18,15 @@ user-guide-title: Data Workbench Help
    + [Data Workbench 6.52 Update](home/c-release-notes-insight/c-6-52.md)
    + [Data Workbench 6.51 Update](home/c-release-notes-insight/c-6-51.md)
    + [Data Workbench 6.5 Release Notes](home/c-release-notes-insight/c-6-5.md)
-   + [Data Workbench 6.4 Release Notes Overview](home/c-release-notes-insight/c-6-4/c-6-4.md)
+   + [Data Workbench 6.4 Release Notes](home/c-release-notes-insight/c-6-4/c-6-4.md)
    + [Data Workbench 6.31 Update](home/c-release-notes-insight/c-6-3-1.md)
-   + Data Workbench 6.3 Release Notes {#dwb-6-3-notes}
-      + [Data Workbench 6.3 Release Notes Overview](home/c-release-notes-insight/c-6-3/c-6-3.md)
-      + [Data Workbench 6.3 features](home/c-release-notes-insight/c-6-3/c-6-3-features/c-6-3-features.md)
-      + [Clustering 2.0](home/c-release-notes-insight/c-6-3/c-6-3-features/c-clustering-2.md)
-      + [Trend Lines](home/c-get-started/c-analysis-vis/c-graphs/c-trend-lines.md)
-      + [Pie Chart Update](home/c-release-notes-insight/c-6-3/c-6-3-features/c-piechart-update.md)
-      + [Query String Grouping](home/c-release-notes-insight/c-6-3/c-6-3-features/c-query-string-grouping.md)
+   + [Data Workbench 6.3 Release Notes](home/c-release-notes-insight/c-6-3/c-6-3.md)
    + [Data Workbench 6.21 Update](home/c-release-notes-insight/c-6-2-1.md)
-   + Data Workbench 6.2 Release Notes {#dwb-6-2-notes}
-      + [Data Workbench 6.2 Release Notes](home/c-release-notes-insight/c-release-notes-insight-62/c-release-notes-insight-62.md)
-      + [Data Workbench 6.2 features](home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-6-2-features.md)
-      + [Data Workbench Client UI Updates](home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-ui-upgrades-6-2.md)
-      + [Finders](home/c-release-notes-insight/c-release-notes-insight-62/c-6-2-features/c-query-panels.md)
+   + [Data Workbench 6.2 Release Notes](home/c-release-notes-insight/c-release-notes-insight-62/c-release-notes-insight-62.md)
    + [Data Workbench 6.11 Update](home/c-release-notes-insight/c-6-1-1.md)
    + [Data Feeds Update for April MR 2014](home/c-release-notes-insight/c-release-notes-insight-mr41714.md)
-   + Data Workbench 6.1 Release Notes {#dwb-6-1-rn}
-      + [Data Workbench 6.1 Release Notes Overview](home/c-release-notes-insight/c-release-notes-insight-61/c-release-notes-insight-61.md)
-      + [Syntax for Math Functions](home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-statistical-functions.md)
-      + [New Keyboard Shortcuts](home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-keyboard-shortcuts.md)
-      + [Sorting Table Columns](home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-sort-tables.md)
-      + [Hide Fallout Labels in Funnel](home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-funnel-hide-fallout.md)
-  + Data Workbench 6.0 Release Notes {#dwb-6-0-rn}
-      + [Data Workbench 6.0 Release Notes Overview](home/c-release-notes-insight/c-release-notes-previous/c-release-notes-insight-600.md)
-      + [Data Workbench 6.0 features](home/c-release-notes-insight/c-release-notes-previous/c-6-0/c-6-0.md)
-      + [Data Workbench 6.0.4 Release Notes](home/c-release-notes-insight/c-release-notes-previous/c-release-notes-insight-604.md)
+   + [Data Workbench 6.1 Release Notes](home/c-release-notes-insight/c-release-notes-insight-61/c-release-notes-insight-61.md)
+   + [Data Workbench 6.0 and 6.0.4 Release Notes](home/c-release-notes-insight/c-release-notes-previous/c-release-notes-insight-600.md)
 + Installation {#install}
    + [Workstation requirements](home/c-install-insight/c-data-workbench-client-install.md)
    + Workstation setup {#workstation-setup}
@@ -151,6 +133,7 @@ user-guide-title: Data Workbench Help
       + [Association Table visualization](home/c-get-started/c-analysis-vis/associations-visualization.md)
       + Visitor Clustering {#visitor-cluster}
          + [Visitor Clustering Overview](home/c-get-started/c-analysis-vis/c-visitor-cluster/c-visitor-cluster.md)
+         + [Clustering 2.0](home/c-get-started/c-analysis-vis/c-visitor-cluster/c-clustering-2.md)
          + [Building Clusters](home/c-get-started/c-analysis-vis/c-visitor-cluster/c-defining-clusters.md)
          + [Exploring Clusters](home/c-get-started/c-analysis-vis/c-visitor-cluster/c-exploring-clusters.md)
       + [Chord Visualization](home/c-get-started/c-analysis-vis/c-chord-visualization.md)
@@ -287,6 +270,7 @@ user-guide-title: Data Workbench Help
          + [Query Queue Overview](home/c-get-started/c-admin-intrf/c-query-que/c-query-que.md)
          + [Query Queue User Groups](home/c-get-started/c-admin-intrf/c-query-que/c-query-que-user-grps.md)
          + [Query Queue Resource Monitors](home/c-get-started/c-admin-intrf/c-query-que/c-query-que-res-mon.md)
+         + [Query String Grouping](home/c-get-started/c-admin-intrf/c-query-que/c-query-string-grouping.md)
       + [Processing Legend](home/c-get-started/c-admin-intrf/c-pro-lgd.md)
       + [Detailed Status interface](home/c-get-started/c-admin-intrf/c-det-stat-interf.md)
       + Profile Manager {#profile-mgr}

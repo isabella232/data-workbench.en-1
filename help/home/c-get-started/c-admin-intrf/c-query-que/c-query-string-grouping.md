@@ -24,7 +24,7 @@ Query String Grouping is specific to each profile, but works well in transformat
              Column Name = string: e100 
              Field Name = string: x-cust100 
              ...  
-<b>(all the fields you wish to build)</b> 
+     (all the fields you wish to build)
              Name = string: Custom Events 
              Output = string: x-event-list       
    ```
@@ -43,7 +43,7 @@ Query String Grouping is specific to each profile, but works well in transformat
              Column Name = string: e100 
              Field Name = string: x-cust100 
              ...  
-<b>(all the fields you wish to extract)</b> 
+     (all the fields you wish to extract) 
              Name = string: Custom Events 
              Output = string: x-event-list   
    ```
@@ -53,4 +53,3 @@ Query String Grouping is specific to each profile, but works well in transformat
 If you have many fields with custom evars, props, and variables, during log processing you can build a name value pair to combine fields in a report. For example, you can build named-value pairs into combined fields to reduce the [!DNL tempDB] file size.
 
 ![](assets/query_string_grouping.png)
-
