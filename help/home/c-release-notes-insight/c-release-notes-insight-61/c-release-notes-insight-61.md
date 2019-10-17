@@ -18,51 +18,15 @@ To view previous features and fixes based for each past release, see the [releas
 
 Data Workbench 6.1 includes these new features: 
 
-<table id="table_E28A6D31E7D941F7A0C2048F0F0F7838"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Features </th> 
-   <th colname="col2" class="entry"> Description </th> 
-  </tr>
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> 64-bit Windows upgrade </a> </td> 
-   <td colname="col2"> The data workbench server, report server, and client components are upgraded to run only on 64-bit Windows operating systems. </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/index.html#Propensity_Scoring" format="http" scope="external"> Propensity Scoring</a> </td> 
-   <td colname="col2">Scoring your audience lets you identify customer loyalty and statistically perceive who is likely to convert a sale or interact with a story or campaign. Propensity scoring now includes these visualizations to view models and show the changing correlation of selected metrics. <p> 
-     <ul id="ul_682E12BBC65F4FB5909BEC3430DB9C13"> 
-      <li id="li_F0A5BFA2D0A74445A07F7705D63DE4C2">The <a href="http://marketing.adobe.com/resources/help/en_US/insight/client/index.html#Model_Viewer" format="http" scope="external"> Model Viewer</a> examines a logistic regression model generated with Propensity Scoring, displaying the coefficient weights of each input variable (including the constant term) and their statistical error range. </li> 
-      <li id="li_1E223A50AD154DD6A9587CD1024EFD3A"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/index.html#Propensity_Gain_and_Lift_Charts" format="http" scope="external"> Lift and Gain charts</a> are used to evaluate the potential increase of a scored data model. </li> 
-      <li id="li_0B1BF8C77CBC443C8DB4A47FCFD43F41">The <a href="http://marketing.adobe.com/resources/help/en_US/insight/client/index.html#Confusion_Matrix" format="http" scope="external"> Confusion Matrix</a> gives four counts by the combination of Actual Positive (AP), Actual Negative (AN), Predicted Positive (PP), and Predicted Negative (PN). </li> 
-      <li id="li_D340802FD6034D5480B71C98226A3C87"> <p>Starting with v6.1, you now have a <a href="http://marketing.adobe.com/resources/help/en_US/insight/client/index.html#Propensity_Scoring" format="http" scope="external"> Save option</a> to save propensity scores based on two types: dimensions, or dimensions and metrics. </p> </li> 
-      <li id="li_16AEDE7E241C4DE4A946016C37878C49">You can now click Ctrl-Alt and drag and drop to add elements in Propensity Scoring and the <a href="http://marketing.adobe.com/resources/help/en_US/insight/client/index.html#Clustering" format="http" scope="external"> Cluster Builder</a>. Previously to add table elements, you had to drag from the table to the Elements box. </li> 
-     </ul> </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-support-for-chinese.md#concept-e69dac7de1484720ad469d6c208e7541"> Data workbench now in Chinese </a> </td> 
-   <td colname="col2">Data workbench now supports Simplified Chinese for the client application. <p>Data workbench also supports the <a href="../../../home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-localized-ime.md#concept-86d7602cd6ec416b8d4a518f325e001e"> Input Method Editor (IME)</a> as a secondary text entry process for international languages. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/index.html#Syntax_for_Math_Expressions" format="http" scope="external"> Math Functions</a> </td> 
-   <td colname="col2"> You can now add Mathematical functions to metrics, math transformations, and worksheet cells to further calculate datasets. </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/index.html#Statistical_Callouts" format="http" scope="external"> Statistical Callouts </a> </td> 
-   <td colname="col2"> Tables now offer a statistics summary call-out for metric columns. The call-out can display the mean, standard deviation, minimum and maximum values, variance, and total count for the column. It can be factored in to any selection and evaluation. </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"><a href="http://marketing.adobe.com/resources/help/en_US/insight/client/#Binary_Filter_in_the_Correlation_Matrix" format="http" scope="external"> Correlation Matrix filter</a> </td> 
-   <td colname="col2">The Correlation Matrix has been updated with a <span class="uicontrol"> Binary Filter</span> to let you constrain values for one or both of the correlated metrics, allowing you to better focus your comparison. <p>Also, you can now add Dimension elements from a Dimension table by clicking Ctrl + Alt and dragging elements to the matrix column or row to be evaluated. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"><a href="../../../home/c-release-notes-insight/c-release-notes-insight-61/c-6-1/c-funnel-hide-fallout.md#concept-cb550a98b11d432482db58183b0b965b"> Hide Fallout label in funnel visualization</a> </td> 
-   <td colname="col2">Toggle between displaying and hiding fallout labels in a Funnel visualization by right-clicking the title and selecting <span class="uicontrol"> Hide Fallout</span>. </td> 
-  </tr> 
-  </tbody> 
-</table>
+| Features | Description |
+|--- |--- |
+|64-bit Windows upgrade|The data workbench server, report server, and client components are upgraded to run only on 64-bit Windows operating systems.|
+|Propensity Scoring|Scoring your audience lets you identify customer loyalty and statistically perceive who is likely to convert a sale or interact with a story or campaign. Propensity scoring now includes these visualizations to view models and show the changing correlation of selected metrics.<ul><li>The  Model Viewer examines a logistic regression model generated with Propensity Scoring, displaying the coefficient weights of each input variable (including the constant term) and their statistical error range. </li><li>Lift and Gain charts are used to evaluate the potential increase of a scored data model.</li><li>The Confusion Matrix gives four counts by the combination of Actual Positive (AP), Actual Negative (AN), Predicted Positive (PP), and Predicted Negative (PN).</li> <li>Starting with v6.1, you now have a  Save option to save propensity scores based on two types: dimensions, or dimensions and metrics.</li><li>You can now click Ctrl-Alt and drag and drop to add elements in Propensity Scoring and the  Cluster Builder. Previously to add table elements, you had to drag from the table to the Elements box.</li></ul>|
+|Data workbench now in Chinese|Data workbench now supports Simplified Chinese for the client application. Data workbench also supports the  Input Method Editor (IME) as a secondary text entry process for international languages.|
+|Math Functions|You can now add Mathematical functions to metrics, math transformations, and worksheet cells to further calculate datasets.|
+|Statistical Callouts|Tables now offer a statistics summary call-out for metric columns. The call-out can display the mean, standard deviation, minimum and maximum values, variance, and total count for the column. It can be factored in to any selection and evaluation.|
+|Correlation Matrix filter|The Correlation Matrix has been updated with a  Binary Filter to let you constrain values for one or both of the correlated metrics, allowing you to better focus your comparison. Also, you can now add Dimension elements from a Dimension table by clicking Ctrl + Alt and dragging elements to the matrix column or row to be evaluated.|
+|Hide Fallout label in funnel visualization|Toggle between displaying and hiding fallout labels in a Funnel visualization by right-clicking the title and selecting  Hide Fallout.|
 
 ## Sorting Table Columns{#sorting-table-columns}
 
@@ -82,7 +46,7 @@ To change sorting options between ordinal and alphabet, right-click and select *
 >
 >You can sort other columns by ordinal by clicking the name of the column.
 
-## Hide Fallout Labels in Funnel{#hide-fallout-labels-in-funnel}
+## Hide Fallout Labels in Funnel
 
 Toggle to open fallout labels in a Funnel visualization.
 
@@ -109,4 +73,3 @@ When in a **[!UICONTROL Funnel]** visualization, you can right-click the title a
 * Unable to launch [!DNL Insight.exe] if the installation directory is named with non-English characters.
 
   Workaround: Keep default names or rename using only English characters in the folder path to launch executables.
-
