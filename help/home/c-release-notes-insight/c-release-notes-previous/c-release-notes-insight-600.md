@@ -8,7 +8,7 @@ topic: Data workbench
 uuid: b348425e-3304-4db7-a280-479a34452bdb
 ---
 
-# Data Workbench 6.0 Release Notes{#data-workbench-release-notes}
+# Data Workbench 6.0 Release Notes
 
 New features introduced in Data Workbench 6.0.4, including bug fixes and known issues.
 
@@ -16,7 +16,7 @@ New features introduced in Data Workbench 6.0.4, including bug fixes and known i
 
 Data workbench (Insight 6.0) includes these new features and visualizations for added reporting capabilities and predictive analysis tools.
 
-To view previous features and fixes based for each past release, see the [release note archives](https://marketing.adobe.com/resources/help/en_US/insight/insight_release_notes_prev.pdf). 
+To view previous features and fixes based for each past release, see the [release note archives](https://marketing.adobe.com/resources/help/en_US/insight/insight_release_notes_prev.pdf).
 
 |  Data Workbench Features  | Description  |
 |---|---|
@@ -42,7 +42,7 @@ Prerequisites:
 
 See the [Server Upgrade Requirements](../../../home/c-release-notes-insight/c-release-notes-insight.md#section-d6edba8b36234957ba8d06b555667a5a) for additional server-side upgrade information.
 
-**To upgrade the zbin file for the client (from version 5.x to 6.0)**:
+**To upgrade the zbin file for the client (from version 5.x to 6.0)**
 
 1. To make sure the client does not get updated from the Insight Server during this upgrade, set your Insight.cfg argument to false. 
 
@@ -84,15 +84,13 @@ Complete these upgrade tasks for Insight 6.0 server features:
 
 **Update all Insight Server 6.0 packages**. Insight 6.0 includes server packages that need to be updated, including the new Predictive Analytics profile.
 
-* 
-
   >[!IMPORTANT]
   >
   >It is recommended that users upgrade their server clusters with fresh installations of Insight Server 6.0 when updating.
 
 It is also recommended that client upgrade their server clusters with fresh installation of Insight Server 6.0.
 
-Upgrade Server cluster
+## Upgrade Server cluster
 
 **Prepare the language file (.zbin file).** The Insight administrator selects the `<language>.zbin` file for the required language (for example: en-us.zbin , zh-cn.zbin) located in the `/localization/<language>.zbin` folder. The administrator then copies the language file and renames it to "insight.zbin".
 
