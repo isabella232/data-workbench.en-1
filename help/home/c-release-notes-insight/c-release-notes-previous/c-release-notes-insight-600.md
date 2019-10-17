@@ -106,7 +106,7 @@ Update the Report Server language files:
 1. The Report Server configuration file (reportserver.cfg) requires font settings for double-byte languages. For example, Chinese requires the addition of fonts using SimSun: 
 
    ```
-   <b>Report Server.cfg - Add Fonts</b> 
+   Report Server.cfg - Add Fonts 
     
    Fonts = vector: 2 items 
      0 = string: SimSun 
@@ -197,7 +197,7 @@ Update the Fonts and Start-up parameters:
     1. Stop the Report Server Service. 
     1. Launch a Command Prompt as an Administrator. 
     1. Navigate to the Report Server install folder. 
-    1. Type the following command to start the service:     
+    1. Type the following command to start the service:
     
        ```    
        ReportServer.exe -RegServer -Locale -en-us
@@ -213,7 +213,7 @@ To verify if the Report Server is running with the correct parameters:
    ReportServer.exe -Service ReportServer -Locale -en-us
    ```
 
-**Upgrade ** **the SiteCatalyst data feed for Insight 6.0**. The filename format of the SiteCatalyst data feed for Insight 6.0 has changed.
+**Upgrade the SiteCatalyst data feed for Insight 6.0**. The filename format of the SiteCatalyst data feed for Insight 6.0 has changed.
 
 Current filename format:
 
@@ -261,7 +261,7 @@ New features introduced in Data Workbench 6.0.4, including bug fixes and known i
 
 To view previous features and fixes based for each past release, see the [release note archives](https://marketing.adobe.com/resources/help/en_US/insight/insight_release_notes_prev.pdf).
 
-## New Features {#section-1225066ea8f44cf68e42e019d0bca816}
+## New Features {#section-2-1225066ea8f44cf68e42e019d0bca816}
 
 Data Workbench 6.0.4 includes these new features and visualizations for added reporting capabilities and predictive analysis tools.
 
