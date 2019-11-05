@@ -669,14 +669,7 @@ user-guide-title: Data Workbench Help
       + [Evaluating the Experiment](home/c-undst-ctrld-exp/c-vw-rslts/c-ev-exp.md)
    + [Experiment Design Spreadsheet](home/c-undst-ctrld-exp/t-exp-dsn-spst.md)
 + Server Administration and Installation {#server-admin-install}
-   + Server System Requirements {#server-system-reqs}
-      + [Server System Requirements](home/c-inst-svr/c-msr-server/c-msr-server.md)
-     
-     
-    
-
-
-      + [DPU and FSU Network Issues](home/c-inst-svr/c-msr-server/c-dpu-and-fsu-network-issues.md)
+   + [Server System Requirements](home/c-inst-svr/c-msr-server/c-msr-server.md)
    + Installing Data Workbench Servers {#install-servers}
       + [Installing Data Workbench Servers](home/c-inst-svr/c-install-ins-svr/c-install-ins-svr.md)
       + [About Insight Server License Units](home/c-inst-svr/c-install-ins-svr/c-abt-inst-svr-lic-units.md)
