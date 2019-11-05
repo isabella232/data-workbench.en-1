@@ -19,6 +19,8 @@ For example, a visitor looks for shoes on your website but doesn't convert. Rath
 
 1. Right-click the header in the [!UICONTROL Detail Table] window.
 
+    ![](assets/insight-to-tnt.png)
+
 1. Select **[!UICONTROL New Target Export]** and enter the name of a new export file under the **[!UICONTROL Save As]** command in the menu.
 
 1. Click **[!UICONTROL Save Export File]**.
@@ -29,9 +31,15 @@ For example, a visitor looks for shoes on your website but doesn't convert. Rath
 
     **Note:** The Template file should be configured by the [!UICONTROL Profile Architect]. The [!UICONTROL Client Name], [!UICONTROL Domain Postfix], [!UICONTROL Mbox Host], and [!UICONTROL Mbox Name] need to be entered. If you have multiple sites, then fill out multiple templates and save them to the server. The templates from Profile Manager are located in `Context\FileNew\Detail Table\Export\Copy`.
 
+    ![](assets/insight-to-tnt1.png)
+
 1. Specify the [!UICONTROL mboxPC] query parameter.
 
     If the name of the Data Workbench attribute is something other than [!UICONTROL mboxPC], you must edit the appropriate Query Parameter and rename it to _mboxPC_.
+
+    ![](assets/insight-to-tnt2.png)
+
+    When you save the export file to the server the export will begin. When completed, the [!UICONTROL TnTSend.exe] application will launch and begin sending data to the Target account.
 
 ## Configuring Data Workbench for Target
 
@@ -56,3 +64,15 @@ ClientName,MboxHost,MboxName
 Within Adobe Target, no special configuration is needed for a customer to send profile data. The profile information for a user is typically passed in the regular [!UICONTROL mbox] request, and the servers will make the profile parameters available for a targeted campaign setup as standard functionality without any additional setup.
 
 Adobe Target has Data Workbench integration built in, which can be enabled from the Super-user Client Details page. Enabling the option will surface segments that are shared from Data Workbench within Adobe Target to make it available for targeting.
+
+## Set HTTP log reporting in ExportIntegration.exe
+
+Reduce long reporting to [!UICONTROL HTTP.log] when using [!UICONTROL ExportIntegration.exe] to export Adobe Target integration files.
+
+A new [!UICONTROL httpLoggingEI.cfg] configuration file (located at `server\Admin\Export\httpLoggingEI.cfg`) lets you reduce verbose logging to the [!UICONTROL HTTP.log] file for when exporting data using [!UICONTROL ExportIntegration.exe]. This allows you to stop verbose request/response logging.
+
+Verbose logging is already captured in [!UICONTROL TnTSend.log] files.
+
+_True_ sets verbose logging, and _False_ stops verbose logging to [!UICONTROL HTTP.log] file.
+
+In the False setting, only a warning message will sent to the [!UICONTROL HTTP.log] file (Info content not sent).

@@ -968,5 +968,5 @@ user-guide-title: Data Workbench Help
       + [Derived Dimensions Setup](home/dwb-implement-overview/dwb-implement-deliver/dwb-implement-derived-dims.md)
 + [Query API](https://www.adobe.io/)
 + [Data Workbench with the Analytics Data Feed](https://marketing.adobe.com/resources/help/en_US/insight/insight_sc_implementation.pdf)
-+ [Data Workbench with Adobe Target](https://marketing.adobe.com/resources/help/en_US/insight/target/)
++ [Data Workbench Integration with Adobe Target](home/dwb-adobe-target.md)
 + [Data Workbench Glossary](dwb-glossary.md)
