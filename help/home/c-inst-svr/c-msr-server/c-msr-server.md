@@ -1,6 +1,6 @@
 ---
-description: Identify minimum requirements and recommendations for Data Workbench server components before planning and implementing your system.
-seo-description: Identify minimum requirements and recommendations for Data Workbench server components before planning and implementing your system.
+description: Identify minimum requirements and recommendations for Data Workbench (formerly [!DNL Insight]) server components before planning and implementing your system.
+seo-description: Identify minimum requirements and recommendations for Data Workbench (formerly [!DNL Insight]) server components before planning and implementing your system.
 seo-title: Server System Requirements
 title: Server System Requirements
 uuid: c4487c76-03b9-4755-893b-555d451b1e69
@@ -12,9 +12,7 @@ Identify minimum requirements and recommendations for Data Workbench server comp
 
 ## DPU Requirements{#dpu-requirements}
 
-The server Data Processing Unit (DPU) is the main data processing component of Data Workbench.
-
- It listens for network connections from Data Workbench, reads raw source data from the File Server Unit (FSU) and uses substantial computational and storage resources.
+The server Data Processing Unit (DPU) is the main data processing component of Data Workbench. It listens for network connections from Data Workbench, reads raw source data from the File Server Unit (FSU) and uses substantial computational and storage resources.
 
 ### Licensed Capacity {#section-71850e13783443798b3df9eb22cc63dc}
 
@@ -110,9 +108,7 @@ Adobe cannot provide a warranty or representation concerning the speed at which 
 
 ## File Server Unit Requirements{#file-server-unit-requirements}
 
-The server's File Serving Unit (FSU) is the main data storage and management component of Data Workbench.
-
- The FSU acts as a file server for raw source data to the DPU, and, when appropriate, coordinates the clustering of DPUs. Each FSU is licensed to supply source data to up to five (5) DPUs.
+The server's File Serving Unit (FSU) is the main data storage and management component of Data Workbench. The FSU acts as a file server for raw source data to the DPU, and, when appropriate, coordinates the clustering of DPUs. Each FSU is licensed to supply source data to up to five (5) DPUs.
 
 <table id="table_45CF36583DFE4536BB31F6A1F6CC181E"> 
  <thead> 
@@ -147,9 +143,7 @@ The server's File Serving Unit (FSU) is the main data storage and management com
 
 ## Sensor Requirements{#sensor-requirements}
 
-Data Workbench Sensor collects event data from web, application, and data collection servers to be transmitted to any server.
-
- [!DNL Sensor’s] instrumentation ensures consistently accurate measurement of events that occur in your Internet channel. [!DNL Sensor] supports many combinations of Web server software and operating system.
+Data Workbench Sensor collects event data from web, application, and data collection servers to be transmitted to any server. [!DNL Sensor’s] instrumentation ensures consistently accurate measurement of events that occur in your Internet channel. [!DNL Sensor] supports many combinations of Web server software and operating system.
 
 ### Sensor System Recommendations {#section-0a981c3a47b644c1a1a56974ba033b9c}
 
@@ -196,7 +190,7 @@ The following table describes system recommendations for [!DNL Sensor]:
 
 ### Support Server Software {#section-d6071706539f49d9a861d87b98e6f382}
 
-The following table lists the most common combinations that [!DNL Sensor] supports: 
+The following table lists the most common combinations that [!DNL Sensor] supports:
 
 <table id="table_99EA23BBC1A148B49643F4B5E4341C08"> 
  <thead> 
@@ -229,9 +223,7 @@ For other server and operating system combinations, please consult Adobe regardi
 
 ## Report Server Requirements{#report-server-requirements}
 
-Data workbench report server is the component that allows the output of scheduled reporting.
-
- The reports that are output can either be in the form of .PNG images or .XLS spreadsheets placed in a file system, or as emails. Its hardware requirements are identical to the [ [!DNL data workbench client]](http://marketing.adobe.com/resources/help/en_US/insight/install/index.html#Data_Workbench_Client_Minimum_System_Requirements).
+Data workbench report server is the component that allows the output of scheduled reporting. The reports that are output can either be in the form of .PNG images or .XLS spreadsheets placed in a file system, or as emails. Its hardware requirements are identical to the [Data Workbench Client](https://docs.adobe.com/content/help/en/data-workbench/using/install/c-data-workbench-client-install.html).
 
 The following requirements exist for [!DNL report server]:
 
