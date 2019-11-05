@@ -9,6 +9,7 @@ user-guide-title: Data Workbench Help
 
 + [Data Workbench Help](home/home.md)
 + Release notes {#release-notes}
+   + [Release Notes Overview](home/c-release-notes-insight/release-notes.md)
    + [Data Workbench 6.73 Release Notes](home/c-release-notes-insight/dwb-6-73-release-notes.md)
    + [Data Workbench 6.72 Release Notes](home/c-release-notes-insight/dwb-6-72-release-notes.md)
    + [Data Workbench 6.7 Release Notes](home/c-release-notes-insight/dwb-6-7-release-notes.md)
