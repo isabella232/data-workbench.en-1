@@ -671,12 +671,11 @@ user-guide-title: Data Workbench Help
 + Server Administration and Installation {#server-admin-install}
    + Server System Requirements {#server-system-reqs}
       + [Server System Requirements](home/c-inst-svr/c-msr-server/c-msr-server.md)
-      + [DPU Requirements](home/c-inst-svr/c-msr-server/c-server-data--processing-unit.md)
-      + [File Server Unit Requirements](home/c-inst-svr/c-msr-server/c-file-server-unit.md)
-      + [Sensor Requirements](home/c-inst-svr/c-msr-server/c-sensor.md)
-      + [Report Server Requirements](home/c-inst-svr/c-msr-server/c-report.md)
-      + [Network Management](home/c-inst-svr/c-msr-server/c-network-management.md)
-      + [Data Availability](home/c-inst-svr/c-msr-server/c-data-availability.md)
+     
+     
+    
+
+
       + [DPU and FSU Network Issues](home/c-inst-svr/c-msr-server/c-dpu-and-fsu-network-issues.md)
    + Installing Data Workbench Servers {#install-servers}
       + [Installing Data Workbench Servers](home/c-inst-svr/c-install-ins-svr/c-install-ins-svr.md)
