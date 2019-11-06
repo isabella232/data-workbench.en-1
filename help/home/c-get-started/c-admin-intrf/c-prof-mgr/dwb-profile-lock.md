@@ -18,6 +18,8 @@ You can prevent profile files from being modified and overwritten when using the
 
 1. In the **Profile Manager**, right-click **[!DNL Context > Internal.cfg]** and **Make Local**. 
 
-1. Right-click checkmark in **User** column and save to a <*custom profile*>. ![](assets/dwb_lock_profiles.png)
+1. Right-click checkmark in **User** column and save to a `<custom profile>`.
+
+![](assets/dwb_lock_profiles.png)
 
 **Note**: Only changes to profile files by the managers are prevented when saving the **[!DNL Internal.cfg]** to a custom profile in the Profile Manager. You can still save workspaces to the server from the worktop using the **Save to server** command. 
