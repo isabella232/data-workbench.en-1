@@ -1,7 +1,5 @@
 ---
 description: Using the Report Server for Data Workbench, you can schedule and automatically generate report sets and distribute to others.
-seo-description: Using the Report Server for Data Workbench, you can schedule and automatically generate report sets and distribute to others.
-seo-title: Data Workbench Report Server
 solution: Analytics
 title: Data Workbench Report Server
 topic: Data workbench

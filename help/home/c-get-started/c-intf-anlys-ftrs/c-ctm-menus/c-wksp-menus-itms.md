@@ -1,7 +1,5 @@
 ---
 description: These steps apply only to creating submenus and menu items for the Workspace Window menu.
-seo-description: These steps apply only to creating submenus and menu items for the Workspace Window menu.
-seo-title: Create a workspace menu and menu item
 solution: Analytics
 title: Create a workspace menu and menu item
 topic: Data workbench

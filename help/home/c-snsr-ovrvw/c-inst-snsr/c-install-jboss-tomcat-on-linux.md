@@ -1,7 +1,5 @@
 ---
 description: Detailed instructions for installing and configuring Sensor for J2EE implementations running on RedHat Linux 7.x or later, Sun Solaris SPARC 2.6 or later, or Sun Solaris x86 9 or later.
-seo-description: Detailed instructions for installing and configuring Sensor for J2EE implementations running on RedHat Linux 7.x or later, Sun Solaris SPARC 2.6 or later, or Sun Solaris x86 9 or later.
-seo-title: JBoss, Tomcat, and WebLogic Servers on RedHat Linux or Sun Solaris
 title: JBoss, Tomcat, and WebLogic Servers on RedHat Linux or Sun Solaris
 uuid: 7977fb9b-1737-4e1d-80c6-aabf968974dd
 ---

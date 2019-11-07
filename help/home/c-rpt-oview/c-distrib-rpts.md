@@ -1,7 +1,5 @@
 ---
 description: After the reports have been generated, Report distributes the reports in the set based on the settings in its Report.cfg file.
-seo-description: After the reports have been generated, Report distributes the reports in the set based on the settings in its Report.cfg file.
-seo-title: Distributing Reports
 solution: Analytics
 title: Distributing Reports
 topic: Data workbench

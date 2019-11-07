@@ -1,7 +1,5 @@
 ---
 description: Steps to resend reports by email.
-seo-description: Steps to resend reports by email.
-seo-title: Resending Reports by Email
 solution: Analytics
 title: Resending Reports by Email
 topic: Data workbench

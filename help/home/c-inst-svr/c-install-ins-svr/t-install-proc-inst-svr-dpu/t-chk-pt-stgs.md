@@ -1,7 +1,5 @@
 ---
 description: By default, Insight Server listens on ports 80 (for HTTP) and 443 (for HTTPS).
-seo-description: By default, Insight Server listens on ports 80 (for HTTP) and 443 (for HTTPS).
-seo-title: Checking the Port Settings
 solution: Insight
 title: Checking the Port Settings
 uuid: 1adad226-5891-4498-80b6-1bb4d67f5bbb

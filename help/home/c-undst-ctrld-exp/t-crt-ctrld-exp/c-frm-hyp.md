@@ -1,7 +1,5 @@
 ---
 description: A hypothesis is an assumption, which can be taken as true for the purpose of argument, that provides a tentative explanation that can be tested by further investigation.
-seo-description: A hypothesis is an assumption, which can be taken as true for the purpose of argument, that provides a tentative explanation that can be tested by further investigation.
-seo-title: Forming a Hypothesis
 solution: Insight,Analytics
 title: Forming a Hypothesis
 topic: Data workbench

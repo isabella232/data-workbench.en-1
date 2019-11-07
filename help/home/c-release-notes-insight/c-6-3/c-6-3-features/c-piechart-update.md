@@ -1,7 +1,5 @@
 ---
 description: Updates to the Pie Chart visualization lets you use default colors identified in a legend, or set colors based on the color chart.
-seo-description: Updates to the Pie Chart visualization lets you use default colors identified in a legend, or set colors based on the color chart.
-seo-title: Pie Chart Update
 title: Pie Chart Update
 uuid: 71434963-90fc-45f9-be4f-681e220d830a
 ---

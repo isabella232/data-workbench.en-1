@@ -1,7 +1,5 @@
 ---
 description: Information on how to access your account settings and change your password.
-seo-description: Information on how to access your account settings and change your password.
-seo-title: User Account Management
 solution: Analytics
 title: User Account Management
 topic: Data workbench

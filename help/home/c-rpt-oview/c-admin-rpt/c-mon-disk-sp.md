@@ -1,7 +1,5 @@
 ---
 description: You should regularly monitor available disk space so that all Report Server machines continue to perform at the highest level possible.
-seo-description: You should regularly monitor available disk space so that all Report Server machines continue to perform at the highest level possible.
-seo-title: Monitoring Disk Space
 solution: Analytics
 title: Monitoring Disk Space
 topic: Data workbench

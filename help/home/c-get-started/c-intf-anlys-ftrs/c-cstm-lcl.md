@@ -1,7 +1,5 @@
 ---
 description: Data Workbench is extremely flexible in the number of ways it can be customized.
-seo-description: Data Workbench is extremely flexible in the number of ways it can be customized.
-seo-title: Customize Data Workbench locally
 solution: Analytics
 title: Customize Data Workbench locally
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: By default, graph visualizations display bars, but you can easily display the bars as lines and vice versa.
-seo-description: By default, graph visualizations display bars, but you can easily display the bars as lines and vice versa.
-seo-title: Change a graph display
 solution: Analytics
 title: Change a graph display
 topic: Data workbench

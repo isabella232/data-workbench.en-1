@@ -1,7 +1,5 @@
 ---
 description: Steps to map the Report Portal to a virtual directory (IIS 7.0 or higher).
-seo-description: Steps to map the Report Portal to a virtual directory (IIS 7.0 or higher).
-seo-title: Mapping Report Portal to a Virtual Directory (IIS 7.0 or higher)
 solution: Analytics
 title: Mapping Report Portal to a Virtual Directory (IIS 7.0 or higher)
 topic: Data workbench

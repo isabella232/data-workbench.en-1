@@ -1,7 +1,5 @@
 ---
 description: Sensor acquires all measurement data that is carried on the page requests (GET requests) made to the web servers on which it has been installed.
-seo-description: Sensor acquires all measurement data that is carried on the page requests (GET requests) made to the web servers on which it has been installed.
-seo-title: Acquiring Page Request Data
 solution: Analytics
 title: Acquiring Page Request Data
 topic: Data workbench

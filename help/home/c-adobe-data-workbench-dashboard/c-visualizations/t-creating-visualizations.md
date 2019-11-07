@@ -1,7 +1,5 @@
 ---
 description: Steps to add a visualization to the dashboard canvas.
-seo-description: Steps to add a visualization to the dashboard canvas.
-seo-title: Creating Visualizations
 solution: Analytics
 title: Creating Visualizations
 topic: Data workbench

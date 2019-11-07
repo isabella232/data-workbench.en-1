@@ -1,7 +1,5 @@
 ---
 description: Data workbench includes built-in metrics.
-seo-description: Data workbench includes built-in metrics.
-seo-title: Built-in Metrics
 solution: Analytics
 title: Built-in Metrics
 topic: Data workbench

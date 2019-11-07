@@ -1,7 +1,5 @@
 ---
 description: Text annotations are windows into which you can enter arbitrary text to add descriptive information or comments to a workspace.
-seo-description: Text annotations are windows into which you can enter arbitrary text to add descriptive information or comments to a workspace.
-seo-title: Text annotations
 solution: Analytics
 title: Text annotations
 topic: Data workbench

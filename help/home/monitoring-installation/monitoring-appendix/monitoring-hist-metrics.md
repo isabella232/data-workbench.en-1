@@ -1,7 +1,5 @@
 ---
 description: The following lists the metrics included in the data workbench Historical Monitoring Profile and how they are derived.
-seo-description: The following lists the metrics included in the data workbench Historical Monitoring Profile and how they are derived.
-seo-title: Metrics in the Data Workbench Historical Monitoring profile
 solution: Analytics
 title: Metrics in the Data Workbench Historical Monitoring profile
 topic: Data workbench

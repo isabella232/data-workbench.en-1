@@ -1,7 +1,5 @@
 ---
 description: Transformations and dimensions use conditions to determine when certain instructions or actions apply to log fields.
-seo-description: Transformations and dimensions use conditions to determine when certain instructions or actions apply to log fields.
-seo-title: About Conditions
 solution: Analytics
 title: About Conditions
 topic: Data workbench

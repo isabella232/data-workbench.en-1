@@ -1,7 +1,5 @@
 ---
 description: Information on displaying metric information in a path browser.
-seo-description: Information on displaying metric information in a path browser.
-seo-title: Display metric information
 solution: Analytics
 title: Display metric information
 topic: Data workbench

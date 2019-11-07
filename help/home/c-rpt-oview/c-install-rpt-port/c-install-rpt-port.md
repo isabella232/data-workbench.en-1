@@ -1,7 +1,5 @@
 ---
 description: To use Report Portal, you must install and configure a set of application server pages (ASPs) on IIS.
-seo-description: To use Report Portal, you must install and configure a set of application server pages (ASPs) on IIS.
-seo-title: Installing the Report Portal
 solution: Analytics
 title: Installing the Report Portal
 topic: Data workbench

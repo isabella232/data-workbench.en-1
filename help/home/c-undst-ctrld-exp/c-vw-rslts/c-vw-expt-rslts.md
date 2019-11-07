@@ -1,7 +1,5 @@
 ---
 description: After you have added the new field to Log Processing.cfg and created the new Split transformation and extended dimension, you can view the new extended dimension that you created as soon as the Fast Input stage of data reprocessing has finished.
-seo-description: After you have added the new field to Log Processing.cfg and created the new Split transformation and extended dimension, you can view the new extended dimension that you created as soon as the Fast Input stage of data reprocessing has finished.
-seo-title: Viewing the Experiment Results
 solution: Insight,Analytics
 title: Viewing the Experiment Results
 topic: Data workbench

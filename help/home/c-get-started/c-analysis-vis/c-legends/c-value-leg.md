@@ -1,7 +1,5 @@
 ---
 description: A value legend displays defined value events.
-seo-description: A value legend displays defined value events.
-seo-title: Value legends
 solution: Analytics
 title: Value legends
 topic: Data workbench

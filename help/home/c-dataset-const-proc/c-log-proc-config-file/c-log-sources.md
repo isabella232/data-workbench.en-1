@@ -1,7 +1,5 @@
 ---
 description: Log sources are files that contain the data to be used to build a dataset.
-seo-description: Log sources are files that contain the data to be used to build a dataset.
-seo-title: Log Sources
 solution: Analytics
 title: Log Sources
 topic: Data workbench

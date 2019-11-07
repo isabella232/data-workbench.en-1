@@ -1,7 +1,5 @@
 ---
 description: Similar to the AppendURI transformation, the PrependURI transformation affects the internal field used by the data workbench server to construct the URI dimension.
-seo-description: Similar to the AppendURI transformation, the PrependURI transformation affects the internal field used by the data workbench server to construct the URI dimension.
-seo-title: PrependURI
 solution: Analytics
 title: PrependURI
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Visualizations can easily be configured and reconfigured.
-seo-description: Visualizations can easily be configured and reconfigured.
-seo-title: Configuring Visualizations
 solution: Analytics
 title: Configuring Visualizations
 topic: Data workbench

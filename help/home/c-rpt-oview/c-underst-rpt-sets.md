@@ -1,7 +1,5 @@
 ---
 description: A report set is a collection of workspaces that Report Server generates based on the values specified in a Report.cfg configuration file.
-seo-description: A report set is a collection of workspaces that Report Server generates based on the values specified in a Report.cfg configuration file.
-seo-title: Understanding Report Sets
 solution: Analytics
 title: Understanding Report Sets
 topic: Data workbench

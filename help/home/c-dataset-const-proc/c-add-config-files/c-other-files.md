@@ -1,7 +1,5 @@
 ---
 description: The Dataset directory includes additional files that are either required for the operation of the software or provide additional functionality for your Adobe implementation.
-seo-description: The Dataset directory includes additional files that are either required for the operation of the software or provide additional functionality for your Adobe implementation.
-seo-title: Other Files
 solution: Analytics
 title: Other Files
 topic: Data workbench

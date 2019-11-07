@@ -1,7 +1,5 @@
 ---
 description: Refit Workspace resizes visualizations to the display resolution you are using.
-seo-description: Refit Workspace resizes visualizations to the display resolution you are using.
-seo-title: Refit a workspace
 solution: Analytics
 title: Refit a workspace
 topic: Data workbench

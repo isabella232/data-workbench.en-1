@@ -1,7 +1,5 @@
 ---
 description: The statistical display lets you analyze how data relates to each other in a multi-dimensional table.
-seo-description: The statistical display lets you analyze how data relates to each other in a multi-dimensional table.
-seo-title: Statistical display in tables
 solution: Analytics
 title: Statistical display in tables
 topic: Data workbench

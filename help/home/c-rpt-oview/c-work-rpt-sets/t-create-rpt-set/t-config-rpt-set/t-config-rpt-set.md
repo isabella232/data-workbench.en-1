@@ -1,7 +1,5 @@
 ---
 description: After you have created and saved the workspaces within your report set folder, you must create a new Report.cfg file.
-seo-description: After you have created and saved the workspaces within your report set folder, you must create a new Report.cfg file.
-seo-title: Configure the Report Set
 solution: Analytics
 title: Configure the Report Set
 topic: Data workbench

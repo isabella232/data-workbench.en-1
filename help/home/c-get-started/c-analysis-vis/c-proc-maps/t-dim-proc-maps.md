@@ -1,7 +1,5 @@
 ---
 description: Steps to save a dimension from a process map.
-seo-description: Steps to save a dimension from a process map.
-seo-title: Save a dimension from a process map
 solution: Analytics
 title: Save a dimension from a process map
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Conceptual information about worksheet expressions and using cell references.
-seo-description: Conceptual information about worksheet expressions and using cell references.
-seo-title: Worksheet expressions
 solution: Analytics
 title: Worksheet expressions
 topic: Data workbench

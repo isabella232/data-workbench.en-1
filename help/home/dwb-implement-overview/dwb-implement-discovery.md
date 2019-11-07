@@ -1,7 +1,5 @@
 ---
 description: Gather and describe the business questions appropriate to your marketing environment when implementing Data Workbench.
-seo-description: Gather and describe the business questions appropriate to your marketing environment when implementing Data Workbench.
-seo-title: Data Workbench Discovery and Requirements
 title: Data Workbench Discovery and Requirements
 uuid: 436f0c32-b4e2-41dd-a8e9-531e0a195276
 ---

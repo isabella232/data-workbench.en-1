@@ -1,7 +1,5 @@
 ---
 description: The Funnel visualization includes features to build a funnel with multiple dimensions, raw visitor numbers, percentage of visitors at each step, and separate scopes.
-seo-description: The Funnel visualization includes features to build a funnel with multiple dimensions, raw visitor numbers, percentage of visitors at each step, and separate scopes.
-seo-title: Funnel Features
 solution: Analytics
 title: Funnel Features
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Websites architected using Flash require special attention with respect to the capture of visitor actions performed within the rich media content.
-seo-description: Websites architected using Flash require special attention with respect to the capture of visitor actions performed within the rich media content.
-seo-title: Tracking Visitor Activity Within Flash Rich Media Content
 solution: Analytics
 title: Tracking Visitor Activity Within Flash Rich Media Content
 topic: Data workbench

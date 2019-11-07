@@ -1,7 +1,5 @@
 ---
 description: Information about upgrading and uninstalling your data workbenchGeography software.
-seo-description: Information about upgrading and uninstalling your data workbenchGeography software.
-seo-title: Upgrading and Uninstalling Data Workbench Geography
 solution: Analytics
 title: Upgrading and Uninstalling Data Workbench Geography
 topic: Data workbench

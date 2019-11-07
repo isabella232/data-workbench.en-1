@@ -1,7 +1,5 @@
 ---
 description: A path browser enables you to analyze the sequence in which a particular dimension’s elements were accessed.
-seo-description: A path browser enables you to analyze the sequence in which a particular dimension’s elements were accessed.
-seo-title: Path browsers
 solution: Analytics
 title: Path browsers
 topic: Data workbench

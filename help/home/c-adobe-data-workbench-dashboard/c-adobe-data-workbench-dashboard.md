@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Data Workbench Dashboard User Guide
 solution: Analytics
 title: Data Workbench Dashboard User Guide
 topic: Data workbench

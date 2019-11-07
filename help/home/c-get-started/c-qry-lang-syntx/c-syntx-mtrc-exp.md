@@ -1,7 +1,5 @@
 ---
 description: Metrics can be edited using the Metric Editor and saved in the Metrics directory of a profile.
-seo-description: Metrics can be edited using the Metric Editor and saved in the Metrics directory of a profile.
-seo-title: Syntax for metric expressions
 solution: Analytics
 title: Syntax for metric expressions
 topic: Data workbench

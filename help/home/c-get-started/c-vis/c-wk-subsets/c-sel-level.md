@@ -1,7 +1,5 @@
 ---
 description: When you create a subset, you must specify a level.
-seo-description: When you create a subset, you must specify a level.
-seo-title: Select a level
 solution: Analytics
 title: Select a level
 topic: Data workbench

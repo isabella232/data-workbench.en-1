@@ -1,7 +1,5 @@
 ---
 description: The windows in Data Workbench (visualizations, legends, annotations) display meaningful information about your data.
-seo-description: The windows in Data Workbench (visualizations, legends, annotations) display meaningful information about your data.
-seo-title: Working with windows in a workspace
 solution: Analytics
 title: Working with windows in a workspace
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Instructions for installing and configuring Sensor on the family of web servers that evolved from the original Netscape Enterprise Web Server running on Linux or Solaris machines. Includes Netscape Enterprise, iPlanet, Sun ONE, and Sun Java System Servers on Linux or Solaris.
-seo-description: Instructions for installing and configuring Sensor on the family of web servers that evolved from the original Netscape Enterprise Web Server running on Linux or Solaris machines. Includes Netscape Enterprise, iPlanet, Sun ONE, and Sun Java System Servers on Linux or Solaris.
-seo-title: Netscape Enteprise on Linux or Solaris
 title: Netscape Enteprise on Linux or Solaris
 uuid: 47ea614c-d45c-4ab4-a8fe-ed9227da4582
 ---

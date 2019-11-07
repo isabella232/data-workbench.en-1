@@ -1,7 +1,5 @@
 ---
 description: You can use the Export workspace menu to print and export workspaces to .png files or to Excel.
-seo-description: You can use the Export workspace menu to print and export workspaces to .png files or to Excel.
-seo-title: Share a workspace
 solution: Analytics
 title: Share a workspace
 topic: Data workbench

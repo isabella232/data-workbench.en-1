@@ -1,7 +1,5 @@
 ---
 description: You can create other visualizations from a process map.
-seo-description: You can create other visualizations from a process map.
-seo-title: Create a visualization from a process map
 solution: Analytics
 title: Create a visualization from a process map
 topic: Data workbench

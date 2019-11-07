@@ -1,7 +1,5 @@
 ---
 description: Detailed instructions for installing and configuring Sensor for JBoss Server 4.0.5 or later running under Microsoft Windows Server 2000 or later.
-seo-description: Detailed instructions for installing and configuring Sensor for JBoss Server 4.0.5 or later running under Microsoft Windows Server 2000 or later.
-seo-title: JBoss Server on Windows Server 2000 or Later
 title: JBoss Server on Windows Server 2000 or Later
 uuid: b0501749-9479-484b-8876-fe3001825f8d
 ---

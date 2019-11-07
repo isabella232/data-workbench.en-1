@@ -1,7 +1,5 @@
 ---
 description: You can zoom in or out on data in graphs, globes, process maps, and scatter plots.
-seo-description: You can zoom in or out on data in graphs, globes, process maps, and scatter plots.
-seo-title: Zoom in or out in a visualization
 solution: Analytics
 title: Zoom in or out in a visualization
 topic: Data workbench

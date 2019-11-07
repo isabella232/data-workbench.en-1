@@ -1,7 +1,5 @@
 ---
 description: A workspace is a container for a particular analysis and visualization task.
-seo-description: A workspace is a container for a particular analysis and visualization task.
-seo-title: Display workspaces
 solution: Analytics
 title: Display workspaces
 topic: Data workbench

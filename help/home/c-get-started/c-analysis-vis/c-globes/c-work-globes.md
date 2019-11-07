@@ -1,7 +1,5 @@
 ---
 description: When you move your mouse over the map, any available data corresponding to the geographic position of your pointer location is displayed in the upper-right corner of the visualization.
-seo-description: When you move your mouse over the map, any available data corresponding to the geographic position of your pointer location is displayed in the upper-right corner of the visualization.
-seo-title: Working with globes
 solution: Analytics
 title: Working with globes
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Steps to apply a filter to a workspace.
-seo-description: Steps to apply a filter to a workspace.
-seo-title: Apply a filter to a workspace
 solution: Analytics
 title: Apply a filter to a workspace
 topic: Data workbench

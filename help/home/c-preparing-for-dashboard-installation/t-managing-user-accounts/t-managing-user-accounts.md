@@ -1,7 +1,5 @@
 ---
 description: User account management is performed using the User Manager section within the Administration Console.
-seo-description: User account management is performed using the User Manager section within the Administration Console.
-seo-title: Managing User Accounts
 solution: Analytics
 title: Managing User Accounts
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: The Dashboard Browser facilitates browsing, searching, and opening dashboards that you and other members of your organization have created and saved.
-seo-description: The Dashboard Browser facilitates browsing, searching, and opening dashboards that you and other members of your organization have created and saved.
-seo-title: Dashboard Browser
 solution: Analytics
 title: Dashboard Browser
 topic: Data workbench

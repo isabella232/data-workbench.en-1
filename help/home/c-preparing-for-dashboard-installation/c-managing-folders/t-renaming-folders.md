@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Renaming Folders
 solution: Analytics
 title: Renaming Folders
 topic: Data workbench

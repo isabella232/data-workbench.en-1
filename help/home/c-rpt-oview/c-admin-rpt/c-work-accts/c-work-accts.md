@@ -1,7 +1,5 @@
 ---
 description: Access to and permissions within your Report Portal are controlled using individual user and group accounts.
-seo-description: Access to and permissions within your Report Portal are controlled using individual user and group accounts.
-seo-title: Working with Accounts
 solution: Analytics
 title: Working with Accounts
 topic: Data workbench

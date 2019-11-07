@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Rich text
 solution: Analytics
 title: Rich text
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Create Dimensions defined by metric attributes (Metric Dims) using a step-by-step wizard. Then test, preview, and save the new Metric Dim to your Dimensions list.
-seo-description: Create Dimensions defined by metric attributes (Metric Dims) using a step-by-step wizard. Then test, preview, and save the new Metric Dim to your Dimensions list.
-seo-title: Metric Dim Wizard
 title: Metric Dim Wizard
 uuid: 411b2e28-0958-43bb-a853-7de7b3063818
 ---

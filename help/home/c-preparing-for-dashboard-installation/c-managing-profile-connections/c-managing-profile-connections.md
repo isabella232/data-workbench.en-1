@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Managing Profile Connections
 solution: Analytics
 title: Managing Profile Connections
 topic: Data workbench

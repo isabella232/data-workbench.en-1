@@ -1,7 +1,5 @@
 ---
 description: Information about installing a data service on a data workbench server.
-seo-description: Information about installing a data service on a data workbench server.
-seo-title: Installing a Data Service on a Data Workbench Server
 solution: Analytics
 title: Installing a Data Service on a Data Workbench Server
 topic: Data workbench

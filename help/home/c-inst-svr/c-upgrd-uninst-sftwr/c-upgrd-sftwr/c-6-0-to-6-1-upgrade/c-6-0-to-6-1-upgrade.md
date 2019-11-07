@@ -1,7 +1,5 @@
 ---
 description: Follow these steps to update to data workbench v6.1 from your data workbench v6.0x installation.
-seo-description: Follow these steps to update to data workbench v6.1 from your data workbench v6.0x installation.
-seo-title: Data Workbench 6.0 to 6.1 Upgrade
 solution: Analytics
 title: Data Workbench 6.0 to 6.1 Upgrade
 topic: Data workbench

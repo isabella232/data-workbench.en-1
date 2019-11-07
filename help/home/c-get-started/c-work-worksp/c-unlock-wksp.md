@@ -1,7 +1,5 @@
 ---
 description: Administrators can configure Data Workbench to allow only certain users to change certain workspaces.
-seo-description: Administrators can configure Data Workbench to allow only certain users to change certain workspaces.
-seo-title: Unlocking a workspace
 solution: Analytics
 title: Unlocking a workspace
 topic: Data workbench

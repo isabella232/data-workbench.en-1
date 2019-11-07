@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Adding a Profile Connection
 solution: Analytics
 title: Adding a Profile Connection
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Shows how to configure Title, Profile, Dimension, Metric, Filter, Display Top, Sort By, and Time Period.
-seo-description: Shows how to configure Title, Profile, Dimension, Metric, Filter, Display Top, Sort By, and Time Period.
-seo-title: Configuring Visualizations
 solution: Analytics
 title: Configuring Visualizations
 topic: Data workbench

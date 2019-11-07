@@ -1,7 +1,5 @@
 ---
 description: The Window Controls menu enables you to control an individual window.
-seo-description: The Window Controls menu enables you to control an individual window.
-seo-title: Window Controls menu
 solution: Analytics
 title: Window Controls menu
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: The following are requirements and recommendations for installing the Workstation (Client) in Data Workbench.
-seo-description: The following are requirements and recommendations for installing the Workstation (Client) in Data Workbench.
-seo-title: Workstation requirements
 solution: Analytics
 title: Workstation requirements
 topic: Data workbench

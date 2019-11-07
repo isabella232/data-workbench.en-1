@@ -1,7 +1,5 @@
 ---
 description: You can create 2D and 3D process maps by dragging and dropping elements from bar graphs, tables, and hierarchy views onto a blank map.
-seo-description: You can create 2D and 3D process maps by dragging and dropping elements from bar graphs, tables, and hierarchy views onto a blank map.
-seo-title: Create a process map
 solution: Analytics
 title: Create a process map
 topic: Data workbench

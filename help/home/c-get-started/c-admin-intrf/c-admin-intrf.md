@@ -1,7 +1,5 @@
 ---
 description: Information about the administrative interfaces available to manage and monitor your implementation of Data Workbench. Also information about opening administrative interfaces as well as information about several other interfaces.
-seo-description: Information about the administrative interfaces available to manage and monitor your implementation of Data Workbench. Also information about opening administrative interfaces as well as information about several other interfaces.
-seo-title: Administrative interfaces
 solution: Analytics
 title: Administrative interfaces
 topic: Data workbench

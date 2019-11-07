@@ -1,7 +1,5 @@
 ---
 description: To successfully identify server health and performance, you can use standard data workbench profiles to monitor the server from the installed agent using current data, or employ profiles of historic data sets to view the impact of performance changes over time.
-seo-description: To successfully identify server health and performance, you can use standard data workbench profiles to monitor the server from the installed agent using current data, or employ profiles of historic data sets to view the impact of performance changes over time.
-seo-title: Workspaces for Monitoring the Data Workbench Server
 solution: Analytics
 title: Workspaces for Monitoring the Data Workbench Server
 topic: Data workbench

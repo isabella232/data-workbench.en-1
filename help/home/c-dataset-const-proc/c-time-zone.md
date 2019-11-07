@@ -1,7 +1,5 @@
 ---
 description: Information about the Time Zone codes and formats.
-seo-description: Information about the Time Zone codes and formats.
-seo-title: Time Zone Codes
 solution: Analytics
 title: Time Zone Codes
 topic: Data workbench

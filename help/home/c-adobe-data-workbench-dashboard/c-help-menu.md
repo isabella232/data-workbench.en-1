@@ -1,7 +1,5 @@
 ---
 description: Using the Help drop-down menu, you can access the dashboard product documentation
-seo-description: Using the Help drop-down menu, you can access the dashboard product documentation
-seo-title: Help Menu
 solution: Analytics
 title: Help Menu
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Set up insight.zbin file to set the language of the client application.
-seo-description: Set up insight.zbin file to set the language of the client application.
-seo-title: Setting up Localized Languages
 solution: Analytics
 title: Setting up Localized Languages
 topic: Data workbench

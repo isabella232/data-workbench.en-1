@@ -1,7 +1,5 @@
 ---
 description: After you have deployed your experiment, you should validate that the experiment is working properly.
-seo-description: After you have deployed your experiment, you should validate that the experiment is working properly.
-seo-title: Validating the Experiment
 solution: Insight,Analytics
 title: Validating the Experiment
 topic: Data workbench

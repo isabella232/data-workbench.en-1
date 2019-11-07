@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Pie Chart
 solution: Analytics
 title: Pie Chart
 topic: Data workbench

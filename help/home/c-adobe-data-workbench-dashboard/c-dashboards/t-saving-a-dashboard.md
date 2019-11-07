@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Saving a Dashboard
 solution: Analytics
 title: Saving a Dashboard
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: An overview of the basic elements, procedures, and terminology that you need to understand when working with Data Workbench.
-seo-description: An overview of the basic elements, procedures, and terminology that you need to understand when working with Data Workbench.
-seo-title: Data Workbench Client
 solution: Analytics
 title: Data Workbench Client
 topic: Data workbench

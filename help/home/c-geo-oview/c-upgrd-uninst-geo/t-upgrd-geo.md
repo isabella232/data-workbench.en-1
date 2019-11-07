@@ -1,7 +1,5 @@
 ---
 description: Steps to upgrade the Geography profile and update the Geography lookups on your data workbench server.
-seo-description: Steps to upgrade the Geography profile and update the Geography lookups on your data workbench server.
-seo-title: Upgrading Data Workbench Geography
 solution: Analytics
 title: Upgrading Data Workbench Geography
 topic: Data workbench

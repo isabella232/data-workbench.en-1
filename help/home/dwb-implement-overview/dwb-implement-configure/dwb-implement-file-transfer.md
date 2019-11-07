@@ -1,7 +1,5 @@
 ---
 description: A quick guide for different file transfer methods in DWB.
-seo-description: A quick guide for different file transfer methods in DWB.
-seo-title: File Transfer Governance
 title: File Transfer Governance
 uuid: a3e19f8a-1cc4-437c-9661-408f675109c0
 ---

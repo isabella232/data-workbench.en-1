@@ -1,7 +1,5 @@
 ---
 description: Within a workspace, a visualization represents a set of query results.
-seo-description: Within a workspace, a visualization represents a set of query results.
-seo-title: Understanding How a Selection Affects Other Visualizations
 solution: Analytics
 title: Understanding How a Selection Affects Other Visualizations
 topic: Data workbench

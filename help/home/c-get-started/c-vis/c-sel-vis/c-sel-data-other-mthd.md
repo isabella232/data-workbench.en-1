@@ -1,7 +1,5 @@
 ---
 description: In addition to making simple yet powerful point-and-click selections in visualizations, your Adobe application provides three methods that you can use to select data and work with that selected data.
-seo-description: In addition to making simple yet powerful point-and-click selections in visualizations, your Adobe application provides three methods that you can use to select data and work with that selected data.
-seo-title: Selecting Data Using Other Methods
 solution: Analytics
 title: Selecting Data Using Other Methods
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Conceptual information about query model components.
-seo-description: Conceptual information about query model components.
-seo-title: Query model components
 solution: Analytics
 title: Query model components
 topic: Data workbench

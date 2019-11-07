@@ -1,7 +1,5 @@
 ---
 description: Information about monitoring event data space and changing the log directory for Sensor data.
-seo-description: Information about monitoring event data space and changing the log directory for Sensor data.
-seo-title: Monitoring Event Data Space
 solution: Insight
 title: Monitoring Event Data Space
 uuid: e514e8fb-e735-4003-ab21-17470c73af37

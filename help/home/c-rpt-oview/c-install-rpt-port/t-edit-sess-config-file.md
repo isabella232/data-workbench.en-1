@@ -1,7 +1,5 @@
 ---
 description: The Report Portal uses the information in a configuration file called global.asa to initialize user sessions.
-seo-description: The Report Portal uses the information in a configuration file called global.asa to initialize user sessions.
-seo-title: Edit the Session Configuration File
 solution: Analytics
 title: Edit the Session Configuration File
 topic: Data workbench

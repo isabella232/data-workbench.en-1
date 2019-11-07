@@ -1,7 +1,5 @@
 ---
 description: You can generate reports dynamically for the dimension elements that you specify in a lookup file or for a particular number of the dimension elements, such as for the users with the 10 highest order counts.
-seo-description: You can generate reports dynamically for the dimension elements that you specify in a lookup file or for a particular number of the dimension elements, such as for the users with the 10 highest order counts.
-seo-title: Dynamically Generating Reports
 solution: Analytics
 title: Dynamically Generating Reports
 topic: Data workbench

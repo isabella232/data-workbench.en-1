@@ -1,7 +1,5 @@
 ---
 description: The Configuration option opens your Insight.cfg file, which controls your connections to various servers.
-seo-description: The Configuration option opens your Insight.cfg file, which controls your connections to various servers.
-seo-title: Configuration option
 solution: Analytics
 title: Configuration option
 topic: Data workbench

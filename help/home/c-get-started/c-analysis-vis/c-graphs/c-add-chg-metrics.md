@@ -1,7 +1,5 @@
 ---
 description: Steps to add a new metric or to change a metric.
-seo-description: Steps to add a new metric or to change a metric.
-seo-title: Add and change a metrics
 solution: Analytics
 title: Add and change a metrics
 topic: Data workbench

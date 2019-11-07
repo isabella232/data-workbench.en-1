@@ -1,7 +1,5 @@
 ---
 description: Steps to make an element point layer available to display on the globe visualization.
-seo-description: Steps to make an element point layer available to display on the globe visualization.
-seo-title: Making a New Element Point Layer Available
 solution: Analytics
 title: Making a New Element Point Layer Available
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: To enable Report Portal to write to the database that contains information needed to authenticate users, you must set the proper permissions for the database.
-seo-description: To enable Report Portal to write to the database that contains information needed to authenticate users, you must set the proper permissions for the database.
-seo-title: Set Permissions for the Database
 solution: Analytics
 title: Set Permissions for the Database
 topic: Data workbench

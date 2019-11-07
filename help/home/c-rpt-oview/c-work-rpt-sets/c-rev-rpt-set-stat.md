@@ -1,7 +1,5 @@
 ---
 description: Whenever a Report.cfg file has been configured to generate reports from workspaces, the Worktop in data workbench displays information about the particular report, as defined in the Report.cfg configuration file.
-seo-description: Whenever a Report.cfg file has been configured to generate reports from workspaces, the Worktop in data workbench displays information about the particular report, as defined in the Report.cfg configuration file.
-seo-title: Reviewing Report Set Status
 solution: Analytics
 title: Reviewing Report Set Status
 topic: Data workbench

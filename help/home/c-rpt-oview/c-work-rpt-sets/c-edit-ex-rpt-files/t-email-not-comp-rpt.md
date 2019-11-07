@@ -1,7 +1,5 @@
 ---
 description: You can configure data workbench to send an email when a report is generated.
-seo-description: You can configure data workbench to send an email when a report is generated.
-seo-title: Email Notification of Completed Report
 solution: Analytics
 title: Email Notification of Completed Report
 topic: Data workbench

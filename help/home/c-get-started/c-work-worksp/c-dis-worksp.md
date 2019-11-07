@@ -1,7 +1,5 @@
 ---
 description: After working in Data Workbench, you can display one of the many pre-configured workspaces delivered with Data Workbench.
-seo-description: After working in Data Workbench, you can display one of the many pre-configured workspaces delivered with Data Workbench.
-seo-title: Display a workspace
 solution: Analytics
 title: Display a workspace
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: The dataset configuration interfaces show the relationships among the components (log sources, fields, transformations, and dimensions) of your dataset.
-seo-description: The dataset configuration interfaces show the relationships among the components (log sources, fields, transformations, and dimensions) of your dataset.
-seo-title: Working With Dataset Configuration Interfaces
 solution: Analytics
 title: Working With Dataset Configuration Interfaces
 topic: Data workbench

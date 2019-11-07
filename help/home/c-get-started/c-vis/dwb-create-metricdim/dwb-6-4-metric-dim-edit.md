@@ -1,7 +1,5 @@
 ---
 description: Edit a Metric Dim in the Profiles Manager.
-seo-description: Edit a Metric Dim in the Profiles Manager.
-seo-title: Editing the Metric Dim
 title: Editing the Metric Dim
 uuid: fe95c337-5a77-411c-ac04-e30a1ef38098
 ---

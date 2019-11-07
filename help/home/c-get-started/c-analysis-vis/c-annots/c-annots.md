@@ -1,7 +1,5 @@
 ---
 description: Annotations are windows that users can add to a workspace to contain descriptive comments, graphics, or dynamic titles.
-seo-description: Annotations are windows that users can add to a workspace to contain descriptive comments, graphics, or dynamic titles.
-seo-title: Annotations
 solution: Analytics
 title: Annotations
 topic: Data workbench

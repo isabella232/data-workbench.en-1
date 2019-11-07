@@ -1,7 +1,5 @@
 ---
 description: The Geography profile provided with data workbenchGeography is an internal profile that provides additional functionality to your Adobe application.
-seo-description: The Geography profile provided with data workbenchGeography is an internal profile that provides additional functionality to your Adobe application.
-seo-title: Installing the Geography Profile
 solution: Analytics
 title: Installing the Geography Profile
 topic: Data workbench

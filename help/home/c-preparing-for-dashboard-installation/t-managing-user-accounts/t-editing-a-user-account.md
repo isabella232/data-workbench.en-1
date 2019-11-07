@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Editing a User Account
 solution: Analytics
 title: Editing a User Account
 topic: Data workbench

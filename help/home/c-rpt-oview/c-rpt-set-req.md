@@ -1,7 +1,5 @@
 ---
 description: Conceptual information about requirements for your report sets.
-seo-description: Conceptual information about requirements for your report sets.
-seo-title: Report Set Requirements
 solution: Analytics
 title: Report Set Requirements
 topic: Data workbench

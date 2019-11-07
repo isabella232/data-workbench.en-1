@@ -1,7 +1,5 @@
 ---
 description: Query String Grouping lets you integrate a large number of fields together.
-seo-description: Query String Grouping lets you integrate a large number of fields together.
-seo-title: Query String Grouping
 title: Query String Grouping
 uuid: 7dc5ba71-984f-4899-99d2-f79b57fb616d
 ---

@@ -1,7 +1,5 @@
 ---
 description: Information about the data workbench interfaces that enable you to monitor or manage your dataset and the options for hiding dataset components.
-seo-description: Information about the data workbench interfaces that enable you to monitor or manage your dataset and the options for hiding dataset components.
-seo-title: Dataset Configuration Tools
 solution: Analytics
 title: Dataset Configuration Tools
 topic: Data workbench

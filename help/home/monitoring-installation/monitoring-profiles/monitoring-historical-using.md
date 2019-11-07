@@ -1,7 +1,5 @@
 ---
 description: Use the data workbench Historic profile to see how configuration, hardware, and other changes impact performance, stability, and server capacity over time.
-seo-description: Use the data workbench Historic profile to see how configuration, hardware, and other changes impact performance, stability, and server capacity over time.
-seo-title: Data Workbench Historic workspace
 solution: Analytics
 title: Data Workbench Historic workspace
 topic: Data workbench

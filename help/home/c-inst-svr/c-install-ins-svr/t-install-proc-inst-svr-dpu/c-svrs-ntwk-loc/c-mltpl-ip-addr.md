@@ -1,7 +1,5 @@
 ---
 description: If clients can reach an Insight Server through multiple networks (for example, through the corporate intranet and through the Internet), the address file must define a separate network location for each of the server's IP addresses.
-seo-description: If clients can reach an Insight Server through multiple networks (for example, through the corporate intranet and through the Internet), the address file must define a separate network location for each of the server's IP addresses.
-seo-title: Multiple IP Addresses for an Insight Server
 solution: Insight
 title: Multiple IP Addresses for an Insight Server
 uuid: 6ed00b47-8ba3-4127-a5db-7e684e573d9c

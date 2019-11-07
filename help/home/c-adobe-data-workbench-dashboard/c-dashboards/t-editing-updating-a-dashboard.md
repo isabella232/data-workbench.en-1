@@ -1,7 +1,5 @@
 ---
 description: Existing dashboards can be edited at any time, either for temporary ad hoc purposes or to make permanent changes to be saved to the server.
-seo-description: Existing dashboards can be edited at any time, either for temporary ad hoc purposes or to make permanent changes to be saved to the server.
-seo-title: Editing or Updating a Dashboard
 solution: Analytics
 title: Editing or Updating a Dashboard
 topic: Data workbench

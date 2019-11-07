@@ -1,7 +1,5 @@
 ---
 description: Data Workbench provides a set up wizard to install the workstation (client) application.
-seo-description: Data Workbench provides a set up wizard to install the workstation (client) application.
-seo-title: Workstation Setup Wizard
 title: Workstation Setup Wizard
 uuid: e2bf6606-e7ba-439f-b50c-118706ab5b7d
 ---

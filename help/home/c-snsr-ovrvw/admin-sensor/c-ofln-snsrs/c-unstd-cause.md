@@ -1,7 +1,5 @@
 ---
 description: Information about resolving web server problems, such as, if the web server is taken out of rotation, or if the web server fails.
-seo-description: Information about resolving web server problems, such as, if the web server is taken out of rotation, or if the web server fails.
-seo-title: Understanding the Causes
 solution: Insight
 title: Understanding the Causes
 uuid: a2801040-c859-4bf8-90d7-daf3d4f633f3

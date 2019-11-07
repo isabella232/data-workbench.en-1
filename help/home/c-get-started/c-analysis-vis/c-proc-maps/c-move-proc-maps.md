@@ -1,7 +1,5 @@
 ---
 description: Information about moving a process map within a window and how to rotate a 3D process map.
-seo-description: Information about moving a process map within a window and how to rotate a 3D process map.
-seo-title: Move and rotate a process map
 solution: Analytics
 title: Move and rotate a process map
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: A table can display one or more metrics across one or more dimensions of data.
-seo-description: A table can display one or more metrics across one or more dimensions of data.
-seo-title: Tables
 solution: Analytics
 title: Tables
 topic: Data workbench

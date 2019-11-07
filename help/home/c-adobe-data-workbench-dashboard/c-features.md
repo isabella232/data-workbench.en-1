@@ -1,7 +1,5 @@
 ---
 description: The Adobe data workbench dashboard provides these features.
-seo-description: The Adobe data workbench dashboard provides these features.
-seo-title: Features
 solution: Analytics
 title: Features
 topic: Data workbench

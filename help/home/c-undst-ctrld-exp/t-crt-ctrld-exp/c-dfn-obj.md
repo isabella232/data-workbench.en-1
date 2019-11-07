@@ -1,7 +1,5 @@
 ---
 description: Define the primary function of the objective, and target audience.
-seo-description: Define the primary function of the objective, and target audience.
-seo-title: Defining the Objective
 solution: Insight,Analytics
 title: Defining the Objective
 topic: Data workbench

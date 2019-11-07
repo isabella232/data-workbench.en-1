@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Editing a User Group
 solution: Analytics
 title: Editing a User Group
 topic: Data workbench

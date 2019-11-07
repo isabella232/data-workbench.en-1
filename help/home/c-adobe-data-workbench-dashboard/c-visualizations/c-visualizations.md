@@ -1,7 +1,5 @@
 ---
 description: Visualizations are elements added to the dashboard canvas and configured to display various metric and dimension-based data.
-seo-description: Visualizations are elements added to the dashboard canvas and configured to display various metric and dimension-based data.
-seo-title: Visualizations
 solution: Analytics
 title: Visualizations
 topic: Data workbench

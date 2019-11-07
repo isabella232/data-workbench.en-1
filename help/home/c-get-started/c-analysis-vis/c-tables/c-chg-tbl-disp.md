@@ -1,7 +1,5 @@
 ---
 description: Information to select the display type.
-seo-description: Information to select the display type.
-seo-title: Change the table display
 solution: Analytics
 title: Change the table display
 topic: Data workbench

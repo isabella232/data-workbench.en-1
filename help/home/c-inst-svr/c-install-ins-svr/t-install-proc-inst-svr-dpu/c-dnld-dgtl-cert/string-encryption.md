@@ -1,7 +1,5 @@
 ---
 description: Encrypt passwords and other strings when communicating between the client and server.
-seo-description: Encrypt passwords and other strings when communicating between the client and server.
-seo-title: String Encryption
 title: String Encryption
 uuid: b2ec6a10-136c-4694-a425-04dbb41d43d1
 ---

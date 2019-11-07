@@ -1,7 +1,5 @@
 ---
 description: The data workbench dashboard includes a Sidebar and Toolbar with feature menus and a Dashboard Canvas where you display data visualizations.
-seo-description: The data workbench dashboard includes a Sidebar and Toolbar with feature menus and a Dashboard Canvas where you display data visualizations.
-seo-title: Dashboard User Interface
 solution: Analytics
 title: Dashboard User Interface
 topic: Data workbench

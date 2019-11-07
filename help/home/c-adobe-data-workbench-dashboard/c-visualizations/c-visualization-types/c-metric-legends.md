@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Metric Legends
 solution: Analytics
 title: Metric Legends
 topic: Data workbench

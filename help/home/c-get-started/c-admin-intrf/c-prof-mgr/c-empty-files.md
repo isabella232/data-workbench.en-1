@@ -1,7 +1,5 @@
 ---
 description: If you do not have permission to delete files from a profile or you do not want to delete a file permanently, you can use empty (zero-byte) files to hide files.
-seo-description: If you do not have permission to delete files from a profile or you do not want to delete a file permanently, you can use empty (zero-byte) files to hide files.
-seo-title: Hide a file by emptying it (zero-byte)
 solution: Analytics
 title: Hide a file by emptying it (zero-byte)
 topic: Data workbench

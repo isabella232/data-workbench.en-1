@@ -1,7 +1,5 @@
 ---
 description: After you have defined your objective, hypothesis, and experiment details as well as created your test content, you must configure Sensor to deploy the controlled experiment.
-seo-description: After you have defined your objective, hypothesis, and experiment details as well as created your test content, you must configure Sensor to deploy the controlled experiment.
-seo-title: Configuring and Deploying the Experiment
 solution: Insight,Analytics
 title: Configuring and Deploying the Experiment
 topic: Data workbench

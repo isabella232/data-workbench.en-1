@@ -1,7 +1,5 @@
 ---
 description: The resource monitor vector contains the Memory Budget Monitor and the Number of Queries Monitor.
-seo-description: The resource monitor vector contains the Memory Budget Monitor and the Number of Queries Monitor.
-seo-title: Query Queue Resource Monitors
 solution: Analytics
 title: Query Queue Resource Monitors
 topic: Data workbench

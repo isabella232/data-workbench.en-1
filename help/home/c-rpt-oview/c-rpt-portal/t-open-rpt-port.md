@@ -1,7 +1,5 @@
 ---
 description: Steps to open the Report Portal.
-seo-description: Steps to open the Report Portal.
-seo-title: Opening the Report Portal
 solution: Analytics
 title: Opening the Report Portal
 topic: Data workbench

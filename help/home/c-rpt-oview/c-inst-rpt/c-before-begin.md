@@ -1,7 +1,5 @@
 ---
 description: For some of the features of Report Server to work, you must provide and configure hardware or software before installing.
-seo-description: For some of the features of Report Server to work, you must provide and configure hardware or software before installing.
-seo-title: Before You Begin
 solution: Analytics
 title: Before You Begin
 topic: Data workbench

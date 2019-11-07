@@ -1,7 +1,5 @@
 ---
 description: Link to information about exporting workspaces to Microsoft Excel.
-seo-description: Link to information about exporting workspaces to Microsoft Excel.
-seo-title: Export to Microsoft Excel
 solution: Analytics
 title: Export to Microsoft Excel
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: The Unlock parameter in a user’s Insight.cfg file specifies whether that user has permission to temporarily unlock locked workspaces for editing.
-seo-description: The Unlock parameter in a user’s Insight.cfg file specifies whether that user has permission to temporarily unlock locked workspaces for editing.
-seo-title: Set the unlock parameter
 solution: Analytics
 title: Set the unlock parameter
 topic: Data workbench

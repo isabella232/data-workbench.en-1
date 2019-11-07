@@ -1,7 +1,5 @@
 ---
 description: Instructions for adding the visual_sciences.dll to the Tomcat java library path.
-seo-description: Instructions for adding the visual_sciences.dll to the Tomcat java library path.
-seo-title: Modify the Java Library Path
 title: Modify the Java Library Path
 uuid: 1e1a2704-045a-4b35-aa43-1b5bae91dc32
 ---

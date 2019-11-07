@@ -1,7 +1,5 @@
 ---
 description: Collapses/expands the current visualization.
-seo-description: Collapses/expands the current visualization.
-seo-title: Collapsing and Expanding Visualizations
 solution: Analytics
 title: Collapsing and Expanding Visualizations
 topic: Data workbench

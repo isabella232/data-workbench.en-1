@@ -1,7 +1,5 @@
 ---
 description: You can choose to display your profile’s dataset components, query model components, or workspaces, reports, menu options, and globe layers in the dependency map.
-seo-description: You can choose to display your profile’s dataset components, query model components, or workspaces, reports, menu options, and globe layers in the dependency map.
-seo-title: Display profile components
 solution: Analytics
 title: Display profile components
 topic: Data workbench

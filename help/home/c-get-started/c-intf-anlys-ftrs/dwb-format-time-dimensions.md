@@ -1,7 +1,5 @@
 ---
 description: Configure the time dimensions to display correctly for the locale.
-seo-description: Configure the time dimensions to display correctly for the locale.
-seo-title: Localizing Time Dimensions
 title: Localizing Time Dimensions
 uuid: a2098522-bf05-4680-9b78-6fb284695a0a
 ---

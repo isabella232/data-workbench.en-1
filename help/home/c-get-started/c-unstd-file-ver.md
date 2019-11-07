@@ -1,7 +1,5 @@
 ---
 description: The Worktop makes it easy to determine where each particular workspace is stored, whether it be on the Data Workbench server, your local machine, or both.
-seo-description: The Worktop makes it easy to determine where each particular workspace is stored, whether it be on the Data Workbench server, your local machine, or both.
-seo-title: File versioning
 solution: Analytics
 title: File versioning
 topic: Data workbench

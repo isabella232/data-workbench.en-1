@@ -1,7 +1,5 @@
 ---
 description: Overview of the concepts and features that you need to understand when working with visualizations.
-seo-description: Overview of the concepts and features that you need to understand when working with visualizations.
-seo-title: Visualizations
 solution: Analytics
 title: Visualizations
 topic: Data workbench

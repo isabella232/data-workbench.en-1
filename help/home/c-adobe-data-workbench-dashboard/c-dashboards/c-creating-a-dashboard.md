@@ -1,7 +1,5 @@
 ---
 description: Creating a dashboard is recommended even for short-term, ad-hoc analytical needs.
-seo-description: Creating a dashboard is recommended even for short-term, ad-hoc analytical needs.
-seo-title: Creating a Dashboard
 solution: Analytics
 title: Creating a Dashboard
 topic: Data workbench

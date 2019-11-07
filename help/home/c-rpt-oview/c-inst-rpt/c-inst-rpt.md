@@ -1,7 +1,5 @@
 ---
 description: Detailed instructions for installing the Report software and configuring it for report generation and distribution.
-seo-description: Detailed instructions for installing the Report software and configuring it for report generation and distribution.
-seo-title: Installing Report Server
 solution: Analytics
 title: Installing Report Server
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Information about the Transformation.cfg file and how its parameters affect the transformation phase of the dataset construction process.
-seo-description: Information about the Transformation.cfg file and how its parameters affect the transformation phase of the dataset construction process.
-seo-title: Transformation Configuration File
 solution: Analytics
 title: Transformation Configuration File
 topic: Data workbench

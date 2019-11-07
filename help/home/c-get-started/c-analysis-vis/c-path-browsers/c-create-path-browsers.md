@@ -1,7 +1,5 @@
 ---
 description: You can create a path browser from a graph, table, or process map.
-seo-description: You can create a path browser from a graph, table, or process map.
-seo-title: Creating path browsers
 solution: Analytics
 title: Creating path browsers
 topic: Data workbench

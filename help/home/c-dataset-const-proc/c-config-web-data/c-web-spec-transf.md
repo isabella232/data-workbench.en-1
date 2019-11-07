@@ -1,7 +1,5 @@
 ---
 description: Information about web-specific settings that are defined in Transformation Dataset Include files that are delivered with Adobe profiles for Site.
-seo-description: Information about web-specific settings that are defined in Transformation Dataset Include files that are delivered with Adobe profiles for Site.
-seo-title: Web-Specific Settings for Transformation
 solution: Analytics
 title: Web-Specific Settings for Transformation
 topic: Data workbench

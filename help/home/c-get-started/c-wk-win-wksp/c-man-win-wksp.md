@@ -1,7 +1,5 @@
 ---
 description: The types of windows available depend on the profile and application with which you are working.
-seo-description: The types of windows available depend on the profile and application with which you are working.
-seo-title: Manipulate windows in a workspace
 solution: Analytics
 title: Manipulate windows in a workspace
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Steps to install and configure Report Server software.
-seo-description: Steps to install and configure Report Server software.
-seo-title: Installation Overview
 solution: Analytics
 title: Installation Overview
 topic: Data workbench

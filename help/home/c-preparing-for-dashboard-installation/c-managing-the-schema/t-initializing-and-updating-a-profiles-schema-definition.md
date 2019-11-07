@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Initializing and Updating a Profile's Schema Definition
 solution: Analytics
 title: Initializing and Updating a Profile's Schema Definition
 topic: Data workbench

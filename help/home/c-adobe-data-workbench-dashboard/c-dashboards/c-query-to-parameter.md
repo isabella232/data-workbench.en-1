@@ -1,7 +1,5 @@
 ---
 description: The dashboard allows you to visualize samples of data from Adobe data workbench versus querying your dataset to completion.
-seo-description: The dashboard allows you to visualize samples of data from Adobe data workbench versus querying your dataset to completion.
-seo-title: Query-To Parameter
 solution: Analytics
 title: Query-To Parameter
 topic: Data workbench

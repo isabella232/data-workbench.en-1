@@ -1,7 +1,5 @@
 ---
 description: The Profile Manager and Server Files Manager display a large number of directories and files.
-seo-description: The Profile Manager and Server Files Manager display a large number of directories and files.
-seo-title: Customize the profile manager and server file manager
 solution: Analytics
 title: Customize the profile manager and server file manager
 topic: Data workbench

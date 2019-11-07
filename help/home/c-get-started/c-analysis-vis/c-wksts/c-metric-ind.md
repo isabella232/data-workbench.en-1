@@ -1,7 +1,5 @@
 ---
 description: You can use worksheets to indicate that a metric has reached a defined threshold.
-seo-description: You can use worksheets to indicate that a metric has reached a defined threshold.
-seo-title: Create a metric indicator
 solution: Analytics
 title: Create a metric indicator
 topic: Data workbench

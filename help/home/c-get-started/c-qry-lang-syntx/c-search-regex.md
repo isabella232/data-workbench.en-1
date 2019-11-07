@@ -1,7 +1,5 @@
 ---
 description: Data workbench utilizes regular expressions (regex) for search and sort operations.
-seo-description: Data workbench utilizes regular expressions (regex) for search and sort operations.
-seo-title: Regular expressions
 solution: Analytics
 title: Regular expressions
 topic: Data workbench

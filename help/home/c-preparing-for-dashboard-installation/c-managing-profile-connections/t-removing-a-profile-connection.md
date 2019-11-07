@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Removing a Profile Connection
 solution: Analytics
 title: Removing a Profile Connection
 topic: Data workbench

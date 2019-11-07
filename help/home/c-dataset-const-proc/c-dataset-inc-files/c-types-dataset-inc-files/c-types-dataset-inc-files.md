@@ -1,7 +1,5 @@
 ---
 description: Information about Log Processing and Transformation dataset include files.
-seo-description: Information about Log Processing and Transformation dataset include files.
-seo-title: Types of Dataset Include Files
 solution: Analytics
 title: Types of Dataset Include Files
 topic: Data workbench

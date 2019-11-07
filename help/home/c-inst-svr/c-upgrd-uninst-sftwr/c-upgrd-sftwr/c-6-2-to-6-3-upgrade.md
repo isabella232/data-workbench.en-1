@@ -1,7 +1,5 @@
 ---
 description: Upgrading server components for Data Workbench 6.3.
-seo-description: Upgrading server components for Data Workbench 6.3.
-seo-title: DWB Server upgrade  6.2 to 6.3
 title: DWB Server upgrade  6.2 to 6.3
 uuid: e12b6cc1-070e-4bc7-bc64-203d11cfeae9
 ---

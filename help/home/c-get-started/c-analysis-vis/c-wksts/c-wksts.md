@@ -1,7 +1,5 @@
 ---
 description: Data Workbench provides worksheets for creating ad hoc filters and metrics for the current visualization.
-seo-description: Data Workbench provides worksheets for creating ad hoc filters and metrics for the current visualization.
-seo-title: Worksheets
 solution: Analytics
 title: Worksheets
 topic: Data workbench

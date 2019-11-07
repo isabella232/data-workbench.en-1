@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Dashboards
 solution: Analytics
 title: Dashboards
 topic: Data workbench

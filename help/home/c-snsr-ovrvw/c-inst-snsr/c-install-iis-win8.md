@@ -1,7 +1,5 @@
 ---
 description: Install and configure Sensor for Microsoft IIS 7.x or 8.x running under Microsoft Windows Server 2008 or later.
-seo-description: Install and configure Sensor for Microsoft IIS 7.x or 8.x running under Microsoft Windows Server 2008 or later.
-seo-title: Microsoft IIS on Windows Server 2008 or Later
 title: Microsoft IIS on Windows Server 2008 or Later
 uuid: 7fd8da68-1553-4395-b13e-b08a6ee1948e
 ---

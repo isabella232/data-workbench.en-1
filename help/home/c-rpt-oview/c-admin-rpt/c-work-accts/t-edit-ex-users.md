@@ -1,7 +1,5 @@
 ---
 description: Steps to edit existing user accounts.
-seo-description: Steps to edit existing user accounts.
-seo-title: Editing Existing Users
 solution: Analytics
 title: Editing Existing Users
 topic: Data workbench

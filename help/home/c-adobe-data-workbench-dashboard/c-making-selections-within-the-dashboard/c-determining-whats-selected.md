@@ -1,7 +1,5 @@
 ---
 description: There are two ways to determine which selections have been made within a dashboard.
-seo-description: There are two ways to determine which selections have been made within a dashboard.
-seo-title: Determining What's Selected
 solution: Analytics
 title: Determining What's Selected
 topic: Data workbench

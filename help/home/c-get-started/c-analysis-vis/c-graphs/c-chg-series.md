@@ -1,7 +1,5 @@
 ---
 description: Elements within a dimension can be color-coded as a series within a line graph so that each element can be more easily tracked across other visualizations in the workspace.
-seo-description: Elements within a dimension can be color-coded as a series within a line graph so that each element can be more easily tracked across other visualizations in the workspace.
-seo-title: Change a series
 solution: Analytics
 title: Change a series
 topic: Data workbench

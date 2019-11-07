@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Manipulating Visualizations
 solution: Analytics
 title: Manipulating Visualizations
 topic: Data workbench

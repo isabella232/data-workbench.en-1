@@ -1,7 +1,5 @@
 ---
 description: Process maps enable you to analyze the flow of activity between elements of a dimension.
-seo-description: Process maps enable you to analyze the flow of activity between elements of a dimension.
-seo-title: Process map
 solution: Analytics
 title: Process map
 topic: Data workbench

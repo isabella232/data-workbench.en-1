@@ -1,7 +1,5 @@
 ---
 description: The Insight Server enables you to define countable, simple, many-to-many, numeric, denormal, and time dimensions for inclusion in your data set.
-seo-description: The Insight Server enables you to define countable, simple, many-to-many, numeric, denormal, and time dimensions for inclusion in your data set.
-seo-title: Types of Extended Dimensions
 solution: Analytics
 title: Types of Extended Dimensions
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Information about the element point layer columns.
-seo-description: Information about the element point layer columns.
-seo-title: Element Point Lookup File Format
 solution: Analytics
 title: Element Point Lookup File Format
 topic: Data workbench

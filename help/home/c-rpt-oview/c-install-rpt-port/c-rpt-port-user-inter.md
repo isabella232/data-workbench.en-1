@@ -1,7 +1,5 @@
 ---
 description: Report sets must be configured in a specific way to produce reports that display properly through Report Portal.
-seo-description: Report sets must be configured in a specific way to produce reports that display properly through Report Portal.
-seo-title: Customize the Report Portal User Interface
 solution: Analytics
 title: Customize the Report Portal User Interface
 topic: Data workbench

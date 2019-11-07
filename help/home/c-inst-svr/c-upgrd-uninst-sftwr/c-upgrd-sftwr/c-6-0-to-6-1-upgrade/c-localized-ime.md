@@ -1,7 +1,5 @@
 ---
 description: Data workbench now supports the Input Method Editor (IME) as a secondary text entry process for international languages.
-seo-description: Data workbench now supports the Input Method Editor (IME) as a secondary text entry process for international languages.
-seo-title: Installing the Input Method Editor
 solution: Analytics
 title: Installing the Input Method Editor
 topic: Data workbench

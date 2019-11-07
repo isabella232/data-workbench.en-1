@@ -1,7 +1,5 @@
 ---
 description: Examples of txlogd.conf files for the supported web server/OS combinations.
-seo-description: Examples of txlogd.conf files for the supported web server/OS combinations.
-seo-title: Txlogd.conf File Samples
 title: Txlogd.conf File Samples
 uuid: ba8f3938-b7d6-44bd-93ca-eb66f509ef4e
 ---

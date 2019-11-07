@@ -1,7 +1,5 @@
 ---
 description: Steps to create a new report set folder.
-seo-description: Steps to create a new report set folder.
-seo-title: Create a New Folder for the Report Set
 solution: Analytics
 title: Create a New Folder for the Report Set
 topic: Data workbench

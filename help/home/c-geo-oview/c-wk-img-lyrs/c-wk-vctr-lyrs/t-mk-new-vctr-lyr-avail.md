@@ -1,7 +1,5 @@
 ---
 description: Steps to make a vector layer available to display on the globe visualization.
-seo-description: Steps to make a vector layer available to display on the globe visualization.
-seo-title: Making a New Vector Layer Available
 solution: Analytics
 title: Making a New Vector Layer Available
 topic: Data workbench

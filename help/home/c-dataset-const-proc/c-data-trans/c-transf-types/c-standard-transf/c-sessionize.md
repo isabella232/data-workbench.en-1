@@ -1,7 +1,5 @@
 ---
 description: If you are working with data collected from website traffic, you can use the Sessionize transformation to determine how sessions are defined.
-seo-description: If you are working with data collected from website traffic, you can use the Sessionize transformation to determine how sessions are defined.
-seo-title: Sessionize
 solution: Analytics
 title: Sessionize
 topic: Data workbench

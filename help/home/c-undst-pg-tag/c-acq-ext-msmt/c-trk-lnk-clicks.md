@@ -1,7 +1,5 @@
 ---
 description: Steps used to facilitate the collection of Link Clicks through the use of the Reference Page Tag.
-seo-description: Steps used to facilitate the collection of Link Clicks through the use of the Reference Page Tag.
-seo-title: Tracking Link Clicks
 solution: Analytics
 title: Tracking Link Clicks
 topic: Data workbench

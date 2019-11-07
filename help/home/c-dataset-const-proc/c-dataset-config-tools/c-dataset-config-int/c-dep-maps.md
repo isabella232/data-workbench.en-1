@@ -1,7 +1,5 @@
 ---
 description: Dependency maps enable you to visualize and manage the configuration of the components of your profile.
-seo-description: Dependency maps enable you to visualize and manage the configuration of the components of your profile.
-seo-title: Dependency Maps
 solution: Analytics
 title: Dependency Maps
 topic: Data workbench

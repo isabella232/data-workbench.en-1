@@ -1,7 +1,5 @@
 ---
 description: Table showing what conventions apply when constructing transformations.
-seo-description: Table showing what conventions apply when constructing transformations.
-seo-title: Conventions for Constructing Transformations
 solution: Analytics
 title: Conventions for Constructing Transformations
 topic: Data workbench

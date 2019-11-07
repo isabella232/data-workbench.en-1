@@ -1,7 +1,5 @@
 ---
 description: In mathematics, the haversine formula is an equation that gives circle distances between two points on a sphere identified from their longitudes and latitudes.
-seo-description: In mathematics, the haversine formula is an equation that gives circle distances between two points on a sphere identified from their longitudes and latitudes.
-seo-title: Haversine
 solution: Analytics
 title: Haversine
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Steps to copy and paste a file as an email attachment in Microsoft Outlook.
-seo-description: Steps to copy and paste a file as an email attachment in Microsoft Outlook.
-seo-title: Copy and paste a file as an attachment
 solution: Analytics
 title: Copy and paste a file as an attachment
 topic: Data workbench

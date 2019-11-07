@@ -1,7 +1,5 @@
 ---
 description: The Flatten transformation takes a vector of strings and maps each value into its own field.
-seo-description: The Flatten transformation takes a vector of strings and maps each value into its own field.
-seo-title: Flatten
 solution: Analytics
 title: Flatten
 topic: Data workbench

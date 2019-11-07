@@ -1,7 +1,5 @@
 ---
 description: Steps to edit existing Report.cfg files using Worktop or a text editor.
-seo-description: Steps to edit existing Report.cfg files using Worktop or a text editor.
-seo-title: Editing Existing Report.cfg Files
 solution: Analytics
 title: Editing Existing Report.cfg Files
 topic: Data workbench

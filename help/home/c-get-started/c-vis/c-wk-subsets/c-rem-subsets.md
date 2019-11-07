@@ -1,7 +1,5 @@
 ---
 description: Steps to remove a data subset.
-seo-description: Steps to remove a data subset.
-seo-title: Remove a subset
 solution: Analytics
 title: Remove a subset
 topic: Data workbench

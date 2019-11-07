@@ -1,7 +1,5 @@
 ---
 description: Information about viewing your accounts.
-seo-description: Information about viewing your accounts.
-seo-title: Viewing Accounts
 solution: Analytics
 title: Viewing Accounts
 topic: Data workbench

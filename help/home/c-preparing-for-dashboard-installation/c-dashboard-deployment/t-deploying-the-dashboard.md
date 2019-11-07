@@ -1,7 +1,5 @@
 ---
 description: Steps to deploy the dashboard in IIS.
-seo-description: Steps to deploy the dashboard in IIS.
-seo-title: Deploying the Dashboard
 solution: Analytics
 title: Deploying the Dashboard
 topic: Data workbench

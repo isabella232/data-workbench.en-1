@@ -1,7 +1,5 @@
 ---
 description: Data Workbench can be configured to allow only certain users to change certain workspaces.
-seo-description: Data Workbench can be configured to allow only certain users to change certain workspaces.
-seo-title: Configure a locked workspace
 solution: Analytics
 title: Configure a locked workspace
 topic: Data workbench

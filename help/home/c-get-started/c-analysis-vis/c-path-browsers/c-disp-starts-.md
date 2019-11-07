@@ -1,7 +1,5 @@
 ---
 description: You can display the starts and ends of paths in the path browser.
-seo-description: You can display the starts and ends of paths in the path browser.
-seo-title: Display the start and end of paths
 solution: Analytics
 title: Display the start and end of paths
 topic: Data workbench

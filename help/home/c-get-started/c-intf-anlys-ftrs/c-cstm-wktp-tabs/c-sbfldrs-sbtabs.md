@@ -1,7 +1,5 @@
 ---
 description: By default, newly created tabs display the subfolders within the associated directory as hierarchical, drop-down subdirectories instead of as subtabs.
-seo-description: By default, newly created tabs display the subfolders within the associated directory as hierarchical, drop-down subdirectories instead of as subtabs.
-seo-title: Display subfolders as subtabs
 solution: Analytics
 title: Display subfolders as subtabs
 topic: Data workbench

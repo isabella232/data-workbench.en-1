@@ -1,7 +1,5 @@
 ---
 description: Syntax rules for formulas.
-seo-description: Syntax rules for formulas.
-seo-title: Syntax for any expression
 solution: Analytics
 title: Syntax for any expression
 topic: Data workbench

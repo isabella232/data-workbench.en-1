@@ -1,7 +1,5 @@
 ---
 description: From the Funnel visualization, you can open a Path Browser to identify additional detailed visitor fallout and fall through paths.
-seo-description: From the Funnel visualization, you can open a Path Browser to identify additional detailed visitor fallout and fall through paths.
-seo-title: Adding a Path Browser
 solution: Analytics
 title: Adding a Path Browser
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Exporters provide the instructions for outputting the event data.
-seo-description: Exporters provide the instructions for outputting the event data.
-seo-title: Defining Exporters
 solution: Analytics
 title: Defining Exporters
 topic: Data workbench

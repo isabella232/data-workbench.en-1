@@ -1,7 +1,5 @@
 ---
 description: Follow these steps to use the Propensity Scoring visualization.
-seo-description: Follow these steps to use the Propensity Scoring visualization.
-seo-title: Setting up Propensity Scoring
 solution: Analytics
 title: Setting up Propensity Scoring
 topic: Data workbench

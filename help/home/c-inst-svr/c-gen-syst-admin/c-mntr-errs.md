@@ -1,7 +1,5 @@
 ---
 description: To detect system and application errors as soon as possible and address them before they cause major problems or outages, you should regularly monitor your event logs.
-seo-description: To detect system and application errors as soon as possible and address them before they cause major problems or outages, you should regularly monitor your event logs.
-seo-title: Monitoring Events for Errors
 solution: Insight
 title: Monitoring Events for Errors
 uuid: 09bb34db-e24d-4bc5-84d2-7fc37df60681

@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Managing Folders
 solution: Analytics
 title: Managing Folders
 topic: Data workbench

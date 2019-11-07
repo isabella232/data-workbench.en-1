@@ -1,7 +1,5 @@
 ---
 description: Files included in the Data Workbench installation package.
-seo-description: Files included in the Data Workbench installation package.
-seo-title: Files Included in the Installation Package
 title: Files Included in the Installation Package
 uuid: 46cda536-ea71-4840-bd7f-3fe9e0242c33
 ---

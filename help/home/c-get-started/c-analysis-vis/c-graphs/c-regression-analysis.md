@@ -1,7 +1,5 @@
 ---
 description: The Bar Graph in Data Workbench now includes a regression comparison for multiple metrics across multiple graphs.
-seo-description: The Bar Graph in Data Workbench now includes a regression comparison for multiple metrics across multiple graphs.
-seo-title: Regression Analysis Graph
 title: Regression Analysis Graph
 uuid: 8512890e-f42b-4dce-826a-2b4bf2a215f4
 ---

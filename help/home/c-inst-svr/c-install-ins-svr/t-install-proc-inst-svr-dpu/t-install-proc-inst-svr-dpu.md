@@ -1,7 +1,5 @@
 ---
 description: Detailed instructions for installing an Insight Server DPU and configuring it for administrative use.
-seo-description: Detailed instructions for installing an Insight Server DPU and configuring it for administrative use.
-seo-title: Installation Procedures for an Insight Server DPU
 solution: Insight
 title: Installation Procedures for an Insight Server DPU
 uuid: 4a04d333-3264-4c15-87fd-8fd201eb68fc

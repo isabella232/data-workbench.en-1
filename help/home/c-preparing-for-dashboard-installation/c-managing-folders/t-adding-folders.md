@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Adding Folders
 solution: Analytics
 title: Adding Folders
 topic: Data workbench

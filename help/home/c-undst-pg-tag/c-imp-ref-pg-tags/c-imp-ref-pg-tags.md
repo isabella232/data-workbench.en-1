@@ -1,7 +1,5 @@
 ---
 description: Information about editing and adding Reference Page Tag Execution Scripts and Page Tag Execution Calls, and understanding the v1st Cookie.
-seo-description: Information about editing and adding Reference Page Tag Execution Scripts and Page Tag Execution Calls, and understanding the v1st Cookie.
-seo-title: Implementing Reference Page Tags
 solution: Analytics
 title: Implementing Reference Page Tags
 topic: Data workbench

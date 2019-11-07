@@ -1,7 +1,5 @@
 ---
 description: You must install and run Sensor on each web server that serves the content for your site to collect all of the requests that are seen by those servers.
-seo-description: You must install and run Sensor on each web server that serves the content for your site to collect all of the requests that are seen by those servers.
-seo-title: How Do I Acquire this Data_
 solution: Analytics
 title: How Do I Acquire this Data_
 topic: Data workbench

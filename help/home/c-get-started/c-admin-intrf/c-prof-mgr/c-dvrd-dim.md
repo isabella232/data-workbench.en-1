@@ -1,7 +1,5 @@
 ---
 description: The new dimensions that you create using Data Workbench (referred to as derived dimensions) are client-side dimensions.
-seo-description: The new dimensions that you create using Data Workbench (referred to as derived dimensions) are client-side dimensions.
-seo-title: Work with derived dimensions
 solution: Analytics
 title: Work with derived dimensions
 topic: Data workbench

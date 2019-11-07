@@ -1,7 +1,5 @@
 ---
 description: Steps to create a new folder in the User Profile.
-seo-description: Steps to create a new folder in the User Profile.
-seo-title: Create folders in the user profile
 solution: Analytics
 title: Create folders in the user profile
 topic: Data workbench

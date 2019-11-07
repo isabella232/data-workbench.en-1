@@ -1,7 +1,5 @@
 ---
 description: Detail tables enable you to view additional information about a subset of data, which is defined by the selections that you make in other visualizations.
-seo-description: Detail tables enable you to view additional information about a subset of data, which is defined by the selections that you make in other visualizations.
-seo-title: Detail table
 solution: Analytics
 title: Detail table
 topic: Data workbench

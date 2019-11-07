@@ -1,7 +1,5 @@
 ---
 description: Steps to change the order of the tabs that appear in the Worktop.
-seo-description: Steps to change the order of the tabs that appear in the Worktop.
-seo-title: Change the tab order
 solution: Analytics
 title: Change the tab order
 topic: Data workbench

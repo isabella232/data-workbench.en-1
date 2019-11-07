@@ -1,7 +1,5 @@
 ---
 description: Latency dimensions are constructed from a parent countable dimension, such as Sessions, and a time dimension, such as Day.
-seo-description: Latency dimensions are constructed from a parent countable dimension, such as Sessions, and a time dimension, such as Day.
-seo-title: Create a latency dimension
 solution: Analytics
 title: Create a latency dimension
 topic: Data workbench

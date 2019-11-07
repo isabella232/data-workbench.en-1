@@ -1,7 +1,5 @@
 ---
 description: Access levels describe which URIs on the machine a group of users is permitted to read or modify.
-seo-description: Access levels describe which URIs on the machine a group of users is permitted to read or modify.
-seo-title: Understanding Access Levels
 solution: Insight
 title: Understanding Access Levels
 uuid: e9091ae1-9a34-4e00-a928-20d04119ee9e

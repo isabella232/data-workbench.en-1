@@ -1,7 +1,5 @@
 ---
 description: A simple dimension has a one-to-many relationship with its parent countable dimension.
-seo-description: A simple dimension has a one-to-many relationship with its parent countable dimension.
-seo-title: Simple Dimensions
 solution: Analytics
 title: Simple Dimensions
 topic: Data workbench

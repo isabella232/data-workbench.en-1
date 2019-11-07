@@ -1,7 +1,5 @@
 ---
 description: Data within a dashboard can easily be segmented and explored by the use of selections.
-seo-description: Data within a dashboard can easily be segmented and explored by the use of selections.
-seo-title: Making Selections within the Dashboard
 solution: Analytics
 title: Making Selections within the Dashboard
 topic: Data workbench

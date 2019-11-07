@@ -1,7 +1,5 @@
 ---
 description: A quick guide for setting up a Query API.
-seo-description: A quick guide for setting up a Query API.
-seo-title: Query API Setup
 title: Query API Setup
 uuid: 521f06a4-65ee-4206-b769-4c1ce6e5fe7d
 ---

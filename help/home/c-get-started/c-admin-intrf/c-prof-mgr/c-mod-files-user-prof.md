@@ -1,7 +1,5 @@
 ---
 description: You can use the Profile Manager to download files that you want to modify.
-seo-description: You can use the Profile Manager to download files that you want to modify.
-seo-title: Modify local files in the user profile
 solution: Analytics
 title: Modify local files in the user profile
 topic: Data workbench

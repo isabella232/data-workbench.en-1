@@ -1,7 +1,5 @@
 ---
 description: Steps to create a subset.
-seo-description: Steps to create a subset.
-seo-title: Create subsets
 solution: Analytics
 title: Create subsets
 topic: Data workbench

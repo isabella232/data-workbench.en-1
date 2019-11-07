@@ -1,7 +1,5 @@
 ---
 description: The Log Processing.cfg file controls the log processing phase of dataset construction, during which unordered data is read from the data sources (referred to as log sources), and filters and transformations are applied to the data.
-seo-description: The Log Processing.cfg file controls the log processing phase of dataset construction, during which unordered data is read from the data sources (referred to as log sources), and filters and transformations are applied to the data.
-seo-title: About the Log Processing Configuration File
 solution: Analytics
 title: About the Log Processing Configuration File
 topic: Data workbench

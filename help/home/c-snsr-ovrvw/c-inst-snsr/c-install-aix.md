@@ -1,7 +1,5 @@
 ---
 description: Instructions about how to install and configure IBM HTTP server on IBM AIX 5.1 or later running under Microsoft Windows Server 2000 or later.
-seo-description: Instructions about how to install and configure IBM HTTP server on IBM AIX 5.1 or later running under Microsoft Windows Server 2000 or later.
-seo-title: IBM HTTP Server on AIX 5.1 or Later
 title: IBM HTTP Server on AIX 5.1 or Later
 uuid: d4a37ab2-514a-4afb-905b-420159c4ef0a
 ---

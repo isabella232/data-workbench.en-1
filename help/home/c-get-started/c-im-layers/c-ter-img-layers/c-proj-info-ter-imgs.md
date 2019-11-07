@@ -1,7 +1,5 @@
 ---
 description: Data workbench supports both latitude-longitude projections and Universal Transverse Mercator (UTM) projections for all terrain image layer sources.
-seo-description: Data workbench supports both latitude-longitude projections and Universal Transverse Mercator (UTM) projections for all terrain image layer sources.
-seo-title: Specify projection information for terrain images
 solution: Analytics
 title: Specify projection information for terrain images
 topic: Data workbench

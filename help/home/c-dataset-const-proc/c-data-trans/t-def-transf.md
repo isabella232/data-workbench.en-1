@@ -1,7 +1,5 @@
 ---
 description: You can define data transformations to be applied during either the log processing or transformation phase of dataset construction.
-seo-description: You can define data transformations to be applied during either the log processing or transformation phase of dataset construction.
-seo-title: Defining a Transformation
 solution: Analytics
 title: Defining a Transformation
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Access to and permissions within your Report Portal are controlled using individual user and group accounts.
-seo-description: Access to and permissions within your Report Portal are controlled using individual user and group accounts.
-seo-title: Edit the Email.asp File
 solution: Analytics
 title: Edit the Email.asp File
 topic: Data workbench

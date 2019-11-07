@@ -1,7 +1,5 @@
 ---
 description: Many web-specific configuration settings for Site are defined in Log Processing and Transformation Dataset Include files.
-seo-description: Many web-specific configuration settings for Site are defined in Log Processing and Transformation Dataset Include files.
-seo-title: Configuration Settings for Web Data
 solution: Analytics
 title: Configuration Settings for Web Data
 topic: Data workbench

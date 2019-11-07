@@ -1,7 +1,5 @@
 ---
 description: Steps to map the Report Portal to a virtual directory (IIS 5.0).
-seo-description: Steps to map the Report Portal to a virtual directory (IIS 5.0).
-seo-title: Mapping Report Portal to a Virtual Directory (IIS 5.0)
 solution: Analytics
 title: Mapping Report Portal to a Virtual Directory (IIS 5.0)
 topic: Data workbench

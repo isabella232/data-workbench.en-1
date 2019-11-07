@@ -1,7 +1,5 @@
 ---
 description: The Dashboard Browser also allows you to perform searches to find existing dashboards.
-seo-description: The Dashboard Browser also allows you to perform searches to find existing dashboards.
-seo-title: Searching within the Dashboard Browser
 solution: Analytics
 title: Searching within the Dashboard Browser
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Each DPU from which the dashboard is to visualize data must have a Query API license.
-seo-description: Each DPU from which the dashboard is to visualize data must have a Query API license.
-seo-title: Verifying Query API Enablement
 solution: Analytics
 title: Verifying Query API Enablement
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Create custom column export headers for your segment export files to add easily understood descriptions for exported segments. This export feature also lets you output as TSV and CSV files.
-seo-description: Create custom column export headers for your segment export files to add easily understood descriptions for exported segments. This export feature also lets you output as TSV and CSV files.
-seo-title: Segment Export with Custom Headers
 title: Segment Export with Custom Headers
 uuid: 186e7868-13b2-42e1-b83f-5a752ee9b407
 ---

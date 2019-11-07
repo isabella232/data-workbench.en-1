@@ -1,7 +1,5 @@
 ---
 description: A 2D process map can display the metric quantities representing the amount of activity to or from a node on the map.
-seo-description: A 2D process map can display the metric quantities representing the amount of activity to or from a node on the map.
-seo-title: Display a metric quantity
 solution: Analytics
 title: Display a metric quantity
 topic: Data workbench

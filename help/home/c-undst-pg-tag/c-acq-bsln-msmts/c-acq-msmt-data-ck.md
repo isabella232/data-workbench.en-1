@@ -1,7 +1,5 @@
 ---
 description: As a part of the Baseline Measurement data collected, Sensor collects the domain cookies sent from a visitor’s machine when making a request from your web server.
-seo-description: As a part of the Baseline Measurement data collected, Sensor collects the domain cookies sent from a visitor’s machine when making a request from your web server.
-seo-title: Acquiring Measurement Data Through Cookies
 solution: Analytics
 title: Acquiring Measurement Data Through Cookies
 topic: Data workbench

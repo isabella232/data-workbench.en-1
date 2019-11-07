@@ -1,7 +1,5 @@
 ---
 description: The Report Portal provides a search feature to find reports based on a tree view of folders, tree view of report dates, and an ad hoc search.
-seo-description: The Report Portal provides a search feature to find reports based on a tree view of folders, tree view of report dates, and an ad hoc search.
-seo-title: Advanced Search in the Report Portal
 solution: Analytics
 title: Advanced Search in the Report Portal
 topic: Data workbench

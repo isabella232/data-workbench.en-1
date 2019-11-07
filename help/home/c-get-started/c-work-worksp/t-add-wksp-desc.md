@@ -1,7 +1,5 @@
 ---
 description: Steps to add a description to a workspace.
-seo-description: Steps to add a description to a workspace.
-seo-title: Add a description to a workspace
 solution: Analytics
 title: Add a description to a workspace
 topic: Data workbench

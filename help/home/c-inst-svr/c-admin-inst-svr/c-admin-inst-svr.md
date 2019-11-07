@@ -1,7 +1,5 @@
 ---
 description: Information about administrative tasks such as configuring access control, monitoring memory usage, and more.
-seo-description: Information about administrative tasks such as configuring access control, monitoring memory usage, and more.
-seo-title: Administering Data Workbench Server
 solution: Insight
 title: Administering Data Workbench Server
 uuid: 033b34ec-75f6-454f-8e08-c05fb8b2d18d

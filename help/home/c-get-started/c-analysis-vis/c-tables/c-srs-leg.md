@@ -1,7 +1,5 @@
 ---
 description: Elements within a dimension can be color-coded as a series so that each element can be tracked more easily across other visualizations within the workspace.
-seo-description: Elements within a dimension can be color-coded as a series so that each element can be tracked more easily across other visualizations within the workspace.
-seo-title: Enable a series legend
 solution: Analytics
 title: Enable a series legend
 topic: Data workbench

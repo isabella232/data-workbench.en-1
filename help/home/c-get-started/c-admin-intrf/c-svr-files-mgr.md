@@ -1,7 +1,5 @@
 ---
 description: The Server Files Manager enables you to remotely administer and manage Data Workbench server computers from any authorized Data Workbench by providing access to all of the directories and files in the product’s installation directory, including configuration and look-up files.
-seo-description: The Server Files Manager enables you to remotely administer and manage Data Workbench server computers from any authorized Data Workbench by providing access to all of the directories and files in the product’s installation directory, including configuration and look-up files.
-seo-title: Server Files Manager
 solution: Analytics
 title: Server Files Manager
 topic: Data workbench

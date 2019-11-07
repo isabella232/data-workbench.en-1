@@ -1,7 +1,5 @@
 ---
 description: Information about test operation conditions including compare, not empty, range, regular expression, and string match.
-seo-description: Information about test operation conditions including compare, not empty, range, regular expression, and string match.
-seo-title: Test Operation Conditions
 solution: Analytics
 title: Test Operation Conditions
 topic: Data workbench

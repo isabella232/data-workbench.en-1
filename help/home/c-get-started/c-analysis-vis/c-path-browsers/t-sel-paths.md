@@ -1,7 +1,5 @@
 ---
 description: You can select a path within a path browser to create filters that include data associated with the elements in the path.
-seo-description: You can select a path within a path browser to create filters that include data associated with the elements in the path.
-seo-title: Select a path
 solution: Analytics
 title: Select a path
 topic: Data workbench

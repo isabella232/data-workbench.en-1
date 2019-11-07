@@ -1,7 +1,5 @@
 ---
 description: The ReplaceURI transformation changes the value in the internal URI dimension to a new value.
-seo-description: The ReplaceURI transformation changes the value in the internal URI dimension to a new value.
-seo-title: ReplaceURI
 solution: Analytics
 title: ReplaceURI
 topic: Data workbench

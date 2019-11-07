@@ -1,7 +1,5 @@
 ---
 description: The latitude-longitude projection format (LatLonProjection) in the Terrain Images.cfg file is defined by four parameters for latitude and longitude.
-seo-description: The latitude-longitude projection format (LatLonProjection) in the Terrain Images.cfg file is defined by four parameters for latitude and longitude.
-seo-title: Latitude-Longitude Projections
 solution: Analytics
 title: Latitude-Longitude Projections
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Transform functionality (Transform) runs on a data workbench server machine to enable the export of log source data for use by other applications.
-seo-description: Transform functionality (Transform) runs on a data workbench server machine to enable the export of log source data for use by other applications.
-seo-title: About Transformation Functionality
 solution: Analytics
 title: About Transformation Functionality
 topic: Data workbench

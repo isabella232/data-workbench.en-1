@@ -1,7 +1,5 @@
 ---
 description: Dashboards can either be private or shared.
-seo-description: Dashboards can either be private or shared.
-seo-title: Dashboard Sharing and Access Controls
 solution: Analytics
 title: Dashboard Sharing and Access Controls
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Select input variables, the number of clusters, and a target population (if desired) to define clusters in your dataset.
-seo-description: Select input variables, the number of clusters, and a target population (if desired) to define clusters in your dataset.
-seo-title: Building Clusters
 solution: Analytics
 title: Building Clusters
 topic: Data workbench

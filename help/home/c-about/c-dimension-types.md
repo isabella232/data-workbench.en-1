@@ -1,7 +1,5 @@
 ---
 description: Several types of dimensions are available in the data workbench server. As such, it is important to know the dimension type when using a dimension to create metrics, filters, or derived dimensions.
-seo-description: Several types of dimensions are available in the data workbench server. As such, it is important to know the dimension type when using a dimension to create metrics, filters, or derived dimensions.
-seo-title: Dimension Types
 solution: Analytics
 title: Dimension Types
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Instructions about how to install and configure Sensor for Lotus Domino Server 6 for Windows 3.1 or later running under Microsoft Windows Server 2000 or later.
-seo-description: Instructions about how to install and configure Sensor for Lotus Domino Server 6 for Windows 3.1 or later running under Microsoft Windows Server 2000 or later.
-seo-title: Lotus Domino Server on Windows Server 2000 or Later
 title: Lotus Domino Server on Windows Server 2000 or Later
 uuid: e3fb1478-92d1-4488-a4b8-244d258cc00a
 ---

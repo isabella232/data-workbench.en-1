@@ -1,7 +1,5 @@
 ---
 description: Steps to edit the configuration of a profile component.
-seo-description: Steps to edit the configuration of a profile component.
-seo-title: Edit profile components
 solution: Analytics
 title: Edit profile components
 topic: Data workbench

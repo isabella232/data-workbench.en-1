@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Modifying the ExpPartialMatch Parameter (Optional)
 solution: Insight,Analytics
 title: Modifying the ExpPartialMatch Parameter (Optional)
 topic: Data workbench

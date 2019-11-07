@@ -1,7 +1,5 @@
 ---
 description: Seven different attribution models are provided to use with the Attribution profile to help illustrate and quantify the customer-marketing journey.
-seo-description: Seven different attribution models are provided to use with the Attribution profile to help illustrate and quantify the customer-marketing journey.
-seo-title: Attribution Models
 title: Attribution Models
 uuid: 4c73629c-9d58-49d5-adeb-8175484709fa
 ---

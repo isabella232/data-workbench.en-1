@@ -1,7 +1,5 @@
 ---
 description: You can customize the appearance of menus including the workspace window menu (accessed by right-clicking in any workspace) and menus listing metrics, dimensions, and map layers.
-seo-description: You can customize the appearance of menus including the workspace window menu (accessed by right-clicking in any workspace) and menus listing metrics, dimensions, and map layers.
-seo-title: Customize a menu
 solution: Analytics
 title: Customize a menu
 topic: Data workbench

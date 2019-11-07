@@ -1,7 +1,5 @@
 ---
 description: The data workbench client application now supports Simplified Chinese.
-seo-description: The data workbench client application now supports Simplified Chinese.
-seo-title: Simplified Chinese localization
 solution: Analytics
 title: Simplified Chinese localization
 topic: Data workbench

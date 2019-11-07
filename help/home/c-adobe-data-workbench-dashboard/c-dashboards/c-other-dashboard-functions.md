@@ -1,7 +1,5 @@
 ---
 description: Special functions include sharing, exporting, and deleting dashboards and are performed from the details panel of a selected dashboard.
-seo-description: Special functions include sharing, exporting, and deleting dashboards and are performed from the details panel of a selected dashboard.
-seo-title: Other Dashboard Functions
 solution: Analytics
 title: Other Dashboard Functions
 topic: Data workbench

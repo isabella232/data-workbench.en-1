@@ -1,7 +1,5 @@
 ---
 description: Using an image annotation, you can copy an image from any source and paste it directly into a workspace.
-seo-description: Using an image annotation, you can copy an image from any source and paste it directly into a workspace.
-seo-title: Image annotations
 solution: Analytics
 title: Image annotations
 topic: Data workbench

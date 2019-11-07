@@ -1,7 +1,5 @@
 ---
 description: The New Visitor Condition is a Condition Operation that is used with website data to determine which visitors are considered for inclusion in the dataset.
-seo-description: The New Visitor Condition is a Condition Operation that is used with website data to determine which visitors are considered for inclusion in the dataset.
-seo-title: New Visitor Condition
 solution: Analytics
 title: New Visitor Condition
 topic: Data workbench

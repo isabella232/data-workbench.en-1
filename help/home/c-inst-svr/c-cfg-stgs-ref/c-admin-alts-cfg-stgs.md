@@ -1,7 +1,5 @@
 ---
 description: Instructions to configure administrative alerts for Insight Server, Repeater, or Transform.
-seo-description: Instructions to configure administrative alerts for Insight Server, Repeater, or Transform.
-seo-title: Administrative Alerts Configuration Settings
 solution: Insight
 title: Administrative Alerts Configuration Settings
 uuid: c2be2d1e-d81d-4d9f-ac94-4b642dad90b9

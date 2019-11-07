@@ -1,7 +1,5 @@
 ---
 description: The Log Processing Dataset Include file for an inherited profile contains parameters associated with the log processing phase of dataset construction.
-seo-description: The Log Processing Dataset Include file for an inherited profile contains parameters associated with the log processing phase of dataset construction.
-seo-title: Log Processing Dataset Include Files
 solution: Analytics
 title: Log Processing Dataset Include Files
 topic: Data workbench

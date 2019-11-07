@@ -1,7 +1,5 @@
 ---
 description: You install the Terrain Images.cfg file only if you want to make new terrain image layers to display on the globe visualization.
-seo-description: You install the Terrain Images.cfg file only if you want to make new terrain image layers to display on the globe visualization.
-seo-title: Installing the Terrain Images.cfg File
 title: Installing the Terrain Images.cfg File
 uuid: eba5eb17-2161-43a9-8df2-74058b9b636b
 ---

@@ -1,7 +1,5 @@
 ---
 description: New features introduced in Data Workbench 6.0.4, including bug fixes and known issues.
-seo-description: New features introduced in Data Workbench 6.0.4, including bug fixes and known issues.
-seo-title: Data Workbench 6.0 Release Notes
 solution: Analytics
 title: Data Workbench 6.0 Release Notes
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Path browsers can be configured to work with any combination of base dimension, group dimension, level dimension, and metric that makes sense for your application and dataset.
-seo-description: Path browsers can be configured to work with any combination of base dimension, group dimension, level dimension, and metric that makes sense for your application and dataset.
-seo-title: Configure a path browser
 solution: Analytics
 title: Configure a path browser
 topic: Data workbench

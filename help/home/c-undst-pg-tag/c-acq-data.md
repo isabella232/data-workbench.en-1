@@ -1,7 +1,5 @@
 ---
 description: Sensor enables you to acquire web request data (event or log data) as well as extended measurement data.
-seo-description: Sensor enables you to acquire web request data (event or log data) as well as extended measurement data.
-seo-title: What Kind of Data Can I Acquire?
 solution: Analytics
 title: What Kind of Data Can I Acquire?
 topic: Data workbench

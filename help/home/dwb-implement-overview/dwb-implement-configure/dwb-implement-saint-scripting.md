@@ -1,7 +1,5 @@
 ---
 description: This section explains the Saint Scrubber script.
-seo-description: This section explains the Saint Scrubber script.
-seo-title: Scripting for the SAINT Scrubber
 title: Scripting for the SAINT Scrubber
 uuid: 2e5aa6f2-dadb-48a6-8443-69396530587c
 ---

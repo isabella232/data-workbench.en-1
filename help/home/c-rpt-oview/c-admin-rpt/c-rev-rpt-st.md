@@ -1,7 +1,5 @@
 ---
 description: Information about your Report Server status and report set status.
-seo-description: Information about your Report Server status and report set status.
-seo-title: Reviewing Report Status
 solution: Analytics
 title: Reviewing Report Status
 topic: Data workbench

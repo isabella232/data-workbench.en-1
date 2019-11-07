@@ -1,7 +1,5 @@
 ---
 description: Steps to sort data.
-seo-description: Steps to sort data.
-seo-title: Sort data in a table
 solution: Analytics
 title: Sort data in a table
 topic: Data workbench

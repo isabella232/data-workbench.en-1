@@ -1,7 +1,5 @@
 ---
 description: Now that the x-experiment field is available, you must create an extended dimension to include the x-experiment field in your dataset, which allows you to view your results in Insight.
-seo-description: Now that the x-experiment field is available, you must create an extended dimension to include the x-experiment field in your dataset, which allows you to view your results in Insight.
-seo-title: Modifying Transformation.cfg
 solution: Insight,Analytics
 title: Modifying Transformation.cfg
 topic: Data workbench

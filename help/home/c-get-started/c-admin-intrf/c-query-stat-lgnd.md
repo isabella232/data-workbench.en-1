@@ -1,7 +1,5 @@
 ---
 description: The Query Status Legend provides detailed information about the queries you are performing.
-seo-description: The Query Status Legend provides detailed information about the queries you are performing.
-seo-title: Query Status Legend
 solution: Analytics
 title: Query Status Legend
 topic: Data workbench

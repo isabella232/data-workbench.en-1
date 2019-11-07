@@ -1,7 +1,5 @@
 ---
 description: Steps to change a dimension.
-seo-description: Steps to change a dimension.
-seo-title: Change a dimension
 solution: Analytics
 title: Change a dimension
 topic: Data workbench

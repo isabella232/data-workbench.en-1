@@ -1,7 +1,5 @@
 ---
 description: The ExpCookieURL parameter can be used to test that your controlled experiment is working properly.
-seo-description: The ExpCookieURL parameter can be used to test that your controlled experiment is working properly.
-seo-title: Modifying the ExpCookieURL Paramter (Optional)
 solution: Insight,Analytics
 title: Modifying the ExpCookieURL Paramter (Optional)
 topic: Data workbench

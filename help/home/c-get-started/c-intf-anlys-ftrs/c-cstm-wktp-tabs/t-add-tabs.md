@@ -1,7 +1,5 @@
 ---
 description: Add a tab to the Worktop to quickly access a workspace.
-seo-description: Add a tab to the Worktop to quickly access a workspace.
-seo-title: Add a tab to the worktop
 solution: Analytics
 title: Add a tab to the worktop
 topic: Data workbench

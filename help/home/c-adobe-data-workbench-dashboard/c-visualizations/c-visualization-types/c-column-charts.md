@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Column Charts
 solution: Analytics
 title: Column Charts
 topic: Data workbench

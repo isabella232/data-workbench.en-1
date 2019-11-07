@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Resetting a User's Password
 solution: Analytics
 title: Resetting a User's Password
 topic: Data workbench

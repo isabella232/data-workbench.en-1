@@ -1,7 +1,5 @@
 ---
 description: Code sample of XSL style sheet.
-seo-description: Code sample of XSL style sheet.
-seo-title: Sample XSL Style Sheet
 solution: Analytics
 title: Sample XSL Style Sheet
 topic: Data workbench

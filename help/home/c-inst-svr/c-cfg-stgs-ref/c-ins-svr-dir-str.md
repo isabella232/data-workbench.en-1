@@ -1,7 +1,5 @@
 ---
 description: List of files installed with Insight Server and the files present after it has been registered, and run for the first time.
-seo-description: List of files installed with Insight Server and the files present after it has been registered, and run for the first time.
-seo-title: Insight Server Directory Structure
 solution: Insight
 title: Insight Server Directory Structure
 uuid: 8339b275-f118-4d5d-937e-4df9f8a56b50

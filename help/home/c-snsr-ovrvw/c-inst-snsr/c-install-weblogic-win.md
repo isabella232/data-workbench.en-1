@@ -1,7 +1,5 @@
 ---
 description: Detailed instructions for installing and configuring Sensor for WebLogic Server 6.x or later running under Microsoft Windows Server 2000 or later.
-seo-description: Detailed instructions for installing and configuring Sensor for WebLogic Server 6.x or later running under Microsoft Windows Server 2000 or later.
-seo-title: WebLogic Server on Windows Server 2000 or Later
 title: WebLogic Server on Windows Server 2000 or Later
 uuid: 80dbf544-bd09-4af8-bb05-4032eb49dd5d
 ---

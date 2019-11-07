@@ -1,7 +1,5 @@
 ---
 description: How to export, copy, and bookmark from the Worktop.
-seo-description: How to export, copy, and bookmark from the Worktop.
-seo-title: Using the Worktop thumbnail menu
 solution: Analytics
 title: Using the Worktop thumbnail menu
 topic: Data workbench

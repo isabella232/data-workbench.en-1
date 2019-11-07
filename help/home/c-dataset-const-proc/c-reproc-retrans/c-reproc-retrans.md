@@ -1,7 +1,5 @@
 ---
 description: Information about dataset reprocessing and retransformation and how to prepare for either.
-seo-description: Information about dataset reprocessing and retransformation and how to prepare for either.
-seo-title: Reprocessing and Retransformation
 solution: Analytics
 title: Reprocessing and Retransformation
 topic: Data workbench

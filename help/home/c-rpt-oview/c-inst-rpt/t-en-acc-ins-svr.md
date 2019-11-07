@@ -1,7 +1,5 @@
 ---
 description: To connect to a data workbench server, Report Server must have permission to access that server.
-seo-description: To connect to a data workbench server, Report Server must have permission to access that server.
-seo-title: Enabling Access to the Data Workbench Server
 solution: Analytics
 title: Enabling Access to the Data Workbench Server
 topic: Data workbench

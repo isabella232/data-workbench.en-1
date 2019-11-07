@@ -1,7 +1,5 @@
 ---
 description: A latency table is a table that includes a latency dimension, which is a type of derived dimension that measures the time that has elapsed since a particular event occurred.
-seo-description: A latency table is a table that includes a latency dimension, which is a type of derived dimension that measures the time that has elapsed since a particular event occurred.
-seo-title: Configure a latency table
 solution: Analytics
 title: Configure a latency table
 topic: Data workbench

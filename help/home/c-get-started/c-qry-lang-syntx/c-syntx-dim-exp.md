@@ -1,7 +1,5 @@
 ---
 description: Dimension expressions are never used alone, but can be used anywhere a dimension is called for in a metric or filter expression.
-seo-description: Dimension expressions are never used alone, but can be used anywhere a dimension is called for in a metric or filter expression.
-seo-title: Syntax for dimension expressions
 solution: Analytics
 title: Syntax for dimension expressions
 topic: Data workbench

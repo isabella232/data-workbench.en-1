@@ -1,7 +1,5 @@
 ---
 description: Conceptual information about administrative tasks.
-seo-description: Conceptual information about administrative tasks.
-seo-title: Administering Report Server
 solution: Analytics
 title: Administering Report Server
 topic: Data workbench

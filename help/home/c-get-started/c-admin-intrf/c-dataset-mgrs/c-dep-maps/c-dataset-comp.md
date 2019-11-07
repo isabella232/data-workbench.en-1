@@ -1,7 +1,5 @@
 ---
 description: Conceptual information about dataset components.
-seo-description: Conceptual information about dataset components.
-seo-title: Dataset components
 solution: Analytics
 title: Dataset components
 topic: Data workbench

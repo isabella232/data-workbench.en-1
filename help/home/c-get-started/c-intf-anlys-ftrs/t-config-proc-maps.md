@@ -1,7 +1,5 @@
 ---
 description: Process maps can be configured to work with any combination of base dimension, group dimension, level dimension, and metric that makes sense for your application and dataset.
-seo-description: Process maps can be configured to work with any combination of base dimension, group dimension, level dimension, and metric that makes sense for your application and dataset.
-seo-title: Configure a process map
 solution: Analytics
 title: Configure a process map
 topic: Data workbench

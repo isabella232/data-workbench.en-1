@@ -1,7 +1,5 @@
 ---
 description: The Cluster Builder now includes a KMeans++ algorithm (only the KMeans algorithm was previously supported) that uses a faster approach to finding centers for an expedited cluster-generation process.
-seo-description: The Cluster Builder now includes a KMeans++ algorithm (only the KMeans algorithm was previously supported) that uses a faster approach to finding centers for an expedited cluster-generation process.
-seo-title: Clustering 2.0
 title: Clustering 2.0
 uuid: 14462bd3-06d1-4622-a2d8-f96aadb357f3
 ---

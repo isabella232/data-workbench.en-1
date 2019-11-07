@@ -1,7 +1,5 @@
 ---
 description: You have completed the installation of the Insight ServerReplication Service.
-seo-description: You have completed the installation of the Insight ServerReplication Service.
-seo-title: Next Steps
 solution: Insight
 title: Next Steps
 uuid: 258087cd-4dde-4e47-9285-d411f22e19ed

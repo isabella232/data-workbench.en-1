@@ -1,7 +1,5 @@
 ---
 description: The Reference Page Tag Execution Call is inserted into web pages for which you want to collect measurement data.
-seo-description: The Reference Page Tag Execution Call is inserted into web pages for which you want to collect measurement data.
-seo-title: Adding Reference Page Tag Execution Calls
 solution: Analytics
 title: Adding Reference Page Tag Execution Calls
 topic: Data workbench

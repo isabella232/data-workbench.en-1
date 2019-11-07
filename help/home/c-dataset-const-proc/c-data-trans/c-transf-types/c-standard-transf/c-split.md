@@ -1,7 +1,5 @@
 ---
 description: The Split transformation splits a string into a vector of substrings based upon a given delimiter character.
-seo-description: The Split transformation splits a string into a vector of substrings based upon a given delimiter character.
-seo-title: Split
 solution: Analytics
 title: Split
 topic: Data workbench

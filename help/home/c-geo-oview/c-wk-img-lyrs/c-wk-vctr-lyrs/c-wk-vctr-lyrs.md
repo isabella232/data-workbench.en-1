@@ -1,7 +1,5 @@
 ---
 description: In data workbench, a vector layer displays static vector data (line art) on the globe.
-seo-description: In data workbench, a vector layer displays static vector data (line art) on the globe.
-seo-title: Working with Vector Layers
 solution: Analytics
 title: Working with Vector Layers
 topic: Data workbench

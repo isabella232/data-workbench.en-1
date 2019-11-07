@@ -1,7 +1,5 @@
 ---
 description: The REMatch transformation is a pattern-matching transformation that uses regular expressions to specify one or more patterns to look for and capture in the input.
-seo-description: The REMatch transformation is a pattern-matching transformation that uses regular expressions to specify one or more patterns to look for and capture in the input.
-seo-title: REMatch
 solution: Analytics
 title: REMatch
 topic: Data workbench

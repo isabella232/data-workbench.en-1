@@ -1,7 +1,5 @@
 ---
 description: The Profile Manager enables the management of visualizations, segments, metrics, dimensions, and so on.
-seo-description: The Profile Manager enables the management of visualizations, segments, metrics, dimensions, and so on.
-seo-title: Publish files to your working profile
 solution: Analytics
 title: Publish files to your working profile
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Information about opening a field viewer for a log source, transformation, or extended dimension.
-seo-description: Information about opening a field viewer for a log source, transformation, or extended dimension.
-seo-title: Open a field viewer
 solution: Analytics
 title: Open a field viewer
 topic: Data workbench

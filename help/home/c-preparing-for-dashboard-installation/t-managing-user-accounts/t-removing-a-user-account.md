@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Removing a User Account
 solution: Analytics
 title: Removing a User Account
 topic: Data workbench

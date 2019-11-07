@@ -1,7 +1,5 @@
 ---
 description: You can easily create a Segment Export definition from the Detail Table visualization in the Data Workbench Client.
-seo-description: You can easily create a Segment Export definition from the Detail Table visualization in the Data Workbench Client.
-seo-title: Segment export
 solution: Analytics
 title: Segment export
 topic: Data workbench

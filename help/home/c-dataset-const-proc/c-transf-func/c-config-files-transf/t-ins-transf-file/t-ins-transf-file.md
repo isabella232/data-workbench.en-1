@@ -1,7 +1,5 @@
 ---
 description: The data workbenchTransform.cfg file contains the parameters that define the log sources, data transformations, and exporters.
-seo-description: The data workbenchTransform.cfg file contains the parameters that define the log sources, data transformations, and exporters.
-seo-title: The Transform.cfg File
 solution: Analytics
 title: The Transform.cfg File
 topic: Data workbench

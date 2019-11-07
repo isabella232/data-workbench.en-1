@@ -1,7 +1,5 @@
 ---
 description: The Association Table visualization let you associate metrics with metrics, dimensions, and dimension elements using Cramer's V algorithm.
-seo-description: The Association Table visualization let you associate metrics with metrics, dimensions, and dimension elements using Cramer's V algorithm.
-seo-title: Association Table visualization
 title: Association Table visualization
 uuid: 4563c336-3377-4929-8694-8c0d00866825
 ---

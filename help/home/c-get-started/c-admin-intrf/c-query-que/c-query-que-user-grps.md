@@ -1,7 +1,5 @@
 ---
 description: Table that defines the User Group parameters.
-seo-description: Table that defines the User Group parameters.
-seo-title: Query Queue User Groups
 solution: Analytics
 title: Query Queue User Groups
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Propensity scoring lets you define customers based on their possibility of a successful conversion or completion of a specified event. It allows you to maximize the potential impact of efforts before executing a process or directing a campaign.
-seo-description: Propensity scoring lets you define customers based on their possibility of a successful conversion or completion of a specified event. It allows you to maximize the potential impact of efforts before executing a process or directing a campaign.
-seo-title: Propensity Scoring
 solution: Analytics
 title: Propensity Scoring
 topic: Data workbench

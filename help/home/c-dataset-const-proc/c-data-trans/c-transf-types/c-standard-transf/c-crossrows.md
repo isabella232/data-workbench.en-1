@@ -1,7 +1,5 @@
 ---
 description: Like other transformations, the CrossRows transformation is applied to the rows of data (log entries) in your log sources.
-seo-description: Like other transformations, the CrossRows transformation is applied to the rows of data (log entries) in your log sources.
-seo-title: CrossRows
 solution: Analytics
 title: CrossRows
 topic: Data workbench

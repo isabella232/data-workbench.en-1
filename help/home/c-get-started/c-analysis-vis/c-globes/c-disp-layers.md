@@ -1,7 +1,5 @@
 ---
 description: The Geography profile stores a collection of imagery layers and files.
-seo-description: The Geography profile stores a collection of imagery layers and files.
-seo-title: Display layers
 solution: Analytics
 title: Display layers
 topic: Data workbench

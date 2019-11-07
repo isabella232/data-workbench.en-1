@@ -1,7 +1,5 @@
 ---
 description: If you subscribe to either data service, you periodically must update the data service files provided by Adobe.
-seo-description: If you subscribe to either data service, you periodically must update the data service files provided by Adobe.
-seo-title: Updating Data Service Files
 solution: Analytics
 title: Updating Data Service Files
 topic: Data workbench

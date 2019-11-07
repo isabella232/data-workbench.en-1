@@ -1,7 +1,5 @@
 ---
 description: Information about optional Sensor txlogd.conf file parameters.
-seo-description: Information about optional Sensor txlogd.conf file parameters.
-seo-title: Optional Parameters
 solution: Insight
 title: Optional Parameters
 uuid: 8515a571-93ce-49cd-9ded-c9273259d0ee

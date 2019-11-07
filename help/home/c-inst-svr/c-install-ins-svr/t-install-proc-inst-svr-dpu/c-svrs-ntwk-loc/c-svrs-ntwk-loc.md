@@ -1,7 +1,5 @@
 ---
 description: Insight Server’s clients (Report and Insight) use common names to refer to Insight Servers.
-seo-description: Insight Server’s clients (Report and Insight) use common names to refer to Insight Servers.
-seo-title: Defining the Server's Network Location
 solution: Insight
 title: Defining the Server's Network Location
 uuid: 9cf2f268-6fde-4427-b832-a238d126d697

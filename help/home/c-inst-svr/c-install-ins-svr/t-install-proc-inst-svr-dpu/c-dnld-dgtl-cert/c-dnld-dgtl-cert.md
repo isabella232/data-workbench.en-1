@@ -1,7 +1,5 @@
 ---
 description: General information about digital certificates, and procedures to download and install them.
-seo-description: General information about digital certificates, and procedures to download and install them.
-seo-title: Downloading and Installing the Digital Certificates
 solution: Insight
 title: Downloading and Installing the Digital Certificates
 uuid: ac484e96-21dc-4643-ae74-01ac957e30ee

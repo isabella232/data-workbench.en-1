@@ -1,7 +1,5 @@
 ---
 description: Steps for editing the Transformation.cfg file for a dataset profile.
-seo-description: Steps for editing the Transformation.cfg file for a dataset profile.
-seo-title: Editing the Transformation Configuration File
 solution: Analytics
 title: Editing the Transformation Configuration File
 topic: Data workbench

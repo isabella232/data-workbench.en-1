@@ -1,7 +1,5 @@
 ---
 description: Integrate Data Workbench with Adobe Target. Export data segments and automatically populate export files.
-seo-description: Integrate Data Workbench with Adobe Target. Export data segments and automatically populate export files.
-seo-title: Data Workbench Integration with Adobe Target
 solution: Analytics
 title: Data Workbench Integration with Adobe Target
 topic: Data workbench

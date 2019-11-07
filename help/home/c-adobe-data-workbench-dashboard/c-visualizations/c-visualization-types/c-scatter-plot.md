@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Scatter Plot
 solution: Analytics
 title: Scatter Plot
 topic: Data workbench

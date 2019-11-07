@@ -1,7 +1,5 @@
 ---
 description: Lists all supported browsers.
-seo-description: Lists all supported browsers.
-seo-title: Supported Browsers
 solution: Analytics
 title: Supported Browsers
 topic: Data workbench

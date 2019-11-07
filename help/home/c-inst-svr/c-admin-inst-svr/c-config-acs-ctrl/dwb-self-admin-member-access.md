@@ -1,7 +1,5 @@
 ---
 description: Administrators can give workstation users the partial ability to manage access control for custom groups.
-seo-description: Administrators can give workstation users the partial ability to manage access control for custom groups.
-seo-title: User Administration of Group Member Access
 title: User Administration of Group Member Access
 uuid: c31128f9-1094-4337-9bf6-96401278df33
 ---

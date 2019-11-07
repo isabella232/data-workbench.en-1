@@ -1,7 +1,5 @@
 ---
 description: The Traffic profile contains the following dimensions to help identify visitor actions.
-seo-description: The Traffic profile contains the following dimensions to help identify visitor actions.
-seo-title: Traffic Profile Dimensions
 solution: Analytics
 title: Traffic Profile Dimensions
 topic: Data workbench

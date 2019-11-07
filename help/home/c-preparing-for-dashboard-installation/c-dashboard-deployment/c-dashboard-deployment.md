@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Dashboard Deployment
 solution: Analytics
 title: Dashboard Deployment
 topic: Data workbench

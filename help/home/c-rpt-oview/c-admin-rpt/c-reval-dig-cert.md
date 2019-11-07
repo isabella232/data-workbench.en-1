@@ -1,7 +1,5 @@
 ---
 description: After installation, the digital certificate issued by Adobe acts as a key that enables you to run Report Server.
-seo-description: After installation, the digital certificate issued by Adobe acts as a key that enables you to run Report Server.
-seo-title: Re-validating the Digital Certificate
 solution: Analytics
 title: Re-validating the Digital Certificate
 topic: Data workbench

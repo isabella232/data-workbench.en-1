@@ -1,7 +1,5 @@
 ---
 description: Steps to define extended dimensions.
-seo-description: Steps to define extended dimensions.
-seo-title: Defining Extended Dimensions
 solution: Analytics
 title: Defining Extended Dimensions
 topic: Data workbench

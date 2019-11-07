@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Adding a User Account
 solution: Analytics
 title: Adding a User Account
 topic: Data workbench

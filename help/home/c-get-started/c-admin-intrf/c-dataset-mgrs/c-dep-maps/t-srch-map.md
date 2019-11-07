@@ -1,7 +1,5 @@
 ---
 description: Steps to search for components containing specific text.
-seo-description: Steps to search for components containing specific text.
-seo-title: Search within a map
 solution: Analytics
 title: Search within a map
 topic: Data workbench

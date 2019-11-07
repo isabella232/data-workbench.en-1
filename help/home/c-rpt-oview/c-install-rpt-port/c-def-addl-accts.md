@@ -1,7 +1,5 @@
 ---
 description: Users must have a valid account and provide an account name and password when they access the Report Portal.
-seo-description: Users must have a valid account and provide an account name and password when they access the Report Portal.
-seo-title: Define Additional Accounts
 solution: Analytics
 title: Define Additional Accounts
 topic: Data workbench

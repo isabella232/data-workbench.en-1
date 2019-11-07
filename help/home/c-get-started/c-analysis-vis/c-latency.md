@@ -1,7 +1,5 @@
 ---
 description: The Latency visualization lets you analyze latent customer behavior within a set number of days before or after an event occurred after a campaign or other type of event or period of time.
-seo-description: The Latency visualization lets you analyze latent customer behavior within a set number of days before or after an event occurred after a campaign or other type of event or period of time.
-seo-title: Latency Analysis
 title: Latency Analysis
 uuid: 80760420-0e21-420a-b585-9cf2d9a207bd
 ---

@@ -1,7 +1,5 @@
 ---
 description: Vector parameters contain multiple values for a single variable.
-seo-description: Vector parameters contain multiple values for a single variable.
-seo-title: Vector Parameters
 solution: Analytics
 title: Vector Parameters
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: The Server Files Manager displays all of the directories in the Data Workbench server installation directory, including configuration and look-up files.
-seo-description: The Server Files Manager displays all of the directories in the Data Workbench server installation directory, including configuration and look-up files.
-seo-title: Create a Server Files Manager
 solution: Analytics
 title: Create a Server Files Manager
 topic: Data workbench

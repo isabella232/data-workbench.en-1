@@ -1,7 +1,5 @@
 ---
 description: Information on acquiring form field input, including general information and .asp-specific information.
-seo-description: Information on acquiring form field input, including general information and .asp-specific information.
-seo-title: Acquiring Form Field Input
 solution: Analytics
 title: Acquiring Form Field Input
 topic: Data workbench

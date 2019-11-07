@@ -1,7 +1,5 @@
 ---
 description: You define new metrics (referred to as derived metrics) and edit existing metric definitions using the Metric Editor.
-seo-description: You define new metrics (referred to as derived metrics) and edit existing metric definitions using the Metric Editor.
-seo-title: Work with derived metrics
 solution: Analytics
 title: Work with derived metrics
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Selecting a node by clicking it dims the other nodes so that you can more easily see the arrows to and from the highlighted node.
-seo-description: Selecting a node by clicking it dims the other nodes so that you can more easily see the arrows to and from the highlighted node.
-seo-title: Select a node
 solution: Analytics
 title: Select a node
 topic: Data workbench

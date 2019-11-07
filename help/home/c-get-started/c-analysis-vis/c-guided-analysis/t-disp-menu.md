@@ -1,7 +1,5 @@
 ---
 description: Steps to display information or options for a dimension.
-seo-description: Steps to display information or options for a dimension.
-seo-title: Display the Dimension menu
 solution: Analytics
 title: Display the Dimension menu
 topic: Data workbench

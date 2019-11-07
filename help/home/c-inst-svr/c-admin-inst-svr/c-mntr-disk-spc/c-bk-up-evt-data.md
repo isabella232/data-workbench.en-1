@@ -1,7 +1,5 @@
 ---
 description: Event data must be backed up daily using your company’s normal backup systems and disaster recovery procedures.
-seo-description: Event data must be backed up daily using your company’s normal backup systems and disaster recovery procedures.
-seo-title: Backing Up Event Data
 solution: Insight
 title: Backing Up Event Data
 uuid: 1b9e5dfe-0bf2-4ee9-bf70-1dd320a678d6

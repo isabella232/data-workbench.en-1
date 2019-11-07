@@ -1,7 +1,5 @@
 ---
 description: Selections can be removed at any time.
-seo-description: Selections can be removed at any time.
-seo-title: Removing Selections
 solution: Analytics
 title: Removing Selections
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Open Best Fit Attribution from the Premium menu and follow these steps to build a Best Fit Attribution model.
-seo-description: Open Best Fit Attribution from the Premium menu and follow these steps to build a Best Fit Attribution model.
-seo-title: Build a Best Fit Attribution Model
 title: Build a Best Fit Attribution Model
 uuid: d1fd0340-1917-41bc-9a08-e78a79d084e7
 ---

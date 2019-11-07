@@ -1,7 +1,5 @@
 ---
 description: You can customize the appearance of any menu by editing the order.txt file associated with that menu.
-seo-description: You can customize the appearance of any menu by editing the order.txt file associated with that menu.
-seo-title: Customize a menu using order.txt files
 solution: Analytics
 title: Customize a menu using order.txt files
 topic: Data workbench

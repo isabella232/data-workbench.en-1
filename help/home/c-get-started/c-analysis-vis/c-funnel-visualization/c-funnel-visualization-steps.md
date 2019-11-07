@@ -1,7 +1,5 @@
 ---
 description: Follow these steps to build a new funnel visualization
-seo-description: Follow these steps to build a new funnel visualization
-seo-title: Building a Funnel
 solution: Analytics
 title: Building a Funnel
 topic: Data workbench

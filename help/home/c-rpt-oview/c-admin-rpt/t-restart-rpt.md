@@ -1,7 +1,5 @@
 ---
 description: When restarting a Report Server machine, you first must stop the Report Server service.
-seo-description: When restarting a Report Server machine, you first must stop the Report Server service.
-seo-title: Restarting Report Server
 solution: Analytics
 title: Restarting Report Server
 topic: Data workbench

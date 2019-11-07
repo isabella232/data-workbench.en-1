@@ -1,7 +1,5 @@
 ---
 description: Selections are not automatically applied to the dashboard’s data results.
-seo-description: Selections are not automatically applied to the dashboard’s data results.
-seo-title: Applying Selections
 solution: Analytics
 title: Applying Selections
 topic: Data workbench

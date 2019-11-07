@@ -1,7 +1,5 @@
 ---
 description: Before the dashboard can operate, you must allow it to access the SQL Server.
-seo-description: Before the dashboard can operate, you must allow it to access the SQL Server.
-seo-title: Configuring the SQL Server
 solution: Analytics
 title: Configuring the SQL Server
 topic: Data workbench
