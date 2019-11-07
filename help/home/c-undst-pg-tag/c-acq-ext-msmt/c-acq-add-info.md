@@ -1,7 +1,5 @@
 ---
 description: Query string variables may be added to a JavaScript request to collect additional measurements when a request is made.
-seo-description: Query string variables may be added to a JavaScript request to collect additional measurements when a request is made.
-seo-title: Acquiring Additional Information
 solution: Analytics
 title: Acquiring Additional Information
 topic: Data workbench

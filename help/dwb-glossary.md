@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Data Workbench Glossary
 title: Data Workbench Glossary
 uuid: 1000c43d-383c-442d-bd09-de4f286ded31
 ---

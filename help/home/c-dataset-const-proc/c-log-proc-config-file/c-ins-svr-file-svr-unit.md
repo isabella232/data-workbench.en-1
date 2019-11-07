@@ -1,7 +1,5 @@
 ---
 description: Information about Insight Server file server units and the file server configuration process.
-seo-description: Information about Insight Server file server units and the file server configuration process.
-seo-title: Configuring a Data Workbench Server File Server Unit
 solution: Analytics
 title: Configuring a Data Workbench Server File Server Unit
 topic: Data workbench

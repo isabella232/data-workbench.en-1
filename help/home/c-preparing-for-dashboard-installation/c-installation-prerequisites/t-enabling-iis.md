@@ -1,7 +1,5 @@
 ---
 description: The first step is to enable the IIS role on your dashboard server.
-seo-description: The first step is to enable the IIS role on your dashboard server.
-seo-title: Enabling IIS
 solution: Analytics
 title: Enabling IIS
 topic: Data workbench

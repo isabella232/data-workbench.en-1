@@ -1,7 +1,5 @@
 ---
 description: Information about the Log Processing.cfg file and how its parameters affect the log processing phase of the dataset construction process.
-seo-description: Information about the Log Processing.cfg file and how its parameters affect the log processing phase of the dataset construction process.
-seo-title: Log Processing Configuration File
 solution: Analytics
 title: Log Processing Configuration File
 topic: Data workbench

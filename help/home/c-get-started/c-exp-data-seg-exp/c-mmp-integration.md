@@ -1,7 +1,5 @@
 ---
 description: Data Workbench lets you export files to integrate with the Profiles and Audiences Export as part of an integrated Adobe Experience Cloud.
-seo-description: Data Workbench lets you export files to integrate with Profiles and Audiences as part of an integrated Adobe Experience Cloud.
-seo-title: Master Marketing Profile Export
 title: Master Marketing Profile Export
 uuid: bae0f0c5-a452-4afd-9f2c-5f3ab69a12d2
 ---

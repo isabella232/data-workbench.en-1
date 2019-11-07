@@ -1,7 +1,5 @@
 ---
 description: This section explains how to create timestamps for a Data Workbench dataset.
-seo-description: This section explains how to create timestamps for a Data Workbench dataset.
-seo-title: Setting up Event Time
 title: Setting up Event Time
 uuid: 0230154d-05a2-44cf-9456-0a27e55f58ef
 ---

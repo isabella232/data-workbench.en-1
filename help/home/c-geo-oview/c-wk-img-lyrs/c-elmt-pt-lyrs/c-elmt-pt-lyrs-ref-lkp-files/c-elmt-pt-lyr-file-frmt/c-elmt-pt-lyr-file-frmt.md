@@ -1,7 +1,5 @@
 ---
 description: Formatting information about the element point layer file.
-seo-description: Formatting information about the element point layer file.
-seo-title: Element Point Layer File Format
 solution: Analytics
 title: Element Point Layer File Format
 topic: Data workbench

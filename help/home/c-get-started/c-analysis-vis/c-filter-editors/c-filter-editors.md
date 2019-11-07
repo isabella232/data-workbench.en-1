@@ -1,7 +1,5 @@
 ---
 description: A filter editor is a special visualization for building and editing filters.
-seo-description: A filter editor is a special visualization for building and editing filters.
-seo-title: Filter editors
 solution: Analytics
 title: Filter editors
 topic: Data workbench

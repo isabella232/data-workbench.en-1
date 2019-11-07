@@ -1,7 +1,5 @@
 ---
 description: If you use the Categorize or FlatFileLookup transformations, the lookup table is loaded in memory and populated from a flat file whose location you specify when you define the transformation.
-seo-description: If you use the Categorize or FlatFileLookup transformations, the lookup table is loaded in memory and populated from a flat file whose location you specify when you define the transformation.
-seo-title: Populating the Lookup Table
 solution: Analytics
 title: Populating the Lookup Table
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: The profiles and lookup files that Adobe has developed for your particular application are internal profiles that provide the metrics, dimensions, and workspaces that enable the analysis of your dataset.
-seo-description: The profiles and lookup files that Adobe has developed for your particular application are internal profiles that provide the metrics, dimensions, and workspaces that enable the analysis of your dataset.
-seo-title: Installing Profiles and Lookup Files
 solution: Insight
 title: Installing Profiles and Lookup Files
 uuid: edc670a6-ebc9-4a20-a66f-81dd4adf7433

@@ -1,7 +1,5 @@
 ---
 description: Detailed instructions for installing and configuring Sensor for Apache Jakarta Tomcat 4.1 or later running under Windows Server 2000 or later.
-seo-description: Detailed instructions for installing and configuring Sensor for Apache Jakarta Tomcat 4.1 or later running under Windows Server 2000 or later.
-seo-title: Tomcat Server on Windows Server 2000 or Later
 title: Tomcat Server on Windows Server 2000 or Later
 uuid: 58feec67-ffbb-4f25-8f22-3d109d464e9a
 ---

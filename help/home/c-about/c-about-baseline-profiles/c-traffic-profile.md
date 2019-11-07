@@ -1,7 +1,5 @@
 ---
 description: The Traffic profile contains the following metrics to identify visitor traffic.
-seo-description: The Traffic profile contains the following metrics to identify visitor traffic.
-seo-title: Traffic Profile Metrics
 solution: Analytics
 title: Traffic Profile Metrics
 topic: Data workbench

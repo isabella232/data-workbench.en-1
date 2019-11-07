@@ -1,7 +1,5 @@
 ---
 description: This menu enables you to add available visualizations to your workspace.
-seo-description: This menu enables you to add available visualizations to your workspace.
-seo-title: Using the workspace Window menu
 solution: Analytics
 title: Using the workspace Window menu
 topic: Data workbench

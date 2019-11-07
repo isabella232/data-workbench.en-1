@@ -1,7 +1,5 @@
 ---
 description: Decision trees are a predictive analytics visualization used to evaluate visitor characteristics and relationships. The Decision Tree Builder generates a decision tree visualization based on a specified positive case and a set of inputs.
-seo-description: Decision trees are a predictive analytics visualization used to evaluate visitor characteristics and relationships. The Decision Tree Builder generates a decision tree visualization based on a specified positive case and a set of inputs.
-seo-title: Decision Tree Builder
 solution: Analytics
 title: Decision Tree Builder
 topic: Data workbench

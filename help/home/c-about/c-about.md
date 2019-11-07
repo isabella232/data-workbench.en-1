@@ -1,7 +1,5 @@
 ---
 description: Metrics, dimensions, and filters provide a framework within which calculations are made about the data processed into a data workbench dataset.
-seo-description: Metrics, dimensions, and filters provide a framework within which calculations are made about the data processed into a data workbench dataset.
-seo-title: Data Workbench Metrics, Dimensions, and Filters
 solution: Analytics
 title: Data Workbench Metrics, Dimensions, and Filters
 topic: Data workbench

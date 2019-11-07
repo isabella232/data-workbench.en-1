@@ -1,7 +1,5 @@
 ---
 description: The DeviceAtlas JSON file will now be distributed in a .bundle file (a renamed .tar.gz) along with DeviceAtlas.dll and DeviceAtlas64.dll files.
-seo-description: The DeviceAtlas JSON file will now be distributed in a .bundle file (a renamed .tar.gz) along with DeviceAtlas.dll and DeviceAtlas64.dll files.
-seo-title: DeviceAtlas Distribution
 solution: Analytics
 title: DeviceAtlas Distribution
 topic: Data workbench

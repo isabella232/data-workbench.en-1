@@ -1,7 +1,5 @@
 ---
 description: Information about transformation functionality and the steps to configure the server to export data to external targets.
-seo-description: Information about transformation functionality and the steps to configure the server to export data to external targets.
-seo-title: Transform Functionality
 solution: Analytics
 title: Transform Functionality
 topic: Data workbench

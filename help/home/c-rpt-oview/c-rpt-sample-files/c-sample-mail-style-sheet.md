@@ -1,7 +1,5 @@
 ---
 description: Code sample of Mail XSL style sheet.
-seo-description: Code sample of Mail XSL style sheet.
-seo-title: Sample Mail XSL Style Sheet
 solution: Analytics
 title: Sample Mail XSL Style Sheet
 topic: Data workbench

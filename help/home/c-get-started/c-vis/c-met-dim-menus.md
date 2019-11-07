@@ -1,7 +1,5 @@
 ---
 description: The menus accessed by right-clicking the metric or dimension area within a visualization provide access to actions related to the metric or dimension in that visualization.
-seo-description: The menus accessed by right-clicking the metric or dimension area within a visualization provide access to actions related to the metric or dimension in that visualization.
-seo-title: Metric and dimension menus
 solution: Analytics
 title: Metric and dimension menus
 topic: Data workbench

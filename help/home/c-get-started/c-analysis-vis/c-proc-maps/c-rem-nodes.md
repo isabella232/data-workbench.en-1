@@ -1,7 +1,5 @@
 ---
 description: Information about removing a node from a process map.
-seo-description: Information about removing a node from a process map.
-seo-title: Remove a node
 solution: Analytics
 title: Remove a node
 topic: Data workbench

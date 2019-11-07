@@ -1,7 +1,5 @@
 ---
 description: You can customize existing workspaces by adding or modifying existing visualizations or creating new workspaces.
-seo-description: You can customize existing workspaces by adding or modifying existing visualizations or creating new workspaces.
-seo-title: Create a workspace
 solution: Analytics
 title: Create a workspace
 topic: Data workbench

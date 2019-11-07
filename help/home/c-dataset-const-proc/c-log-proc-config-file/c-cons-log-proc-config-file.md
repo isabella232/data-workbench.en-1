@@ -1,7 +1,5 @@
 ---
 description: Conceptual information to consider when editing the Log Processing.cfg file.
-seo-description: Conceptual information to consider when editing the Log Processing.cfg file.
-seo-title: Considerations for the Log Processing Configuration File
 solution: Analytics
 title: Considerations for the Log Processing Configuration File
 topic: Data workbench

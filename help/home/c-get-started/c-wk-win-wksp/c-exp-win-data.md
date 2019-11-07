@@ -1,7 +1,5 @@
 ---
 description: You can export the data in certain windows to an Excel file (.xls or .xlsx) or to a tab separated values file (.tsv).
-seo-description: You can export the data in certain windows to an Excel file (.xls or .xlsx) or to a tab separated values file (.tsv).
-seo-title: Export window data
 solution: Analytics
 title: Export window data
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: The dashboard product requires a license provided by Adobe ClientCare.
-seo-description: The dashboard product requires a license provided by Adobe ClientCare.
-seo-title: Add Dashboard License Key
 solution: Analytics
 title: Add Dashboard License Key
 topic: Data workbench

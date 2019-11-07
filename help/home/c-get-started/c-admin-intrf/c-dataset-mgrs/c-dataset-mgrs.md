@@ -1,7 +1,5 @@
 ---
 description: Information about dependency maps and field viewers.
-seo-description: Information about dependency maps and field viewers.
-seo-title: Dataset managers
 solution: Analytics
 title: Dataset managers
 topic: Data workbench

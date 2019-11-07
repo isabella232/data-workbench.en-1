@@ -1,7 +1,5 @@
 ---
 description: The Merge transformation takes the values from the input field (typically a vector of strings), combines them into a single string separated by the given delimiter, and places the resulting string in the given output field.
-seo-description: The Merge transformation takes the values from the input field (typically a vector of strings), combines them into a single string separated by the given delimiter, and places the resulting string in the given output field.
-seo-title: Merge
 solution: Analytics
 title: Merge
 topic: Data workbench

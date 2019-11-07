@@ -1,7 +1,5 @@
 ---
 description: Text or expressions can be entered into any cell of a worksheet.
-seo-description: Text or expressions can be entered into any cell of a worksheet.
-seo-title: Work with data in worksheets
 solution: Analytics
 title: Work with data in worksheets
 topic: Data workbench

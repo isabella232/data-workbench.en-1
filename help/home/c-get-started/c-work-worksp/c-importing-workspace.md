@@ -1,7 +1,5 @@
 ---
 description: You can import a workspace to your worktop.
-seo-description: You can import a workspace to your worktop.
-seo-title: Import a workspace
 solution: Analytics
 title: Import a workspace
 topic: Data workbench

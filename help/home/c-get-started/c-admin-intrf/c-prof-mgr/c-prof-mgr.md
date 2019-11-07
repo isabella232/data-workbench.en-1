@@ -1,7 +1,5 @@
 ---
 description: The Profile Manager is the main management tool in Data Workbench.
-seo-description: The Profile Manager is the main management tool in Data Workbench.
-seo-title: Profile Manager
 solution: Analytics
 title: Profile Manager
 topic: Data workbench

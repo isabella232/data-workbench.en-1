@@ -1,7 +1,5 @@
 ---
 description: Important information to consider when editing the Transformation.cfg file.
-seo-description: Important information to consider when editing the Transformation.cfg file.
-seo-title: Considerations for the Transformation Configuration File
 solution: Analytics
 title: Considerations for the Transformation Configuration File
 topic: Data workbench

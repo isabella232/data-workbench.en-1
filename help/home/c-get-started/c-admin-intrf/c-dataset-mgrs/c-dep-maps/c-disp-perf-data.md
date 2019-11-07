@@ -1,7 +1,5 @@
 ---
 description: Information about displaying performance data for a transformation or extended dimension.
-seo-description: Information about displaying performance data for a transformation or extended dimension.
-seo-title: Display performance data
 solution: Analytics
 title: Display performance data
 topic: Data workbench

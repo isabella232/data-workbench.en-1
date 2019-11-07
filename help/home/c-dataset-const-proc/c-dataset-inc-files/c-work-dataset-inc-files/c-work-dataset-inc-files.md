@@ -1,7 +1,5 @@
 ---
 description: Dataset include files provide a flexible way to configure your dataset.
-seo-description: Dataset include files provide a flexible way to configure your dataset.
-seo-title: Working with Dataset Include Files
 solution: Analytics
 title: Working with Dataset Include Files
 topic: Data workbench

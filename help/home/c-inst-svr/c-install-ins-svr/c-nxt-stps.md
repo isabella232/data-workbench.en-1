@@ -1,7 +1,5 @@
 ---
 description: Instructions to complete installation of your Adobe application.
-seo-description: Instructions to complete installation of your Adobe application.
-seo-title: Next Steps
 solution: Insight
 title: Next Steps
 uuid: 9707adc2-0618-4e94-baed-80b076d60f29

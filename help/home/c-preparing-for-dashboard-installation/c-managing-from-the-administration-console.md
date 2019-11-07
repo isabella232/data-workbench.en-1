@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Managing from the Administration Console
 solution: Analytics
 title: Managing from the Administration Console
 topic: Data workbench

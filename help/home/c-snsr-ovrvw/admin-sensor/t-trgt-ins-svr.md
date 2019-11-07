@@ -1,7 +1,5 @@
 ---
 description: To change the data workbench server with which a Sensor communicates (the target server), you must edit the txlogd.conf file on each of the web servers on which Sensor is installed.
-seo-description: To change the data workbench server with which a Sensor communicates (the target server), you must edit the txlogd.conf file on each of the web servers on which Sensor is installed.
-seo-title: Changing the Target Data Workbench Server
 solution: Insight
 title: Changing the Target Data Workbench Server
 uuid: 931d376d-8622-4858-8290-19ce91538570

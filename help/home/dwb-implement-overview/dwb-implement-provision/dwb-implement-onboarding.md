@@ -1,7 +1,5 @@
 ---
 description: Follow these steps to start the onboarding process for Adobe Data Workbench (DWB), a component of Adobe Analytics Premium (AAP).
-seo-description: Follow these steps to start the onboarding process for Adobe Data Workbench (DWB), a component of Adobe Analytics Premium (AAP).
-seo-title: Basic Onboarding Instructions for DWB Managed Services
 title: Basic Onboarding Instructions for DWB Managed Services
 uuid: ad44a4eb-00ea-49c7-8401-58976d8fe39e
 ---

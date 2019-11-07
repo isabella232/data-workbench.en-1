@@ -1,7 +1,5 @@
 ---
 description: If Insight cannot connect to the Insight Server(s) using the specified settings, a red node appears in the Servers Manager.
-seo-description: If Insight cannot connect to the Insight Server(s) using the specified settings, a red node appears in the Servers Manager.
-seo-title: Connection Troubleshooting
 title: Connection Troubleshooting
 uuid: 17190cee-da5c-449f-aca5-8e9e35e0a5fd
 ---

@@ -1,7 +1,5 @@
 ---
 description: When creating an element point layer using dynamic points, the latitude and longitude data is embedded in each element of the dimension.
-seo-description: When creating an element point layer using dynamic points, the latitude and longitude data is embedded in each element of the dimension.
-seo-title: Define element point layers using dynamic points
 solution: Analytics
 title: Define element point layers using dynamic points
 topic: Data workbench

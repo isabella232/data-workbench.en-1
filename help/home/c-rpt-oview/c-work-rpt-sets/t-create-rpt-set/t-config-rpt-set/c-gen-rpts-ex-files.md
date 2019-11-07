@@ -1,7 +1,5 @@
 ---
 description: Information to generate reports as Excel files.
-seo-description: Information to generate reports as Excel files.
-seo-title: Generating Reports as Microsoft Excel Files
 solution: Analytics
 title: Generating Reports as Microsoft Excel Files
 topic: Data workbench

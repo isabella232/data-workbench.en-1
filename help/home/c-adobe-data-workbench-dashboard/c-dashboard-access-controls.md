@@ -1,7 +1,5 @@
 ---
 description: Dashboards can have two levels of visibility  Private and Shared.
-seo-description: Dashboards can have two levels of visibility  Private and Shared.
-seo-title: Dashboard Access Controls
 solution: Analytics
 title: Dashboard Access Controls
 topic: Data workbench

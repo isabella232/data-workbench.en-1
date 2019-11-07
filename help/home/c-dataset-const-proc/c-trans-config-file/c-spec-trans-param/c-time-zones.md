@@ -1,7 +1,5 @@
 ---
 description: The Time Zone parameter in the Transformation.cfg file controls time dimensions, time conversions (for example, defining the x-local-timestring field), and formatting of all local times in the dataset profile.
-seo-description: The Time Zone parameter in the Transformation.cfg file controls time dimensions, time conversions (for example, defining the x-local-timestring field), and formatting of all local times in the dataset profile.
-seo-title: Time Zones
 solution: Analytics
 title: Time Zones
 topic: Data workbench

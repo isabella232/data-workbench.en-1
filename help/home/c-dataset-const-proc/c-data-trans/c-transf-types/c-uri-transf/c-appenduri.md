@@ -1,7 +1,5 @@
 ---
 description: The AppendURI transformation provides a way to add information to the default value that comes from the log entries used to build the dataset.
-seo-description: The AppendURI transformation provides a way to add information to the default value that comes from the log entries used to build the dataset.
-seo-title: AppendURI
 solution: Analytics
 title: AppendURI
 topic: Data workbench

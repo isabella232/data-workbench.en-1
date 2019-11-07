@@ -1,7 +1,5 @@
 ---
 description: Steps to editing a .filter file manually.
-seo-description: Steps to editing a .filter file manually.
-seo-title: Edit filter files manually
 solution: Analytics
 title: Edit filter files manually
 topic: Data workbench

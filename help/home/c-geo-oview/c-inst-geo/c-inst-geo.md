@@ -1,7 +1,5 @@
 ---
 description: This chapter provides the steps to install data workbenchGeography on a data workbench server.
-seo-description: This chapter provides the steps to install data workbenchGeography on a data workbench server.
-seo-title: Installing Data Workbench Geography
 solution: Analytics
 title: Installing Data Workbench Geography
 topic: Data workbench

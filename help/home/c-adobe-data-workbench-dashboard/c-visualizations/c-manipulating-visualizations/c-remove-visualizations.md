@@ -1,7 +1,5 @@
 ---
 description: You can remove a visualization from the dashboard canvas at any point.
-seo-description: You can remove a visualization from the dashboard canvas at any point.
-seo-title: Removing Visualizations
 solution: Analytics
 title: Removing Visualizations
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: The processing of XML files as log sources to define decoders for extracting data from the XML file.
-seo-description: The processing of XML files as log sources to define decoders for extracting data from the XML file.
-seo-title: XML Decoder Groups
 solution: Analytics
 title: XML Decoder Groups
 topic: Data workbench

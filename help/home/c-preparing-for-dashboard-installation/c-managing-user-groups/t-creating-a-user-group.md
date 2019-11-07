@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Creating a User Group
 solution: Analytics
 title: Creating a User Group
 topic: Data workbench

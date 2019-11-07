@@ -1,7 +1,5 @@
 ---
 description: Locks/unlocks the current visualization.
-seo-description: Locks/unlocks the current visualization.
-seo-title: Locking and Unlocking Visualizations
 solution: Analytics
 title: Locking and Unlocking Visualizations
 topic: Data workbench

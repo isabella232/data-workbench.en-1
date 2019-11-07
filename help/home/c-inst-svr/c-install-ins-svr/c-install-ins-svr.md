@@ -1,7 +1,5 @@
 ---
 description: Insight Server is licensed per server computer.
-seo-description: Insight Server is licensed per server computer.
-seo-title: Installing Data Workbench Servers
 solution: Insight
 title: Installing Data Workbench Servers
 uuid: d6a64a6e-a463-4980-b836-45017fab6e7e

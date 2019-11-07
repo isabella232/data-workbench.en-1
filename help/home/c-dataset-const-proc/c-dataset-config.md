@@ -1,7 +1,5 @@
 ---
 description: Dataset configuration refers to the process of editing the configuration files whose parameters provide the rules for dataset construction.
-seo-description: Dataset configuration refers to the process of editing the configuration files whose parameters provide the rules for dataset construction.
-seo-title: Understanding Dataset Configuration
 solution: Analytics
 title: Understanding Dataset Configuration
 topic: Data workbench

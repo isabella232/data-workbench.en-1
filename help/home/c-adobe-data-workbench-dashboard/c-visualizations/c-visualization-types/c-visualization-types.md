@@ -1,7 +1,5 @@
 ---
 description: Introduces the eight different visualization types.
-seo-description: Introduces the eight different visualization types.
-seo-title: Visualization Types
 solution: Analytics
 title: Visualization Types
 topic: Data workbench

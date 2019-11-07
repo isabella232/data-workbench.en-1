@@ -1,7 +1,5 @@
 ---
 description: You can open a field viewer as a callout from a dependency map or as a standalone visualization from the Admin menu.
-seo-description: You can open a field viewer as a callout from a dependency map or as a standalone visualization from the Admin menu.
-seo-title: Create a field viewer
 solution: Analytics
 title: Create a field viewer
 topic: Data workbench

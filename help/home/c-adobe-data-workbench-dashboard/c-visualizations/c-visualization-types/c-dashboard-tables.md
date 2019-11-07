@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Tables
 solution: Analytics
 title: Tables
 topic: Data workbench

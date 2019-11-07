@@ -1,7 +1,5 @@
 ---
 description: Steps to create a new report set.
-seo-description: Steps to create a new report set.
-seo-title: Creating a Report Set
 solution: Analytics
 title: Creating a Report Set
 topic: Data workbench

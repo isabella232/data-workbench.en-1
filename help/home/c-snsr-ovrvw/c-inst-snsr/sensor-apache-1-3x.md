@@ -1,7 +1,5 @@
 ---
 description: Detailed instructions for installing and configuring Sensor for an Apache Server 1.3.x on RedHat Linux 7.x or later, SUSE Linux 9.x or later, Sun Solaris SPARC 2.6 or later, Sun Solaris x86 9 or later, FreeBSD 4 or later, or Mac OS X PowerPC.
-seo-description: Detailed instructions for installing and configuring Sensor for an Apache Server 1.3.x on RedHat Linux 7.x or later, SUSE Linux 9.x or later, Sun Solaris SPARC 2.6 or later, Sun Solaris x86 9 or later, FreeBSD 4 or later, or Mac OS X PowerPC.
-seo-title: Apache Server 1.3.x on Linux, Sun Solaris, FreeBSD, or Mac OS X
 title: Apache Server 1.3.x on Linux, Sun Solaris, FreeBSD, or Mac OS X
 uuid: bd46dd0f-fe36-4f8b-a87c-8ca7b64da609
 ---

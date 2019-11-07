@@ -1,7 +1,5 @@
 ---
 description: The folder and file names included in your implementation are displayed on the left side of the Profile Manager.
-seo-description: The folder and file names included in your implementation are displayed on the left side of the Profile Manager.
-seo-title: Profile Manager
 solution: Analytics
 title: Profile Manager
 topic: Data workbench

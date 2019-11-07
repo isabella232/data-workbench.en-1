@@ -1,7 +1,5 @@
 ---
 description: Information about web-specific settings that are defined in Log Processing Dataset Include files that are delivered with Adobe profiles for Site.
-seo-description: Information about web-specific settings that are defined in Log Processing Dataset Include files that are delivered with Adobe profiles for Site.
-seo-title: Web-Specific Settings for Log Processing
 solution: Analytics
 title: Web-Specific Settings for Log Processing
 topic: Data workbench

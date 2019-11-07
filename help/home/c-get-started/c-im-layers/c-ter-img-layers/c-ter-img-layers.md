@@ -1,7 +1,5 @@
 ---
 description: A terrain image layer displays terrain imagery of the Earth.
-seo-description: A terrain image layer displays terrain imagery of the Earth.
-seo-title: Terrain image layers
 solution: Analytics
 title: Terrain image layers
 topic: Data workbench

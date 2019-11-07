@@ -1,7 +1,5 @@
 ---
 description: Information about working with the Data Workbench server either offline or online.
-seo-description: Information about working with the Data Workbench server either offline or online.
-seo-title: Working offline and online
 solution: Analytics
 title: Working offline and online
 topic: Data workbench

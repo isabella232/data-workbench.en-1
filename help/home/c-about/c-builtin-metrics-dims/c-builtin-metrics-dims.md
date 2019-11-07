@@ -1,7 +1,5 @@
 ---
 description: This section provides detailed information about the built-in metrics, dimensions, and filters provided in data workbench.
-seo-description: This section provides detailed information about the built-in metrics, dimensions, and filters provided in data workbench.
-seo-title: About Built-in Metrics, Dimensions, and Filters
 solution: Analytics
 title: About Built-in Metrics, Dimensions, and Filters
 topic: Data workbench

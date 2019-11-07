@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Data Workbench Help
 solution: Analytics
 title: Data Workbench Help
 topic: Reports and analytics

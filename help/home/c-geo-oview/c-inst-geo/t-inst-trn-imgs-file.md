@@ -1,7 +1,5 @@
 ---
 description: Steps to install the Terrain Images.cfg file on the data workbench server.
-seo-description: Steps to install the Terrain Images.cfg file on the data workbench server.
-seo-title: Installing the Terrain Images.cfg File
 solution: Analytics
 title: Installing the Terrain Images.cfg File
 topic: Data workbench

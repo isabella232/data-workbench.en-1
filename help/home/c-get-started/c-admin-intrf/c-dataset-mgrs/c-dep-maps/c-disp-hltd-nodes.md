@@ -1,7 +1,5 @@
 ---
 description: Information about displaying highlighted nodes in another dependency map.
-seo-description: Information about displaying highlighted nodes in another dependency map.
-seo-title: Display a highlighted node
 solution: Analytics
 title: Display a highlighted node
 topic: Data workbench

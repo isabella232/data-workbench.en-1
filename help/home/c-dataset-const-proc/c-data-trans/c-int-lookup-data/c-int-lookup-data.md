@@ -1,7 +1,5 @@
 ---
 description: Data workbench provides a set of transformations that enables the data workbench server to incorporate lookup data into the dataset.
-seo-description: Data workbench provides a set of transformations that enables the data workbench server to incorporate lookup data into the dataset.
-seo-title: Integrating Lookup Data
 solution: Analytics
 title: Integrating Lookup Data
 topic: Data workbench

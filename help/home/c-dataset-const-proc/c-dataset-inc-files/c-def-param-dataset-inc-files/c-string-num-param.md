@@ -1,7 +1,5 @@
 ---
 description: String and numeric parameters take as their values strings and numbers, respectively.
-seo-description: String and numeric parameters take as their values strings and numbers, respectively.
-seo-title: String and Numeric Parameters
 solution: Analytics
 title: String and Numeric Parameters
 topic: Data workbench

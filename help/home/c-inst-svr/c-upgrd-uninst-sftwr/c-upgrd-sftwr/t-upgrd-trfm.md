@@ -1,7 +1,5 @@
 ---
 description: Steps to upgrade the Transform folder.
-seo-description: Steps to upgrade the Transform folder.
-seo-title: Upgrading Transform
 solution: Insight
 title: Upgrading Transform
 uuid: 26e567bc-7571-4317-b77c-2631a163a4b5

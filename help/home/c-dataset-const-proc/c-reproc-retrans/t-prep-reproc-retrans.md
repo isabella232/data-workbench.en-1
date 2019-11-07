@@ -1,7 +1,5 @@
 ---
 description: Steps to ensure that reprocessing or retransformation goes smoothly and finishes in time for data workbench users to get back to work
-seo-description: Steps to ensure that reprocessing or retransformation goes smoothly and finishes in time for data workbench users to get back to work
-seo-title: Preparing for Reprocessing or Retransformation
 solution: Analytics
 title: Preparing for Reprocessing or Retransformation
 topic: Data workbench

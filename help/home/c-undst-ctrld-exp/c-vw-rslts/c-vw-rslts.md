@@ -1,7 +1,5 @@
 ---
 description: You can view the results of an experiment in a visualization within Insight.
-seo-description: You can view the results of an experiment in a visualization within Insight.
-seo-title: Viewing the Results
 solution: Insight,Analytics
 title: Viewing the Results
 topic: Data workbench

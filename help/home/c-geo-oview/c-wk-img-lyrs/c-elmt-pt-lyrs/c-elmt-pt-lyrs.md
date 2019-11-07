@@ -1,7 +1,5 @@
 ---
 description: In data workbench, an element point layer displays one point on the globe for each element of a dimension.
-seo-description: In data workbench, an element point layer displays one point on the globe for each element of a dimension.
-seo-title: Working with Element Point Layers
 solution: Analytics
 title: Working with Element Point Layers
 topic: Data workbench

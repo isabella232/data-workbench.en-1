@@ -1,7 +1,5 @@
 ---
 description: Marketing your website may involve the placement of advertisements in the form of image or other rich media files (served from your web server) on third-party websites.
-seo-description: Marketing your website may involve the placement of advertisements in the form of image or other rich media files (served from your web server) on third-party websites.
-seo-title: Measuring Advertisement Impression
 solution: Analytics
 title: Measuring Advertisement Impression
 topic: Data workbench

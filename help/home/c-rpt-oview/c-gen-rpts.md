@@ -1,7 +1,5 @@
 ---
 description: Generate reports by processing workspaces and specifying them as reports.
-seo-description: Generate reports by processing workspaces and specifying them as reports.
-seo-title: Generating Reports
 solution: Analytics
 title: Generating Reports
 topic: Data workbench

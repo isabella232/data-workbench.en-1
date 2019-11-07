@@ -1,7 +1,5 @@
 ---
 description: Steps to download and install the digital certificate.
-seo-description: Steps to download and install the digital certificate.
-seo-title: Digital Certificate Installation Procedures
 solution: Analytics
 title: Digital Certificate Installation Procedures
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: The statistical calculations for Propensity Scoring are defined.
-seo-description: The statistical calculations for Propensity Scoring are defined.
-seo-title: Calculating Propensity Scoring
 solution: Analytics
 title: Calculating Propensity Scoring
 topic: Data workbench

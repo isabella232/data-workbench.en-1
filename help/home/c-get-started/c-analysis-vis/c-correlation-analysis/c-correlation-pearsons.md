@@ -1,7 +1,5 @@
 ---
 description: The Pearson Correlation Coefficient is used in the Correlation Matrix as the algorithm to display the strength of the linear dependence between two variables.
-seo-description: The Pearson Correlation Coefficient is used in the Correlation Matrix as the algorithm to display the strength of the linear dependence between two variables.
-seo-title: About the Pearson Correlation Coefficient
 solution: Analytics
 title: About the Pearson Correlation Coefficient
 topic: Data workbench

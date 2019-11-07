@@ -1,7 +1,5 @@
 ---
 description: This document describes the profiles with their fields, dimensions, and metrics employed by the data workbench Monitoring Profile.
-seo-description: This document describes the profiles with their fields, dimensions, and metrics employed by the data workbench Monitoring Profile.
-seo-title: Data Workbench Profile Dimensions and Metrics
 solution: Analytics
 title: Data Workbench Profile Dimensions and Metrics
 topic: Data workbench

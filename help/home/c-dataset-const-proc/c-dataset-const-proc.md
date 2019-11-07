@@ -1,7 +1,5 @@
 ---
 description: Overview of the dataset construction process and the dataset configuration files that control the processing phases.
-seo-description: Overview of the dataset construction process and the dataset configuration files that control the processing phases.
-seo-title: Dataset Configuration
 solution: Analytics
 title: Dataset Configuration
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Capturing activity across third-party website links to enable Exit Target analysis.
-seo-description: Capturing activity across third-party website links to enable Exit Target analysis.
-seo-title: Tracking Exits to External Links
 solution: Analytics
 title: Tracking Exits to External Links
 topic: Data workbench

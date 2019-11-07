@@ -1,7 +1,5 @@
 ---
 description: You can bookmark significant workspaces to quickly move between visualizations and reports employed in your workflow.
-seo-description: You can bookmark significant workspaces to quickly move between visualizations and reports employed in your workflow.
-seo-title: Add a bookmarks
 solution: Analytics
 title: Add a bookmarks
 topic: Data workbench

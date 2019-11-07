@@ -1,7 +1,5 @@
 ---
 description: The Union transformation takes a set of inputs and creates a vector of strings as the output.
-seo-description: The Union transformation takes a set of inputs and creates a vector of strings as the output.
-seo-title: Union
 solution: Analytics
 title: Union
 topic: Data workbench

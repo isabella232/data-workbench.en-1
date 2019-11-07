@@ -1,7 +1,5 @@
 ---
 description: Instructions about how to install and configure Sensor for Lotus Sametime for Windows 3.1 or later running under Microsoft Windows Server 2000 or later.
-seo-description: Instructions about how to install and configure Sensor for Lotus Sametime for Windows 3.1 or later running under Microsoft Windows Server 2000 or later.
-seo-title: Lotus Sametime on Windows Server 2000 or Later
 title: Lotus Sametime on Windows Server 2000 or Later
 uuid: 5e24da54-7ef6-42cf-b693-cc4fd267af93
 ---

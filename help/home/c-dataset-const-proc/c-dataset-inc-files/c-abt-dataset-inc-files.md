@@ -1,7 +1,5 @@
 ---
 description: Many of the internal profiles that you received with your Adobe application come with their own dataset configuration files.
-seo-description: Many of the internal profiles that you received with your Adobe application come with their own dataset configuration files.
-seo-title: About Dataset Include Files
 solution: Analytics
 title: About Dataset Include Files
 topic: Data workbench

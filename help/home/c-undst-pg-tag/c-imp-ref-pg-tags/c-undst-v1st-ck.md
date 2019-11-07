@@ -1,7 +1,5 @@
 ---
 description: Site uses cookies to uniquely identify visitors to your website and track their behavior over time.
-seo-description: Site uses cookies to uniquely identify visitors to your website and track their behavior over time.
-seo-title: Understanding the v1st Cookie
 solution: Analytics
 title: Understanding the v1st Cookie
 topic: Data workbench

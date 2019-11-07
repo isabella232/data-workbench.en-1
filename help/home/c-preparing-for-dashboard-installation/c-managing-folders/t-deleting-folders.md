@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Deleting Folders
 solution: Analytics
 title: Deleting Folders
 topic: Data workbench

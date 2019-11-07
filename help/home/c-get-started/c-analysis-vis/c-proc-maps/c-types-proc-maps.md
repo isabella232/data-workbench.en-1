@@ -1,7 +1,5 @@
 ---
 description: Information about the different types of process maps.
-seo-description: Information about the different types of process maps.
-seo-title: Types of process maps
 solution: Analytics
 title: Types of process maps
 topic: Data workbench

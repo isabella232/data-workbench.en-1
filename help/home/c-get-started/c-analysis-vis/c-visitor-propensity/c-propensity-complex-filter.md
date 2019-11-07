@@ -1,7 +1,5 @@
 ---
 description: You can add a Show Complex Filter Description for Dependent Variables and for the Training Filter.
-seo-description: You can add a Show Complex Filter Description for Dependent Variables and for the Training Filter.
-seo-title: Complex Filter Description
 solution: Analytics
 title: Complex Filter Description
 topic: Data workbench

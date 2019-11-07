@@ -1,7 +1,5 @@
 ---
 description: You can display the paths between nodes in a process map in color.
-seo-description: You can display the paths between nodes in a process map in color.
-seo-title: Activate a color link
 solution: Analytics
 title: Activate a color link
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: When you make a selection on a globe from a particular layer, all of the other layers show data related to the selected data only.
-seo-description: When you make a selection on a globe from a particular layer, all of the other layers show data related to the selected data only.
-seo-title: Make selections on a globe
 solution: Analytics
 title: Make selections on a globe
 topic: Data workbench

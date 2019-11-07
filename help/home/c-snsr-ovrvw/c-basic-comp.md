@@ -1,7 +1,5 @@
 ---
 description: Sensor consists of three main components  Data Collector, Disk Queue, and Data Transmitter.
-seo-description: Sensor consists of three main components  Data Collector, Disk Queue, and Data Transmitter.
-seo-title: What are Basic Components
 title: What are Basic Components
 uuid: 32e6e8d9-90ee-4db1-8883-dbdf245df26f
 ---

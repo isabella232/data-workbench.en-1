@@ -1,7 +1,5 @@
 ---
 description: This section is a quick guide giving you the minimum steps required to set up and schedule scripts to weekly reprocess your log files. This can be used as reference guide to set up or modify your profiles.
-seo-description: This section is a quick guide giving you the minimum steps required to set up and schedule scripts to weekly reprocess your log files. This can be used as reference guide to set up or modify your profiles.
-seo-title: Scripting to Weekly Reprocess
 title: Scripting to Weekly Reprocess
 uuid: d3cd163d-6129-4883-ac7c-b2f75b5eb247
 ---

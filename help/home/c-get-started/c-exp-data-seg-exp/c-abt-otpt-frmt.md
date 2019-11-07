@@ -1,7 +1,5 @@
 ---
 description: Guidelines for specifying the output format.
-seo-description: Guidelines for specifying the output format.
-seo-title: Output format
 solution: Analytics
 title: Output format
 topic: Data workbench

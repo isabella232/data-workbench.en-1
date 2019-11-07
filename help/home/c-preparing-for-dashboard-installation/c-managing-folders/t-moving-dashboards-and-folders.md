@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Moving Dashboards and Folders
 solution: Analytics
 title: Moving Dashboards and Folders
 topic: Data workbench

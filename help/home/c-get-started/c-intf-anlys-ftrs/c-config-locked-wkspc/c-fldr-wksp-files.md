@@ -1,7 +1,5 @@
 ---
 description: Within the Workspaces folder of your Data Workbench installation directory, a folder.lock file specifies whether the workspaces in that particular folder are locked, while a workspace name.lock file specifies whether a particular workspace is locked.
-seo-description: Within the Workspaces folder of your Data Workbench installation directory, a folder.lock file specifies whether the workspaces in that particular folder are locked, while a workspace name.lock file specifies whether a particular workspace is locked.
-seo-title: Folder.lock and workspace.lock files
 solution: Analytics
 title: Folder.lock and workspace.lock files
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Test results must be clear and meaningful so that you can feel confident making large dollar decisions based on those results.
-seo-description: Test results must be clear and meaningful so that you can feel confident making large dollar decisions based on those results.
-seo-title: What Should I Test?
 solution: Insight,Analytics
 title: What Should I Test?
 topic: Data workbench

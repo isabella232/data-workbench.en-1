@@ -1,7 +1,5 @@
 ---
 description: You can create multiple workspaces for a single report set directly in the Worktop.
-seo-description: You can create multiple workspaces for a single report set directly in the Worktop.
-seo-title: Create the Report Server Workspaces
 solution: Analytics
 title: Create the Report Server Workspaces
 topic: Data workbench

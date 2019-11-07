@@ -1,7 +1,5 @@
 ---
 description: The final step in creating a report set is to publish the newly created report set to the data workbench server machine.
-seo-description: The final step in creating a report set is to publish the newly created report set to the data workbench server machine.
-seo-title: Publish the Report Set to the Data Workbench Server
 solution: Analytics
 title: Publish the Report Set to the Data Workbench Server
 topic: Data workbench

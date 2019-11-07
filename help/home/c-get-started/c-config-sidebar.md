@@ -1,7 +1,5 @@
 ---
 description: The sidebar provides access to regularly-used functions and preserves visualizations as you move between Workspaces.
-seo-description: The sidebar provides access to regularly-used functions and preserves visualizations as you move between Workspaces.
-seo-title: Configure the sidebar
 solution: Analytics
 title: Configure the sidebar
 topic: Data workbench

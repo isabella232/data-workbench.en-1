@@ -1,7 +1,5 @@
 ---
 description: If you want to use the same segment information again, you can save the segment visualization, the workspace containing the segment visualization, or save the segments themselves as a dimension.
-seo-description: If you want to use the same segment information again, you can save the segment visualization, the workspace containing the segment visualization, or save the segments themselves as a dimension.
-seo-title: Reusing a segment visualization
 solution: Analytics
 title: Reusing a segment visualization
 topic: Data workbench

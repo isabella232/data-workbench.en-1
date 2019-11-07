@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Removing a User Group
 solution: Analytics
 title: Removing a User Group
 topic: Data workbench

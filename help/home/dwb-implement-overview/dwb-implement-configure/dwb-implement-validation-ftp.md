@@ -1,7 +1,5 @@
 ---
 description: This is a quick guide giving you the minimum steps required to validate Internal and External FTP setup.
-seo-description: This is a quick guide giving you the minimum steps required to validate Internal and External FTP setup.
-seo-title: Validation of Internal and External FTP Servers
 title: Validation of Internal and External FTP Servers
 uuid: bc381c1d-df27-4009-920b-1a804b36c204
 ---

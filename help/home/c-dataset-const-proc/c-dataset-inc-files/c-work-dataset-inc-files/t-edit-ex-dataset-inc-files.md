@@ -1,7 +1,5 @@
 ---
 description: Steps to editing existing dataset include files.
-seo-description: Steps to editing existing dataset include files.
-seo-title: Editing Existing Dataset Include Files
 solution: Analytics
 title: Editing Existing Dataset Include Files
 topic: Data workbench

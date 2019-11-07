@@ -1,7 +1,5 @@
 ---
 description: Before you can generate reports and alerts, you must configure Report Server to specify the address of the Insight server and identify the profiles that you want it to report against.
-seo-description: Before you can generate reports and alerts, you must configure Report Server to specify the address of the Insight server and identify the profiles that you want it to report against.
-seo-title: Configuring the Connection to the Insight Server
 solution: Analytics
 title: Configuring the Connection to the Insight Server
 topic: Data workbench

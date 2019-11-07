@@ -1,7 +1,5 @@
 ---
 description: Report Portal is made up of a set of application server pages (ASPs) and supporting files.
-seo-description: Report Portal is made up of a set of application server pages (ASPs) and supporting files.
-seo-title: Install the Report Portal Application Files
 solution: Analytics
 title: Install the Report Portal Application Files
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: The Hash transformation creates a nearly unique string representing a 64-bit number from the input values.
-seo-description: The Hash transformation creates a nearly unique string representing a 64-bit number from the input values.
-seo-title: Hash
 solution: Analytics
 title: Hash
 topic: Data workbench

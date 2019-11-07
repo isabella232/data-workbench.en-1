@@ -1,7 +1,5 @@
 ---
 description: Evaluate a Decision Tree using the Regression Tree option with new sampling and visualization features.
-seo-description: Evaluate a Decision Tree using the Regression Tree option with new sampling and visualization features.
-seo-title: Regression tree option for decision tree
 title: Regression tree option for decision tree
 uuid: 1e3b5d5f-1fed-49c9-9a4d-d220c28075ac
 ---

@@ -1,7 +1,5 @@
 ---
 description: A typical configuration of Site uses cookies to uniquely identify visitors to your website and track their behavior over time.
-seo-description: A typical configuration of Site uses cookies to uniquely identify visitors to your website and track their behavior over time.
-seo-title: How Does Site Identify Visitors?
 solution: Insight,Analytics
 title: How Does Site Identify Visitors?
 topic: Data workbench

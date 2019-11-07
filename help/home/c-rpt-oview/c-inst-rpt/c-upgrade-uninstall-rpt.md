@@ -1,7 +1,5 @@
 ---
 description: Information about upgrading and uninstalling your Report Server software.
-seo-description: Information about upgrading and uninstalling your Report Server software.
-seo-title: Upgrading and Uninstalling Report Server
 solution: Analytics
 title: Upgrading and Uninstalling Report Server
 topic: Data workbench

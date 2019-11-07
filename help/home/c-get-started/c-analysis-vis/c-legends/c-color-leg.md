@@ -1,7 +1,5 @@
 ---
 description: Color legends color-code visualizations by metrics such as Conversion and Retention and can be used in almost every workspace.
-seo-description: Color legends color-code visualizations by metrics such as Conversion and Retention and can be used in almost every workspace.
-seo-title: Color legends
 solution: Analytics
 title: Color legends
 topic: Data workbench

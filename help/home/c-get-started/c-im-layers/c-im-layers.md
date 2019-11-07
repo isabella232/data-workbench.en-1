@@ -1,7 +1,5 @@
 ---
 description: Information about creating and implementing layers.
-seo-description: Information about creating and implementing layers.
-seo-title: Imagery layers
 solution: Analytics
 title: Imagery layers
 topic: Data workbench

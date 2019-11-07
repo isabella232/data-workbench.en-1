@@ -1,7 +1,5 @@
 ---
 description: Conceptual Information about the Geography profile layers, types of imagery layers, and creating new layers.
-seo-description: Conceptual Information about the Geography profile layers, types of imagery layers, and creating new layers.
-seo-title: Understanding Imagery Layers
 solution: Analytics
 title: Understanding Imagery Layers
 topic: Data workbench

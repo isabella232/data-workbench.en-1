@@ -1,7 +1,5 @@
 ---
 description: Information about opening visualizations.
-seo-description: Information about opening visualizations.
-seo-title: Opening visualizations
 solution: Analytics
 title: Opening visualizations
 topic: Data workbench

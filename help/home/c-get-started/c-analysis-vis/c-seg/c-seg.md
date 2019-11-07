@@ -1,7 +1,5 @@
 ---
 description: Segments enable you to build dimensions on-the-fly from your selections.
-seo-description: Segments enable you to build dimensions on-the-fly from your selections.
-seo-title: Segments
 solution: Analytics
 title: Segments
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: You can choose to view more elements in the path.
-seo-description: You can choose to view more elements in the path.
-seo-title: View more elements in paths
 solution: Analytics
 title: View more elements in paths
 topic: Data workbench

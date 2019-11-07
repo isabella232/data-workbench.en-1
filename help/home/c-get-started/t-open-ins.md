@@ -1,7 +1,5 @@
 ---
 description: After Data Workbench has been installed and is connected to the server, you can use it to analyze your processed data.
-seo-description: After Data Workbench has been installed and is connected to the server, you can use it to analyze your processed data.
-seo-title: Opening Data Workbench
 solution: Analytics
 title: Opening Data Workbench
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Managing User Groups
 solution: Analytics
 title: Managing User Groups
 topic: Data workbench

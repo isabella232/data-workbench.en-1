@@ -1,7 +1,5 @@
 ---
 description: Information about dataset include files and how their parameters affect the log processing and transformation phases of the dataset construction process.
-seo-description: Information about dataset include files and how their parameters affect the log processing and transformation phases of the dataset construction process.
-seo-title: Dataset Include Files
 solution: Analytics
 title: Dataset Include Files
 topic: Data workbench

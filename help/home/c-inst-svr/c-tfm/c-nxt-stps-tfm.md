@@ -1,7 +1,5 @@
 ---
 description: After you have set up Transform, you must configure it to export log source data for use by other applications.
-seo-description: After you have set up Transform, you must configure it to export log source data for use by other applications.
-seo-title: Next Steps
 solution: Insight
 title: Next Steps
 uuid: 359f24da-6367-4992-9153-66d872ed6b21

@@ -1,7 +1,5 @@
 ---
 description: An Insight Server cluster is required when the amount of data you want to process and make accessible to your users of Insight and Report exceeds the capacity of a single Insight Server.
-seo-description: An Insight Server cluster is required when the amount of data you want to process and make accessible to your users of Insight and Report exceeds the capacity of a single Insight Server.
-seo-title: About Insight Server Clusters
 solution: Insight
 title: About Insight Server Clusters
 uuid: d65e0fe5-f87d-4d8e-a208-9192e9d62fb5

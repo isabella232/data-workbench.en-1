@@ -1,7 +1,5 @@
 ---
 description: Information about Report Server.cfg parameters.
-seo-description: Information about Report Server.cfg parameters.
-seo-title: Report Server.cfg Parameters
 solution: Analytics
 title: Report Server.cfg Parameters
 topic: Data workbench

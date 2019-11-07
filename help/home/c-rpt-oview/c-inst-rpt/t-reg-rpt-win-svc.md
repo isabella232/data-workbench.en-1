@@ -1,7 +1,5 @@
 ---
 description: Steps to register and run Report Server.
-seo-description: Steps to register and run Report Server.
-seo-title: Registering Report Server as a Windows Service
 solution: Analytics
 title: Registering Report Server as a Windows Service
 topic: Data workbench

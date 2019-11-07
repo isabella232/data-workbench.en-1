@@ -1,7 +1,5 @@
 ---
 description: How to create an input cell.
-seo-description: How to create an input cell.
-seo-title: Create an input cell
 solution: Analytics
 title: Create an input cell
 topic: Data workbench

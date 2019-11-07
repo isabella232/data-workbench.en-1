@@ -1,7 +1,5 @@
 ---
 description: Data Workbench 6.2 includes new user interface updates to the bookmarks panel, new icons in the workspace toolbar, the ability to drag the workspace within a screen, new quick keys, and updates to the pie chart visualization.
-seo-description: Data Workbench 6.2 includes new user interface updates to the bookmarks panel, new icons in the workspace toolbar, the ability to drag the workspace within a screen, new quick keys, and updates to the pie chart visualization.
-seo-title: Data Workbench Client UI Updates
 title: Data Workbench Client UI Updates
 uuid: 1bc18c90-8b46-4c90-b7a7-2c6710e1e28c
 ---

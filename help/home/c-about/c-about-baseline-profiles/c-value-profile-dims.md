@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Value Profile Dimensions
 solution: Analytics
 title: Value Profile Dimensions
 topic: Data workbench

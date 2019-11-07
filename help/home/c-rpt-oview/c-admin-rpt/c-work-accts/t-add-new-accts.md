@@ -1,7 +1,5 @@
 ---
 description: Steps to add new accounts.
-seo-description: Steps to add new accounts.
-seo-title: Adding New Accounts
 solution: Analytics
 title: Adding New Accounts
 topic: Data workbench

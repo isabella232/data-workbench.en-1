@@ -1,7 +1,5 @@
 ---
 description: Conceptual information about the parameters used in Report Server configuration files.
-seo-description: Conceptual information about the parameters used in Report Server configuration files.
-seo-title: Report Server Parameters Reference
 solution: Analytics
 title: Report Server Parameters Reference
 topic: Data workbench

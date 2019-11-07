@@ -1,7 +1,5 @@
 ---
 description: The following dimensions are available for use in the data workbench Profile Status profile.
-seo-description: The following dimensions are available for use in the data workbench Profile Status profile.
-seo-title: Dimensions in the Data Workbench Profile Status profile
 solution: Analytics
 title: Dimensions in the Data Workbench Profile Status profile
 topic: Data workbench

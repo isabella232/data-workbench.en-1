@@ -1,7 +1,5 @@
 ---
 description: Instructions for installing and configuring Sensor for Apache Server 1.3, Apache Server 2.0.42 or later, or Apache Server 2.2 running under Microsoft Windows Server 2000 or later.
-seo-description: Instructions for installing and configuring Sensor for Apache Server 1.3, Apache Server 2.0.42 or later, or Apache Server 2.2 running under Microsoft Windows Server 2000 or later.
-seo-title: Apache Server 1.3, 2, 2.2, or 2.4 on Windows Server 2000 or Later
 title: Apache Server 1.3, 2, 2.2, or 2.4 on Windows Server 2000 or Later
 uuid: e159ed83-6004-4f65-a3b7-502cac1d0862
 ---

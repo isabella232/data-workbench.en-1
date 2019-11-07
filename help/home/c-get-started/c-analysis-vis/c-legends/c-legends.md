@@ -1,7 +1,5 @@
 ---
 description: Legends provide explanatory details about the visualizations displayed within a workspace, enabling you to more fully explore the data represented in your visualizations.
-seo-description: Legends provide explanatory details about the visualizations displayed within a workspace, enabling you to more fully explore the data represented in your visualizations.
-seo-title: Legends
 solution: Analytics
 title: Legends
 topic: Data workbench

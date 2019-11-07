@@ -1,7 +1,5 @@
 ---
 description: You can add multiple dimensions to a table to attain a more detailed cross-tabulation of the data.
-seo-description: You can add multiple dimensions to a table to attain a more detailed cross-tabulation of the data.
-seo-title: Add, change, and move a dimension
 solution: Analytics
 title: Add, change, and move a dimension
 topic: Data workbench

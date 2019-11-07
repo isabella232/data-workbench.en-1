@@ -1,7 +1,5 @@
 ---
 description: Instructions about how to install and configure Sensor for Internet Information Services (IIS) 5.x or 6.x running under Microsoft Windows Server 2000 or later.
-seo-description: Instructions about how to install and configure Sensor for Internet Information Services (IIS) 5.x or 6.x running under Microsoft Windows Server 2000 or later.
-seo-title: Microsoft IIS on Windows Server 2000 or later
 title: Microsoft IIS on Windows Server 2000 or later
 uuid: 26da0638-82c8-424f-9f00-aab3a940e5a9
 ---

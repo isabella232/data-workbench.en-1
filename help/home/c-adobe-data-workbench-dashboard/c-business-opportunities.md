@@ -1,7 +1,5 @@
 ---
 description: Executives, analysts, and marketing professionals can use the data workbench dashboard for a variety of tasks.
-seo-description: Executives, analysts, and marketing professionals can use the data workbench dashboard for a variety of tasks.
-seo-title: Business Opportunities
 solution: Analytics
 title: Business Opportunities
 topic: Data workbench

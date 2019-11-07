@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Opening and Viewing Dashboards
 solution: Analytics
 title: Opening and Viewing Dashboards
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Open functionality enables you to open such items as documents or URIs in such external applications as a text editor or a web browser.
-seo-description: Open functionality enables you to open such items as documents or URIs in such external applications as a text editor or a web browser.
-seo-title: Configure open functionality
 solution: Analytics
 title: Configure open functionality
 topic: Data workbench

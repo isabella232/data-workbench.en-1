@@ -1,7 +1,5 @@
 ---
 description: Information about adding, removing, or copying a condition.
-seo-description: Information about adding, removing, or copying a condition.
-seo-title: Working With Conditions
 solution: Analytics
 title: Working With Conditions
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: To make the information in a worksheet more clear, you can add a callout to bring attention to a particular metric.
-seo-description: To make the information in a worksheet more clear, you can add a callout to bring attention to a particular metric.
-seo-title: Use callouts with worksheets
 solution: Analytics
 title: Use callouts with worksheets
 topic: Data workbench

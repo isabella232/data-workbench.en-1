@@ -1,7 +1,5 @@
 ---
 description: The Attribution profile is an inherited, ready-to-drop-in profile. In combination with the Adobe SC profile and Analytics (SC/Insight) data feed, the profile can be deployed to quickly expose new attribution models across digital channels.
-seo-description: The Attribution profile is an inherited, ready-to-drop-in profile. In combination with the Adobe SC profile and Analytics (SC/Insight) data feed, the profile can be deployed to quickly expose new attribution models across digital channels.
-seo-title: Deploying the Attribution Profile
 title: Deploying the Attribution Profile
 uuid: acc4e92a-2af1-4993-bae7-015ece3da26c
 ---

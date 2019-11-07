@@ -1,7 +1,5 @@
 ---
 description: Set up a Decision Tree by identifying a positive case and adding metric and dimension inputs to evaluate the data and explore the decision tree.
-seo-description: Set up a Decision Tree by identifying a positive case and adding metric and dimension inputs to evaluate the data and explore the decision tree.
-seo-title: Building a Decision Tree
 title: Building a Decision Tree
 uuid: 5790d322-5460-444d-95d8-a06696f9a55f
 ---

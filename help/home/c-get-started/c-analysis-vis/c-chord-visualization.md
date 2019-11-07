@@ -1,7 +1,5 @@
 ---
 description: The Chord visualization allows you to show both the proportion and correlation between metrics, displaying larger chords as an indication of a stronger correlation.
-seo-description: The Chord visualization allows you to show both the proportion and correlation between metrics, displaying larger chords as an indication of a stronger correlation.
-seo-title: Chord Visualization
 title: Chord Visualization
 uuid: 3f322f58-f8f5-4d91-bdf8-4b5f9d7fb072
 ---

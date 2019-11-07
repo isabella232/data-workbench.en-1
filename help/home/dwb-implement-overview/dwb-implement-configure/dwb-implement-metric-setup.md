@@ -1,7 +1,5 @@
 ---
 description: This section explains how to create metrics in Data Workbench.
-seo-description: This section explains how to create metrics in Data Workbench.
-seo-title: Metrics Setup
 title: Metrics Setup
 uuid: 57c1410b-c09c-4a59-b3a1-575323e1b8e3
 ---

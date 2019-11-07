@@ -1,7 +1,5 @@
 ---
 description: Steps to create a new dataset include file.
-seo-description: Steps to create a new dataset include file.
-seo-title: Creating New Dataset Include Files
 solution: Analytics
 title: Creating New Dataset Include Files
 topic: Data workbench

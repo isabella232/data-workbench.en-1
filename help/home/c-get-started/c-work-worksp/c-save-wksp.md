@@ -1,7 +1,5 @@
 ---
 description: By default, closing an unlocked workspace saves any changes that have been made to the workspace.
-seo-description: By default, closing an unlocked workspace saves any changes that have been made to the workspace.
-seo-title: Save a workspace
 solution: Analytics
 title: Save a workspace
 topic: Data workbench

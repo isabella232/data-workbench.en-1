@@ -1,7 +1,5 @@
 ---
 description: When configuring your dataset, you can define variables, referred as parameters, to represent meaningful values.
-seo-description: When configuring your dataset, you can define variables, referred as parameters, to represent meaningful values.
-seo-title: Defining Parameters in Dataset Include Files
 solution: Analytics
 title: Defining Parameters in Dataset Include Files
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: The most commonly used terminology and features of Adobe data workbench, including the dashboard.
-seo-description: The most commonly used terminology and features of Adobe data workbench, including the dashboard.
-seo-title: Glossary
 solution: Analytics
 title: Glossary
 topic: Data workbench

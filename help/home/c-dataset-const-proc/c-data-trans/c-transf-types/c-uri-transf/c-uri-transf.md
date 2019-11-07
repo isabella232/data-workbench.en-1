@@ -1,7 +1,5 @@
 ---
 description: The URI transformations modify the internal fields used to create the URI dimension provided with the Site application.
-seo-description: The URI transformations modify the internal fields used to create the URI dimension provided with the Site application.
-seo-title: URI Transformations
 solution: Analytics
 title: URI Transformations
 topic: Data workbench

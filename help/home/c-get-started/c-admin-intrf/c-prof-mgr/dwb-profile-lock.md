@@ -1,7 +1,5 @@
 ---
 description: The Internal.cfg file applied in the Profile Manager prevents changes by users to your custom profiles by the Profile, Dimensions, Reports, Workspaces, Metrics, and Filters managers.
-seo-description: The Internal.cfg file applied in the Profile Manager prevents changes by users to your custom profiles by the Profile, Dimensions, Reports, Workspaces, Metrics, and Filters managers.
-seo-title: Locking Profiles in the Workstation
 title: Locking Profiles in the Workstation
 uuid: 6b65d7c1-dade-4c6e-9d59-09693e62f3f5
 ---

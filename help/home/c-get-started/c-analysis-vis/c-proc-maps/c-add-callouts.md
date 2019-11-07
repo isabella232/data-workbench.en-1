@@ -1,7 +1,5 @@
 ---
 description: Information about adding a callout to a 2D process map.
-seo-description: Information about adding a callout to a 2D process map.
-seo-title: Add a callout
 solution: Analytics
 title: Add a callout
 topic: Data workbench

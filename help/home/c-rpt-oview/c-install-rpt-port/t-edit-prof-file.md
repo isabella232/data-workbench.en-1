@@ -1,7 +1,5 @@
 ---
 description: To specify the profiles that you want to be available in Report Portal, you must configure the profiles.xml file.
-seo-description: To specify the profiles that you want to be available in Report Portal, you must configure the profiles.xml file.
-seo-title: Edit the Profiles.xml File
 solution: Analytics
 title: Edit the Profiles.xml File
 topic: Data workbench

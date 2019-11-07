@@ -1,7 +1,5 @@
 ---
 description: Information about the transformations that you can use to incorporate lookup data into the dataset.
-seo-description: Information about the transformations that you can use to incorporate lookup data into the dataset.
-seo-title: Defining Lookup Transformations
 solution: Analytics
 title: Defining Lookup Transformations
 topic: Data workbench

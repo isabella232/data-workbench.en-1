@@ -1,7 +1,5 @@
 ---
 description: Visitor clustering lets you leverage customer characteristics to dynamically categorize visitors and generate cluster sets based on selected data inputs, thus identifying groups that have similar interests and behaviors for customer analysis and targeting.
-seo-description: Visitor clustering lets you leverage customer characteristics to dynamically categorize visitors and generate cluster sets based on selected data inputs, thus identifying groups that have similar interests and behaviors for customer analysis and targeting.
-seo-title: Visitor Clustering
 solution: Analytics
 title: Visitor Clustering
 topic: Data workbench

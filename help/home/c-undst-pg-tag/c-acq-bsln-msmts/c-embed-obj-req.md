@@ -1,7 +1,5 @@
 ---
 description: After the HTML of a page is requested by a browser, the browser requests the embedded objects referenced in the HTML of that page from a web server to fill in the page shown by the browser.
-seo-description: After the HTML of a page is requested by a browser, the browser requests the embedded objects referenced in the HTML of that page from a web server to fill in the page shown by the browser.
-seo-title: Acquiring Embedded Object Requests (Page Tags)
 solution: Analytics
 title: Acquiring Embedded Object Requests (Page Tags)
 topic: Data workbench

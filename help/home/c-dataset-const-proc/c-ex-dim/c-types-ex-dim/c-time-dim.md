@@ -1,7 +1,5 @@
 ---
 description: A time dimension enables you to create a set of periodic or absolute local time dimensions (such as Day, Day of Week, Hour of Day, Reservation Time, and so on) based on any timestamp field that you specify for the Input Time (1970 epoch) parameter.
-seo-description: A time dimension enables you to create a set of periodic or absolute local time dimensions (such as Day, Day of Week, Hour of Day, Reservation Time, and so on) based on any timestamp field that you specify for the Input Time (1970 epoch) parameter.
-seo-title: Time Dimensions
 solution: Analytics
 title: Time Dimensions
 topic: Data workbench

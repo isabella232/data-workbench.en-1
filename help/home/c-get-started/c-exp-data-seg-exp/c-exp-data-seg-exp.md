@@ -1,7 +1,5 @@
 ---
 description: The segment export feature enables you to create a segment of the elements of any countable dimension, then output data for that segment on a batch or ongoing real-time basis into a tab-delimited file.
-seo-description: The segment export feature enables you to create a segment of the elements of any countable dimension, then output data for that segment on a batch or ongoing real-time basis into a tab-delimited file.
-seo-title: Exporting data using segment export
 solution: Analytics
 title: Exporting data using segment export
 topic: Data workbench

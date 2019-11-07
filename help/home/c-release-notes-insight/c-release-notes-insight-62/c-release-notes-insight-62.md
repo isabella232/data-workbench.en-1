@@ -1,7 +1,5 @@
 ---
 description: Data Workbench 6.2 release notes include new features, upgrade requirements, bug fixes, and known issues.
-seo-description: Data Workbench 6.2 release notes include new features, upgrade requirements, bug fixes, and known issues.
-seo-title: Data Workbench 6.2 Release Notes
 title: Data Workbench 6.2 Release Notes
 uuid: 8631c936-d53b-493d-9f58-72f541c3ddce
 ---

@@ -1,7 +1,5 @@
 ---
 description: General information about data services, including installing and updating files.
-seo-description: General information about data services, including installing and updating files.
-seo-title: Working with Data Services
 solution: Analytics
 title: Working with Data Services
 topic: Data workbench

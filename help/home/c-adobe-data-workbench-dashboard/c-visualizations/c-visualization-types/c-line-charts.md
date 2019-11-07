@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Line Charts
 solution: Analytics
 title: Line Charts
 topic: Data workbench

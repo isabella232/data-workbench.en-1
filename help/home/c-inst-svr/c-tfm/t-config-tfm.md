@@ -1,7 +1,5 @@
 ---
 description: Transform functionality runs on an Insight Server FSU machine to enable the export of log source data for use by other applications.
-seo-description: Transform functionality runs on an Insight Server FSU machine to enable the export of log source data for use by other applications.
-seo-title: Configuring Transform
 solution: Insight
 title: Configuring Transform
 uuid: 0526704a-71b2-4094-9d3a-1ba84f4dc287

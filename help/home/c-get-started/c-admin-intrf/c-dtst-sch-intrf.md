@@ -1,7 +1,5 @@
 ---
 description: The Dataset Schema interface displays the extended dimensions (countable, simple, many-to-many, numeric, denormal, and time dimensions) defined in any transformation dataset configuration file and provides a view of the relationships between those dimensions.
-seo-description: The Dataset Schema interface displays the extended dimensions (countable, simple, many-to-many, numeric, denormal, and time dimensions) defined in any transformation dataset configuration file and provides a view of the relationships between those dimensions.
-seo-title: Dataset Schema interface
 solution: Analytics
 title: Dataset Schema interface
 topic: Data workbench

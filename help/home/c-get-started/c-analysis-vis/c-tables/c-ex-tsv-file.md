@@ -1,7 +1,5 @@
 ---
 description: Link to information on exporting to a TSV file.
-seo-description: Link to information on exporting to a TSV file.
-seo-title: Export to a TSV file
 solution: Analytics
 title: Export to a TSV file
 topic: Data workbench

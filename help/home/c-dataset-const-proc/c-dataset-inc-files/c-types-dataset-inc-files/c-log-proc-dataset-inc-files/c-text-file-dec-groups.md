@@ -1,7 +1,5 @@
 ---
 description: The processing of log files as log sources requires the definition of a decoder within the Log Processing Dataset Include file to extract fields of data from the log entries.
-seo-description: The processing of log files as log sources requires the definition of a decoder within the Log Processing Dataset Include file to extract fields of data from the log entries.
-seo-title: Text File Decoder Groups
 solution: Analytics
 title: Text File Decoder Groups
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Information on upgrading your data workbench software.
-seo-description: Information on upgrading your data workbench software.
-seo-title: Upgrading Data Workbench
 solution: Analytics
 title: Upgrading Data Workbench
 topic: Data workbench

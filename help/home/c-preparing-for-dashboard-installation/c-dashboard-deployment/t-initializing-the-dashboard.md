@@ -1,7 +1,5 @@
 ---
 description: The final step is to run the dashboard for the first time to allow it to initialize.
-seo-description: The final step is to run the dashboard for the first time to allow it to initialize.
-seo-title: Initializing the Dashboard
 solution: Analytics
 title: Initializing the Dashboard
 topic: Data workbench

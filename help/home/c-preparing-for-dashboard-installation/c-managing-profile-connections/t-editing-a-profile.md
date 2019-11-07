@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Editing a Profile Connection
 solution: Analytics
 title: Editing a Profile Connection
 topic: Data workbench

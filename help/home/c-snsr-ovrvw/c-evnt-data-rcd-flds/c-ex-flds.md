@@ -1,7 +1,5 @@
 ---
 description: Sensor, when used on a server, can collect fields of event data from any valid HTTP request or response header or variable available to it through the server’s API.
-seo-description: Sensor, when used on a server, can collect fields of event data from any valid HTTP request or response header or variable available to it through the server’s API.
-seo-title: Extensible Fields
 solution: Insight
 title: Extensible Fields
 uuid: 91b9857e-44a4-497f-b157-51afd30306fe

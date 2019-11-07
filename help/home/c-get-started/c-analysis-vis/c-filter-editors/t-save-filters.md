@@ -1,7 +1,5 @@
 ---
 description: Steps to saving and loading filters.
-seo-description: Steps to saving and loading filters.
-seo-title: Save and load filters
 solution: Analytics
 title: Save and load filters
 topic: Data workbench

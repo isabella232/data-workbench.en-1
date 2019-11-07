@@ -1,7 +1,5 @@
 ---
 description: You can filter the values displayed in a field viewer by searching for specific text or by filtering out blank rows.
-seo-description: You can filter the values displayed in a field viewer by searching for specific text or by filtering out blank rows.
-seo-title: Filter within a field viewer
 solution: Analytics
 title: Filter within a field viewer
 topic: Data workbench

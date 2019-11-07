@@ -1,7 +1,5 @@
 ---
 description: Steps to uninstall data workbenchGeography.
-seo-description: Steps to uninstall data workbenchGeography.
-seo-title: Uninstalling Data Workbench Geography
 solution: Analytics
 title: Uninstalling Data Workbench Geography
 topic: Data workbench

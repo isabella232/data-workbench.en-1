@@ -1,7 +1,5 @@
 ---
 description: The Funnel visualization lets you identify where customers abandon a marketing campaign or divert from a defined conversion path while interacting with your website or cross-channel campaign.
-seo-description: The Funnel visualization lets you identify where customers abandon a marketing campaign or divert from a defined conversion path while interacting with your website or cross-channel campaign.
-seo-title: Funnel Visualization
 solution: Analytics
 title: Funnel Visualization
 topic: Data workbench

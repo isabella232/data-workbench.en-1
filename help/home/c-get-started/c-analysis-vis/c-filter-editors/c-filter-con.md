@@ -1,7 +1,5 @@
 ---
 description: Information about working with filter conditions including creating a new filter and adding a condition to a new filter.
-seo-description: Information about working with filter conditions including creating a new filter and adding a condition to a new filter.
-seo-title: Working with filter conditions
 solution: Analytics
 title: Working with filter conditions
 topic: Data workbench

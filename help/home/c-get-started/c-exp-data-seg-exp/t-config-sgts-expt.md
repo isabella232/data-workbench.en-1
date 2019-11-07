@@ -1,7 +1,5 @@
 ---
 description: You can create a segment of the elements of any countable dimension, then output data for that segment on a batch or ongoing real-time basis into a tab-delimited file.
-seo-description: You can create a segment of the elements of any countable dimension, then output data for that segment on a batch or ongoing real-time basis into a tab-delimited file.
-seo-title: Configure segments for export
 solution: Analytics
 title: Configure segments for export
 topic: Data workbench

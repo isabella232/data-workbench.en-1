@@ -1,7 +1,5 @@
 ---
 description: Steps to install an Insight Server cluster.
-seo-description: Steps to install an Insight Server cluster.
-seo-title: Installing an Insight Server Cluster
 solution: Insight
 title: Installing an Insight Server Cluster
 uuid: 0a0eb03d-2454-4b02-8b9d-cacf9deb5451

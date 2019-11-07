@@ -1,7 +1,5 @@
 ---
 description: Code sample of the Report index.
-seo-description: Code sample of the Report index.
-seo-title: Sample Report Index
 solution: Analytics
 title: Sample Report Index
 topic: Data workbench

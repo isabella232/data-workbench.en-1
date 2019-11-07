@@ -1,7 +1,5 @@
 ---
 description: Content to understand, install, set up, and provision Data Workbench (DWB) for On-Premise implementation.
-seo-description: Content to understand, install, set up, and provision Data Workbench (DWB) for On-Premise implementation.
-seo-title: Data Workbench Installation and Provisioning
 title: Data Workbench Installation and Provisioning
 uuid: a557e6c8-b210-4cc8-b430-8ae3d04b6593
 ---

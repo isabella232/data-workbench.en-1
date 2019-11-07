@@ -1,7 +1,5 @@
 ---
 description: Information about viewing identifying information about a profile component.
-seo-description: Information about viewing identifying information about a profile component.
-seo-title: View node details
 solution: Analytics
 title: View node details
 topic: Data workbench

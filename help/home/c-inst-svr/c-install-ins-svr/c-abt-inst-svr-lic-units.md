@@ -1,7 +1,5 @@
 ---
 description: Insight Server is available under two license types.
-seo-description: Insight Server is available under two license types.
-seo-title: About Insight Server License Units
 solution: Insight
 title: About Insight Server License Units
 uuid: e6a48b00-4dc1-416c-9039-01c01b86abbf

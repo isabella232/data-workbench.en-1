@@ -1,7 +1,5 @@
 ---
 description: Steps to delete a file from your working profile.
-seo-description: Steps to delete a file from your working profile.
-seo-title: Delete files from your working profile
 solution: Analytics
 title: Delete files from your working profile
 topic: Data workbench

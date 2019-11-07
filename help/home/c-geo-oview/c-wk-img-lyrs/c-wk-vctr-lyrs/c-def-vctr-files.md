@@ -1,7 +1,5 @@
 ---
 description: You can create a vector layer that references one or more vector (.vec) files, which contains the data that defines the vectors to be drawn on the globe.
-seo-description: You can create a vector layer that references one or more vector (.vec) files, which contains the data that defines the vectors to be drawn on the globe.
-seo-title: Defining Vector Layers Referencing Vector Files
 solution: Analytics
 title: Defining Vector Layers Referencing Vector Files
 topic: Data workbench

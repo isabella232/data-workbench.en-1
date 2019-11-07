@@ -1,7 +1,5 @@
 ---
 description: One of the easiest methods to open a dashboard is by using the quick-access menu on the left-hand navigation panel of the dashboard interface.
-seo-description: One of the easiest methods to open a dashboard is by using the quick-access menu on the left-hand navigation panel of the dashboard interface.
-seo-title: Quick-Access Menu
 solution: Analytics
 title: Quick-Access Menu
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Information about some of the additional configuration files contained in the Dataset directory for the dataset profile or its inherited profiles.
-seo-description: Information about some of the additional configuration files contained in the Dataset directory for the dataset profile or its inherited profiles.
-seo-title: Additional Configuration Files
 solution: Analytics
 title: Additional Configuration Files
 topic: Data workbench

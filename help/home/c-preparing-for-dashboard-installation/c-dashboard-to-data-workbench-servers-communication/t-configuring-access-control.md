@@ -1,7 +1,5 @@
 ---
 description: The dashboard requires certain read-only permissions to be able to access and display your data workbench data. Write privileges are not required.
-seo-description: The dashboard requires certain read-only permissions to be able to access and display your data workbench data. Write privileges are not required.
-seo-title: Configuring Access Control
 solution: Analytics
 title: Configuring Access Control
 topic: Data workbench

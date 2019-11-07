@@ -1,7 +1,5 @@
 ---
 description: Information about how to specify parameters in the Transform.cfg file based on the several scenarios.
-seo-description: Information about how to specify parameters in the Transform.cfg file based on the several scenarios.
-seo-title: Sample Data Workbench Transform.cfg Files
 solution: Analytics
 title: Sample Data Workbench Transform.cfg Files
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: The Processing Legend provides detailed information about a particular server’s data processing and transformation, enabling you to track the progress of data that is being reprocessed and retransformed.
-seo-description: The Processing Legend provides detailed information about a particular server’s data processing and transformation, enabling you to track the progress of data that is being reprocessed and retransformed.
-seo-title: Processing Legend
 solution: Analytics
 title: Processing Legend
 topic: Data workbench

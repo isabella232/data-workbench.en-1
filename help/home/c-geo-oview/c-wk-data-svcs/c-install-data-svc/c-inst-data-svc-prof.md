@@ -1,7 +1,5 @@
 ---
 description: The data service profiles (IP Geo-intelligence and IP Geo-location) are internal profiles that provide additional functionality to your Adobe application.
-seo-description: The data service profiles (IP Geo-intelligence and IP Geo-location) are internal profiles that provide additional functionality to your Adobe application.
-seo-title: Installing the Data Service Profile
 solution: Analytics
 title: Installing the Data Service Profile
 topic: Data workbench

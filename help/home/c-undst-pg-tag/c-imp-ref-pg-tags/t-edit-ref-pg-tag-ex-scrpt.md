@@ -1,7 +1,5 @@
 ---
 description: The Reference Page Tag consists of a Page Tag Execution Script that resides on a web server, and when called results in the collection of all client-side data for the page requested by the site visitor.
-seo-description: The Reference Page Tag consists of a Page Tag Execution Script that resides on a web server, and when called results in the collection of all client-side data for the page requested by the site visitor.
-seo-title: Editing the Reference Page Tag Execution Script
 solution: Analytics
 title: Editing the Reference Page Tag Execution Script
 topic: Data workbench

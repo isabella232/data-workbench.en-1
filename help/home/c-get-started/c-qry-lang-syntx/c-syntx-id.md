@@ -1,7 +1,5 @@
 ---
 description: Metric, dimension, and filter expressions can use identifiers to refer to named metrics, dimensions, and filters.
-seo-description: Metric, dimension, and filter expressions can use identifiers to refer to named metrics, dimensions, and filters.
-seo-title: Syntax for identifiers
 solution: Analytics
 title: Syntax for identifiers
 topic: Data workbench

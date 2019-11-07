@@ -1,7 +1,5 @@
 ---
 description: Identify new features, upgrade instructions, and bug fixes for released versions of Data Workbench.
-seo-description: Identify new features, upgrade instructions, and bug fixes for released versions of Data Workbench.
-seo-title: Data Workbench Release Notes
 solution: Analytics
 title: Data Workbench Release Notes
 topic: Data workbench

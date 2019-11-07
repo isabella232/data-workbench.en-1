@@ -1,7 +1,5 @@
 ---
 description: Profile filters constrain the scope of the data available from a dataset.
-seo-description: Profile filters constrain the scope of the data available from a dataset.
-seo-title: Built-in Profile Filters
 solution: Analytics
 title: Built-in Profile Filters
 topic: Data workbench

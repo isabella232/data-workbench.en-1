@@ -1,7 +1,5 @@
 ---
 description: When creating a vector layer that references a tab separated values (.tsv) file, the vector data is obtained by retrieving drawing instructions as well as longitude and latitude data from the .tsv file.
-seo-description: When creating a vector layer that references a tab separated values (.tsv) file, the vector data is obtained by retrieving drawing instructions as well as longitude and latitude data from the .tsv file.
-seo-title: Vector layers referencing tab separated values files
 solution: Analytics
 title: Vector layers referencing tab separated values files
 topic: Data workbench

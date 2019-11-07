@@ -1,7 +1,5 @@
 ---
 description: Information about extending a path in a path browser.
-seo-description: Information about extending a path in a path browser.
-seo-title: Extend a paths
 solution: Analytics
 title: Extend a paths
 topic: Data workbench

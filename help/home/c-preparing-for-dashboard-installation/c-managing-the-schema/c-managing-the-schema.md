@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Managing the Schema
 solution: Analytics
 title: Managing the Schema
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: The following dimensions are available for use in the data workbench Historic profile.
-seo-description: The following dimensions are available for use in the data workbench Historic profile.
-seo-title: Dimensions in the Data Workbench Historic profile
 solution: Analytics
 title: Dimensions in the Data Workbench Historic profile
 topic: Data workbench

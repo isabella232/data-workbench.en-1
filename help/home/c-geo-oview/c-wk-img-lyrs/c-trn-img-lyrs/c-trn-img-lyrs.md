@@ -1,7 +1,5 @@
 ---
 description: In data workbench, a terrain image layer displays terrain imagery of the Earth.
-seo-description: In data workbench, a terrain image layer displays terrain imagery of the Earth.
-seo-title: Working with Terrain Image Layers
 solution: Analytics
 title: Working with Terrain Image Layers
 topic: Data workbench

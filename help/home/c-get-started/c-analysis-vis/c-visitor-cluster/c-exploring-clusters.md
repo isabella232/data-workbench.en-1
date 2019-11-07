@@ -1,7 +1,5 @@
 ---
 description: After a Cluster Dimension is built, you can save it and examine it using the Cluster Explorer.
-seo-description: After a Cluster Dimension is built, you can save it and examine it using the Cluster Explorer.
-seo-title: Exploring Clusters
 solution: Analytics
 title: Exploring Clusters
 topic: Data workbench

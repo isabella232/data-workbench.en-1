@@ -1,7 +1,5 @@
 ---
 description: A standard transformation takes a set of inputs, performs some operation, then provides that result in one or more output fields.
-seo-description: A standard transformation takes a set of inputs, performs some operation, then provides that result in one or more output fields.
-seo-title: Standard Transformations
 solution: Analytics
 title: Standard Transformations
 topic: Data workbench

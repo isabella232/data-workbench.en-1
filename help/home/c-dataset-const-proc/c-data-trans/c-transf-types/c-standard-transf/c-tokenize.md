@@ -1,7 +1,5 @@
 ---
 description: The Tokenize transformation iteratively applies a regular expression against the input string.
-seo-description: The Tokenize transformation iteratively applies a regular expression against the input string.
-seo-title: Tokenize
 solution: Analytics
 title: Tokenize
 topic: Data workbench

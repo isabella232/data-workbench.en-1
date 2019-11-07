@@ -1,7 +1,5 @@
 ---
 description: The Profile Manager displays all of the directories associated with your working profile.
-seo-description: The Profile Manager displays all of the directories associated with your working profile.
-seo-title: Create a Profile Manager
 solution: Analytics
 title: Create a Profile Manager
 topic: Data workbench

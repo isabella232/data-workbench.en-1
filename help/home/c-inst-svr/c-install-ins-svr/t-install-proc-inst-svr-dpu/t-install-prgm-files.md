@@ -1,7 +1,5 @@
 ---
 description: To install the Insight Server software, you download the program files from the location provided by Adobe. Typically, the software is provided in a compressed file from an FTP site.
-seo-description: To install the Insight Server software, you download the program files from the location provided by Adobe. Typically, the software is provided in a compressed file from an FTP site.
-seo-title: Installing the Insight Server Program Files
 solution: Insight
 title: Installing the Insight Server Program Files
 uuid: 32fc61da-b5d0-4463-b655-d4e99ad960d4

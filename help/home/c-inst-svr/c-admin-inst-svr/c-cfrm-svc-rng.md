@@ -1,7 +1,5 @@
 ---
 description: To ensure that your implementation is functioning properly, you should confirm that the Insight Server service is running.
-seo-description: To ensure that your implementation is functioning properly, you should confirm that the Insight Server service is running.
-seo-title: Confirming that the Service Is Running
 solution: Insight
 title: Confirming that the Service Is Running
 uuid: 0e0fb43b-56d5-4994-a9c4-9281e69844eb

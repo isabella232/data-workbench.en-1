@@ -1,7 +1,5 @@
 ---
 description: Set the parameters in the Insight.cfg file to specify your network connection and Data Workbench configuration settings.
-seo-description: Set the parameters in the Insight.cfg file to specify your network connection and Data Workbench configuration settings.
-seo-title: Configuration parameters
 solution: Analytics
 title: Configuration parameters
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: You can make selections within process maps to create filters that include or exclude data associated with a particular node.
-seo-description: You can make selections within process maps to create filters that include or exclude data associated with a particular node.
-seo-title: Make a selection from a process map
 solution: Analytics
 title: Make a selection from a process map
 topic: Data workbench

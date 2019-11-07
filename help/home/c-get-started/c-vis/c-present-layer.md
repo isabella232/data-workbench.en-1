@@ -1,7 +1,5 @@
 ---
 description: The Presentation Layer lets you mark up and annotate your workspace visualizations and then publish with your call-outs and comments. Add text descriptions, graphic objects, callout arrows, color coding, images, and other features in an overlay to add annotations and clarify important data points, and then share with stakeholders.
-seo-description: The Presentation Layer lets you mark up and annotate your workspace visualizations and then publish with your call-outs and comments. Add text descriptions, graphic objects, callout arrows, color coding, images, and other features in an overlay to add annotations and clarify important data points, and then share with stakeholders.
-seo-title: Annotating visualizations
 title: Annotating visualizations
 uuid: f296b04e-4c02-4ee3-93cb-dd1163b855de
 ---

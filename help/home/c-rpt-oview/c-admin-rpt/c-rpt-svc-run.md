@@ -1,7 +1,5 @@
 ---
 description: To ensure your implementation is functioning properly, you should confirm that the Report Server service is running.
-seo-description: To ensure your implementation is functioning properly, you should confirm that the Report Server service is running.
-seo-title: Confirming that the Report Server is Running
 solution: Analytics
 title: Confirming that the Report Server is Running
 topic: Data workbench

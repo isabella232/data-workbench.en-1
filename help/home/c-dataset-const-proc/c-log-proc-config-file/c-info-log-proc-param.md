@@ -1,7 +1,5 @@
 ---
 description: Links to additional information about specific parameters in the Log Processing.cfg file.
-seo-description: Links to additional information about specific parameters in the Log Processing.cfg file.
-seo-title: Log Processing Parameters
 solution: Analytics
 title: Log Processing Parameters
 topic: Data workbench

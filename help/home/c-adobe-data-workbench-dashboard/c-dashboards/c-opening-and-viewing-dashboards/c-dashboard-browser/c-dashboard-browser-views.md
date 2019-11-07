@@ -1,7 +1,5 @@
 ---
 description: Explains the Thumbnail View and the List View.
-seo-description: Explains the Thumbnail View and the List View.
-seo-title: Dashboard Browser Views
 solution: Analytics
 title: Dashboard Browser Views
 topic: Data workbench

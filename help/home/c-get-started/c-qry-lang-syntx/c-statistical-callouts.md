@@ -1,7 +1,5 @@
 ---
 description: Statistical callouts measure meaningful relationships to identify hidden opportunities and variables of interest for more advanced data mining capabilities in audience clustering and visitor response scoring.
-seo-description: Statistical callouts measure meaningful relationships to identify hidden opportunities and variables of interest for more advanced data mining capabilities in audience clustering and visitor response scoring.
-seo-title: Statistical Callouts
 solution: Analytics
 title: Statistical Callouts
 topic: Data workbench

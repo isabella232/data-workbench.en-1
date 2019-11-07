@@ -1,7 +1,5 @@
 ---
 description: Use Finder panels in Data Workbench to select metrics, dimensions, and filters. These panels provide search support, sorting options, and drag and drop capabilities.
-seo-description: Use Finder panels in Data Workbench to select metrics, dimensions, and filters. These panels provide search support, sorting options, and drag and drop capabilities.
-seo-title: Finders
 solution: Analytics
 title: Finders
 topic: Data workbench

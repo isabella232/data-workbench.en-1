@@ -1,7 +1,5 @@
 ---
 description: Information about the menu options available in the Workspace file menu.
-seo-description: Information about the menu options available in the Workspace file menu.
-seo-title: Workspace File menu
 solution: Analytics
 title: Workspace File menu
 topic: Data workbench

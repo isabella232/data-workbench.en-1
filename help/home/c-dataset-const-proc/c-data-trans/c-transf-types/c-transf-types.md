@@ -1,7 +1,5 @@
 ---
 description: Insight Server provides standard and URI transformations.
-seo-description: Insight Server provides standard and URI transformations.
-seo-title: Types of Transformations
 solution: Analytics
 title: Types of Transformations
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Values entered into a form in a web page can be collected and appended in the query string of the subsequently requested page (on form submission) through the use of JavaScript.
-seo-description: Values entered into a form in a web page can be collected and appended in the query string of the subsequently requested page (on form submission) through the use of JavaScript.
-seo-title: General Information
 solution: Analytics
 title: General Information
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: The Decision Tree menu includes features to set the positive use case, filters, leaf distribution options, confusion matrix, and other advanced options.
-seo-description: The Decision Tree menu includes features to set the positive use case, filters, leaf distribution options, confusion matrix, and other advanced options.
-seo-title: Decision Tree Options
 title: Decision Tree Options
 uuid: 6439c6d4-60ac-4324-b870-b452a63b7ba1
 ---

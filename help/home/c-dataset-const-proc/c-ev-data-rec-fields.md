@@ -1,7 +1,5 @@
 ---
 description: Information about the fields of data that the data workbench server can process to construct a dataset.
-seo-description: Information about the fields of data that the data workbench server can process to construct a dataset.
-seo-title: Event Data Record Fields
 solution: Analytics
 title: Event Data Record Fields
 topic: Data workbench

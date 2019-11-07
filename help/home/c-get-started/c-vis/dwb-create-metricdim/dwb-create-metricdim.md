@@ -1,7 +1,5 @@
 ---
 description: Use the Metric Dim wizard to create a new Metric Dimension.
-seo-description: Use the Metric Dim wizard to create a new Metric Dimension.
-seo-title: Metric Dim Wizard
 title: Metric Dim Wizard
 uuid: 77b9bc8e-7625-4fef-9de4-f113f9b2debd
 ---

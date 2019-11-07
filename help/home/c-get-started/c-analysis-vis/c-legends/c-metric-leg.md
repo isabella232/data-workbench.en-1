@@ -1,7 +1,5 @@
 ---
 description: Metric legends enable you to see baseline metrics related to your profile and statistics related to the dataset (or to the current selection, if one has been made).
-seo-description: Metric legends enable you to see baseline metrics related to your profile and statistics related to the dataset (or to the current selection, if one has been made).
-seo-title: Metric legends
 solution: Analytics
 title: Metric legends
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Directions for installing the data workbench Monitoring Profile.
-seo-description: Directions for installing the data workbench Monitoring Profile.
-seo-title: Installing the Monitoring Profile
 solution: Analytics
 title: Installing the Monitoring Profile
 topic: Data workbench

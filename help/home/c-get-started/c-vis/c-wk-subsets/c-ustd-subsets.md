@@ -1,7 +1,5 @@
 ---
 description: Conceptual information about subsets.
-seo-description: Conceptual information about subsets.
-seo-title: Understanding subsets
 solution: Analytics
 title: Understanding subsets
 topic: Data workbench

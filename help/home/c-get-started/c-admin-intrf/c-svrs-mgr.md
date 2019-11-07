@@ -1,7 +1,5 @@
 ---
 description: The primary tool used by system administrators is the Servers Manager.
-seo-description: The primary tool used by system administrators is the Servers Manager.
-seo-title: Servers Manager
 solution: Analytics
 title: Servers Manager
 topic: Data workbench

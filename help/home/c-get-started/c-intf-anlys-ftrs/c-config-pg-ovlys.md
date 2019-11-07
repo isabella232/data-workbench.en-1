@@ -1,7 +1,5 @@
 ---
 description: Page overlays are configured only in the Site application, but they can be configured for other applications.
-seo-description: Page overlays are configured only in the Site application, but they can be configured for other applications.
-seo-title: Configure a page overlay
 solution: Analytics
 title: Configure a page overlay
 topic: Data workbench

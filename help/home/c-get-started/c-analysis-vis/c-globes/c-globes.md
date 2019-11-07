@@ -1,7 +1,5 @@
 ---
 description: Data Workbench can display topographical imagery on a detailed three-dimensional (3-D) map of the world.
-seo-description: Data Workbench can display topographical imagery on a detailed three-dimensional (3-D) map of the world.
-seo-title: Globes
 solution: Analytics
 title: Globes
 topic: Data workbench

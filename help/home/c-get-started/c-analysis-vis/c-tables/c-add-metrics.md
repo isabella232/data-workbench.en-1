@@ -1,7 +1,5 @@
 ---
 description: Information about adding and changing metrics.
-seo-description: Information about adding and changing metrics.
-seo-title: Add and change a metric
 solution: Analytics
 title: Add and change a metric
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Data workbench includes built-in dimensions.
-seo-description: Data workbench includes built-in dimensions.
-seo-title: Built-in Dimensions
 solution: Analytics
 title: Built-in Dimensions
 topic: Data workbench

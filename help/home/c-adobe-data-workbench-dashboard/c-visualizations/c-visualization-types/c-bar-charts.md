@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Bar Charts
 solution: Analytics
 title: Bar Charts
 topic: Data workbench

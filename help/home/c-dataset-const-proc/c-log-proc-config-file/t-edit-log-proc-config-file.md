@@ -1,7 +1,5 @@
 ---
 description: Steps to edit the Log Processing.cfg file for a dataset profile.
-seo-description: Steps to edit the Log Processing.cfg file for a dataset profile.
-seo-title: Editing the Log Processing Configuration File
 solution: Analytics
 title: Editing the Log Processing Configuration File
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Steps to copy a dashboard.
-seo-description: Steps to copy a dashboard.
-seo-title: Making a Copy of a Dashboard
 solution: Analytics
 title: Making a Copy of a Dashboard
 topic: Data workbench

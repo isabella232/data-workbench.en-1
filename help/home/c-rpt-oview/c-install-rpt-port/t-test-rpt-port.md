@@ -1,7 +1,5 @@
 ---
 description: Steps to open the Report Portal and ensure that you can successfully view the reports for your profile.
-seo-description: Steps to open the Report Portal and ensure that you can successfully view the reports for your profile.
-seo-title: Test the Report Portal
 solution: Analytics
 title: Test the Report Portal
 topic: Data workbench

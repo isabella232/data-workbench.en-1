@@ -1,7 +1,5 @@
 ---
 description: Data Workbench downloads profiles to your machine.
-seo-description: Data Workbench downloads profiles to your machine.
-seo-title: Profiles
 title: Profiles
 uuid: 8ea36138-9839-40e5-89e2-4b120f1dd7aa
 ---

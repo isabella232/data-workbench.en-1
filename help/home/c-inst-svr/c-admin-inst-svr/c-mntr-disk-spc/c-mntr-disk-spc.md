@@ -1,7 +1,5 @@
 ---
 description: You should regularly monitor available disk space so that all Insight Server machines continue to perform at the highest level possible.
-seo-description: You should regularly monitor available disk space so that all Insight Server machines continue to perform at the highest level possible.
-seo-title: Monitoring Disk Space
 solution: Insight
 title: Monitoring Disk Space
 uuid: 13248e36-4e88-4212-816e-bcc12deefcb4

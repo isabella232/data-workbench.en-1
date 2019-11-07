@@ -1,7 +1,5 @@
 ---
 description: You can export a workspace as a .png image file or export the data from certain windows to an Excel (.xls or .xlsx) file.
-seo-description: You can export a workspace as a .png image file or export the data from certain windows to an Excel (.xls or .xlsx) file.
-seo-title: Export a workspace
 solution: Analytics
 title: Export a workspace
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Instructions to complete your installation of the repeater functionality.
-seo-description: Instructions to complete your installation of the repeater functionality.
-seo-title: Next Steps
 solution: Insight
 title: Next Steps
 uuid: 74ac9ef3-11c2-4af0-9901-edbbcc8ac0fb

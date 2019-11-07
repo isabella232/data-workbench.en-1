@@ -1,7 +1,5 @@
 ---
 description: The data workbench Server Status profile provides current information about data workbench server health based on the server rather than profile metrics or historical data.
-seo-description: The data workbench Server Status profile provides current information about data workbench server health based on the server rather than profile metrics or historical data.
-seo-title: Data Workbench Server Status workspace
 solution: Analytics
 title: Data Workbench Server Status workspace
 topic: Data workbench

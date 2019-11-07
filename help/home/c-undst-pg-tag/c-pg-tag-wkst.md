@@ -1,7 +1,5 @@
 ---
 description: Tables containing list of constant and custom variables.
-seo-description: Tables containing list of constant and custom variables.
-seo-title: Page Tag Variable Mapping Worksheet
 solution: Analytics
 title: Page Tag Variable Mapping Worksheet
 topic: Data workbench

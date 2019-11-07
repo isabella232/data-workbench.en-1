@@ -1,7 +1,5 @@
 ---
 description: A model viewer lets you generate a logistic regression model using the Propensity Scoring feature.
-seo-description: A model viewer lets you generate a logistic regression model using the Propensity Scoring feature.
-seo-title: Model Viewer
 solution: Analytics
 title: Model Viewer
 topic: Data workbench

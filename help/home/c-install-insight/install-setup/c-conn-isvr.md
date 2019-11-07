@@ -1,7 +1,5 @@
 ---
 description: After you have installed your Insight software and digital certificate, you must start Insight and configure its connection to Insight Server.
-seo-description: After you have installed your Insight software and digital certificate, you must start Insight and configure its connection to Insight Server.
-seo-title: Configuring the Connection to Insight Server
 title: Configuring the Connection to Insight Server
 uuid: 8ba13da6-8749-49fe-a29e-dac3906f71b8
 ---

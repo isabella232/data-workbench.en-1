@@ -1,7 +1,5 @@
 ---
 description: A Binary Filter in the Correlation Matrix lets you constrain values for one or both of the correlated metrics to better focus the comparison.
-seo-description: A Binary Filter in the Correlation Matrix lets you constrain values for one or both of the correlated metrics to better focus the comparison.
-seo-title: Binary Filter in the Correlation Matrix
 solution: Analytics
 title: Binary Filter in the Correlation Matrix
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Using the new rules-based Attribution profile in Data Workbench, you can quickly analyze attribution events and assign responsibility leading up to a successful conversion defined by you. The Attribution profile comes complete with the information necessary for your data Architect to set up and extend its features, and includes pre-built workspaces for your Analyst to jump right in and start analyzing.
-seo-description: Using the new rules-based Attribution profile in Data Workbench, you can quickly analyze attribution events and assign responsibility leading up to a successful conversion defined by you. The Attribution profile comes complete with the information necessary for your data Architect to set up and extend its features, and includes pre-built workspaces for your Analyst to jump right in and start analyzing.
-seo-title: Attribution Profile
 solution: Analytics
 title: Attribution Profile
 topic: Data workbench

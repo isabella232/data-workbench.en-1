@@ -1,7 +1,5 @@
 ---
 description: The Worktop is where you organize and access all of your workspaces and reports.
-seo-description: The Worktop is where you organize and access all of your workspaces and reports.
-seo-title: Worktops
 solution: Analytics
 title: Worktops
 topic: Data workbench

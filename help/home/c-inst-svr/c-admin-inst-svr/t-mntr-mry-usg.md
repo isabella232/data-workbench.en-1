@@ -1,7 +1,5 @@
 ---
 description: Information on assessing and monitoring the Address Space Load.
-seo-description: Information on assessing and monitoring the Address Space Load.
-seo-title: Monitoring Memory Usage
 solution: Insight
 title: Monitoring Memory Usage
 uuid: e7f1c51b-d874-43f4-a074-1c064b5f298a

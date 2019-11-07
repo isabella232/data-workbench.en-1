@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Dashboard to Data Workbench Servers Communication
 solution: Analytics
 title: Dashboard to Data Workbench Servers Communication
 topic: Data workbench

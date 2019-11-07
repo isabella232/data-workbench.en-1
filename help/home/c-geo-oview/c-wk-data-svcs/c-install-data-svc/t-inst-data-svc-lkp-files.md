@@ -1,7 +1,5 @@
 ---
 description: Steps to install the IP Geo-intelligence or IP Geo-location lookup files.
-seo-description: Steps to install the IP Geo-intelligence or IP Geo-location lookup files.
-seo-title: Installing the Data Service Lookup Files
 solution: Analytics
 title: Installing the Data Service Lookup Files
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: You can change a path browser’s root by either designating a displayed element as the root or adding a new element to the visualization.
-seo-description: You can change a path browser’s root by either designating a displayed element as the root or adding a new element to the visualization.
-seo-title: Change the path browser's root
 solution: Analytics
 title: Change the path browser's root
 topic: Data workbench

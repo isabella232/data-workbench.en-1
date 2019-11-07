@@ -1,7 +1,5 @@
 ---
 description: Web pages are often structured using ASP (Active Server Pages) programming language.
-seo-description: Web pages are often structured using ASP (Active Server Pages) programming language.
-seo-title: ASP-Specific Information
 solution: Analytics
 title: ASP-Specific Information
 topic: Data workbench

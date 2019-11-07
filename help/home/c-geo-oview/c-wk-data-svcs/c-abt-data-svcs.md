@@ -1,7 +1,5 @@
 ---
 description: Information about data service options for mapping IP addresses.
-seo-description: Information about data service options for mapping IP addresses.
-seo-title: About the Data Services
 solution: Analytics
 title: About the Data Services
 topic: Data workbench

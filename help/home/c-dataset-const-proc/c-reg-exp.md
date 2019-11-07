@@ -1,7 +1,5 @@
 ---
 description: Regular expressions are used across all data workbench search fields including the query entity panels.
-seo-description: Regular expressions are used across all data workbench search fields including the query entity panels.
-seo-title: Regular Expressions
 solution: Analytics
 title: Regular Expressions
 topic: Data workbench

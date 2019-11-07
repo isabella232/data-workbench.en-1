@@ -1,7 +1,5 @@
 ---
 description: Any data that you want to export must be defined as a dimension within the profile.
-seo-description: Any data that you want to export must be defined as a dimension within the profile.
-seo-title: Create dimensions for use with segment export
 solution: Analytics
 title: Create dimensions for use with segment export
 topic: Data workbench

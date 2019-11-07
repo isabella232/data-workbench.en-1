@@ -1,7 +1,5 @@
 ---
 description: Steps to install the Geography lookup files on the data workbench server.
-seo-description: Steps to install the Geography lookup files on the data workbench server.
-seo-title: Installing the Geography Lookup Files
 solution: Analytics
 title: Installing the Geography Lookup Files
 topic: Data workbench

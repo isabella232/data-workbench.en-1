@@ -1,7 +1,5 @@
 ---
 description: A graph can display one or more metrics across one or two dimensions of data.
-seo-description: A graph can display one or more metrics across one or two dimensions of data.
-seo-title: Graphs
 solution: Analytics
 title: Graphs
 topic: Data workbench

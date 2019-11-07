@@ -1,7 +1,5 @@
 ---
 description: Exports data from the current visualization.
-seo-description: Exports data from the current visualization.
-seo-title: Exporting Visualizations
 solution: Analytics
 title: Exporting Visualizations
 topic: Data workbench

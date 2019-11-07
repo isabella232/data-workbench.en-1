@@ -1,7 +1,5 @@
 ---
 description: Instructions to tune DPU performance.
-seo-description: Instructions to tune DPU performance.
-seo-title: DPU Performance Settings
 solution: Insight
 title: DPU Performance Settings
 uuid: e2b87548-7eb3-4f82-a94e-8ec7c3dc27c2

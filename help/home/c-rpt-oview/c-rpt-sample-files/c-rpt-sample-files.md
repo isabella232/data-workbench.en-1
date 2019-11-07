@@ -1,7 +1,5 @@
 ---
 description: Conceptual information about sample templates for formatting reports.
-seo-description: Conceptual information about sample templates for formatting reports.
-seo-title: Report Sample Files
 solution: Analytics
 title: Report Sample Files
 topic: Data workbench

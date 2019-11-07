@@ -1,7 +1,5 @@
 ---
 description: When creating an element point layer that references a lookup file to obtain latitude and longitude data, the location of the point is obtained by retrieving each element and its associated latitude and longitude from the lookup file.
-seo-description: When creating an element point layer that references a lookup file to obtain latitude and longitude data, the location of the point is obtained by retrieving each element and its associated latitude and longitude from the lookup file.
-seo-title: Defining Element Point Layers Referencing Lookup Files
 solution: Analytics
 title: Defining Element Point Layers Referencing Lookup Files
 topic: Data workbench

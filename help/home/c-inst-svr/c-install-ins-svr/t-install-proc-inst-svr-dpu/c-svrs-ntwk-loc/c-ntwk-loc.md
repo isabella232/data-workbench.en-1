@@ -1,7 +1,5 @@
 ---
 description: Conceptually, the address file serves the same purpose as the ETC\HOSTS file on a networked machine.
-seo-description: Conceptually, the address file serves the same purpose as the ETC\HOSTS file on a networked machine.
-seo-title: Network Locations
 solution: Insight
 title: Network Locations
 uuid: a2097eca-dd75-4d43-b8a8-fb4c768df38d

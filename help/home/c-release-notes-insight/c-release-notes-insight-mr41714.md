@@ -1,7 +1,5 @@
 ---
 description: Adobe Analytics will update and enhance its data feed powering Data Workbench to take advantage of Profiles and Audiences within the Adobe Experience Cloud. All Data Workbench users are required to be prepared to transition to this new data feed format by April 21, 2014.
-seo-description: Adobe Analytics will update and enhance its data feed powering Data Workbench to take advantage of Profiles and Audiences within the Adobe Experience Cloud. All Data Workbench users are required to be prepared to transition to this new data feed format by April 21, 2014.
-seo-title: Updates for April MR 2014
 title: Updates for April MR 2014
 uuid: 119bcf2e-8a09-413e-8bb6-d479cc979256
 ---

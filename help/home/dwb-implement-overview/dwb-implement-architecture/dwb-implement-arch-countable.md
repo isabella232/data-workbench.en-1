@@ -1,7 +1,5 @@
 ---
 description: Explanation of Countables in Dataworkbench (DWB) for designing and implementing the schema.
-seo-description: Explanation of Countables in Dataworkbench (DWB) for designing and implementing the schema.
-seo-title: Schema Design Countable Structures
 title: Schema Design Countable Structures
 uuid: 2530980d-1c6b-4a96-b9c1-431fc75678bb
 ---

@@ -1,7 +1,5 @@
 ---
 description: Information about displaying, hiding, and changing a node's label.
-seo-description: Information about displaying, hiding, and changing a node's label.
-seo-title: Label a node
 solution: Analytics
 title: Label a node
 topic: Data workbench

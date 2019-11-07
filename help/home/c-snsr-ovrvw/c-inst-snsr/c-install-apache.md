@@ -1,7 +1,5 @@
 ---
 description: Instructions about how to install and configure Apache Server 2.0.40, 2.0.42 or later, Apache Server 2.2, or Apache Server 2.4 on Linux, Sun Solaris, or FreeBSD.
-seo-description: Instructions about how to install and configure Apache Server 2.0.40, 2.0.42 or later, Apache Server 2.2, or Apache Server 2.4 on Linux, Sun Solaris, or FreeBSD.
-seo-title: Apache Server 2.0.40, 2.0.42 or later, and Apache Server 2.2 or 2.4 on Linux, Solaris, or FreeBSD
 title: Apache Server 2.0.40, 2.0.42 or later, and Apache Server 2.2 or 2.4 on Linux, Solaris, or FreeBSD
 uuid: 3703e2c1-5b8d-4def-b146-49e59d78a669
 ---

@@ -1,7 +1,5 @@
 ---
 description: Hierarchy views are available only when using the Site or HBX application.
-seo-description: Hierarchy views are available only when using the Site or HBX application.
-seo-title: Apply hierarchy views
 solution: Analytics
 title: Apply hierarchy views
 topic: Data workbench

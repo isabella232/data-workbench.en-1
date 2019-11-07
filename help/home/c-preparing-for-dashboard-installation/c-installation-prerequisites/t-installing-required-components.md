@@ -1,7 +1,5 @@
 ---
 description: Steps to install the required Microsoft components.
-seo-description: Steps to install the required Microsoft components.
-seo-title: Installing Required Components
 solution: Analytics
 title: Installing Required Components
 topic: Data workbench

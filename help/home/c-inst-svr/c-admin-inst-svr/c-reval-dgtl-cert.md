@@ -1,7 +1,5 @@
 ---
 description: After installation, the digital certificate issued by Adobe acts as a key that enables you to run your Adobe product.
-seo-description: After installation, the digital certificate issued by Adobe acts as a key that enables you to run your Adobe product.
-seo-title: Re-validating the Digital Certificate
 solution: Insight
 title: Re-validating the Digital Certificate
 uuid: 8cc6ec17-c565-4276-809a-a7c4fc9919f7

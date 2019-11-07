@@ -1,7 +1,5 @@
 ---
 description: The Math transformation enables the use of arithmetic operations on fields within the log entries.
-seo-description: The Math transformation enables the use of arithmetic operations on fields within the log entries.
-seo-title: Math
 solution: Analytics
 title: Math
 topic: Data workbench

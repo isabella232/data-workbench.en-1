@@ -1,7 +1,5 @@
 ---
 description: The Boolean operations combine the results of the test operations, which function as children of the boolean operations.
-seo-description: The Boolean operations combine the results of the test operations, which function as children of the boolean operations.
-seo-title: Boolean Operations
 solution: Analytics
 title: Boolean Operations
 topic: Data workbench

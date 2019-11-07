@@ -1,7 +1,5 @@
 ---
 description: During reprocessing, the data workbench server reconstructs your dataset as you have specified in the Log Processing and Transformation Dataset Configuration files.
-seo-description: During reprocessing, the data workbench server reconstructs your dataset as you have specified in the Log Processing and Transformation Dataset Configuration files.
-seo-title: Understanding Reprocessing and Retransformation
 solution: Analytics
 title: Understanding Reprocessing and Retransformation
 topic: Data workbench

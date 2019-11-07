@@ -1,7 +1,5 @@
 ---
 description: The administrative tasks for repeater functionality are very similar to those for Insight Server.
-seo-description: The administrative tasks for repeater functionality are very similar to those for Insight Server.
-seo-title: Administering Repeater
 solution: Insight
 title: Administering Repeater
 uuid: 4fbfce3a-2610-4dcd-a585-cb7ee07b90db

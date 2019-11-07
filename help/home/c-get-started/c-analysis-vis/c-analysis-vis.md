@@ -1,7 +1,5 @@
 ---
 description: Information about the numerous analysis visualizations available in Data Workbench.
-seo-description: Information about the numerous analysis visualizations available in Data Workbench.
-seo-title: Analysis visualizations
 solution: Analytics
 title: Analysis visualizations
 topic: Data workbench

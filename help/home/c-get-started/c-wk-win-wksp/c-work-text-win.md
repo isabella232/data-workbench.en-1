@@ -1,7 +1,5 @@
 ---
 description: Wherever you can enter text in a window, you can perform many of the functions that you can perform in any text editor, such as Notepad or Microsoft Word.
-seo-description: Wherever you can enter text in a window, you can perform many of the functions that you can perform in any text editor, such as Notepad or Microsoft Word.
-seo-title: Work with text in windows
 solution: Analytics
 title: Work with text in windows
 topic: Data workbench

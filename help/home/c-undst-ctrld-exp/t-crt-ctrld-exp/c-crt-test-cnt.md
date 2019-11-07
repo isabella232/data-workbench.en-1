@@ -1,7 +1,5 @@
 ---
 description: Before you configure the experiment, you should create the alternate content that you want to use in the experiment.
-seo-description: Before you configure the experiment, you should create the alternate content that you want to use in the experiment.
-seo-title: Creating the Test Content
 solution: Insight,Analytics
 title: Creating the Test Content
 topic: Data workbench

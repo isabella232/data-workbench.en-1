@@ -1,7 +1,5 @@
 ---
 description: Information about creating your report set, reviewing the status of your report set, and editing the existing Report.cfg files.
-seo-description: Information about creating your report set, reviewing the status of your report set, and editing the existing Report.cfg files.
-seo-title: Working with Report Sets
 solution: Analytics
 title: Working with Report Sets
 topic: Data workbench

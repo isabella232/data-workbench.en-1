@@ -1,7 +1,5 @@
 ---
 description: Open functionality is currently configured only in the Site application and only for opening URIs.
-seo-description: Open functionality is currently configured only in the Site application and only for opening URIs.
-seo-title: Open a URI from a table
 solution: Analytics
 title: Open a URI from a table
 topic: Data workbench

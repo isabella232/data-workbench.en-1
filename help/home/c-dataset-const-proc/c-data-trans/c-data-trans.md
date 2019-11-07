@@ -1,7 +1,5 @@
 ---
 description: Overview of data transformations, describes each of the available transformation types, and describes how to use the transformations.
-seo-description: Overview of data transformations, describes each of the available transformation types, and describes how to use the transformations.
-seo-title: Data Transformations
 solution: Analytics
 title: Data Transformations
 topic: Data workbench

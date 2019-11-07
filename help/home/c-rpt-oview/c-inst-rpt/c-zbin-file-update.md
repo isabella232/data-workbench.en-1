@@ -1,7 +1,5 @@
 ---
 description: For all languages, Report Server 6.0 and later requires the "insight.zbin" file copied to the Report Server root folder.
-seo-description: For all languages, Report Server 6.0 and later requires the "insight.zbin" file copied to the Report Server root folder.
-seo-title: Update Report Server with a language file (.zbin file)
 solution: Analytics
 title: Update Report Server with a language file (.zbin file)
 topic: Data workbench

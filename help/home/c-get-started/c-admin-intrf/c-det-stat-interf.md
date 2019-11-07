@@ -1,7 +1,5 @@
 ---
 description: The Detailed Status interface is useful for troubleshooting errors or other issues with Data Workbench server computers.
-seo-description: The Detailed Status interface is useful for troubleshooting errors or other issues with Data Workbench server computers.
-seo-title: Detailed Status interface
 solution: Analytics
 title: Detailed Status interface
 topic: Data workbench

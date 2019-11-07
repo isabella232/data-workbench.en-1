@@ -1,7 +1,5 @@
 ---
 description: Steps to make a new terrain layer available to display on the globe visualization.
-seo-description: Steps to make a new terrain layer available to display on the globe visualization.
-seo-title: Making a New Terrain Image Layer Available
 solution: Analytics
 title: Making a New Terrain Image Layer Available
 topic: Data workbench

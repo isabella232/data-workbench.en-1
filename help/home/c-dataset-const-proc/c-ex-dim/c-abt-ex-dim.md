@@ -1,7 +1,5 @@
 ---
 description: The Insight Server (InsightServer64.exe) enables you to define custom dimensions from event data or lookup data.
-seo-description: The Insight Server (InsightServer64.exe) enables you to define custom dimensions from event data or lookup data.
-seo-title: About Extended Dimensions
 solution: Analytics
 title: About Extended Dimensions
 topic: Data workbench

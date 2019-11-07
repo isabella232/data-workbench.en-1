@@ -1,7 +1,5 @@
 ---
 description: You can visualize data from multiple profiles in one dashboard.
-seo-description: You can visualize data from multiple profiles in one dashboard.
-seo-title: Cross-Profile Selections
 solution: Analytics
 title: Cross-Profile Selections
 topic: Data workbench

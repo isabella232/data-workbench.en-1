@@ -1,7 +1,5 @@
 ---
 description: Lists the minimum configuration requirements.
-seo-description: Lists the minimum configuration requirements.
-seo-title: Minimum System Requirements
 solution: Analytics
 title: Minimum System Requirements
 topic: Data workbench

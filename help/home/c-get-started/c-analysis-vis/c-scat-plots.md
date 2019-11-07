@@ -1,7 +1,5 @@
 ---
 description: Scatter plots graph the elements of a data dimension (such as Page or City) on a grid in which the x- and y-axes represent different metrics.
-seo-description: Scatter plots graph the elements of a data dimension (such as Page or City) on a grid in which the x- and y-axes represent different metrics.
-seo-title: 2D scatter plots
 solution: Analytics
 title: 2D scatter plots
 topic: Data workbench

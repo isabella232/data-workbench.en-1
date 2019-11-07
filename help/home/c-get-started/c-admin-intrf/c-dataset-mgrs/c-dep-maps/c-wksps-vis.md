@@ -1,7 +1,5 @@
 ---
 description: Conceptual information about workspaces and visualizations.
-seo-description: Conceptual information about workspaces and visualizations.
-seo-title: Workspaces and visualizations
 solution: Analytics
 title: Workspaces and visualizations
 topic: Data workbench

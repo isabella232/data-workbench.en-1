@@ -1,7 +1,5 @@
 ---
 description: Conceptual information about third-party tagging and preventing cookie-blocking using P3P.
-seo-description: Conceptual information about third-party tagging and preventing cookie-blocking using P3P.
-seo-title: P3P Considerations for Third-Party Page Tagging
 solution: Analytics
 title: P3P Considerations for Third-Party Page Tagging
 topic: Data workbench

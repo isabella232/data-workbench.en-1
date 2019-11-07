@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: What Are the Requirements?
 solution: Insight,Analytics
 title: What Are the Requirements?
 topic: Data workbench

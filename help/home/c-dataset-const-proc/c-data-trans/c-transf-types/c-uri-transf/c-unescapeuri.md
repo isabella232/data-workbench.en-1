@@ -1,7 +1,5 @@
 ---
 description: The Unescape URI transformation unescapes any characters in a string that have been escaped.
-seo-description: The Unescape URI transformation unescapes any characters in a string that have been escaped.
-seo-title: UnescapeURI
 solution: Analytics
 title: UnescapeURI
 topic: Data workbench

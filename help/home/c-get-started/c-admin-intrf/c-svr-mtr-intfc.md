@@ -1,7 +1,5 @@
 ---
 description: The Server Monitor interface is useful for troubleshooting or simply tracking the performance parameters of Data Workbench server computers and Report computers that are clients of Data Workbench server computers.
-seo-description: The Server Monitor interface is useful for troubleshooting or simply tracking the performance parameters of Data Workbench server computers and Report computers that are clients of Data Workbench server computers.
-seo-title: Server Monitor interface
 solution: Analytics
 title: Server Monitor interface
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: The Association Chord visualization allows you to show both the proportion and association between metrics, dimensions, and elements, displaying larger chords as an indication of a stronger association.
-seo-description: The Association Chord visualization allows you to show both the proportion and association between metrics, dimensions, and elements, displaying larger chords as an indication of a stronger association.
-seo-title: Association Chord visualization
 title: Association Chord visualization
 uuid: c656ffc8-e45a-44c0-a29b-cdc10dcbd1f2
 ---

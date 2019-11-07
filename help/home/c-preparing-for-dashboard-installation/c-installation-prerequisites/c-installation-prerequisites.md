@@ -1,7 +1,5 @@
 ---
 description: Before beginning the installation, log on to the web server with an admin account with permissions to configure the server and install new software.
-seo-description: Before beginning the installation, log on to the web server with an admin account with permissions to configure the server and install new software.
-seo-title: Installation Prerequisites
 solution: Analytics
 title: Installation Prerequisites
 topic: Data workbench

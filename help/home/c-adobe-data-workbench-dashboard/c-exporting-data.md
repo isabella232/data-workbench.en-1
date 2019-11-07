@@ -1,7 +1,5 @@
 ---
 description: Shows 3 ways of exporting data, and how to retrieve exports.
-seo-description: Shows 3 ways of exporting data, and how to retrieve exports.
-seo-title: Exporting Data
 solution: Analytics
 title: Exporting Data
 topic: Data workbench

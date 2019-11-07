@@ -1,7 +1,5 @@
 ---
 description: Information about deleting workspaces from the Worktop.
-seo-description: Information about deleting workspaces from the Worktop.
-seo-title: Deleting a workspaces
 solution: Analytics
 title: Deleting a workspaces
 topic: Data workbench

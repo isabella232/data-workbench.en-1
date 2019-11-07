@@ -1,7 +1,5 @@
 ---
 description: Because your implementation of Data Workbench can be fully customized and, therefore, may differ from what is documented in this guide, exact paths to each visualization are not provided in this guide.
-seo-description: Because your implementation of Data Workbench can be fully customized and, therefore, may differ from what is documented in this guide, exact paths to each visualization are not provided in this guide.
-seo-title: Open administrative interfaces
 solution: Analytics
 title: Open administrative interfaces
 topic: Data workbench

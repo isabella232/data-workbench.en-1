@@ -1,7 +1,5 @@
 ---
 description: Steps to change the default visualization.
-seo-description: Steps to change the default visualization.
-seo-title: Configure the Dataset Schema Interface
 solution: Analytics
 title: Configure the Dataset Schema Interface
 topic: Data workbench

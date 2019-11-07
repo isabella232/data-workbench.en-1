@@ -1,7 +1,5 @@
 ---
 description: Data workbench allows you to employ additional mathematical calculations.
-seo-description: Data workbench allows you to employ additional mathematical calculations.
-seo-title: Syntax for math expressions
 solution: Analytics
 title: Syntax for math expressions
 topic: Data workbench

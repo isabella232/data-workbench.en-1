@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: Value Profile Metrics
 solution: Analytics
 title: Value Profile Metrics
 topic: Data workbench

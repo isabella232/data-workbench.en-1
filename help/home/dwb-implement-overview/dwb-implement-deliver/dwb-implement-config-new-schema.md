@@ -1,7 +1,5 @@
 ---
 description: This document explains how to change all the default Data Workbench configurations after the new schema is in place.
-seo-description: This document explains how to change all the default Data Workbench configurations after the new schema is in place.
-seo-title: Configuration Changes for New Schema
 title: Configuration Changes for New Schema
 uuid: 7d59fc28-ce56-49e2-b068-d5e286dcc057
 ---

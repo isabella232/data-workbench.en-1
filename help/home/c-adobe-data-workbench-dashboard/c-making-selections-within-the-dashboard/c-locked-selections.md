@@ -1,7 +1,5 @@
 ---
 description: Selections within one or more visualizations on a dashboard can be locked to preserve current selections and prevent further alteration.
-seo-description: Selections within one or more visualizations on a dashboard can be locked to preserve current selections and prevent further alteration.
-seo-title: Locked Selections
 solution: Analytics
 title: Locked Selections
 topic: Data workbench

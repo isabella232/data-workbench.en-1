@@ -1,7 +1,5 @@
 ---
 description: To begin using the Adobe data workbench dashboard, follow these steps.
-seo-description: To begin using the Adobe data workbench dashboard, follow these steps.
-seo-title: Getting Started
 solution: Analytics
 title: Getting Started
 topic: Data workbench

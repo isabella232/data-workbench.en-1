@@ -1,7 +1,5 @@
 ---
 description: Visualizations can be easily moved and rearranged within the dashboard canvas.
-seo-description: Visualizations can be easily moved and rearranged within the dashboard canvas.
-seo-title: Moving Visualizations
 solution: Analytics
 title: Moving Visualizations
 topic: Data workbench

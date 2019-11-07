@@ -1,7 +1,5 @@
 ---
 description: Steps to hide, but not delete, a tab from the Worktop.
-seo-description: Steps to hide, but not delete, a tab from the Worktop.
-seo-title: Hide or remove a tab
 solution: Analytics
 title: Hide or remove a tab
 topic: Data workbench

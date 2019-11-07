@@ -1,7 +1,5 @@
 ---
 description: Conceptual information about imagery layers.
-seo-description: Conceptual information about imagery layers.
-seo-title: About imagery layers
 solution: Analytics
 title: About imagery layers
 topic: Data workbench

@@ -1,7 +1,5 @@
 ---
 description: Conceptual information about acquiring page request data, embedded object requests, and measurement data through cookies.
-seo-description: Conceptual information about acquiring page request data, embedded object requests, and measurement data through cookies.
-seo-title: Acquiring Baseline Measurements
 solution: Analytics
 title: Acquiring Baseline Measurements
 topic: Data workbench

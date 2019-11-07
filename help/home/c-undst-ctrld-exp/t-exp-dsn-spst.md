@@ -1,7 +1,5 @@
 ---
 description: This file functions not only as a worksheet but also as a record of your decisions about the experiment.
-seo-description: This file functions not only as a worksheet but also as a record of your decisions about the experiment.
-seo-title: Experiment Design Spreadsheet
 solution: Insight,Analytics
 title: Experiment Design Spreadsheet
 topic: Data workbench

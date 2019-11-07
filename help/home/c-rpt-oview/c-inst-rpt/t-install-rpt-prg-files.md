@@ -1,7 +1,5 @@
 ---
 description: Steps to install the Report Server program files.
-seo-description: Steps to install the Report Server program files.
-seo-title: Installing the Report Program Files
 solution: Analytics
 title: Installing the Report Program Files
 topic: Data workbench

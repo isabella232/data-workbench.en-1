@@ -1,7 +1,5 @@
 ---
 description: null
-seo-description: null
-seo-title: System Logs
 solution: Analytics
 title: System Logs
 topic: Data workbench

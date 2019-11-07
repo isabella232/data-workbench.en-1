@@ -1,7 +1,5 @@
 ---
 description: Instructions for installing and configuring Sensor for Sun Java System Application Server Standard Edition 7 running under Windows Server 2000 or later.
-seo-description: Instructions for installing and configuring Sensor for Sun Java System Application Server Standard Edition 7 running under Windows Server 2000 or later.
-seo-title: Sun Java Server on Windows Server 2000 or Later
 title: Sun Java Server on Windows Server 2000 or Later
 uuid: 43f3eee0-2633-4bda-af6c-6c15433dd539
 ---

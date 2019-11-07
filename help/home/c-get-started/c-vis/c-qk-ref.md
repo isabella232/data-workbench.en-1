@@ -1,7 +1,5 @@
 ---
 description: View a list of Data Workbench client user interface actions and shortcut keys.
-seo-description: View a list of Data Workbench client user interface actions and shortcut keys.
-seo-title: Quick reference
 solution: Analytics
 title: Quick reference
 topic: Data workbench

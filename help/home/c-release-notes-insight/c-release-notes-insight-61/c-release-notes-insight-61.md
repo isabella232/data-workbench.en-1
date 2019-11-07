@@ -1,7 +1,5 @@
 ---
 description: Data Workbench 6.1 release notes include new features, upgrade requirements, bug fixes, and known issues.
-seo-description: Data Workbench 6.1 release notes include new features, upgrade requirements, bug fixes, and known issues.
-seo-title: Data Workbench 6.1 Release Notes
 solution: Analytics
 title: Data Workbench 6.1 Release Notes
 topic: Data workbench

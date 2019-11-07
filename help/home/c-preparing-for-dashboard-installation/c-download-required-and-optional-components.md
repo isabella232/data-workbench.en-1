@@ -1,7 +1,5 @@
 ---
 description: The dashboard requires several additional Microsoft components in order to operate.
-seo-description: The dashboard requires several additional Microsoft components in order to operate.
-seo-title: Download Required and Optional Components
 solution: Analytics
 title: Download Required and Optional Components
 topic: Data workbench

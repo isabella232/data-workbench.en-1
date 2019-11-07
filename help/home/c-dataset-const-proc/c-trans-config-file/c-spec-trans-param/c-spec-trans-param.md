@@ -1,7 +1,5 @@
 ---
 description: Information about specific parameters that you can define in the Transformation.cfg file.
-seo-description: Information about specific parameters that you can define in the Transformation.cfg file.
-seo-title: Information About Specific Transformation Parameters
 solution: Analytics
 title: Information About Specific Transformation Parameters
 topic: Data workbench

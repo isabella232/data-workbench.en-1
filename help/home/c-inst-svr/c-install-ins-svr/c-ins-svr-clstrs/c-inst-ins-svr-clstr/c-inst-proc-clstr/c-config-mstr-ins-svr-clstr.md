@@ -1,7 +1,5 @@
 ---
 description: Information about configuring the cluster on the Master Insight Server, updating the access control file for a cluster, and more.
-seo-description: Information about configuring the cluster on the Master Insight Server, updating the access control file for a cluster, and more.
-seo-title: Configuring the Master Insight Server for Clustering
 solution: Insight
 title: Configuring the Master Insight Server for Clustering
 uuid: c3ac38e3-79c5-4863-9156-194589a6bcbd
