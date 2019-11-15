@@ -10,7 +10,7 @@ uuid: 4671c2bf-06ab-49c4-8dd1-24115facd83b
 
 Follow these steps to update to data workbench v6.1 from your data workbench v6.0x installation.
 
- **Step 1**: [Server upgrade](../../../../../home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-6-0-to-6-1-upgrade.md#section-7845393f76214aa7ad53ac4b2cca9e5b)
+**Step 1**: [Server upgrade](../../../../../home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-6-0-to-6-1-upgrade.md#section-7845393f76214aa7ad53ac4b2cca9e5b)
 
 **Step 2**: [Report Server upgrade](../../../../../home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-6-0-to-6-1-upgrade.md#section-afd9560a446242e9b06490e5f98aaaec)
 
@@ -26,14 +26,14 @@ Follow these steps to update the **[!UICONTROL Server v6.1]** components:
 
 1. Using the **[!UICONTROL Software and Docs]** profile, open the **[!UICONTROL Start Here]** workspace and download all needed server packages to a local folder.
 
-    * Download **[!UICONTROL Server Packages]** \ **[!UICONTROL v6.1]** zip folders and extract all files.
+   * Download **[!UICONTROL Server Packages]** \ **[!UICONTROL v6.1]** zip folders and extract all files.
 
-      The Server package includes **[!UICONTROL Lookup]** and **[!UICONTROL Profile]** folders with **[!UICONTROL Base]** and **[!UICONTROL Transform]** profiles to update the server. 
+     The Server package includes **[!UICONTROL Lookup]** and **[!UICONTROL Profile]** folders with **[!UICONTROL Base]** and **[!UICONTROL Transform]** profiles to update the server. 
     
-    * Download the **[!UICONTROL Profiles]** folders. 
-    * Download the **[!UICONTROL Lookup]** folders. 
-    * Download the **[!UICONTROL Report Server]** \ **[!UICONTROL v6.1]** package. 
-    * Download additional **[!UICONTROL Sensor]**, **[!UICONTROL Documentation]**, and **[!UICONTROL Dashboard]** files as needed for your system.
+     * Download the **[!UICONTROL Profiles]** folders. 
+     * Download the **[!UICONTROL Lookup]** folders. 
+     * Download the **[!UICONTROL Report Server]** \ **[!UICONTROL v6.1]** package. 
+     * Download additional **[!UICONTROL Sensor]**, **[!UICONTROL Documentation]**, and **[!UICONTROL Dashboard]** files as needed for your system.
 
 1. Stop the **[!UICONTROL Adobe Insight Server]** service.
 
@@ -45,8 +45,7 @@ Follow these steps to update the **[!UICONTROL Server v6.1]** components:
     
     1. Replace the [!DNL Server\Profiles] folder. You can overwrite all files. 
     1. Update the [!DNL Server\Lookups] folder. You will want to add the newly downloaded files to the custom files already located in the folder. 
-    1. Replace the [!DNL Server\Software] folder to update [!DNL Insight.exe] and [!DNL ReportServer.exe] 
-    
+    1. Replace the [!DNL Server\Software] folder to update [!DNL Insight.exe] and [!DNL ReportServer.exe]
     1. Update the [!DNL Server\Scripts] folder to update [!DNL TnTSend.exe].
 
 1. If you employ **[!UICONTROL DeviceAtlas]**, then you will need to [update the bundle](https://marketing.adobe.com/resources/help/en_US/insight/dataset/c_deviceAtlas_update.html) located in the [!DNL Server\Lookups] folder. 
@@ -76,8 +75,8 @@ Follow these steps to update the **[!UICONTROL Server v6.1]** components:
 
    ```
    Log Processing.cfg 
-        
-<b>Log Source ID = string: <<i>Name your ID Here</i>></b>
+   
+   Log Source ID = string: <Name your ID Here>
    ```
 
    If you do not have the Log Source ID defined, then you will get the following error:

@@ -37,8 +37,6 @@ To reach these goals, Site supports the following types of methodologies for con
 >
 >Controlled experiments are based on URI replacement, not query string replacement. The URI within a particular URL is highlighted in the following example: 
 >
->```>
->http://www.omniture.com/index.asp?id=1
->```>
+>`http://www.omniture.com/index.asp?id=1`
+>
 >For example, in your controlled experiment you could specify that the control group URI [!DNL index.asp] be replaced with the test group URI [!DNL index2.asp] to determine which page design would result in more value.
-

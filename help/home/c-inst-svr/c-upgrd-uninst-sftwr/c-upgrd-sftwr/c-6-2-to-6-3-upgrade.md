@@ -48,22 +48,22 @@ If you have customized profiles that take precedence over the default files prov
       18 = SourceListServer:  
           URI = string: /SourceListServer/ 
           Listing Interval = int: 10 ( 
-<i>new</i>)
+      <new>)
       ```
 
     * **Disk Files.cfg** (at [!DNL E:\Server\Components] and [!DNL E:\Server\Components for Processing Servers])
 
       ```    
       Disk Cache Size (MB) = double: 1024  
-<i>(from double: 256)</i> 
+      <(from double: 256)> 
       Disk Cache Read Limit (MB) = double: 768  
-<i>(new)</i>
+      <(new)>
       ```
 
     * **Log Processing Mode.cfg** ( [!DNL E:\Server\Profiles\<your profile>\Dataset\Log Processing Mode.cfg])
 
       ```    
-      <i>(changed)</i> 
+      <(changed) 
       Batch Bytes = int: 268435456 
       Cloud Bytes = int: 268435456 
       Real Time FIFO Bytes = int: 268435456
@@ -71,7 +71,7 @@ If you have customized profiles that take precedence over the default files prov
 
       ```    
       ( 
-<i>new</i>) 
+      <new>) 
       Cache Bytes = int: 32000000 
       Fast Input Decision Ratio = double: 200 
       Fast Input FIFO Bytes = int: 268435456 
@@ -94,14 +94,14 @@ If you have customized profiles that take precedence over the default files prov
 
   You will need to update the following commands for Adobe Target exports.
 
-[!DNL Command = string: TnTSend.exe]
+  `Command = string: TnTSend.exe`
 
   to
 
   ```
   <filepath>
   Command = string: ExportIntegration.exe 
-</filepath>
+  </filepath>
   ```
 
   >[!NOTE]
@@ -111,9 +111,9 @@ If you have customized profiles that take precedence over the default files prov
   You can also try the following to employ the old export process:
 
     * Create a new Test And Target Export in the workstation. 
-    * Modify the old Test and Target export found in [!DNL Server/Profiles/<your profile>/Export.]
+    * Modify the old Test and Target export found in [!DNL Server/Profiles/`<your profile>`/Export.]
 
-* **Update the Adobe SC profile. **Changes to the [!DNL Exclude Hit.cfg] file require a field to be declared in the associated [!DNL Decoding Instructions.cfg] file.
+* **Update the Adobe SC profile.** Changes to the [!DNL Exclude Hit.cfg] file require a field to be declared in the associated [!DNL Decoding Instructions.cfg] file.
 
   >[!NOTE]
   >
@@ -127,8 +127,7 @@ If you have customized profiles that take precedence over the default files prov
         5 = string: 
   Changed to: 
          
-<b>5 = string: x-hit_source</b>
+  5 = string: x-hit_source
   ```
 
   Adding the [!DNL DelimitedDecoder] field allows you to take advantage of feature updates and to avoid possible Log Processing problems resulting from these updates.
-

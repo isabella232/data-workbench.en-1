@@ -47,48 +47,44 @@ To set the export configuration, two new export configuration files were added t
   >
   >Ensure that SSH keys you generate for authentication are in the format identical to those that are generated when you use SSH Keygen command. 
   >
-  >
   >Example for generating SSH keys using keygen: 
   >
-  >
-  >
-  >
-  >```  >
+  >```
   >ssh-keygen -t rsa -b 4096 -C "<label>"
-  >```  >
+  >```
   >
 
   There are six parameters in the **FTPUserCredentials.cfg** file required for various FTP or SFTP transfers.
 
     1. *User Name* 
     1. *User Password* 
-    1. *Server Name * 
-    1. *Public Key Path * 
-    1. *Private Key Path * 
+    1. *Server Name* 
+    1. *Public Key Path* 
+    1. *Private Key Path* 
     1. *Passphrase*
 
-<table id="table_4EB416DC770D4D1AA4FAD9676C0D680C"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Protocol </th> 
-   <th colname="col2" class="entry"> Parameters </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p>FTP </p> </td> 
-   <td colname="col2"> <p>Set parameters 1, 2, 3. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>SFTP using password authentication </p> </td> 
-   <td colname="col2"> <p>Set parameters 1, 2, 3 when transfer uses password authentication (-p in the command arguments). </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>SFTP using key authentication </p> </td> 
-   <td colname="col2"> <p>Set parameters 1, 2, 3, 4, 5, 6 when transfer uses key authentication (-k in the command arguments). </p> </td> 
-  </tr> 
- </tbody> 
-</table>
+    <table id="table_4EB416DC770D4D1AA4FAD9676C0D680C"> 
+    <thead> 
+      <tr> 
+      <th colname="col1" class="entry"> Protocol </th> 
+      <th colname="col2" class="entry"> Parameters </th> 
+      </tr> 
+    </thead>
+    <tbody> 
+      <tr> 
+      <td colname="col1"> <p>FTP </p> </td> 
+      <td colname="col2"> <p>Set parameters 1, 2, 3. </p> </td> 
+      </tr> 
+      <tr> 
+      <td colname="col1"> <p>SFTP using password authentication </p> </td> 
+      <td colname="col2"> <p>Set parameters 1, 2, 3 when transfer uses password authentication (-p in the command arguments). </p> </td> 
+      </tr> 
+      <tr> 
+      <td colname="col1"> <p>SFTP using key authentication </p> </td> 
+      <td colname="col2"> <p>Set parameters 1, 2, 3, 4, 5, 6 when transfer uses key authentication (-k in the command arguments). </p> </td> 
+      </tr> 
+    </tbody> 
+    </table>
 
 **Setting the FTP and SFTP Export Commands**
 
@@ -104,11 +100,11 @@ To set the export configuration, two new export configuration files were added t
 
 1. Set the *Command Arguments* fields as shown below for the protocol and authentication required:
 
-   ** FTP**
+   **FTP**
 
    ```
-   <i>Command Arguments</i> set to  
-<i>ftp "%file%" ServerName ServerDestinationPath</i>
+   <Command Arguments> set to  
+   <ftp "%file%" ServerName ServerDestinationPath>
    ```
 
    ![](assets/FTP_Command_arguments.png)
@@ -116,15 +112,15 @@ To set the export configuration, two new export configuration files were added t
    **SFTP** (if using password for authentication)
 
    ```
-   <i>Command Arguments</i> set to  
-<i>sftp "%file%" ServerName ServerDestinationPath -p</i> 
+   <Command Arguments> set to  
+   <sftp "%file%" ServerName ServerDestinationPath -p> 
    ```
 
    **SFTP** (if using keys for authentication)
 
    ```
-   <i>Command Arguments</i> set to  
-<i>sftp "%file%" ServerName ServerDestinationPath -k</i>
+   <Command Arguments> set to  
+   <sftp "%file%" ServerName ServerDestinationPath -k>
    ```
 
    ![](assets/SFTP_command_arguments.png)
@@ -163,4 +159,3 @@ The configuration files need to be in the correct location.
 >[!NOTE]
 >
 >The public keys need to point to a **.pem** file and not to a folder location. You can create keys using an SSH key generation function from applications like Cygwin. (Putty generates keys in a .ppk format that is not supported.)
-

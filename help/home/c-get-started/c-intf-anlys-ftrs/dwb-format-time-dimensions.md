@@ -39,15 +39,15 @@ Transformation Include = TransformationInclude:
       Hidden = bool: false 
       Input Time (1970 epoch) = string: x-unixtime 
       Week Format = string:  
-<b>%m/%d/%y</b> 
+  %m/%d/%y
       Hour Format = string:  
-<b>%x %H:%M</b> 
+  %x %H:%M 
       Day Format = string:  
-<b>%x</b> 
+  %x
       Month Format = string:  
-<b>%b '%y</b> 
+  %b '%y
       Hour Of Day Format = string:  
-<b>%#H:%M</b> 
+  %#H:%M
       Name = string: Visit Time 
       Parent = string: Visit 
       Week Start Day = string: Mon 
@@ -60,13 +60,13 @@ Transformation Include = TransformationInclude:
 
 Additionally, it's necessary for the package administrator to add these parameters and their defaults to profile's **[!DNL meta.cfg]** file. This allows editing from the workstation.
 
-Here's an excerpt from a configured **[!DNL meta.cfg]**file.
+Here's an excerpt from a configured **[!DNL meta.cfg]** file.
 
 ```
 dimensions = vector: 6 items 
   0 = Template: 
-    ... 
-  ... 
+    ...
+  ...
   5 = Template: 
     name = string: Time Dimensions 
     value = TimeDimensions: 
@@ -74,7 +74,7 @@ dimensions = vector: 6 items
       Comments = Comment: 0 items 
       Hidden = bool: false 
        
-<b>Week Format = string: %d/%m/%y 
+  Week Format = string: %d/%m/%y 
        Hour Format = string: %x %H:%M 
        Day Format = string: %x 
        Month Format = string: %b '%y 

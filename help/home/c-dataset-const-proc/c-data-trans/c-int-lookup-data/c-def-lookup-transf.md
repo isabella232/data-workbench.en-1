@@ -90,9 +90,7 @@ A [!DNL Categorize] transformation is generally easier and faster than using a [
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Considerations for Categorize**
+**Considerations for Categorize**
 
 * Changes to lookup files in [!DNL Categorize] transformations defined in the [!DNL Transformation.cfg] file or in a [!DNL Transformation Dataset Include] file require retransformation of the dataset. Lookup files for [!DNL Categorize] transformations defined in the [!DNL Log Processing.cfg] file or a [!DNL Log Processing Dataset Include] file are not subject to this limitation. For information about reprocessing your data, see [Reprocessing and Retransformation](../../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823). 
 
@@ -191,9 +189,7 @@ The lookup table used during this transformation is populated from a flat file w
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Considerations for [!DNL FlatFileLookup]**
+**Considerations for [!DNL FlatFileLookup]**
 
 * Matching the input field to the lookup file is always case-sensitive. 
 * Changes to lookup files in [!DNL FlatFileLookup] transformations defined in the [!DNL Transformation.cfg] file or [!DNL Transformation Dataset Include] files require retransformation of the dataset. Lookup files for [!DNL FlatFileLookup] transformations defined in the [!DNL Log Processing.cfg] file or [!DNL Log Processing Dataset Include] files are not subject to this limitation. For information about reprocessing your data, see [Reprocessing and Retransformation](../../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823). 

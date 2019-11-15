@@ -18,7 +18,7 @@ Each visualization on the dashboard canvas has its own configuration. When a vis
 
 ## Visualization Title {#section-0414844283d745ae912e85f8ea14a51d}
 
-This field allows you to customize the title displayed at the top of the visualization. By default the title is set to **[!UICONTROL Automatic Title]**, which will automatically generate a title for the visualization window. By clearing the **[!UICONTROL Automatic Title]**button, you may place any title in this field. (This field applies to all visualizations.)
+This field allows you to customize the title displayed at the top of the visualization. By default the title is set to **[!UICONTROL Automatic Title]**, which will automatically generate a title for the visualization window. By clearing the **[!UICONTROL Automatic Title]** button, you may place any title in this field. (This field applies to all visualizations.)
 
 ![](assets/title.png)
 

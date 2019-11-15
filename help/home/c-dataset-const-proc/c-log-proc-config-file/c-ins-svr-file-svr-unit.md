@@ -138,7 +138,7 @@ In the previous process, you configured a profile for a given dataset to read lo
 1. Enter the location of the stored log files on the file server machine. Use forward slashes (/) in the path specification. The default location is /Logs/. 
 1. Right-click **[!UICONTROL (modified)]** at the top of the window, then click **[!UICONTROL Save]**. 
 
-1. In the [!DNL Server Files Manager] window, right-click the check mark for [!DNL Access Control.cfg] in the [!DNL Temp] column, then click **[!UICONTROL Save to]** > *< **[!UICONTROL server name]**>* to save the locally made changes to the data workbench server's FSU.
+1. In the [!DNL Server Files Manager] window, right-click the check mark for [!DNL Access Control.cfg] in the [!DNL Temp] column, then click **[!UICONTROL Save to]** > **[!UICONTROL server name]** to save the locally made changes to the data workbench server's FSU.
 
 ## Specifying the Location of the Log Files {#section-f9a649bf1b2544feb10ad8820384edb0}
 
@@ -218,22 +218,21 @@ To make the FSU the centralized normalization server, you must open and edit the
     
     1. Add the text that is highlighted in the following file fragment:
 
-    [!DNL Cluster = ClusterConfig:]
+       [!DNL Cluster = ClusterConfig:]
+ 
+       [!DNL Normalize Server = serverInfo:]
+ 
+       [!DNL Address = string:]
+ 
+       [!DNL Port = int: 80]
+ 
+       [!DNL SSL Server Common Name = string: server common name]
+ 
+       [!DNL Use SSL = bool: false]
 
-    [!DNL Normalize Server = serverInfo:]
-
-    [!DNL Address = string:]
-
-    [!DNL Port = int: 80]
-
-    [!DNL SSL Server Common Name = string: server common name]
-
-    [!DNL Use SSL = bool: false]
-
-       >[!NOTE]
-       >
-       >When you enter the common name of FSU for the SSL Server Common Name parameter, the FSU uses its [!DNL .address] file to resolve the common name. For information about the [!DNL .address] file, see the *Server Products Installation and Administration Guide*.
+    >[!NOTE]
+    >
+    >When you enter the common name of FSU for the SSL Server Common Name parameter, the FSU uses its [!DNL .address] file to resolve the common name. For information about the [!DNL .address] file, see the *Server Products Installation and Administration Guide*.
 
     1. Save the file. 
-    1. In the [!DNL Profile Manager], right-click the check mark for [!DNL Cluster.cfg] in the [!DNL User] column, then click **[!UICONTROL Save to]** > *< **[!UICONTROL dataset profile name]**>* to save the locally made changes to the dataset profile.
-
+    1. In the [!DNL Profile Manager], right-click the check mark for [!DNL Cluster.cfg] in the [!DNL User] column, then click **[!UICONTROL Save to]** > ***[!UICONTROL dataset profile name]*** to save the locally made changes to the dataset profile.

@@ -26,7 +26,7 @@ Profiles and Audiences is part of the [Experience Cloud Identity Service](https:
    >The s3 information required for MMP (s3) transfer can be obtained from Audience Manager team.
 
    ```
-   <b>Sample MMPExport.cfg</b> 
+   Sample MMPExport.cfg
    MMP Export Configuration = MMPExportConfiguration: 
    s3 Bucket = string: aws_bucket_for_mmp 
    s3 Object Directory = string: test/files/ 
@@ -127,9 +127,9 @@ Profiles and Audiences is part of the [Experience Cloud Identity Service](https:
 1. The **MMP Segment Name** should match the Segment ID defined in the MMP. 
 1. The **MMP Visitor ID** is the attribute column defined in step 4 that corresponds to the **Visitor ID**. 
 1. Once these fields are entered, you can save the export by right-clicking the header for the export and choose **Save** as "User\.export". 
-1. Open **Admin** > **Profile Manager **and save the export to the profile.
+1. Open **Admin** > **Profile Manager** and save the export to the profile.
 
-   If all data is entered correctly, this will generate an export file in the FSU ( [!DNL Server/Exports]) and it will also transfer the export to the AWS using the information in [!DNL MMPExport.cfg]. The log for this is provided in [!DNL Server/Trace/]. eg., [!DNL MMP-102014-133651- [Segment Export Name] .log]
+   If all data is entered correctly, this will generate an export file in the FSU ([!DNL Server/Exports]) and it will also transfer the export to the AWS using the information in [!DNL MMPExport.cfg]. The log for this is provided in [!DNL Server/Trace/]. eg., [!DNL MMP-102014-133651- `<Segment Export Name>` .log]
 
 ```
 Query = SegmentExportQuery: 
