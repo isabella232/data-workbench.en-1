@@ -75,8 +75,8 @@ Follow these steps to update the **[!UICONTROL Server v6.1]** components:
 
    ```
    Log Processing.cfg 
-        
-<b>Log Source ID = string: <<i>Name your ID Here</i>></b>
+   
+   Log Source ID = string: <Name your ID Here>
    ```
 
    If you do not have the Log Source ID defined, then you will get the following error:
@@ -88,7 +88,7 @@ Follow these steps to update the **[!UICONTROL Server v6.1]** components:
 
 1. Because the [!DNL EventMessages.dll] has been updated, it is required that you unregister and then register the **[!UICONTROL Adobe Insight Server]** across the cluster.
 
-    * [!DNL InsightServer64.exe /unregserver] 
+    * [!DNL InsightServer64.exe /unregserver]
     * [!DNL InsightServer64.exe /regserver]
 
 1. Start the **[!UICONTROL Adobe Insight Server]** service across the cluster.
@@ -179,9 +179,9 @@ The report server installation is now complete.
    >For example, to launch Simplified Chinese, create a shortcut that passes in the command-line setting. 
    >
    >
-   >```   >
+   >```
    >Insight.exe -zh-cn
-   >```   >
+   >```
    >
    >If you want to launch in English (default), then no command-line change is necessary.
 

@@ -128,8 +128,8 @@ Update the Report Server language files:
     1. Navigate to the ReportServer install folder. 
     1. Type the following command to start the service:
 
-        * For English: [!DNL ReportServer.exe -RegServer -Locale -en-us]
-        * For Chinese: [!DNL ReportServer.exe -RegServer -Locale -zh-cn]
+       * For English: [!DNL ReportServer.exe -RegServer -Locale -en-us]
+       * For Chinese: [!DNL ReportServer.exe -RegServer -Locale -zh-cn]
 
 1. To verify if the ReportServer is running with the correct parameters:
 
@@ -167,7 +167,7 @@ The custom profile should inherit the PAServer.cfg from the Predictive Analytics
 >
 >Once PAServer.cfg is configured and saved to custom profile, an Insight Server restart is required across the site.
 
-**Upgrade Report Server. **You will need to update the fonts and the start-up parameters for Report Server.
+**Upgrade Report Server.** You will need to update the fonts and the start-up parameters for Report Server.
 
 Prerequisites:
 
@@ -299,14 +299,14 @@ Log Sources = vector: 2 items
       SSL Server Common Name = string:  
       Use SSL = bool: false 
      
-<b>Log Source ID = string: <<i>Name your ID Here</i>></b> 
+Log Source ID = string: <Name your ID Here>
     Name = string:  
     Recursive = bool: false
 ```
 
 **Ability to Delegate FSU Resources**
 
-In [!DNL Profiles/<profilename>/dataset/Cluster.cfg], you can now specify separate File Server Units (FSU) for the Normalize and Source List servers. These services are no longer tied to the Master FSU.
+In [!DNL Profiles/`<profilename>`/dataset/Cluster.cfg], you can now specify separate File Server Units (FSU) for the Normalize and Source List servers. These services are no longer tied to the Master FSU.
 
 >[!NOTE]
 >

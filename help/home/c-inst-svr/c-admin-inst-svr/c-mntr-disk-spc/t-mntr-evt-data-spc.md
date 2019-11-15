@@ -19,7 +19,7 @@ Typically, all log data remains present on the [!DNL Insight Server] machine. If
 
 By default, event data produced by [!DNL Sensor] and transmitted to [!DNL Insight Server] is stored in the [!DNL Logs] folder within the [!DNL Insight Server] installation directory. The Communications configuration file, [!DNL Communications.cfg], specifies the location of event data log files that are read by [!DNL Insight Server].
 
-**To change the log directory for [!DNL Sensor] data ** 
+**To change the log directory for [!DNL Sensor] data**
 
 1. In [!DNL Insight], on the [!DNL Admin] > [!DNL Dataset and Profile] tab, click the **[!UICONTROL Servers Manager]** thumbnail to open the Servers Manager workspace.
 1. Right-click the icon of the [!DNL Insight Server] you want to configure and click **[!UICONTROL Server Files]**.

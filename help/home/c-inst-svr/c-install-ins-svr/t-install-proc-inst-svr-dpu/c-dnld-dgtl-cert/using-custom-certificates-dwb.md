@@ -62,7 +62,7 @@ The following instructions describe the procedures to be followed to use custom 
    Servers = vector: 1 items 
      0 = serverInfo: 
        SSL Client Certificate = string:  
-<b>my_custom_client_cert.pem</b>
+   <my_custom_client_cert.pem>
    ```
 
 ## Setting up Custom Server Certificates {#setting-up-custom-server-certificates}

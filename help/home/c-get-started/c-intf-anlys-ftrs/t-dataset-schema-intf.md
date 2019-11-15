@@ -14,7 +14,7 @@ You can control which type of visualization displays when you click a dimension 
 
 For more information about [!DNL Dataset Schema Interfaces], see [The Dataset Schema Interface](../../../home/c-get-started/c-admin-intrf/c-dtst-sch-intrf.md#concept-e147b3a5b542453ca2b121e1c85bb175).
 
-**To change the default visualization ** 
+**To change the default visualization** 
 
 1. In any workspace, create a visualization containing the data that you want to appear in the new default visualization.
 

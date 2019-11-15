@@ -38,7 +38,7 @@ Make sure you have the these tasks completed before installing the Data Workbenc
 
 * **Providing access to a printer for printing workspaces.** To print workspaces from Data Workbench, the computer on which you install Data Workbench must have access to a printer. Data Workbench can print workspaces to color or monochrome printers and does not require postscript or other advanced printer features. For optimal results, Adobe recommends printing workspaces in color. 
 * **Implement security measures.** You should follow your company’s normal enterprise security policies for Data Workbench computers. To serve its primary purposes, Data Workbench requires only the ability to connect to a server (via ports 80 and 443) and to any servers collecting data. You can use the Data Workbench hardware for any other purpose as long you maintain the Data Workbench software and allocate at least 10 GB of storage space for Data Workbench. 
-* To render visualizations accurately, the computer on which you install the workbench must have an appropriate **graphics adapter **installed (see Graphic Adapter requirements below).
+* To render visualizations accurately, the computer on which you install the workbench must have an appropriate **graphics adapter** installed (see Graphic Adapter requirements below).
 
 **Data Workbench Client Requirements**
 

@@ -13,7 +13,7 @@ The Sensor configuration file, txlogd.conf, contains parameters that Sensor uses
 
 When changing other [!DNL txlogd.conf] parameters, such as the IP address of the [!DNL data workbench server] or the name of the [!DNL Sensor], you may be able to simply replace [!DNL txlogd.conf] with the updated version and [!DNL Sensor] will pick up the changes automatically. On some systems, you may not be able to edit or replace the file without stopping either the web server or the transmitter process.
 
-**To open and edit txlogd.conf ** 
+**To open and edit txlogd.conf** 
 
 1. Browse to the [!DNL Sensor] installation directory and open the [!DNL txlogd.conf] file in a text editor.
 1. Edit the file as necessary.

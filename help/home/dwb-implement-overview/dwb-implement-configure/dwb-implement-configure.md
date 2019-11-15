@@ -8,9 +8,9 @@ uuid: a6f55cb5-c348-419c-9d21-c3fe608d4ab6
 
 Documentation for configuring and implementing DWB.
 
-* For** Data processing - Building the Primary Key**, see [Event Data Records](https://marketing.adobe.com/resources/help/en_US/insight/dataset/c_ev_data_rec_fields.html) and [Building the Primary Key](../../../home/dwb-implement-overview/dwb-implement-configure/dwb-implement-primary-key.md#concept-04e756573bf14d8e953a983e209290bd). 
+* For **Data processing - Building the Primary Key**, see [Event Data Records](https://marketing.adobe.com/resources/help/en_US/insight/dataset/c_ev_data_rec_fields.html) and [Building the Primary Key](../../../home/dwb-implement-overview/dwb-implement-configure/dwb-implement-primary-key.md#concept-04e756573bf14d8e953a983e209290bd). 
 
-* For** Data processing - Setting up Event Time**, see [Event Data Records](https://marketing.adobe.com/resources/help/en_US/insight/dataset/c_ev_data_rec_fields.html) and [Setting up Event Time](../../../home/dwb-implement-overview/dwb-implement-configure/dwb-implement-event-time.md#concept-7f84404b57e54d879411621660d20708). 
+* For **Data processing - Setting up Event Time**, see [Event Data Records](https://marketing.adobe.com/resources/help/en_US/insight/dataset/c_ev_data_rec_fields.html) and [Setting up Event Time](../../../home/dwb-implement-overview/dwb-implement-configure/dwb-implement-event-time.md#concept-7f84404b57e54d879411621660d20708). 
 
 * For **Data processing - Dimension Setup**, see [Extended Dimensions](https://marketing.adobe.com/resources/help/en_US/insight/dataset/c_ex_dim.html) and [Dimension Setup](../../../home/dwb-implement-overview/dwb-implement-configure/dwb-implement-dim-setup.md#concept-cf6e1e55038042c3ac3ae5921316538f). 
 

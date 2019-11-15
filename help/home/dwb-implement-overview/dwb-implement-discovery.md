@@ -31,9 +31,7 @@ Analysis Construction
 <table id="table_6CA959E521964E27804BB2A65EC4BBDE"> 
  <tbody> 
   <tr> 
-   <td colname="col1">Workspace Analysis Data Source(s)
-    
-     </td> 
+   <td colname="col1">Workspace Analysis Data Source(s)</td> 
    <td colname="col2"> Add Workspace name </td> 
   </tr> 
   <tr> 
@@ -86,7 +84,7 @@ Understand other data sources and channels, and learn how these will relate to y
  </tbody> 
 </table>
 
-**Analysis construction ** 
+**Analysis construction** 
 
 <table id="table_680C5D257CBF42519EFB8B96A00543C5"> 
  <tbody> 
@@ -111,7 +109,7 @@ Understand other data sources and channels, and learn how these will relate to y
  </tbody> 
 </table>
 
-**Data Sources ** 
+**Data Sources** 
 
 |  Data sources  | Priority  | How often is data received?  |
 |---|---|---|
