@@ -10,7 +10,7 @@ uuid: 14e3612e-11a2-402a-9478-904ec55df23c
 
 Follow these steps to update to data workbench v6.1 from your Insight v5.5x installation.
 
- **Step 1**: [Server Upgrade](../../../../home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-5-x-to-6-1-upgrade.md#section-08bd6fe3da8740fcb19688e8cac6f223)
+**Step 1**: [Server Upgrade](../../../../home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-5-x-to-6-1-upgrade.md#section-08bd6fe3da8740fcb19688e8cac6f223)
 
 **Step 2**: [Report Server Upgrade](../../../../home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-5-x-to-6-1-upgrade.md#section-afd9560a446242e9b06490e5f98aaaec)
 
@@ -65,7 +65,7 @@ Follow these steps to update the **[!UICONTROL Server v6.1]** components:
 
 1. Configure and save the [!DNL PAServer.cfg] file to upgrade the Predictive Analytics feature.
 
-   If you want to submit Predictive Analytics jobs to the servers, then you will need to configure the [!DNL Server > Predictive Analytics > Dataset > PAServer.cfg] file to manage server-side clustering submissions. [!DNL]
+   If you want to submit Predictive Analytics jobs to the servers, then you will need to configure the [!DNL Server > Predictive Analytics > Dataset > PAServer.cfg] file to manage server-side clustering submissions.
 
    The custom profile should inherit the settings from the Predictive Analytics configuration profile, allowing you to configure and save the [!DNL PAServer.cfg] based on your site's implementation. 
 
@@ -74,8 +74,7 @@ Follow these steps to update the **[!UICONTROL Server v6.1]** components:
    The **[!UICONTROL Recording of Rows per Log Source]** was added in **[!UICONTROL v6.04]** and defined in the custom profile’s [!DNL Log Processing.cfg] file by adding a uniquely named **[!UICONTROL Log Source ID]**.
 
    ```
-   Log Processing.cfg 
-   
+   Log Processing.cfg
    Log Source ID = string: <Name your ID Here>
    ```
 
@@ -175,9 +174,7 @@ The report server installation is now complete.
    >
    >The [!DNL Insight.zbin] file in the install folder is a backup file used for localization, and must be present in the install directory. This file or other [!DNL .zbin] files will be used depending on the command-line settings passed when starting up. 
    >
-   >
    >For example, to launch Simplified Chinese, create a shortcut that passes in the command-line setting. 
-   >
    >
    >```
    >Insight.exe -zh-cn

@@ -52,7 +52,6 @@ To set the export configuration, two new export configuration files were added t
   >```
   >ssh-keygen -t rsa -b 4096 -C "<label>"
   >```
-  >
 
   There are six parameters in the **FTPUserCredentials.cfg** file required for various FTP or SFTP transfers.
 
@@ -113,7 +112,7 @@ To set the export configuration, two new export configuration files were added t
 
    ```
    <Command Arguments> set to  
-   <sftp "%file%" ServerName ServerDestinationPath -p> 
+   <sftp "%file%" ServerName ServerDestinationPath -p>
    ```
 
    **SFTP** (if using keys for authentication)
@@ -131,8 +130,8 @@ All Command Arguments are mandatory and need to be entered as shown.
 
 To implement the FTP and SFTP Export using private and public keys, place the configuration files in these folders:
 
-* Place **FTPServerInfo.cfg** in the [!DNL Server/Addresses/Export/] folder. 
-* Place **FTPUserCredentials.cfg** in the [!DNL Server/Admin/Export/]folder.
+* Place **FTPServerInfo.cfg** in the [!DNL Server/Addresses/Export/] folder.
+* Place **FTPUserCredentials.cfg** in the [!DNL Server/Admin/Export/] folder.
 
 Six parameters are included in the **FTPServerInfo.cfg** file:
 
@@ -146,9 +145,9 @@ Six parameters are included in the **FTPServerInfo.cfg** file:
 
 1. *Passphrase*
 
-FTP uses parameters 1,2, and 3.
+FTP uses parameters 1, 2, and 3.
 
-SFTP uses parameters 1,2, and 3 when the transfer uses password authentication.
+SFTP uses parameters 1, 2, and 3 when the transfer uses password authentication.
 
 SFTP uses all six parameters when the transfer is done using key authentication. For example, if you are using keys for authentication:
 

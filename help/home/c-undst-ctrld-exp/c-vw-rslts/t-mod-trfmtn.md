@@ -43,7 +43,7 @@ The following procedure includes the creation of both the new Split transformati
    >* If you did not include the Split transformation, you must type “x-experiment” in the [!DNL Input] field. 
 
 1. Right-click **[!UICONTROL (modified)]** at the top of the window and click **[!UICONTROL Save]**.
-1. In the [!DNL Profile Manager], right-click the check mark for [!DNL Transformation.cfg] in the [!DNL User] column, then click **[!UICONTROL Save to]** > *< **[!UICONTROL profile name]**>* to save the locally made changes to the working profile.
+1. In the [!DNL Profile Manager], right-click the check mark for [!DNL Transformation.cfg] in the [!DNL User] column, then click **[!UICONTROL Save to]** > **[!UICONTROL profile name]** to save the locally made changes to the working profile.
 
    >[!NOTE]
    >

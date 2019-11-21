@@ -49,8 +49,8 @@ Follow these requirements and recommendations when upgrading to Data Workbench 6
       2 = string: Predictive Analytics\\ 
       3 = string: Adobe SC\\ 
        
-<b>4 = string: Attribution\\ 
-       5 = string: Premium\\</b>
+      4 = string: Attribution\\ 
+      5 = string: Premium\\
   ```
 
   to these settings:
@@ -62,9 +62,8 @@ Follow these requirements and recommendations when upgrading to Data Workbench 6
       0 = string: Base\\ 
       1 = string: Geography\\ 
       2 = string: Predictive Analytics\\ 
-      3 = string: Adobe SC\\ 
-       
-<b>4 = string: Attribution - Premium\\</b>
+      3 = string: Adobe SC\
+      4 = string: Attribution - Premium\\
   ```
 
 * **Update custom Meta.cfg files** (if necessary).
