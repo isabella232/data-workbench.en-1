@@ -74,8 +74,7 @@ Follow these steps to update the **[!UICONTROL Server v6.1]** components:
    The **[!UICONTROL Recording of Rows per Log Source]** was added in **[!UICONTROL v6.04]** and defined in the custom profile’s [!DNL Log Processing.cfg] file by adding a uniquely named **[!UICONTROL Log Source ID]**.
 
    ```
-   Log Processing.cfg 
-   
+   Log Processing.cfg
    Log Source ID = string: <Name your ID Here>
    ```
 

@@ -230,9 +230,9 @@ To make the FSU the centralized normalization server, you must open and edit the
  
        [!DNL Use SSL = bool: false]
 
-    >[!NOTE]
-    >
-    >When you enter the common name of FSU for the SSL Server Common Name parameter, the FSU uses its [!DNL .address] file to resolve the common name. For information about the [!DNL .address] file, see the *Server Products Installation and Administration Guide*.
+       >[!NOTE]
+       >
+       >When you enter the common name of FSU for the SSL Server Common Name parameter, the FSU uses its [!DNL .address] file to resolve the common name. For information about the [!DNL .address] file, see the *Server Products Installation and Administration Guide*.
 
     1. Save the file. 
     1. In the [!DNL Profile Manager], right-click the check mark for [!DNL Cluster.cfg] in the [!DNL User] column, then click **[!UICONTROL Save to]** > ***[!UICONTROL dataset profile name]*** to save the locally made changes to the dataset profile.

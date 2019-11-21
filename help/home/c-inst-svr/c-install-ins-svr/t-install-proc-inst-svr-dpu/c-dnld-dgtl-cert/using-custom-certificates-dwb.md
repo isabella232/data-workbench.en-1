@@ -23,7 +23,7 @@ The following instructions describe the procedures to be followed to use custom 
     1. Certificate is formatted as a [!DNL .pem] certificate. 
     1. Certificate contains its key and is unencrypted (i.e., it has no password/pass phrase).
 
-       A certificate contains its key with one of the following lines:     
+       A certificate contains its key with one of the following lines:
     
        ```    
        BEGIN PRIVATE KEY 
@@ -61,7 +61,7 @@ The following instructions describe the procedures to be followed to use custom 
    ```
    Servers = vector: 1 items 
      0 = serverInfo: 
-       SSL Client Certificate = string:  
+       SSL Client Certificate = string:
    <my_custom_client_cert.pem>
    ```
 
@@ -72,44 +72,44 @@ This section assumes that you have a cluster that is up and running, using Visua
 1. Add the certificate of the issuing CA to the [!DNL trust_cert_ca.pem] which is installed on every server in the cluster and every client that needs to communicate with this cluster. 
 1. Obtain a custom certificate for each server in the cluster with these requirements:
 
-    1. Custom certificate is formatted as a [!DNL .pem] certificate. 
-    1. Certificate contains its key and is unencrypted (i.e., it has no password/pass phrase).
+   1. Custom certificate is formatted as a [!DNL .pem] certificate. 
+   1. Certificate contains its key and is unencrypted (i.e., it has no password/pass phrase).
 
-       A certificate contains its key if it has a line such as:
+      A certificate contains its key if it has a line such as:
 
-       ```    
-       BEGIN PRIVATE KEY 
-       BEGIN RSA PRIVATE KEY
-       ```    
+      ```    
+      BEGIN PRIVATE KEY 
+      BEGIN RSA PRIVATE KEY
+      ```
+
+      One way to remove the password phrase from a [!DNL .pem] certificate:
+
+      ```    
+      openssl rsa  -in password-protected-cert.pem -out no-password-cert.pem 
+      openssl x509 -in password-protected-cert.pem >> no-password.pem
+      ```
+
+   1. Certificate has the same CN as the [!DNL server_cert.pem] currently installed on the server. 
+   1. Certificate was issued with a purpose of *server* and *client*.
+
+      To verify that a certificate has a purpose code of server and/or client, the following commands can be used:     
     
-       One way to remove the password phrase from a [!DNL .pem] certificate:
-
-       ```    
-       openssl rsa  -in password-protected-cert.pem -out no-password-cert.pem 
-       openssl x509 -in password-protected-cert.pem >> no-password.pem
-       ```
-
-    1. Certificate has the same CN as the [!DNL server_cert.pem] currently installed on the server. 
-    1. Certificate was issued with a purpose of *server* and *client*.
-
-       To verify that a certificate has a purpose code of server and/or client, the following commands can be used:     
-    
-       ```    
-       openssl verify -CAfile trust_ca_cert.pem -purpose sslserver -x509_strict custom_communications_cert.pem 
-       openssl verify -CAfile trust_ca_cert.pem -purpose sslclient -x509_strict custom_communications_cert.pem
-       ```    
+      ```    
+      openssl verify -CAfile trust_ca_cert.pem -purpose sslserver -x509_strict custom_communications_cert.pem 
+      openssl verify -CAfile trust_ca_cert.pem -purpose sslclient -x509_strict custom_communications_cert.pem
+      ```
     
        For a server certificates, both commands should yield:     
     
        ```    
        custom_communications_cert.pem: OK
-       ```    
+       ```
     
        For a client certificate, only the second command is required to yield [!DNL OK].
 
 1. Install each server's custom certificate in the **Certificates** directory of the server as [!DNL custom_communications_cert.pem]. 
 
-1. Using a text editor, add the following line to **Communications.cfg** file in both the *Components* and *Components for Processing Servers* directories, directly below the first line ( [!DNL component = CommServer]): 
+1. Using a text editor, add the following line to **Communications.cfg** file in both the *Components* and *Components for Processing Servers* directories, directly below the first line ([!DNL component = CommServer]): 
 
    ```
    Certificate = string: Certificates\\custom_communications_cert.pem

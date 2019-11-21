@@ -17,13 +17,12 @@ Steps to saving and loading filters.
 
 1. Click **[!UICONTROL Save Filter]**.
 
-       After you save the filter, you can load it to use in other workspaces. See below how to load an existing filter or reference it by name in a [!DNL Metric Editor]. See [Creating and Editing Derived Metrics](../../../../home/c-get-started/c-admin-intrf/c-prof-mgr/c-drvd-mtrcs.md#concept-e41723b342a849309874b26232224a40).
+   After you save the filter, you can load it to use in other workspaces. See below how to load an existing filter or reference it by name in a [!DNL Metric Editor]. See [Creating and Editing Derived Metrics](../../../../home/c-get-started/c-admin-intrf/c-prof-mgr/c-drvd-mtrcs.md#concept-e41723b342a849309874b26232224a40).
 
-       >[!NOTE]
-       >
-       >If you would like all users of a profile to use the filters that you save, you must upload them to the appropriate profile using the [!DNL Profile Manager]. See [Publishing Files to Your Working Profile](../../../../home/c-get-started/c-admin-intrf/c-prof-mgr/t-pub-files-wkg-prof.md#task-a0106e010c834d16bd60eef4721b6af9).
+   >[!NOTE]
+   >
+   >If you would like all users of a profile to use the filters that you save, you must upload them to the appropriate profile using the [!DNL Profile Manager]. See [Publishing Files to Your Working Profile](../../../../home/c-get-started/c-admin-intrf/c-prof-mgr/t-pub-files-wkg-prof.md#task-a0106e010c834d16bd60eef4721b6af9).
 
-       **To load an existing filter**
+**To load an existing filter**
 
-    * Right-click the filter’s name and click **[!UICONTROL Load Filter]** > *< **[!UICONTROL filter name]**>*.
-
+* Right-click the filter’s name and click **[!UICONTROL Load Filter]** > **[!UICONTROL `<filter name>`]**.
