@@ -10,4 +10,4 @@ uuid: 36f518a1-7964-4380-9cfe-38950126bbb4
 
 View the previous Data Workbench release notes.
 
-See also the [previous Insight release notes](http://marketing.adobe.com/resources/help/en_US/previous_release_notes/insight_release_notes_5.5.2.pdf). 
+See also the [previous Data Workbench release notes](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/c-release-notes-insight-600.html). 

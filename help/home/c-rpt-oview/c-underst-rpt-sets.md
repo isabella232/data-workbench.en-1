@@ -14,6 +14,6 @@ In your [!DNL Insight] installation folder, each subfolder within the <*working 
 
 >[!NOTE]
 >
->In the [!DNL Profile Manager] in Data Workbench, report sets appear as subfolders within the [!DNL Reports] folder. For more information about the [!DNL Profile Manager], see the [Data Workbench User Guide](http://marketing.adobe.com/resources/help/en_US/insight/#Data_Workbench_Help).
+>In the [!DNL Profile Manager] in Data Workbench, report sets appear as subfolders within the [!DNL Reports] folder. For more information about the [!DNL Profile Manager], see the [Data Workbench User Guide](https://docs.adobe.com/content/help/en/data-workbench/using/home.html#Data_Workbench_Help).
 
 By defining specific configuration settings for a report set in its [!DNL Report.cfg] file, you can schedule the creation and distribution of the reports, including who receives which reports and in what formats. 

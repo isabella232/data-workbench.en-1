@@ -12,7 +12,7 @@ For some of the features of Report Server to work, you must provide and configur
 
 ## Basic Report Server Requirements {#section-e891eaee79fe4fa98e658426dc3b2777}
 
-The reports that are output can either be in the form of .PNG images or .XLS spreadsheets placed in a file system, or as emails. Hardware requirements are identical to the [data workbench client](http://marketing.adobe.com/resources/help/en_US/insight/install/index.html#Data_Workbench_Client_Minimum_System_Requirements).
+The reports that are output can either be in the form of .PNG images or .XLS spreadsheets placed in a file system, or as emails. Hardware requirements are identical to the [data workbench client](https://docs.adobe.com/content/help/en/data-workbench/using/install/c-data-workbench-client-install.html#Data_Workbench_Client_Minimum_System_Requirements).
 
 The following requirements exist for Report Server:
 

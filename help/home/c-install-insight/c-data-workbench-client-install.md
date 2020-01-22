@@ -10,7 +10,7 @@ uuid: 3c4ba2e8-efbc-45fe-8ac1-923d070bc710
 
 The following are requirements and recommendations for installing the Workstation (Client) in Data Workbench.
 
- See [server system requirements](http://marketing.adobe.com/resources/help/en_US/insight/svrprod/index.html#Server_System_Requirements) for additional Data Workbench system requirements.
+ See [Server System Requirements](https://docs.adobe.com/help/en/data-workbench/using/server-admin-install/c-msr-server.html) for additional Data Workbench system requirements.
 
 >[!IMPORTANT]
 >
