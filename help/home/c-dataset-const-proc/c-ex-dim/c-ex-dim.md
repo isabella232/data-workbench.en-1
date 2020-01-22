@@ -12,4 +12,4 @@ Instructions to create extended dimensions and describe the types of extended di
 
 Derived dimensions make up another category of dimensions used by the Insight Server. As the name suggests, derived dimensions are created from existing extended dimensions or metrics. You do not define derived dimensions within a [!DNL Transformation Dataset Configuration] file as you do extended dimensions. Instead, you define them as individual [!DNL .dim] files within an inherited profile or a data set profile.
 
-See [Extended Dimensions](https://marketing.adobe.com/resources/help/en_US/insight/client/c_dvrd_dim.html) for steps to create a derived dimension. 
+See [Extended Dimensions](https://docs.adobe.com/content/help/en/data-workbench/using/client/admin-ui/profile-mgr/c-dvrd-dim.html) for steps to create a derived dimension. 
