@@ -18,7 +18,7 @@ See an overview of [Best Fit Attribution](../../../../home/c-get-started/c-attri
 
    >[!NOTE]
    >
-   >Best Fit Attribution is an Adobe Analytics Premium feature that requires you to enable Premium in your Profile. It requires you to update your certificate and add the Premium profile to your profile.cfg file. See [upgrade instructions](https://marketing.adobe.com/resources/help/en_US/insight/install/c_6_2_to_6_3_upgrade.html) for DWB 6.3.
+   >Best Fit Attribution is an Adobe Analytics Premium feature that requires you to enable Premium in your Profile. It requires you to update your certificate and add the Premium profile to your profile.cfg file. See [DWB Server upgrade: 6.2 to 6.3](https://docs.adobe.com/content/help/en/data-workbench/using/install/upgrade-dwb/c-6-2-to-6-3-upgrade.html) for DWB 6.3.
 
 1. Set the **[!UICONTROL Success]** metric. 
 

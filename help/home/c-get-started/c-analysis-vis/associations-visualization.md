@@ -8,7 +8,7 @@ uuid: 4563c336-3377-4929-8694-8c0d00866825
 
 The Association Table visualization let you associate metrics with metrics, dimensions, and dimension elements using Cramer's V algorithm.
 
-The Association Table compares values with Cramer's V calculation rather than using Pearson's correlation coefficient as used in the [Correlation Matrix](https://marketing.adobe.com/resources/help/en_US/insight/client/c_correlation_analysis.html) and [Correlation Chord](https://marketing.adobe.com/resources/help/en_US/insight/client/c_chord_visualization.html) visualizations (these can only compare metrics, while the Association Table and [Association Chord](../../../home/c-get-started/c-analysis-vis/associations-chord.md#concept-51d0bda998474dd5946cc2a9b8393445) can compare metrics, dimensions, and elements).
+The Association Table compares values with Cramer's V calculation rather than using Pearson's correlation coefficient as used in the [Correlation Matrix](https://docs.adobe.com/content/help/en/data-workbench/using/client/analysis-visualizations/correlation-analysis/c-correlation-analysis.html) and [Correlation Chord](https://docs.adobe.com/content/help/en/data-workbench/using/client/analysis-visualizations/c-chord-visualization.html) visualizations (these can only compare metrics, while the Association Table and [Association Chord](../../../home/c-get-started/c-analysis-vis/associations-chord.md#concept-51d0bda998474dd5946cc2a9b8393445) can compare metrics, dimensions, and elements).
 
 ## Build an Association Table {#section-87ed12ccc1af4196a1b6534e621c4cbb}
 

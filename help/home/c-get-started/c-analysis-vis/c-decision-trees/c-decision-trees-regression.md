@@ -10,7 +10,7 @@ Evaluate a Decision Tree using the Regression Tree option with new sampling and 
 
 Evaluate a Decision Tree using the Regression Tree option by right-clicking and selecting Options > **Regression Tree** within a Decision Tree visualization.
 
-**Updated Decision Tree builder**: The new algorithm was introduced for building a [Decision Tree](https://marketing.adobe.com/resources/help/en_US/insight/client/c_decision_trees.html). It handles more general data and provides a more informative visualization to improve the precision of the prediction.
+**Updated Decision Tree builder**: The new algorithm was introduced for building a [Decision Tree](https://docs.adobe.com/content/help/en/data-workbench/using/client/analysis-visualizations/decision-trees/c-decision-trees.html). It handles more general data and provides a more informative visualization to improve the precision of the prediction.
 
 **Improved data sampling module**: An updated adaptive sampling scheme helps Decision Tree and Propensity Score achieve higher precision results.
 

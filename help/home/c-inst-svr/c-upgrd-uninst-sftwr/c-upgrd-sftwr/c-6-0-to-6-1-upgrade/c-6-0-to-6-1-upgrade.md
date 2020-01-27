@@ -48,7 +48,7 @@ Follow these steps to update the **[!UICONTROL Server v6.1]** components:
     1. Replace the [!DNL Server\Software] folder to update [!DNL Insight.exe] and [!DNL ReportServer.exe]
     1. Update the [!DNL Server\Scripts] folder to update [!DNL TnTSend.exe].
 
-1. If you employ **[!UICONTROL DeviceAtlas]**, then you will need to [update the bundle](https://marketing.adobe.com/resources/help/en_US/insight/dataset/c_deviceAtlas_update.html) located in the [!DNL Server\Lookups] folder. 
+1. If you employ **[!UICONTROL DeviceAtlas]**, then you will need to [update the bundle](https://docs.adobe.com/content/help/en/data-workbench/using/dataset/trans-config-file/c-deviceatlas-update.html) located in the [!DNL Server\Lookups] folder. 
 
 1. Configure the [!DNL Profile.cfg] file to ensure that the vector is updated to reflect the number of items for each profile.
 

@@ -10,7 +10,7 @@ The Cluster Builder now includes a KMeans++ algorithm (only the KMeans algorithm
 
 ## KMeans Algorithms {#section-92383a1be1d6402c95a25c902e90b850}
 
-In the [Cluster Builder](https://marketing.adobe.com/resources/help/en_US/insight/client/c_visitor_cluster.html), you can now select **[!UICONTROL Options]** > **[!UICONTROL Algorithm]** to select algorithms when defining clusters.
+In the [Cluster Builder](https://docs.adobe.com/help/en/data-workbench/using/client/analysis-visualizations/visitor-cluster/c-visitor-cluster.html), you can now select **[!UICONTROL Options]** > **[!UICONTROL Algorithm]** to select algorithms when defining clusters.
 
 * **[!UICONTROL KMeans]**. This algorithm uses canopy clustering to define the centers of the cluster. 
 * **[!UICONTROL KMeans++]**. This algorithm expedites cluster building when running against large sets of data.

@@ -8,7 +8,7 @@ uuid: 705bdf00-54e5-4992-8978-91afda8c7543
 
 Export segments using the segment export wizard
 
-The segment export wizard provides a step-by-step process to configure and export segments rather than [exporting segments from a detail table](https://marketing.adobe.com/resources/help/en_US/insight/client/c_sgmt_expt.html).
+The segment export wizard provides a step-by-step process to configure and export segments rather than [exporting segments from a detail table](https://docs.adobe.com/content/help/en/data-workbench/using/client/export-data/c-sgmt-expt.html).
 
 ## Export segments using the wizard {#section-b30f2699dbc7490bad18512b91cb0cb3}
 
