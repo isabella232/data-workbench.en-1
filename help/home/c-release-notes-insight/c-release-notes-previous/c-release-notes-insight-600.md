@@ -14,8 +14,6 @@ New features introduced in Data Workbench 6.0.4, including bug fixes and known i
 
 Data workbench (Insight 6.0) includes these new features and visualizations for added reporting capabilities and predictive analysis tools.
 
-To view previous features and fixes based for each past release, see the [release note archives](https://marketing.adobe.com/resources/help/en_US/insight/insight_release_notes_prev.pdf).
-
 |  Data Workbench Features  | Description  |
 |---|---|
 |  [Funnel Visualization](../../../home/c-get-started/c-analysis-vis/c-funnel-visualization/c-funnel-visualization.md#concept-79a0854325324bb9a60906cf79ef66da)  | The Funnel visualization lets you define the sequential process flow of your customers and provides visibility into the fallout of visitors at each step in the process.  |
@@ -257,7 +255,7 @@ To use the new SiteCatalyst data feed:
 
 New features introduced in Data Workbench 6.0.4, including bug fixes and known issues.
 
-To view previous features and fixes based for each past release, see the [release note archives](https://marketing.adobe.com/resources/help/en_US/insight/insight_release_notes_prev.pdf).
+To view previous features and fixes based for each past release, see the [release note archives](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/release-notes.html).
 
 ## New Features {#section-2-1225066ea8f44cf68e42e019d0bca816}
 

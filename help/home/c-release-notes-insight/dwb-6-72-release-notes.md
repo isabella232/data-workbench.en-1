@@ -18,4 +18,4 @@ New features, fixes, and known issues in Data Workbench 6.72.
 * Fixed an issue in server where Email was missing in AUTHENTICATE audit logs. 
 * Fixed an issue in server where Client information was missing in Query Log file names when using Certificate and IP address.
 
-See [archived release notes](https://marketing.adobe.com/resources/help/en_US/insight/insight_release_notes_prev.pdf) for Data Workbench 5.3 to 5.52. 
+See [archived release notes](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/release-notes.html) for Data Workbench 5.3 to 5.52. 
