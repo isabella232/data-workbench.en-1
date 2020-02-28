@@ -117,5 +117,3 @@ Understand other data sources and channels, and learn how these will relate to y
 |  Site 2 Name (If any) (RSID)  | 1  | Hourly  |
 |  Data Source 1 (If applicable)  | 2  | Daily?  |
 |  Data Source 2 (If applicable)  | 3  | Daily?  |
-
-See additional [Data Workbench documentation](https://marketing.adobe.com/resources/help/en_US/insight/). 

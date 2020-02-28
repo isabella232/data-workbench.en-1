@@ -163,7 +163,7 @@ The following table provides descriptions of the [!DNL Report Server.cfg] file p
   </tr> 
   <tr> 
    <td colname="col1"> Status Interval </td> 
-   <td colname="col2"> <p>The frequency (in seconds) with which <span class="wintitle"> Report Server </span> generates and sends status information to data workbench server to be displayed in <span class="wintitle"> Detailed Status </span>. </p> <p>The default value is 120 seconds. It is not recommended to set this to a small value, such as two minutes, because a reporting queue can take hours to run. In that case, you might consider a setting of 600 to 1200 seconds. </p> <p>For more information about <span class="wintitle"> Detailed Status </span>, see the Administrative Interfaces chapter of the <a href="http://marketing.adobe.com/resources/pdf/en/insight/insight_user_guide_client.pdf" format="http" scope="external"> Insight User Guide </a>. </p> </td> 
+   <td colname="col2"> <p>The frequency (in seconds) with which <span class="wintitle"> Report Server </span> generates and sends status information to data workbench server to be displayed in <span class="wintitle"> Detailed Status </span>. </p> <p>The default value is 120 seconds. It is not recommended to set this to a small value, such as two minutes, because a reporting queue can take hours to run. In that case, you might consider a setting of 600 to 1200 seconds. </p> <p>For more information about <span class="wintitle"> Detailed Status </span>, see the Administrative Interfaces chapter of the <a href="https://docs.adobe.com/content/help/en/data-workbench/using/client/admin-ui/c-admin-intrf.html" format="http" scope="external"> Insight User Guide </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Update Interval </td> 
