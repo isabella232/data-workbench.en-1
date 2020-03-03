@@ -57,7 +57,7 @@ You will receive these setup files from Adobe Customer Care to install the DWB W
 >
 >The DWB Setup Wizard will walk you through installation of the DWB client workstation and help locate the Insight.cfg and `<PrimaryUser>`.pem files to place in the required folders. The Insight.cfg file resides with the Insight.exe file in your installed client workstation. The `<PrimaryUser>`.pem file resides in the Certificates folder with the trust_ca_cert.pem file. All certificate and configuration files must be present for&nbsp;DWB to function.
 
-For additional information, see the [DWB Setup Wizard](https://marketing.adobe.com/resources/help/en_US/insight/install/dwb_client_installer.html).
+For additional information, see the [DWB Setup Wizard](https://docs.adobe.com/content/help/en/data-workbench/using/install/workstation-setup/install-setup.html).
 
 ## Connection to your DWB Servers {#section-8e79c4e07c2a4342a5bb8af6ee7be3c9}
 

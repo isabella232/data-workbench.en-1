@@ -14,7 +14,7 @@ At the most basic level, dimensions are categories into which the data in the da
 
 Best Practice: Dimensions in the data schema can be provided any name. Dimension names used and explained in this course are considered a best practice. Dimensions can be named differently. As you gain exposure to other datasets, you will begin to see differences in datasets. It is important to understand the purpose of the dimensions rather than their name. For example, whether it is called "Visitor", "Customer", "Person", "Consumer", or "User", it is important to understand that these are terms commonly use to refer to the highest level countable dimension that is being used to gather information about a singular person.
 
-For complete information, see the [Dataset Configuration](https://marketing.adobe.com/resources/help/en_US/insight/dataset/) guide.
+For complete information, see the [Dataset Configuration](https://docs.adobe.com/content/help/en/data-workbench/using/dataset/c-dataset-constr.html) guide.
 
 ## Types of Dimensions in DWB {#section-a4fbb7bf2bde44528ac0f94a96465862}
 
@@ -84,12 +84,12 @@ Steps to define Extended Dimension:
 1. Right -click Transformations and click Add new > `<Extended dimension type>`. 
 1. Input the appropriate information for your extended dimension. For descriptions of the transformation types and information about their parameters, see the following sections:
 
-    * [Countable Dimensions](https://marketing.adobe.com/resources/help/en_US/insight/dataset/c_count_dim.html#concept_F28B633419494E7BBC510012DBFCC6F8) 
-    * [Simple Dimensions](https://marketing.adobe.com/resources/help/en_US/insight/dataset/c_simple_dim.html#concept_C1D804DAC4094489AFE61560D2908181) 
-    * [Many-to-Many Dimensions](https://marketing.adobe.com/resources/help/en_US/insight/dataset/c_many_dim.html#concept_5ED3CCA8B2194D4F96134F6238040998) 
-    * [Numeric Dimensions](https://marketing.adobe.com/resources/help/en_US/insight/dataset/c_num_dim.html#concept_8513B9AFAFF447C8B334410B565B91ED) 
-    * [Denormal Dimensions](https://marketing.adobe.com/resources/help/en_US/insight/dataset/c_denormal_dim.html#concept_54A2600B8EE748B7ACFF405DACCF3489) 
-    * [Time Dimensions](https://marketing.adobe.com/resources/help/en_US/insight/dataset/c_time_dim.html#concept_1E4EEB8D33964BB2A8D5768D6439DF67)
+    * [Countable Dimensions](https://docs.adobe.com/content/help/en/data-workbench/using/dataset/extended-dimensions/extended-dimensions-types/c-count-dim.html) 
+    * [Simple Dimensions](https://docs.adobe.com/content/help/en/data-workbench/using/dataset/extended-dimensions/extended-dimensions-types/c-simple-dim.html) 
+    * [Many-to-Many Dimensions](https://docs.adobe.com/content/help/en/data-workbench/using/dataset/extended-dimensions/extended-dimensions-types/c-many-dim.html) 
+    * [Numeric Dimensions](https://docs.adobe.com/content/help/en/data-workbench/using/dataset/extended-dimensions/extended-dimensions-types/c-num-dim.html) 
+    * [Denormal Dimensions](https://docs.adobe.com/content/help/en/data-workbench/using/dataset/extended-dimensions/extended-dimensions-types/c-denormal-dim.html) 
+    * [Time Dimensions](https://docs.adobe.com/content/help/en/data-workbench/using/dataset/extended-dimensions/extended-dimensions-types/c-time-dim.html)
 
 1. For any extended dimension that you define, you can add one or more comment lines to the Comments parameter to further describe the dimension or add notes about its use. To add a comment, right-click the *Comments* label and click* Add new > Comment Line*. 
 
