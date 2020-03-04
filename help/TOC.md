@@ -118,7 +118,7 @@ user-guide-title: Data Workbench Help
       + [Zoom in or out in a visualization](home/c-get-started/c-vis/c-zoom-vis.md)
       + [Adding callouts to a workspace](home/c-get-started/c-vis/c-call-wkspc.md)
       + [Annotating visualizations](home/c-get-started/c-vis/c-present-layer.md)
-      + [Add a bookmarks](home/c-get-started/c-vis/c-bookmark-about.md)
+      + [Add a bookmark](home/c-get-started/c-vis/c-bookmark-about.md)
       + [Metric Dim Wizard](home/c-get-started/c-vis/dwb-create-metricdim/dwb-create-metricdim.md)
       + [Editing the Metric Dim](home/c-get-started/c-vis/dwb-create-metricdim/dwb-6-4-metric-dim-edit.md)
    + Analysis visualizations {#analysis-visualizations}
