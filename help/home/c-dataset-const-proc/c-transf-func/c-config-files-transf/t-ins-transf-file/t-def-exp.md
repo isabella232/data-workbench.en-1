@@ -14,7 +14,7 @@ Transformation functionality provides three types of exporters for exporting [!D
 
 >[!NOTE]
 >
->For an exporter to work properly, the log source must meet the appropriate requirements discussed in the [Log Sources](../../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-sources.md#concept-6714c720fac044cbb9af003bf401b2ea) section of [Log Processing Configuration File](../../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-proc-config-file.md#concept-20e3148be47841a1b33ae55d23667d33).
+>For an exporter to work properly, the log source must meet the appropriate requirements discussed in the [Log Sources](../../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-sources.md#concept-6714c720fac044cbb9af003bf401b2ea) section of [Log Processing Configuration File](../../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-abt-log-proc-config-file.md).
 
 **To define an exporter** 
 

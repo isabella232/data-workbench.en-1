@@ -16,7 +16,7 @@ You can view the following types of imagery layers in Data Workbench:
 
 * **[!UICONTROL Terrain image layer]:** This type of layer displays terrain imagery of the Earth, over which geographical data can be displayed. The globe visualization in is an example of a terrain image layer. See [Working with Terrain Image Layers](../../../home/c-get-started/c-im-layers/c-ter-img-layers/c-ter-img-layers.md#concept-f4b3a20969354ca38955e3fd5beb0f4f). 
 
-* **[!CONTROLNL Element point layer]:** This type of layer displays one point on the globe for each element of a dimension. See [Working with Element Point Layers](../../../home/c-get-started/c-im-layers/c-elmt-pt-layers/c-elmt-pt-layers.md#concept-7c93c54552844a20bd6014ae8446b3fd). 
+* **[!UICONTROL Element point layer]:** This type of layer displays one point on the globe for each element of a dimension. See [Working with Element Point Layers](../../../home/c-get-started/c-im-layers/c-elmt-pt-layers/c-elmt-pt-layers.md#concept-7c93c54552844a20bd6014ae8446b3fd).
 
 * **[!UICONTROL Vector layer]:** This type of layer displays vector data (line art) on the globe. See [Working with Vector Layers](../../../home/c-get-started/c-im-layers/c-vctr-layers/c-vctr-layers.md#concept-a9b9cb7fc33b4aa5ae1646fab202dcc9).
 

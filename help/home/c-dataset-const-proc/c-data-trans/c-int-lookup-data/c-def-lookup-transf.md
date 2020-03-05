@@ -92,7 +92,7 @@ A [!DNL Categorize] transformation is generally easier and faster than using a [
 
 **Considerations for Categorize**
 
-* Changes to lookup files in [!DNL Categorize] transformations defined in the [!DNL Transformation.cfg] file or in a [!DNL Transformation Dataset Include] file require retransformation of the dataset. Lookup files for [!DNL Categorize] transformations defined in the [!DNL Log Processing.cfg] file or a [!DNL Log Processing Dataset Include] file are not subject to this limitation. For information about reprocessing your data, see [Reprocessing and Retransformation](../../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823). 
+* Changes to lookup files in [!DNL Categorize] transformations defined in the [!DNL Transformation.cfg] file or in a [!DNL Transformation Dataset Include] file require retransformation of the dataset. Lookup files for [!DNL Categorize] transformations defined in the [!DNL Log Processing.cfg] file or a [!DNL Log Processing Dataset Include] file are not subject to this limitation. For information about reprocessing your data, see [Reprocessing and Retransformation](../../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md). 
 
 * [!DNL Categorize] transformations defined in the [!DNL Log Processing.cfg] file or a [!DNL Log Processing Dataset Include] file reload their lookup files whenever the lookup files change. Changes are not applied retroactively, but they apply to all log data read after the change takes place.
 
@@ -192,7 +192,7 @@ The lookup table used during this transformation is populated from a flat file w
 **Considerations for [!DNL FlatFileLookup]**
 
 * Matching the input field to the lookup file is always case-sensitive. 
-* Changes to lookup files in [!DNL FlatFileLookup] transformations defined in the [!DNL Transformation.cfg] file or [!DNL Transformation Dataset Include] files require retransformation of the dataset. Lookup files for [!DNL FlatFileLookup] transformations defined in the [!DNL Log Processing.cfg] file or [!DNL Log Processing Dataset Include] files are not subject to this limitation. For information about reprocessing your data, see [Reprocessing and Retransformation](../../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823). 
+* Changes to lookup files in [!DNL FlatFileLookup] transformations defined in the [!DNL Transformation.cfg] file or [!DNL Transformation Dataset Include] files require retransformation of the dataset. Lookup files for [!DNL FlatFileLookup] transformations defined in the [!DNL Log Processing.cfg] file or [!DNL Log Processing Dataset Include] files are not subject to this limitation. For information about reprocessing your data, see [Reprocessing and Retransformation](../../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md). 
 
 * [!DNL FlatFileLookup] transformations in the [!DNL Log Processing.cfg] file or [!DNL Log Processing Dataset Include] files reload their lookup files whenever the lookup files change. Changes are not applied retroactively, but they apply to all log data read after the change takes place.
 
@@ -293,7 +293,7 @@ The [!DNL ODBCLookup] transformation operates like a [!DNL FlatFileLookup] trans
 
 * The Data Source Name, [!DNL Database User ID], [!DNL Database Password], and Table Identifier parameters are the same as the parameters of the same names that are described for ODBC data sources. See [ODBC Data Sources](../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-odbc-data-sources.md#concept-5f2cf635081d44beab826ef5ec8cf4e3). 
 
-* Unlike ODBC data sources, [!DNL ODBCLookup] transformations do not require an increasing ID column. See [ODBC Data Sources](../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-odbc-data-sources.md#concept-5f2cf635081d44beab826ef5ec8cf4e3). That is because the contents of the lookup table must not change in any way while the dataset is active. Changes in a lookup table or view can not be detected until retransformation occurs. For information about reprocessing your data, see [Reprocessing and Retransformation](../../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823).
+* Unlike ODBC data sources, [!DNL ODBCLookup] transformations do not require an increasing ID column. See [ODBC Data Sources](../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-odbc-data-sources.md#concept-5f2cf635081d44beab826ef5ec8cf4e3). That is because the contents of the lookup table must not change in any way while the dataset is active. Changes in a lookup table or view can not be detected until retransformation occurs. For information about reprocessing your data, see [Reprocessing and Retransformation](../../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md).
 
 Suppose that you want to convert outdated DNS records to the updated records. Both sets of records are stored in an SQL database. To perform this task, you would reference a lookup table that is generated from the database and replace the outdated DNS records.
 

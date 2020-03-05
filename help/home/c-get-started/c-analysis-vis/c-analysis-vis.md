@@ -17,4 +17,3 @@ Information about the numerous analysis visualizations available in Data Workben
   ![](assets/import_workspace.png)
 
   If you attempt to import a visualization, you will receive a "not a valid workspace" error.
-

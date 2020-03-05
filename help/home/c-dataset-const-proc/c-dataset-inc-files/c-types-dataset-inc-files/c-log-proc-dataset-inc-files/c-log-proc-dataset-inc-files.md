@@ -50,7 +50,7 @@ The Log Processing Dataset Include file for an inherited profile contains parame
   </tr> 
   <tr> 
    <td colname="col1"> Reprocess </td> 
-   <td colname="col2"> <p>Optional. Any character or combination of characters can be entered here. Changing this parameter and saving the file to the data workbench server initiates data reprocessing. </p> <p> For information about reprocessing your data, see <a href="../../../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823"> Reprocessing and Retransformation</a>. </p> </td> 
+   <td colname="col2"> <p>Optional. Any character or combination of characters can be entered here. Changing this parameter and saving the file to the data workbench server initiates data reprocessing. </p> <p> For information about reprocessing your data, see <a href="../../../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md"> Reprocessing and Retransformation</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Stage </td> 
@@ -58,14 +58,14 @@ The Log Processing Dataset Include file for an inherited profile contains parame
   </tr> 
   <tr> 
    <td colname="col1"> Transformations </td> 
-   <td colname="col2"> Optional. Defines the data transformations that need to be applied during log processing. For information about the available transformation types, see <a href="../../../../../home/c-dataset-const-proc/c-data-trans/c-data-trans.md#concept-99c6f5e6e5194adb9e98afdc0e91cf38"> Data Transformations</a>. </td> 
+   <td colname="col2"> Optional. Defines the data transformations that need to be applied during log processing. For information about the available transformation types, see <a href="../../../../../home/c-dataset-const-proc/c-data-trans/c-abt-transf.md"> Data Transformations</a>. </td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->For descriptions of the parameters in the [!DNL Log Processing.cfg] file, see [Log Processing Configuration File](../../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-proc-config-file.md#concept-20e3148be47841a1b33ae55d23667d33).
+>For descriptions of the parameters in the [!DNL Log Processing.cfg] file, see [Log Processing Configuration File](../../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-abt-log-proc-config-file.md).
 
 You should keep the following points in mind whenever you are working with [!DNL Log Processing Dataset Include] files:
 

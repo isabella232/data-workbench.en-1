@@ -22,7 +22,7 @@ Information about adding, removing, or copying a condition.
     
     * To open the [!DNL Transformation.cfg] file, see [Editing the Transformation Configuration File](../../../home/c-dataset-const-proc/c-trans-config-file/t-edit-trans-config-file.md#task-cfef4142c1bf4437a669d1fdc75cabbc). 
     
-    * To open a [!DNL Dataset Include] file, see [Dataset Include Files](../../../home/c-dataset-const-proc/c-dataset-inc-files/c-dataset-inc-files.md#concept-a9b6a30edfc942b0b2a2888a0a8989df).
+    * To open a [!DNL Dataset Include] file, see [Dataset Include Files](../../../home/c-dataset-const-proc/c-dataset-inc-files/c-abt-dataset-inc-files.md).
 
 1. Within the dataset configuration file, locate the Log Entry Condition or Condition parameter that you would like to define. 
 1. Right-click the parameter and click **[!UICONTROL Add new]**. Choose one of the following condition types:

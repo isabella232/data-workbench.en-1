@@ -13,7 +13,7 @@ Steps to define extended dimensions.
 1. While working in your dataset profile, open the [!DNL Profile Manager] and click **[!UICONTROL Dataset]** to show its contents.
 1. Open the [!DNL Transformation.cfg] file or the [!DNL Transformation Dataset Include] file in which you want to define the extended dimension.
 
-    * (Recommended) To open a dataset include file, see [Dataset Include Files](../../../home/c-dataset-const-proc/c-dataset-inc-files/c-dataset-inc-files.md#concept-a9b6a30edfc942b0b2a2888a0a8989df).
+    * (Recommended) To open a dataset include file, see [Dataset Include Files](../../../home/c-dataset-const-proc/c-dataset-inc-files/c-abt-dataset-inc-files.md).
 
       >[!NOTE]
       >

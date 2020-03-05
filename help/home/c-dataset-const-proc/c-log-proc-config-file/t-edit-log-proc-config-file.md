@@ -16,7 +16,7 @@ Steps to edit the Log Processing.cfg file for a dataset profile.
 
    >[!NOTE]
    >
-   >A Log Processing subdirectory may exist within the Dataset directory. This subdirectory contains the [!DNL Log Processing Dataset Include] files that have been created for one or more inherited profiles. See [Dataset Include Files](../../../home/c-dataset-const-proc/c-dataset-inc-files/c-dataset-inc-files.md#concept-a9b6a30edfc942b0b2a2888a0a8989df).
+   >A Log Processing subdirectory may exist within the Dataset directory. This subdirectory contains the [!DNL Log Processing Dataset Include] files that have been created for one or more inherited profiles. See [Dataset Include Files](../../../home/c-dataset-const-proc/c-dataset-inc-files/c-abt-dataset-inc-files.md).
 
 1. Right-click the check mark next to [!DNL Log Processing.cfg] and click **[!UICONTROL Make Local]**. A check mark for this file appears in the [!DNL User] column.
 1. Right-click the newly created check mark and click **[!UICONTROL Open]** > **[!UICONTROL in Workstation]**. The [!DNL Log Processing.cfg] window appears.
@@ -29,7 +29,7 @@ Steps to edit the Log Processing.cfg file for a dataset profile.
 
    >[!NOTE]
    >
-   >A [!DNL Log Processing Dataset Include] file for an inherited profile contains a subset of the parameters described in the following table as well as some additional parameters. See [Dataset Include Files](../../../home/c-dataset-const-proc/c-dataset-inc-files/c-dataset-inc-files.md#concept-a9b6a30edfc942b0b2a2888a0a8989df).
+   >A [!DNL Log Processing Dataset Include] file for an inherited profile contains a subset of the parameters described in the following table as well as some additional parameters. See [Dataset Include Files](../../../home/c-dataset-const-proc/c-dataset-inc-files/c-abt-dataset-inc-files.md).
 
    <table id="table_BC7D3635C94049A9B608463AC1DBFA69">
    <thead> 
@@ -69,7 +69,7 @@ Steps to edit the Log Processing.cfg file for a dataset profile.
    </tr> 
    <tr> 
       <td colname="col1"> Reprocess </td> 
-      <td colname="col2"> <p>Optional. Any character or combination of characters can be entered here. Changing this parameter and saving the file to the data workbench Server machine initiates data reprocessing. </p> <p>See <a href="../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823"> Reprocessing and Retransformation </a>. </p> </td> 
+      <td colname="col2"> <p>Optional. Any character or combination of characters can be entered here. Changing this parameter and saving the file to the data workbench Server machine initiates data reprocessing. </p> <p>See <a href="../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md"> Reprocessing and Retransformation </a>. </p> </td> 
    </tr> 
    <tr> 
       <td colname="col1"> Split Key Bucket Space </td> 
@@ -92,7 +92,7 @@ Steps to edit the Log Processing.cfg file for a dataset profile.
       </ul> </p> <p> <b>To delete an existing processing stage</b> 
       <ul id="ul_BBF4F710A5624C578F1F2A38FE18E9AD"> 
          <li id="li_CF6982C752DE41FFA97759C30CDE6AA0">Right-click the number corresponding to the stage that you want to delete and click <span class="uicontrol"> Remove </span><i>&lt; <span class="uicontrol"> #stage_number </span>&gt;</i>. </li> 
-      </ul> </p> <p> <p>Note:  When you specify a <span class="wintitle"> Stage </span> in a <span class="wintitle"> Log Processing Dataset Include </span> files, the name of the stage must match exactly the name that you enter here. See <a href="../../../home/c-dataset-const-proc/c-dataset-inc-files/c-dataset-inc-files.md#concept-a9b6a30edfc942b0b2a2888a0a8989df"> Dataset Include Files </a>. </p> </p> </td> 
+      </ul> </p> <p> <p>Note:  When you specify a <span class="wintitle"> Stage </span> in a <span class="wintitle"> Log Processing Dataset Include </span> files, the name of the stage must match exactly the name that you enter here. See <a href="../../../home/c-dataset-const-proc/c-dataset-inc-files/c-abt-dataset-inc-files.md"> Dataset Include Files </a>. </p> </p> </td> 
    </tr> 
    <tr> 
       <td colname="col1"> Start Time </td> 
@@ -120,4 +120,4 @@ Steps to edit the Log Processing.cfg file for a dataset profile.
    >
    >Do not save the modified configuration file to any of the internal profiles provided by Adobe, as your changes are overwritten when you install updates to these profiles.
 
-   For more information about reprocessing your data, see [Reprocessing and Retransformation](../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823). 
+   For more information about reprocessing your data, see [Reprocessing and Retransformation](../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md). 

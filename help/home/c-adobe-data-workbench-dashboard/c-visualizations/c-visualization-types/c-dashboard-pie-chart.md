@@ -13,4 +13,3 @@ Pie chart visualizations allow you to display relative percentages of the metric
 Selections can be made in pie charts by clicking any particular wedge.
 
 ![](assets/pie_chart.png)
-

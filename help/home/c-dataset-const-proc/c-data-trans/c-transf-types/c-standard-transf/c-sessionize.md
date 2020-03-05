@@ -85,7 +85,7 @@ A new session begins when any one of the following situations occurs:
 
 The [!DNL Sessionize] transformation in this example takes as its input the x-timestamp and x-trackingid fields and records the session number for each log entry in the x-session-key field. The transformation's [!DNL Timeout Condition] is based on a [!DNL Neither] condition: If the cs(referrer-domain) field for a log entry matches a member of the Internal Domains parameter, the condition evaluates to false. Note the references to the Internal Domains and Session Timeout parameters.
 
-For information about the [!DNL NeitherCondition], see [Conditions](../../../../../home/c-dataset-const-proc/c-conditions/c-conditions.md#concept-9a576a00d5db48e7a599016c441e39e0). For information about the Internal Domains and Session Timeout parameters, see [Configuration Settings for Web Data](../../../../../home/c-dataset-const-proc/c-config-web-data/c-config-web-data.md#concept-9a306b65483a484bb3f6f3c1d7e77519).
+For information about the [!DNL NeitherCondition], see [Conditions](../../../../../home/c-dataset-const-proc/c-conditions/c-abt-cond.md). For information about the Internal Domains and Session Timeout parameters, see [Configuration Settings for Web Data](../../../../../home/c-dataset-const-proc/c-config-web-data/c-config-web-data.md#concept-9a306b65483a484bb3f6f3c1d7e77519).
 
 ![](assets/cfg_TransformationType_Sessionize.png)
 

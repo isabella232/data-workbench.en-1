@@ -12,14 +12,14 @@ The Profile Manager displays all of the directories associated with your working
 
 You may want to access a subdirectory of the [!DNL Profile Manager] without having to navigate its entire directory structure. For example, the [!DNL Metrics] and [!DNL Workspaces] menu options available on the [!DNL Manage] menu of the workspace window menu enable you to open the Profile Manager Metrics and Workspaces folders, respectively.
 
-For more information about the [!DNL Profile Manager], see [The Profile Manager](../../../../home/c-get-started/c-admin-intrf/c-prof-mgr/c-prof-mgr.md#concept-2c8f60cc84d044bfb57ddf947b1db263).
+For more information about the [!DNL Profile Manager], see [The Profile Manager](https://docs.adobe.com/content/help/en/data-workbench/using/client/ui-analysis-features/cstm-prof-files-mgrs/c-new-prof-mgrs.html).
 
 By default you have access to the following managers:
 
 * **[!DNL Metrics Manager]:** Displays the contents of the Profile Manager’s Metrics folder. You can open, edit, remove, or copy the metrics defined within each profile. 
 * **[!DNL Reports Manager]:** Displays the contents of the Profile Manager’s Reports folder. You can open, edit, remove, or copy report workspaces or [!DNL report.cfg] files. 
 
-* **[!DNL Workspaces Manager]:** Displays the contents of the Profile Manager’s Workspaces folder. All of the files for configuring the [!DNL Worktop]’s tabs are located here. See [Customizing Worktop Tabs](../../../../home/c-get-started/c-intf-anlys-ftrs/c-cstm-wktp-tabs/c-cstm-wktp-tabs.md#concept-0f1e6061b03949199326dc6df71a52bc).
+* **[!DNL Workspaces Manager]:** Displays the contents of the Profile Manager’s Workspaces folder. All of the files for configuring the [!DNL Worktop]’s tabs are located here. See [Customizing Worktop Tabs](../../../../home/c-get-started/c-intf-anlys-ftrs/c-cstm-wktp-tabs/c-cstm-wktp-tabs.md).
 
 Data Workbench enables you to create additional profile managers that display one subdirectory from the [!DNL Profile Manager]. Each manager that you create must have a [!DNL .vw] file that specifies the [!DNL Profile Manager] directory whose contents it shows and the properties of that window. You can use the [!DNL .vw] file for any of the provided managers as a template.
 

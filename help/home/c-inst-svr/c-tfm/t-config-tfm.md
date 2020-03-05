@@ -41,7 +41,7 @@ All of these files are located in the [!DNL Dataset] folder for the profile.
 
    >[!NOTE]
    >
-   >If you followed all of the steps for installing [!DNL Insight Server] (see [Insight Server](../../../home/c-inst-svr/c-inst-svr.md#concept-c5c7e4288dcf44c8b2a61e40fae891c0)), you already may have a [!DNL Transform] folder in the Profiles directory.
+   >If you followed all of the steps for installing [!DNL Insight Server] (see [Insight Server](../../../home/c-inst-svr/c-msr-server/c-msr-server.md)), you already may have a [!DNL Transform] folder in the Profiles directory.
 
 1. Use the following steps to update the [!DNL profile.cfg] file for the profile with which you want to use [!DNL Transform]. The dataset reprocesses upon completion of these steps.
 

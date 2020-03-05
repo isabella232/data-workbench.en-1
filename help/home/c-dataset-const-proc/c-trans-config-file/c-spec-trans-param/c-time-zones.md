@@ -35,5 +35,5 @@ Data workbench users will see data in the dataset profile's time zone instead of
 
 >[!NOTE]
 >
->You can specify a Time Zone parameter in the [!DNL Log Processing.cfg] file, where it is used for time conversions during log processing. For information about the Time Zone parameter in the [!DNL Log Processing.cfg] file, see [Log Processing Configuration File](../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-proc-config-file.md#concept-20e3148be47841a1b33ae55d23667d33).
+>You can specify a Time Zone parameter in the [!DNL Log Processing.cfg] file, where it is used for time conversions during log processing. For information about the Time Zone parameter in the [!DNL Log Processing.cfg] file, see [Log Processing Configuration File](../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-abt-log-proc-config-file.md).
 

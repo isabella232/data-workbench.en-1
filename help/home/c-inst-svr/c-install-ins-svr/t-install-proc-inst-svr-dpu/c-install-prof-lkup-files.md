@@ -56,7 +56,7 @@ You must install the profile and its lookup files on the [!DNL Insight Server] m
 
        >[!NOTE]
        >
-       >The *serverCommonName* that you specify for the Common Name in the [!DNL profile.cfg] file corresponds the server common name for the [!DNL Insight Server] machine on which you are processing and running the dataset profile. For instructions to update [!DNL profile.cfg] so that the dataset profile runs on an [!DNL Insight Server] cluster, see [Insight Server Clusters](../../../../home/c-inst-svr/c-install-ins-svr/c-ins-svr-clstrs/c-ins-svr-clstrs.md#concept-7990434e7d8f42bab089d3024b96586b).
+       >The *serverCommonName* that you specify for the Common Name in the [!DNL profile.cfg] file corresponds the server common name for the [!DNL Insight Server] machine on which you are processing and running the dataset profile. For instructions to update [!DNL profile.cfg] so that the dataset profile runs on an [!DNL Insight Server] cluster, see [Insight Server Clusters](../../../../home/c-inst-svr/c-install-ins-svr/c-ins-svr-clstrs/c-abt-ins-svr-clsters.md).
 
 1. Save the file. Be sure to save the file as [!DNL profile.cfg] if it was named differently.
 

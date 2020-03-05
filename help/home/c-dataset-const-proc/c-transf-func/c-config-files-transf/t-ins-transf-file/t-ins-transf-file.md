@@ -14,7 +14,7 @@ The transformations that you define manipulate raw data collected by Sensors ( [
 
 To configure transformation functionality, you edit the data workbench [!DNL Transform.cfg] file within the Dataset folder for the profile for which you want to export event data. Typically, this profile is dedicated to transformation functionality (that is, you perform no other data processing than what is defined in the data workbench [!DNL Transform.cfg] file). It is important to note that any processing instructions specified in the [!DNL Log Processing Dataset Include] files for any inherited profiles are applied in addition to those specified in the data workbench [!DNL Transform.cfg] file.
 
-For information about dataset include files, see [Dataset Include Files](../../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-dataset-inc-files.md#concept-a9b6a30edfc942b0b2a2888a0a8989df).
+For information about dataset include files, see [Dataset Include Files](../../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-abt-dataset-inc-files.md).
 
 If the data that you want to export is processed by a data workbench server cluster, each of the processing servers (DPUs) in the cluster processes the data, but only the first DPU (processing server #0 in the [!DNL profile.cfg] file) will write the output data to its local file system.
 
@@ -56,11 +56,11 @@ If the data that you want to export is processed by a data workbench server clus
     </tr> 
     <tr> 
     <td colname="col1"> Log Entry Condition </td> 
-    <td colname="col2"> Optional. Defines the rules by which log entries are considered for export. For more information about the <span class="wintitle"> Log Entry Condition </span>, see <a href="../../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-proc-config-file.md#concept-20e3148be47841a1b33ae55d23667d33"> Log Processing Configuration File </a>. </td> 
+    <td colname="col2"> Optional. Defines the rules by which log entries are considered for export. For more information about the <span class="wintitle"> Log Entry Condition </span>, see <a href="../../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-abt-log-proc-config-file.md"> Log Processing Configuration File </a>. </td> 
     </tr> 
     <tr> 
     <td colname="col1"> Log Sources </td> 
-    <td colname="col2"> <p>The sources of data. <span class="wintitle"> Log sources </span> can be <span class="filepath"> .vsl </span> files, log files, or XML files or data from ODBC-compliant databases. For information about <span class="wintitle"> log sources </span>, see <a href="../../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-proc-config-file.md#concept-20e3148be47841a1b33ae55d23667d33"> Log Processing Configuration File </a>. </p> <p> <span class="wintitle"> Transform </span> expects all source data to be in chronological order within lexicographically ordered input files. If this requirement is not satisfied, As Of calculations are incorrect, and additional input data may be processed after the output files are closed. </p> </td> 
+    <td colname="col2"> <p>The sources of data. <span class="wintitle"> Log sources </span> can be <span class="filepath"> .vsl </span> files, log files, or XML files or data from ODBC-compliant databases. For information about <span class="wintitle"> log sources </span>, see <a href="../../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-abt-log-proc-config-file.md"> Log Processing Configuration File </a>. </p> <p> <span class="wintitle"> Transform </span> expects all source data to be in chronological order within lexicographically ordered input files. If this requirement is not satisfied, As Of calculations are incorrect, and additional input data may be processed after the output files are closed. </p> </td> 
     </tr> 
     <tr> 
     <td colname="col1"> Offline Mode </td> 
@@ -68,7 +68,7 @@ If the data that you want to export is processed by a data workbench server clus
     </tr> 
     <tr> 
     <td colname="col1"> Reprocess </td> 
-    <td colname="col2"> <p>Optional. Any character or combination of characters can be entered here. Changing this parameter and saving the file to the <span class="wintitle"> Transform </span> machine initiates data reprocessing. </p> <p> For information about reprocessing your data, see <a href="../../../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823"> Reprocessing and Retransformation </a>. </p> </td> 
+    <td colname="col2"> <p>Optional. Any character or combination of characters can be entered here. Changing this parameter and saving the file to the <span class="wintitle"> Transform </span> machine initiates data reprocessing. </p> <p> For information about reprocessing your data, see <a href="../../../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md"> Reprocessing and Retransformation </a>. </p> </td> 
     </tr> 
     <tr> 
     <td colname="col1"> Stages </td> 
@@ -79,7 +79,7 @@ If the data that you want to export is processed by a data workbench server clus
       </ul> <p> <b>To delete an existing processing stage</b> </p> 
       <ul id="ul_4950BC26E0CD4837A4CB377605A52D3C"> 
       <li id="li_A61E2C17966E4F96A1256B8390623B0F"> Right-click the number corresponding to the stage that you want to delete and click <span class="uicontrol"> Remove </span><i>&lt; <span class="uicontrol"> #stage_number </span>&gt;</i>. </li> 
-      </ul> <p> <p>Note:  When you specify a Stage in a <span class="wintitle"> Log Processing Dataset Include </span> file the name of the stage must match exactly the name that you enter here. For more information about dataset include files, see <a href="../../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-dataset-inc-files.md#concept-a9b6a30edfc942b0b2a2888a0a8989df"> Dataset Include Files </a>. </p> </p> </td> 
+      </ul> <p> <p>Note:  When you specify a Stage in a <span class="wintitle"> Log Processing Dataset Include </span> file the name of the stage must match exactly the name that you enter here. For more information about dataset include files, see <a href="../../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-abt-dataset-inc-files.md"> Dataset Include Files </a>. </p> </p> </td> 
     </tr> 
     <tr> 
     <td colname="col1"> Start Time </td> 
@@ -91,7 +91,7 @@ If the data that you want to export is processed by a data workbench server clus
     </tr> 
     <tr> 
     <td colname="col1"> Transformations </td> 
-    <td colname="col2"> <p>Optional. Defines the transformations that are to be applied to the data. For information about the available transformation types, see <a href="../../../../../home/c-dataset-const-proc/c-data-trans/c-data-trans.md#concept-99c6f5e6e5194adb9e98afdc0e91cf38"> Data Transformations </a>. </p> <p> <p>Note:  The following transformation types do not work when defined in the data workbench <span class="filepath"> Transform.cfg </span> file: </p> </p> 
+    <td colname="col2"> <p>Optional. Defines the transformations that are to be applied to the data. For information about the available transformation types, see <a href="../../../../../home/c-dataset-const-proc/c-data-trans/c-abt-transf.md"> Data Transformations </a>. </p> <p> <p>Note:  The following transformation types do not work when defined in the data workbench <span class="filepath"> Transform.cfg </span> file: </p> </p> 
       <ul id="ul_B091DFBD1C33471BBC01AEC7E92FC8CC"> 
        <li id="li_660EBECFC407488199CCCC886326806D"> AppendURI </li> 
        <li id="li_56BCEBE4A2D044AE87F5B747C6501817"> CrossRows </li> 
@@ -111,11 +111,11 @@ If the data that you want to export is processed by a data workbench server clus
 
 1. Add transformations by right-clicking **[!UICONTROL Transformations]** and clicking **[!UICONTROL Add new]** > **[!UICONTROL Transformation type]**. Complete the transformation fields.
 
-   See [Data Transformations](../../../../../home/c-dataset-const-proc/c-data-trans/c-data-trans.md#concept-99c6f5e6e5194adb9e98afdc0e91cf38) for descriptions and examples of the transformations that you can use with transformation functionality. 
+   See [Data Transformations](../../../../../home/c-dataset-const-proc/c-data-trans/c-abt-transf.md) for descriptions and examples of the transformations that you can use with transformation functionality. 
 
 1. Right-click **[!UICONTROL (modified)]** at the top of the window, then click **[!UICONTROL Save]**.
 1. To make the locally made changes take effect, in the [!DNL Profile Manager], right-click the check mark for data workbench [!DNL Transform.cfg] in the [!DNL User] column, then click **[!UICONTROL Save to]** >  **[!UICONTROL profile name]**, where profile name is the name of the profile for which you are exporting data. Reprocessing of the data begins after synchronization of the profile.
 
    >[!NOTE]
    >
-   >For information about reprocessing your data for export, see [Reprocessing and Retransformation](../../../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823).
+   >For information about reprocessing your data for export, see [Reprocessing and Retransformation](../../../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md).

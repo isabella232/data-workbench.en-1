@@ -32,7 +32,7 @@ The following table describes the parameters that are available in a [!DNL Trans
  <tbody> 
   <tr> 
    <td colname="col1"> Extended Dimensions </td> 
-   <td colname="col2"> Optional. Defines the extended dimensions. See <a href="../../../../home/c-dataset-const-proc/c-ex-dim/c-ex-dim.md#concept-79b9e2b3f5794833b8b73b003f06ddca"> Extended Dimensions</a>. </td> 
+   <td colname="col2"> Optional. Defines the extended dimensions. See <a href="../../../../home/c-dataset-const-proc/c-ex-dim/c-abt-ex-dim.md"> Extended Dimensions</a>. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Parameters </td> 
@@ -40,7 +40,7 @@ The following table describes the parameters that are available in a [!DNL Trans
   </tr> 
   <tr> 
    <td colname="col1"> Reprocess </td> 
-   <td colname="col2"> <p>Optional. Any character or combination of characters can be entered here. Changing this parameter and saving the file initiates data retransformation. </p> <p> For information about reprocessing your data, see <a href="../../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823"> Reprocessing and Retransformation</a>. </p> </td> 
+   <td colname="col2"> <p>Optional. Any character or combination of characters can be entered here. Changing this parameter and saving the file initiates data retransformation. </p> <p> For information about reprocessing your data, see <a href="../../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md"> Reprocessing and Retransformation</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Stage </td> 
@@ -48,19 +48,19 @@ The following table describes the parameters that are available in a [!DNL Trans
   </tr> 
   <tr> 
    <td colname="col1"> Transformations </td> 
-   <td colname="col2"> Optional. Defines the data transformations that need to be applied during transformation. For information about the available transformation types, see <a href="../../../../home/c-dataset-const-proc/c-data-trans/c-data-trans.md#concept-99c6f5e6e5194adb9e98afdc0e91cf38"> Data Transformations</a>. </td> 
+   <td colname="col2"> Optional. Defines the data transformations that need to be applied during transformation. For information about the available transformation types, see <a href="../../../../home/c-dataset-const-proc/c-data-trans/c-abt-transf.md"> Data Transformations</a>. </td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->For descriptions of the parameters in the [!DNL Transformation.cfg] file, see [Transformation Configuration File](../../../../home/c-dataset-const-proc/c-trans-config-file/c-trans-config-file.md#concept-cfe9e04d11fd43d980cec36c3c7af211).
+>For descriptions of the parameters in the [!DNL Transformation.cfg] file, see [Transformation Configuration File](../../../../home/c-dataset-const-proc/c-trans-config-file/c-abt-trans-config-file.md).
 
 You should keep the following points in mind whenever you are working with [!DNL Transformation Dataset Include] files:
 
 * Changing any of the parameters in this file requires retransformation of the data. 
-* [!DNL CrossRows], [!DNL ODBCLookup], [!DNL Sessionize], and [!DNL AppendURI] transformations work only when defined in a [!DNL Transformation Dataset Configuration] file. For information about these transformations, see [Data Transformations](../../../../home/c-dataset-const-proc/c-data-trans/c-data-trans.md#concept-99c6f5e6e5194adb9e98afdc0e91cf38). 
+* [!DNL CrossRows], [!DNL ODBCLookup], [!DNL Sessionize], and [!DNL AppendURI] transformations work only when defined in a [!DNL Transformation Dataset Configuration] file. For information about these transformations, see [Data Transformations](../../../../home/c-dataset-const-proc/c-data-trans/c-abt-transf.md). 
 
 * You can add any of the parameters described above to the [!DNL Transformation Dataset Include] file by opening and editing the file in Notepad. Any changes you make and save appear when you reopen the file in data workbench. When adding a new parameter, use the Space key (not the Tab key) to indent two (2) spaces to the right of the previous heading level.
 

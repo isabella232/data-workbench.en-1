@@ -28,7 +28,7 @@ The Hidden parameter is an optional parameter that you can use when defining ext
 1. Locate the Hidden parameter for the desired dimension in the configuration window and type *true*. 
 1. Save the file locally, then save it to the appropriate profile on the server. See [Editing Existing Dataset Include Files](../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-work-dataset-inc-files/t-edit-ex-dataset-inc-files.md#task-456c04e38ebc425fb35677a6bb6aa077).
 
-The dataset retransforms, after which the extended dimension does not appear on the dimension menu in data workbench. For more information about the Hidden parameter, see [Extended Dimensions](../../../../home/c-dataset-const-proc/c-ex-dim/c-ex-dim.md#concept-79b9e2b3f5794833b8b73b003f06ddca).
+The dataset retransforms, after which the extended dimension does not appear on the dimension menu in data workbench. For more information about the Hidden parameter, see [Extended Dimensions](../../../../home/c-dataset-const-proc/c-ex-dim/c-abt-ex-dim.md).
 
 If you change the Hidden parameter's setting, you must retransform the dataset for the change to take effect.
 

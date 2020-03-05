@@ -26,7 +26,7 @@ The following transformations work only when defined in the [!DNL Transformation
 
 1. Use the [!DNL Profile Manager] to open the dataset configuration file in which you want to define the transformation.
 
-    * (Recommended) To open a dataset include file, see [Dataset Include Files](../../../home/c-dataset-const-proc/c-dataset-inc-files/c-dataset-inc-files.md#concept-a9b6a30edfc942b0b2a2888a0a8989df). 
+    * (Recommended) To open a dataset include file, see [Dataset Include Files](../../../home/c-dataset-const-proc/c-dataset-inc-files/c-abt-dataset-inc-files.md). 
     * To open the [!DNL Log Processing.cfg] file, see [Editing the Log Processing Configuration File](../../../home/c-dataset-const-proc/c-log-proc-config-file/t-edit-log-proc-config-file.md#task-6a2fa1b735cb4eefad730f0a3a7858e5). 
     
     * To open the [!DNL Transformation.cfg] file, see [Editing the Transformation Configuration File](../../../home/c-dataset-const-proc/c-trans-config-file/t-edit-trans-config-file.md#task-cfef4142c1bf4437a669d1fdc75cabbc).

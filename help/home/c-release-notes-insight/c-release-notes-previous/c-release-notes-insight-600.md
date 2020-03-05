@@ -36,7 +36,7 @@ Prerequisites:
 * Before upgrading to the Insight 6.0 client and Report Server 6.0, the Insight administrator must first upgrade to Insight Server 6.0. 
 * The Insight administrator will need to choose a zbin file based on language (en-us.zbin, zh-cn.zbin), copy the language file, then rename it to insight.zbin, and place the renamed file in the root directory of the Report Server where the executable is located. Then restart the Insight Report Server.
 
-See the [Server Upgrade Requirements](../../../home/c-release-notes-insight/c-release-notes-insight.md#section-d6edba8b36234957ba8d06b555667a5a) for additional server-side upgrade information.
+See the [Server Upgrade Requirements](../../../home/c-release-notes-insight/release-notes.md) for additional server-side upgrade information.
 
 **To upgrade the zbin file for the client (from version 5.x to 6.0)**
 
@@ -90,7 +90,7 @@ It is also recommended that client upgrade their server clusters with fresh inst
 
 **Prepare the language file (.zbin file).** The Insight administrator selects the `<language>.zbin` file for the required language (for example: en-us.zbin , zh-cn.zbin) located in the `/localization/<language>.zbin` folder. The administrator then copies the language file and renames it to "insight.zbin".
 
-After preparing the language file (.zbin), both the Insight Client and Report Server need to be updated. The Insight Client is updated during the [client upgrade process](../../../home/c-release-notes-insight/c-release-notes-insight.md#section-f316103b48374b6eac77e8feb5c47ecf), but in most cases the Insight administrator will update the Report Server.
+After preparing the language file (.zbin), both the Insight Client and Report Server need to be updated. The Insight Client is updated during the [client upgrade process](../../../home/c-release-notes-insight/release-notes.md), but in most cases the Insight administrator will update the Report Server.
 
 **Update Report Server with a language file (.zbin file)**.
 

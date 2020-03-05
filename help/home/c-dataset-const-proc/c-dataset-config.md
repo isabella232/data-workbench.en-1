@@ -26,11 +26,11 @@ A dataset profile for any Adobe application must contain the following configura
 
   For instructions to add inherited profiles to a dataset profile's [!DNL Profile.cfg] file, see the *Server Products Installation and Administration Guide*. For information about installing an Insight Server cluster or configuring a dataset profile to run on an Insight Server cluster, see the *Server Products Installation and Administration Guide*. 
 
-* **Dataset\Log Processing.cfg:** Controls the log processing phase of the dataset construction process. See [Log Processing](../../home/c-dataset-const-proc/c-dataset-constr.md#concept-8a63892878004dc389c7dad784fcb061). For more information about the [!DNL Log Processing.cfg] file, see [Log Processing Configuration File](../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-proc-config-file.md#concept-20e3148be47841a1b33ae55d23667d33). 
+* **Dataset\Log Processing.cfg:** Controls the log processing phase of the dataset construction process. See [Log Processing](../../home/c-dataset-const-proc/c-dataset-constr.md#concept-8a63892878004dc389c7dad784fcb061). For more information about the [!DNL Log Processing.cfg] file, see [Log Processing Configuration File](../../home/c-dataset-const-proc/c-log-proc-config-file/c-abt-log-proc-config-file.md). 
 
-* **Dataset\Transformation.cfg:** Controls the transformation phase of the dataset construction process. See [Transformation](../../home/c-dataset-const-proc/c-dataset-constr.md#concept-88f72e0897a744b5bc03df5039264dda). The [!DNL Transformation.cfg] file typically configures the dataset for profile-specific analysis. For more information about the [!DNL Transformation.cfg] file, see [Transformation Configuration File](../../home/c-dataset-const-proc/c-trans-config-file/c-trans-config-file.md#concept-cfe9e04d11fd43d980cec36c3c7af211). 
+* **Dataset\Transformation.cfg:** Controls the transformation phase of the dataset construction process. See [Transformation](../../home/c-dataset-const-proc/c-dataset-constr.md#concept-88f72e0897a744b5bc03df5039264dda). The [!DNL Transformation.cfg] file typically configures the dataset for profile-specific analysis. For more information about the [!DNL Transformation.cfg] file, see [Transformation Configuration File](../../home/c-dataset-const-proc/c-trans-config-file/c-abt-trans-config-file.md). 
 
-* **Dataset Include Files:** A [!DNL dataset include] file contains a subset of the parameters contained in the [!DNL Log Processing.cfg] or [!DNL Transformation.cfg] file for the dataset profile but is stored and managed within an inherited profile. [!DNL Dataset include] files supplement the main dataset configuration files. For more information, see [Dataset Include Files](../../home/c-dataset-const-proc/c-dataset-inc-files/c-dataset-inc-files.md#concept-a9b6a30edfc942b0b2a2888a0a8989df).
+* **Dataset Include Files:** A [!DNL dataset include] file contains a subset of the parameters contained in the [!DNL Log Processing.cfg] or [!DNL Transformation.cfg] file for the dataset profile but is stored and managed within an inherited profile. [!DNL Dataset include] files supplement the main dataset configuration files. For more information, see [Dataset Include Files](../../home/c-dataset-const-proc/c-dataset-inc-files/c-abt-dataset-inc-files.md).
 
 The dataset profile provided to you during the implementation of your Adobe application contains a set of dataset configuration files that you can open, edit, and save using the [!DNL Profile Manager].
 
@@ -46,7 +46,7 @@ Although not required for all datasets, these files enable you to control other 
 
 * **Server.cfg:** The [!DNL Server.cfg] file specifies the default data cache size (in bytes) for data workbench machines that connect to the data workbench server. See [Additional Configuration Files](../../home/c-dataset-const-proc/c-add-config-files/c-add-config-files.md#concept-1afef4f88f1e467ab4326875fd1d3004). 
 
-* **Transform.cfg and Transform Mode.cfg:** These files are available only if you have licensed the data transformation functionality to use with your Adobe application. The [!DNL Transform.cfg] file contains the parameters that define the log sources and data transformations for transformation functionality. The transformations that you define manipulate the source data and output it into a format that you specify. The [!DNL Insight Transform Mode.cfg] file enables you to pause processing of data into a dataset, specify offline sources, or specify the frequency at which the Insight Server running transformation functionality saves its state files. See [Transform Functionality](../../home/c-dataset-const-proc/c-transf-func/c-transf-func.md#concept-d845aa29494f4a93984b5698a82dde8d).
+* **Transform.cfg and Transform Mode.cfg:** These files are available only if you have licensed the data transformation functionality to use with your Adobe application. The [!DNL Transform.cfg] file contains the parameters that define the log sources and data transformations for transformation functionality. The transformations that you define manipulate the source data and output it into a format that you specify. The [!DNL Insight Transform Mode.cfg] file enables you to pause processing of data into a dataset, specify offline sources, or specify the frequency at which the Insight Server running transformation functionality saves its state files. See [Transform Functionality](https://docs.adobe.com/content/help/en/data-workbench/using/server-admin-install/transform/t-config-tfm.html).
 
 <!--
 c_next_steps.xml
@@ -96,11 +96,11 @@ For information about specific dataset configuration tasks, use the table below 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Define transformations </p> </td> 
-   <td colname="col2"> <p> <a href="../../home/c-dataset-const-proc/c-data-trans/c-data-trans.md#concept-99c6f5e6e5194adb9e98afdc0e91cf38"> Data Transformations </a> </p> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-work-dataset-inc-files/t-create-new-dataset-inc-files.md#task-b29f30605c374a6ca747ac843337b06e"> Creating New Dataset Include Files </a> </p> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-trans-dataset-inc-files.md#concept-c64aa78ed9ce40b8a0f4932c82ff5ace"> Transformation Dataset Include Files </a> </p> </td> 
+   <td colname="col2"> <p> <a href="../../home/c-dataset-const-proc/c-data-trans/c-abt-transf.md"> Data Transformations </a> </p> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-work-dataset-inc-files/t-create-new-dataset-inc-files.md#task-b29f30605c374a6ca747ac843337b06e"> Creating New Dataset Include Files </a> </p> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-trans-dataset-inc-files.md#concept-c64aa78ed9ce40b8a0f4932c82ff5ace"> Transformation Dataset Include Files </a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Create extended dimensions </p> </td> 
-   <td colname="col2"> <p> <a href="../../home/c-dataset-const-proc/c-ex-dim/c-ex-dim.md#concept-79b9e2b3f5794833b8b73b003f06ddca"> Extended Dimensions </a> </p> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-work-dataset-inc-files/t-create-new-dataset-inc-files.md#task-b29f30605c374a6ca747ac843337b06e"> Creating New Dataset Include Files </a> </p> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-trans-dataset-inc-files.md#concept-c64aa78ed9ce40b8a0f4932c82ff5ace"> Transformation Dataset Include Files </a> </p> </td> 
+   <td colname="col2"> <p> <a href="../../home/c-dataset-const-proc/c-ex-dim/c-abt-ex-dim.md"> Extended Dimensions </a> </p> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-work-dataset-inc-files/t-create-new-dataset-inc-files.md#task-b29f30605c374a6ca747ac843337b06e"> Creating New Dataset Include Files </a> </p> <p> <a href="../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-trans-dataset-inc-files.md#concept-c64aa78ed9ce40b8a0f4932c82ff5ace"> Transformation Dataset Include Files </a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Define parameters to use throughout log processing or transformation </p> </td> 
@@ -120,7 +120,7 @@ For information about specific dataset configuration tasks, use the table below 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Reprocess your dataset </p> </td> 
-   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823"> Reprocessing and Retransformation </a> </p> </td> 
+   <td colname="col2"> <p><a href="../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md"> Reprocessing and Retransformation </a> </p> </td> 
   </tr> 
  </tbody> 
 </table>

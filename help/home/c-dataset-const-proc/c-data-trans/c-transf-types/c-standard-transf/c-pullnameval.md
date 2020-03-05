@@ -20,7 +20,7 @@ The PullNameValues transformation is a special operation that takes the values i
 |  Default  | The default value to use if the condition is met and the input value is not available in the given log entry.  |  |
 |  Output  | The name of the output string.  |  |
 
-The [!DNL PullNameValues] transformation is used in this example to capture visitors' use of the search form: which buttons were selected, what values were typed in the form, and so on. The example uses a [!DNL String Match] condition (see [Conditions](../../../../../home/c-dataset-const-proc/c-conditions/c-conditions.md#concept-9a576a00d5db48e7a599016c441e39e0)) to isolate the use of this transformation to only the page [!DNL /search.php]. The vector of name-value pairs is output into the field x-search-namevalues.
+The [!DNL PullNameValues] transformation is used in this example to capture visitors' use of the search form: which buttons were selected, what values were typed in the form, and so on. The example uses a [!DNL String Match] condition (see [Conditions](../../../../../home/c-dataset-const-proc/c-conditions/c-abt-cond.md)) to isolate the use of this transformation to only the page [!DNL /search.php]. The vector of name-value pairs is output into the field x-search-namevalues.
 
 ![](assets/cfg_TransformationType_PullNameValues.png)
 

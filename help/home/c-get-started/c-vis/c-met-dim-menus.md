@@ -10,7 +10,7 @@ uuid: 0dfae2bd-6c33-4496-83ea-f7f6de960259
 
 The menus accessed by right-clicking the metric or dimension area within a visualization provide access to actions related to the metric or dimension in that visualization.
 
- For more information about using these menu options with a particular type of visualization, see the appropriate visualization section within [Analysis Visualizations](../../../home/c-get-started/c-analysis-vis/c-analysis-vis.md#concept-cb5b9716d3404b2b888a55b3efec1fa5). For information about the default menu options for all other menus in Data Workbench, see [Getting Started](../../../home/c-get-started/c-get-started.md#concept-cfa6b7a2afb54a04809bfefe169d2954).
+ For more information about using these menu options with a particular type of visualization, see the appropriate visualization section within [Analysis Visualizations](../../../home/c-get-started/c-analysis-vis/c-analysis-vis.md).
 
 ## The Metric menu {#section-115db63a26f04b57ac954a69972c6291}
 

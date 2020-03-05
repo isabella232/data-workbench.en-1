@@ -157,11 +157,11 @@ The table below lists examples of fields that are derived by the data workbench 
   </tr> 
   <tr> 
    <td colname="col1"> x-local-timestring </td> 
-   <td colname="col2"> <p>x-timestamp converted to the local timezone that is specified in the <span class="filepath"> Transformation.cfg </span> file for the dataset. The format is YYYY-MM-DD HH:MM:SS.mmm. </p> <p> <p>Note:  You also can define time conversions such as x-local-timestring in the <span class="filepath"> Log Processing.cfg </span> file. For information, see <a href="../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-proc-config-file.md#concept-20e3148be47841a1b33ae55d23667d33"> Log Processing Configuration File </a>. </p> </p> </td> 
+   <td colname="col2"> <p>x-timestamp converted to the local timezone that is specified in the <span class="filepath"> Transformation.cfg </span> file for the dataset. The format is YYYY-MM-DD HH:MM:SS.mmm. </p> <p> <p>Note:  You also can define time conversions such as x-local-timestring in the <span class="filepath"> Log Processing.cfg </span> file. For information, see <a href="../../home/c-dataset-const-proc/c-log-proc-config-file/c-abt-log-proc-config-file.md"> Log Processing Configuration File </a>. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> x-log-source-id </td> 
-   <td colname="col2"> <p>The identifier corresponding to the log source for a particular log entry. For the identifier to be recorded, you must specify it in the <span class="wintitle"> Log Source ID </span> field of the <span class="filepath"> Log Processing.cfg </span> file when defining <span class="wintitle"> Sensor </span>, log file, or ODBC data sources. For more information, see <a href="../../home/c-dataset-const-proc/c-log-proc-config-file/c-log-proc-config-file.md#concept-20e3148be47841a1b33ae55d23667d33"> Log Processing Configuration File </a>. </p> <p> Example: from VSensor01. </p> </td> 
+   <td colname="col2"> <p>The identifier corresponding to the log source for a particular log entry. For the identifier to be recorded, you must specify it in the <span class="wintitle"> Log Source ID </span> field of the <span class="filepath"> Log Processing.cfg </span> file when defining <span class="wintitle"> Sensor </span>, log file, or ODBC data sources. For more information, see <a href="../../home/c-dataset-const-proc/c-log-proc-config-file/c-abt-log-proc-config-file.md"> Log Processing Configuration File </a>. </p> <p> Example: from VSensor01. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> x-mask </td> 

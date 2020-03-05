@@ -31,7 +31,7 @@ You can configure your implementation of [!DNL Site] to remove log entries with 
 
    ![](assets/cfg_WebParameters_HTTPStatusFilter.png)
 
-   For information about the [!DNL Range] condition, see [Conditions](../../../home/c-dataset-const-proc/c-conditions/c-conditions.md#concept-9a576a00d5db48e7a599016c441e39e0). 
+   For information about the [!DNL Range] condition, see [Conditions](../../../home/c-dataset-const-proc/c-conditions/c-abt-cond.md). 
 
 1. Save the [!DNL HTTP Status Filter.cfg] file by right-clicking **[!UICONTROL (modified)]** at the top of the window and clicking **[!UICONTROL Save]**. 
 

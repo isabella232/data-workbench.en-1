@@ -23,7 +23,7 @@ The data workbench server (InsightServer64.exe) can read event data from any SQL
 * The data workbench server cannot load columns with long data (data above a certain length as determined by the specific database application in use). 
 * Retrieving data from a database is slower than reading it from a disk file. Datasets that load data from an ODBC source take much longer to process (particularly when reprocessing) than equivalently sized datasets whose data comes from Sensors or other disk files.
 
-For information about reprocessing your data, see [Reprocessing and Retransformation](../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823).
+For information about reprocessing your data, see [Reprocessing and Retransformation](../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md).
 
 **To configure Insight Server for ODBC [!DNL event data]**
 

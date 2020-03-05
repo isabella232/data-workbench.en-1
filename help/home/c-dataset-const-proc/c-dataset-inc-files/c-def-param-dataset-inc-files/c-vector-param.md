@@ -18,4 +18,4 @@ Note that the vector parameter is the only item listed for the [!DNL Matches] ve
 
 ![](assets/cfg_Parameters_InternalDomains_Ref.png)
 
-For more information about internal domains, see [Configuration Settings for Web Data](../../../../home/c-dataset-const-proc/c-config-web-data/c-config-web-data.md#concept-9a306b65483a484bb3f6f3c1d7e77519). For information about the [!DNL String Match] condition, see [Conditions](../../../../home/c-dataset-const-proc/c-conditions/c-conditions.md#concept-9a576a00d5db48e7a599016c441e39e0). 
+For more information about internal domains, see [Configuration Settings for Web Data](../../../../home/c-dataset-const-proc/c-config-web-data/c-config-web-data.md#concept-9a306b65483a484bb3f6f3c1d7e77519). For information about the [!DNL String Match] condition, see [Conditions](../../../../home/c-dataset-const-proc/c-conditions/c-abt-cond.md). 

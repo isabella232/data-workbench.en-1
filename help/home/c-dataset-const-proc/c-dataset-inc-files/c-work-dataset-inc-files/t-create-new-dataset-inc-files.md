@@ -18,13 +18,13 @@ You should create a new dataset include file to perform any of the following dat
     * Update existing log fields. 
     * Produce new fields that are to be passed from log processing to transformation or that are used to define extended dimensions.
 
-      For information about the available transformation types, see [Data Transformations](../../../../home/c-dataset-const-proc/c-data-trans/c-data-trans.md#concept-99c6f5e6e5194adb9e98afdc0e91cf38).
+      For information about the available transformation types, see [Data Transformations](../../../../home/c-dataset-const-proc/c-data-trans/c-abt-transf.md).
 
       >[!NOTE]
       >
       >If you are defining transformations in a new dataset include file, be sure to keep the order of the inputs and outputs in mind. For information about the ordering of transformations, see [Conventions for Constructing Transformations](../../../../home/c-dataset-const-proc/c-data-trans/c-con-transf.md#concept-01998eebb7e347c58255fb442f2613b6).
 
-* Creating extended dimensions. For information about the available dimension types, see [Extended Dimensions](../../../../home/c-dataset-const-proc/c-ex-dim/c-ex-dim.md#concept-79b9e2b3f5794833b8b73b003f06ddca).
+* Creating extended dimensions. For information about the available dimension types, see [Extended Dimensions](../../../../home/c-dataset-const-proc/c-ex-dim/c-abt-ex-dim.md).
 
 1. While working in your dataset profile, open the [!DNL Profile Manager] and click **[!UICONTROL Dataset]** to view the existing dataset include files.
 

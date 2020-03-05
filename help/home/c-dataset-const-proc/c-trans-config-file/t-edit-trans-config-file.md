@@ -16,7 +16,7 @@ Steps for editing the Transformation.cfg file for a dataset profile.
 
    >[!NOTE]
    >
-   >A Transformation subdirectory may exist within the Dataset directory. This subdirectory contains the [!DNL Transformation Dataset Include] files that have been created for one or more inherited profiles. For information about [!DNL Transformation Dataset Include] files, see [Dataset Include Files](../../../home/c-dataset-const-proc/c-dataset-inc-files/c-dataset-inc-files.md#concept-a9b6a30edfc942b0b2a2888a0a8989df).
+   >A Transformation subdirectory may exist within the Dataset directory. This subdirectory contains the [!DNL Transformation Dataset Include] files that have been created for one or more inherited profiles. For information about [!DNL Transformation Dataset Include] files, see [Dataset Include Files](../../../home/c-dataset-const-proc/c-dataset-inc-files/c-abt-dataset-inc-files.md).
 
 1. Right-click the check mark next to [!DNL Transformation.cfg] and click **[!UICONTROL Make Local]**. A check mark for this file appears in the [!DNL User] column.
 1. Right-click the newly created check mark and click **[!UICONTROL Open]** > **[!UICONTROL in Workstation]**. The [!DNL Transformation.cfg] window appears.
@@ -29,7 +29,7 @@ Steps for editing the Transformation.cfg file for a dataset profile.
 
    >[!NOTE]
    >
-   >A [!DNL Transformation Dataset Include] files for an inherited profile contains a subset of the parameters described in the following table as well as some additional parameters. For information about [!DNL Transformation Dataset Include] files, see [Dataset Include Files](../../../home/c-dataset-const-proc/c-dataset-inc-files/c-dataset-inc-files.md#concept-a9b6a30edfc942b0b2a2888a0a8989df)
+   >A [!DNL Transformation Dataset Include] files for an inherited profile contains a subset of the parameters described in the following table as well as some additional parameters. For information about [!DNL Transformation Dataset Include] files, see [Dataset Include Files](../../../home/c-dataset-const-proc/c-dataset-inc-files/c-abt-dataset-inc-files.md)
 
    <table id="table_5E184F67CCEC4421B2BBD4261711A6FE"> 
    <thead> 
@@ -65,7 +65,7 @@ Steps for editing the Transformation.cfg file for a dataset profile.
    </tr> 
    <tr> 
       <td colname="col1"> Reprocess </td> 
-      <td colname="col2"> <p>Optional. Any character or combination of characters can be entered here. Changing this parameter and saving the file initiates data retransformation. </p> <p> For information about reprocessing your data, see <a href="../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823"> Reprocessing and Retransformation </a>. </p> </td> 
+      <td colname="col2"> <p>Optional. Any character or combination of characters can be entered here. Changing this parameter and saving the file initiates data retransformation. </p> <p> For information about reprocessing your data, see <a href="../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md"> Reprocessing and Retransformation </a>. </p> </td> 
    </tr> 
    <tr> 
       <td colname="col1"> Schema Checking </td> 
@@ -80,7 +80,7 @@ Steps for editing the Transformation.cfg file for a dataset profile.
       </ul> </p> <p> <b>To delete an existing processing stage</b> </p> <p> 
       <ul id="ul_2EFA5A40982A48919E9946BF1955110A"> 
        <li id="li_3B3829DA34FD4774B3F9F94074099794"> Right-click the number corresponding to the stage that you want to delete and click <span class="uicontrol"> Remove </span><i>&lt; <span class="uicontrol"> #stage_number </span>&gt;</i>. </li> 
-      </ul> </p> <p> <p>Note:  When you specify a Stage in a <span class="wintitle"> Transformation Dataset Include </span> files the name of the stage must match exactly the name that you enter here. For more information about dataset include files, see <a href="../../../home/c-dataset-const-proc/c-dataset-inc-files/c-dataset-inc-files.md#concept-a9b6a30edfc942b0b2a2888a0a8989df"> Dataset Include Files </a>. </p> </p> </td> 
+      </ul> </p> <p> <p>Note:  When you specify a Stage in a <span class="wintitle"> Transformation Dataset Include </span> files the name of the stage must match exactly the name that you enter here. For more information about dataset include files, see <a href="../../../home/c-dataset-const-proc/c-dataset-inc-files/c-abt-dataset-inc-files.md"> Dataset Include Files </a>. </p> </p> </td> 
    </tr> 
    <tr> 
       <td colname="col1"> Start Time </td> 
@@ -108,4 +108,4 @@ Steps for editing the Transformation.cfg file for a dataset profile.
    >
    >Do not save the modified configuration file to any of the internal profiles provided by Adobe, as your changes are overwritten when you install updates to these profiles.
 
-   For information about reprocessing or retransforming your data, see [Reprocessing and Retransformation](../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823). 
+   For information about reprocessing or retransforming your data, see [Reprocessing and Retransformation](../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md). 

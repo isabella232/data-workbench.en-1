@@ -70,4 +70,4 @@ In this example, which uses fields of data collected from website traffic, a new
 
 ![](assets/cfg_TransformationType_Math.png)
 
-For information about the [!DNL Not Empty] condition, see [Conditions](../../../../../home/c-dataset-const-proc/c-conditions/c-conditions.md#concept-9a576a00d5db48e7a599016c441e39e0). 
+For information about the [!DNL Not Empty] condition, see [Conditions](../../../../../home/c-dataset-const-proc/c-conditions/c-abt-cond.md). 

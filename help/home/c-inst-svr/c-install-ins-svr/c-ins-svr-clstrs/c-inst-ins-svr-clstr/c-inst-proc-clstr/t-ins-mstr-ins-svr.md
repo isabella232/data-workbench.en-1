@@ -16,5 +16,5 @@ Besides brokering connections between a client and other [!DNL Insight Servers] 
 **To install the master [!DNL Insight Server]** 
 
 1. Determine which machine will act as the master [!DNL Insight Server].
-1. Install and configure [!DNL Insight Server] (typically, an [!DNL Insight Server] FSU) on this machine as described in [Insight Server](../../../../../../home/c-inst-svr/c-inst-svr.md#concept-c5c7e4288dcf44c8b2a61e40fae891c0).
-1. Install [!DNL Insight] and configure a connection to the master [!DNL Insight Server] as described in the * [!DNL Insight] User Guide*.
+1. Install and configure [!DNL Insight Server] (typically, an [!DNL Insight Server] FSU) on this machine as described in [Insight Server](../../../../../../home/c-inst-svr/c-msr-server/c-msr-server.md).
+1. Install [!DNL Insight] and configure a connection to the master [!DNL Insight Server] as described in the *[!DNL Insight] User Guide*.

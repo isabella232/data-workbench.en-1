@@ -15,7 +15,7 @@ Conceptual information to consider when editing the Log Processing.cfg file.
 
 * If you reprocess the data, you can check the Log Processing Progress parameter in data workbench's [!DNL Processing Legend].
 
-  For information about reprocessing your data, see [Reprocessing and Retransformation](../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823). See [Processing Legend](../../../home/c-get-started/c-admin-intrf/c-pro-lgd.md#concept-233e27c9c84c426f8c178a27cc7ff828). 
+  For information about reprocessing your data, see [Reprocessing and Retransformation](../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md). See [Processing Legend](../../../home/c-get-started/c-admin-intrf/c-pro-lgd.md#concept-233e27c9c84c426f8c178a27cc7ff828). 
 
 * The [!DNL Log Processing.cfg] file can be shared by multiple dataset profiles. Transformations defined in the [!DNL Log Processing.cfg] file are applied to all dataset profiles that share this configuration file.
 

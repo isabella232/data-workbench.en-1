@@ -14,13 +14,6 @@ During reprocessing, the data workbench server reconstructs your dataset as you 
 
 During the log processing phase, data workbench users do not have access to the data in the dataset. During the transformation phase, data workbench users do have access to up-to-date data, but the data is sampled instead of complete. Data analysis can continue during transformation, but queries will complete only as quickly as the transformation is occurring.
 
-For more information about the log processing and transformation phases of dataset construction, see [The Dataset Construction Process](../../../home/c-dataset-const-proc/c-dataset-const-proc.md#concept-9bc072216321415f933c4392653fafac).
-
-This section discusses the following topics:
-
-* [Reprocessing](../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md#section-92f1e46bf1534b3dba39e9493190b8ab) 
-* [Retransformation](../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md#section-02446744549940ada8eba0573ec5575f)
-
 ## Reprocessing {#section-92f1e46bf1534b3dba39e9493190b8ab}
 
 Each time you complete one of the following tasks, log processing, and therefore transformation, occurs automatically to reconstruct your dataset as you have specified in the dataset configuration files:
@@ -30,9 +23,9 @@ Each time you complete one of the following tasks, log processing, and therefore
 * Change the [!DNL Cluster.cfg] file. 
 * Change the [!DNL Log Processing.cfg] file or a [!DNL Log Processing Dataset Include] file, including but not limited to the following:
 
-    * Add a new parameter 
-    * Change a transformation 
-    * Change the Start Time or End Time parameters
+  * Add a new parameter 
+  * Change a transformation 
+  * Change the Start Time or End Time parameters
 
 * Upgrade your [!DNL Insight Server.exe] file.
 

@@ -13,9 +13,9 @@ Important information to consider when editing the Transformation.cfg file.
 * Changing any of the parameters in this file requires retransformation of the data. 
 * If you reprocess the data, you can check the [!DNL Transformation Progress] parameter in data workbench's [!DNL Processing Legend].
 
-  For information about reprocessing your data or the [!DNL Processing Legend,] see [Reprocessing and Retransformation](../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823).
+  For information about reprocessing your data or the [!DNL Processing Legend,] see [Reprocessing and Retransformation](../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md).
 
-* [!DNL CrossRows], [!DNL ODBCLookup], [!DNL Sessionize], and [!DNL AppendURI] transformations work only when defined in a [!DNL Transformation Dataset Configuration] file. For information about these transformations, see [Data Transformations](../../../home/c-dataset-const-proc/c-data-trans/c-data-trans.md#concept-99c6f5e6e5194adb9e98afdc0e91cf38).
+* [!DNL CrossRows], [!DNL ODBCLookup], [!DNL Sessionize], and [!DNL AppendURI] transformations work only when defined in a [!DNL Transformation Dataset Configuration] file. For information about these transformations, see [Data Transformations](../../../home/c-dataset-const-proc/c-data-trans/c-abt-transf.md).
 
   >[!NOTE]
   >

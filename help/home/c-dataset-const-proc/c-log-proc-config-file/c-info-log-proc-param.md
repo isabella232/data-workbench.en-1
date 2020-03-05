@@ -36,7 +36,7 @@ c_log_entry_con.xml
 
 In essence, it is a filtering process on the available log entries. If the [!DNL Log Entry Condition] returns a value of false, the log entry is filtered out of the available set of log entries.
 
-The [!DNL Log Entry Condition] is described through the use of condition operations (see [Conditions](../../../home/c-dataset-const-proc/c-conditions/c-conditions.md#concept-9a576a00d5db48e7a599016c441e39e0)) and can use any of the input fields collected by [!DNL Sensor] (see the *Data Workbench [!DNL Sensor] Guide* ) or any extended fields produced by transformations contained within the [!DNL Log Processing.cfg] file to define the test conditions. [!DNL Log Entry] conditions are applied during log processing and optionally can be applied during transformation.
+The [!DNL Log Entry Condition] is described through the use of condition operations (see [Conditions](../../../home/c-dataset-const-proc/c-conditions/c-abt-cond.md)) and can use any of the input fields collected by [!DNL Sensor] (see the *Data Workbench [!DNL Sensor] Guide* ) or any extended fields produced by transformations contained within the [!DNL Log Processing.cfg] file to define the test conditions. [!DNL Log Entry] conditions are applied during log processing and optionally can be applied during transformation.
 
 This example demonstrates the use of the [!DNL log entry condition] for website data. You can use the [!DNL Log Entry Condition] to create datasets that focus on a specific portion of the website or visitors performing some specific action on the site.
 

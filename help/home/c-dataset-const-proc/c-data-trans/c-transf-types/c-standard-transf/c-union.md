@@ -25,4 +25,4 @@ This example uses fields of data from website traffic to create a list of the zi
 
 ![](assets/cfg_TransformationType_Union.png)
 
-While it is possible for both of these values to be available in a single log entry, you can select which value to use when you create a dimension based on the transformation's output. In a typical use case, you would create a simple dimension that takes either the first or the last of the encountered values. For information about creating simple dimensions, see [Extended Dimensions](../../../../../home/c-dataset-const-proc/c-ex-dim/c-ex-dim.md#concept-79b9e2b3f5794833b8b73b003f06ddca). 
+While it is possible for both of these values to be available in a single log entry, you can select which value to use when you create a dimension based on the transformation's output. In a typical use case, you would create a simple dimension that takes either the first or the last of the encountered values. For information about creating simple dimensions, see [Extended Dimensions](../../../../../home/c-dataset-const-proc/c-ex-dim/c-abt-ex-dim.md). 

@@ -23,7 +23,7 @@ For information about opening and working with the [!DNL Profile Manager], see t
 1. Right-click the check mark next to the desired dataset include file and click **[!UICONTROL Make Local]**. A check mark for this file appears in the [!DNL User] column.
 1. Right-click the newly created check mark and click **[!UICONTROL Open]** > **[!UICONTROL from the workbench]**. The configuration window appears.
 
-   You can also open a dataset include file from a [!DNL Transformation Dependency Maps]. For information about [!DNL Transformation Dependency Maps], see [Reprocessing and Retransformation](../../../../home/c-dataset-const-proc/c-reproc-retrans/c-reproc-retrans.md#concept-6d82a173e4ab4111b673e7c2477d0823). 
+   You can also open a dataset include file from a [!DNL Transformation Dependency Maps]. For information about [!DNL Transformation Dependency Maps], see [Reprocessing and Retransformation](../../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md). 
 
 1. Edit the parameters in the configuration file as appropriate. See [Log Processing Dataset Include Files](../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-log-proc-dataset-inc-files/c-log-proc-dataset-inc-files.md#concept-999475a22519432e98844622ca95b6ab) or [Transformation Dataset Include Files](../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-types-dataset-inc-files/c-trans-dataset-inc-files.md#concept-c64aa78ed9ce40b8a0f4932c82ff5ace) for descriptions of the parameters.
 

@@ -29,7 +29,7 @@ The [!DNL Page View Condition] is a condition operation that determines whether 
 
 Your default implementation of [!DNL Site] includes a [!DNL Transformation Dataset Include] file in which the Page View countable dimension and the related [!DNL Page View Condition] are defined.
 
-For information about countable dimensions, see [Extended Dimensions](../../../home/c-dataset-const-proc/c-ex-dim/c-ex-dim.md#concept-79b9e2b3f5794833b8b73b003f06ddca).
+For information about countable dimensions, see [Extended Dimensions](../../../home/c-dataset-const-proc/c-ex-dim/c-abt-ex-dim.md).
 
 **To edit the configuration settings for the Page View Condition**
 
@@ -45,7 +45,7 @@ For information about countable dimensions, see [Extended Dimensions](../../../h
 
    >[!NOTE]
    >
-   >For information about countable dimensions, see [Extended Dimensions](../../../home/c-dataset-const-proc/c-ex-dim/c-ex-dim.md#concept-79b9e2b3f5794833b8b73b003f06ddca). For information about the [!DNL Copy] transformation, see [Data Transformations](../../../home/c-dataset-const-proc/c-data-trans/c-data-trans.md#concept-99c6f5e6e5194adb9e98afdc0e91cf38).
+   >For information about countable dimensions, see [Extended Dimensions](../../../home/c-dataset-const-proc/c-ex-dim/c-abt-ex-dim.md). For information about the [!DNL Copy] transformation, see [Data Transformations](../../../home/c-dataset-const-proc/c-data-trans/c-abt-transf.md).
 
 1. Save the file by right-clicking **[!UICONTROL (modified)]** at the top of the window, then click **[!UICONTROL Save]**. 
 
@@ -59,7 +59,7 @@ For information about countable dimensions, see [Extended Dimensions](../../../h
 
 If you are working with [!DNL Site], you need to define the URI dimension whose elements are the URI stems of the website pages viewed. Your default implementation includes a [!DNL Transformation Dataset Include] file in which the URI simple dimension is defined.
 
-For information about simple dimensions, see [Extended Dimensions](../../../home/c-dataset-const-proc/c-ex-dim/c-ex-dim.md#concept-79b9e2b3f5794833b8b73b003f06ddca).
+For information about simple dimensions, see [Extended Dimensions](../../../home/c-dataset-const-proc/c-ex-dim/c-abt-ex-dim.md).
 
 **To edit the configuration settings for the URI dimension**
 
@@ -94,7 +94,7 @@ The configuration settings for the URI dimension include the following two param
 
 If you are working with [!DNL Site], you need to define the Referrer dimension whose elements consist of the second level domains of the referrers of the first log entries in all sessions. Your default implementation includes a [!DNL Transformation Dataset Include] file in which the Referrer simple dimension is defined.
 
-For information about simple dimensions, see [Extended Dimensions](../../../home/c-dataset-const-proc/c-ex-dim/c-ex-dim.md#concept-79b9e2b3f5794833b8b73b003f06ddca).
+For information about simple dimensions, see [Extended Dimensions](../../../home/c-dataset-const-proc/c-ex-dim/c-abt-ex-dim.md).
 
 **To edit the configuration settings for the Referrer dimension**
 
@@ -139,7 +139,7 @@ Consider a situation in which a visitor is called away from his computer for a p
 
 >[!NOTE]
 >
->The [!DNL Sessionize] transformation's [!DNL Timeout Condition] also plays a role in determining the length of a visitor's session. If Session Timeout and Maximum Session Duration do not apply, the [!DNL Timeout Condition] is checked to determine whether a log entry should be considered the start of a new session. For more information, see [Data Transformations](../../../home/c-dataset-const-proc/c-data-trans/c-data-trans.md#concept-99c6f5e6e5194adb9e98afdc0e91cf38).
+>The [!DNL Sessionize] transformation's [!DNL Timeout Condition] also plays a role in determining the length of a visitor's session. If Session Timeout and Maximum Session Duration do not apply, the [!DNL Timeout Condition] is checked to determine whether a log entry should be considered the start of a new session. For more information, see [Data Transformations](../../../home/c-dataset-const-proc/c-data-trans/c-abt-transf.md).
 
 **To edit the Maximum Session Duration and Session Timeout parameters**
 

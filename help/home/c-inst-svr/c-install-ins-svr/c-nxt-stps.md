@@ -11,7 +11,7 @@ Instructions to complete installation of your Adobe application.
 
 * Install at least one copy of [!DNL Insight] as described in the * [!DNL Insight] User Guide*. 
 
-* If you want to run [!DNL Insight Server] in a clustered configuration, set up the cluster as described in [Insight Server Clusters](../../../home/c-inst-svr/c-install-ins-svr/c-ins-svr-clstrs/c-ins-svr-clstrs.md#concept-7990434e7d8f42bab089d3024b96586b). 
+* If you want to run [!DNL Insight Server] in a clustered configuration, set up the cluster as described in [Insight Server Clusters](../../../home/c-inst-svr/c-install-ins-svr/c-ins-svr-clstrs/c-abt-ins-svr-clsters.md). 
 
 * On the servers from which you want to collect data, install [!DNL Sensors] as described in the * [!DNL Insight] [!DNL Sensor] Guide*. 
 
@@ -19,5 +19,4 @@ Instructions to complete installation of your Adobe application.
 
 * If you want to set up the Replication Service for [!DNL Insight Server], see [Installing the Replication Service](../../../home/c-inst-svr/c-ins-svr-rep-svc/c-inst-rep-svc.md#concept-4743b6621f394ee39cf0635230996925) for instructions to install the service on an [!DNL Insight Server] FSU. 
 
-* If you have licensed [!DNL Repeater], see [Repeater Functionality](../../../home/c-inst-svr/c-rptr-fntly/c-rptr-fntly.md#concept-78613328ece345b2937cd6e43d7f31f2) for installation instructions.
-
+* If you have licensed [!DNL Repeater], see [Repeater Functionality](../../../home/c-inst-svr/c-rptr-fntly/c-rptr-fntly.md) for installation instructions.
