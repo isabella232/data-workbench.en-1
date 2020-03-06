@@ -14,7 +14,7 @@ Terrain image layers are stored in the [!DNL Geography] profile, in a custom for
 
 >[!NOTE]
 >
->To work with terrain image layers, you must install the [!DNL Terrain Images.cfg] file provided by Adobe. For installation instructions, see [Installing Data Workbench Geography](../../../../home/c-geo-oview/c-inst-geo/c-inst-geo.md#concept-0c093b4c2a6b469a831588cd4a272a91).
+>To work with terrain image layers, you must install the [!DNL Terrain Images.cfg] file provided by Adobe. For installation instructions, see [Installing Data Workbench Geography](../../../../home/c-geo-oview/c-inst-geo/c-inst-geo.md).
 
 To define a terrain image layer, you must have the following:
 
