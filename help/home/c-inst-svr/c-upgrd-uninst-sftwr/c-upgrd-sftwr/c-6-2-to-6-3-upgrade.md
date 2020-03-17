@@ -14,31 +14,31 @@ If you have customized profiles that take precedence over the default files prov
 
 * **Update the Meta.cfg file** ( [!DNL E:\..\Profiles\<your custom profile>\Context\meta.cfg)]to set updated password encryption for the File System Unit (FSU server), and to add entries for the Name Value Pair tranformations to take advantage of [Query String groupings](../../../../home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-2-to-6-3-upgrade.md#concept-42f74911b5714219a359b719badac8e0).
 
-    1. Open the [!DNL meta.cfg] file on the FSU. 
-    1. Change the data type for **[!UICONTROL Proxy Password]** from " [!DNL string"] to " [!DNL EncryptedString]" in the *Workstation Configuration* section.
+  1. Open the [!DNL meta.cfg] file on the FSU. 
+  1. Change the data type for **[!UICONTROL Proxy Password]** from " [!DNL string"] to " [!DNL EncryptedString]" in the *Workstation Configuration* section.
 
-       ```    
+     ```    
        Proxy User Name = string: 
        Proxy Password = EncryptedString:   ( 
-<i>from Proxy Password = String</i>) 
+       from Proxy Password = String) 
        Use Address File = bool: true
-       ```
+     ```
 
-    1. Add new entries to enable the new Name Value Pair transformations: *BuildNameValuePair* and *ExtractNameValuePairs*.
+  1. Add new entries to enable the new Name Value Pair transformations: *BuildNameValuePair* and *ExtractNameValuePairs*.
 
-       Open a workspace and right-click **Admin** > **Profile Manager**.
+     Open a workspace and right-click **Admin** > **Profile Manager**.
 
-       Under **Context**, click the **meta.cfg** file in the **Base** column and then click **Make Local**. From the User table column, right-click and select **Open** > **in Workstation**.
+     Under **Context**, click the **meta.cfg** file in the **Base** column and then click **Make Local**. From the User table column, right-click and select **Open** > **in Workstation**.
 
-       ![](assets/meta_cfg.png)
+     ![](assets/meta_cfg.png)
 
-        * In the new window, click **metadata** and add acceptable children templates.
+     * In the new window, click **metadata** and add acceptable children templates.
 
-          ![](assets/meta_cfg_child.png)
+       ![](assets/meta_cfg_child.png)
 
-        * Open **transformation** and add new templates.
+     * Open **transformation** and add new templates.
 
-          ![](assets/meta_cfg_template.png)
+       ![](assets/meta_cfg_template.png)
 
 * **Update for Fast Merge improvements**. Add parameters or change values to the following configuration files to take advantage of speed improvements in Data Workbench during a transformation.
 
