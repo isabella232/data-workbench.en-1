@@ -12,7 +12,7 @@ This chapter provides the steps to install data workbenchGeography on a data wor
 
  To complete these steps, you must have access to the files on the data workbench server.
 
-If you have subscribed to one of the two optional data services, you also must install the data service profile and its lookup files. For more information about these services, see [Working with Data Services](../../../home/c-geo-oview/c-wk-data-svcs/c-wk-data-svcs.md).
+If you have subscribed to one of the two optional data services, you also must install the data service profile and its lookup files.
 
 For information about the system requirements for installing, configuring, and operating data workbench [!DNL Geography], see the *Minimum System Requirements* document.
 
