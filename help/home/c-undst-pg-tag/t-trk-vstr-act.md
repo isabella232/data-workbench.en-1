@@ -26,7 +26,7 @@ To facilitate Visitor activity tracking within your [!DNL Flash] movie, please f
    ```
 
 1. Create a blank file named [!DNL flashtag.txt] and place the file on your web servers.
-1. Within the function in Step 1, replace the [!DNL [PATH_TO_WEB_SERVER]] placeholder with the fully qualified or relative path to the location of the [!DNL flashtag.txt] file. For example:
+1. Within the function in Step 1, replace the \[[!DNL PATH_TO_WEB_SERVER]\] placeholder with the fully qualified or relative path to the location of the [!DNL flashtag.txt] file. For example:
 
    ```
    var FLASHTAGURI = http://www.mysite.com/flashtag/flashtag.txt”;
@@ -40,7 +40,7 @@ To facilitate Visitor activity tracking within your [!DNL Flash] movie, please f
 
    This example illustrates the use of the on(release) event; however, the tag() function may be referenced through any event that you may want to track, such as an on(press), on(rollover), on(rollout), or on(keypress) event.
 
-   The [!DNL [PUT_PAGE_NAME_HERE]] placeholder should be replaced with a string that represents the name of the page or event that you are tracking. The [!DNL [PUT_PAGE_NAME_HERE]]variable can be modified either manually or through variable reference to denote a unique name for the page or event within the [!DNL Flash] application. The value replacing the [!DNL [PUT_PAGE_NAME_HERE]] placeholder may consist of a simple name or may be structured to represent a hierarchical structure similar to a full URI. For example:
+   The \[[!DNL PUT_PAGE_NAME_HERE]\] placeholder should be replaced with a string that represents the name of the page or event that you are tracking. The \[[!DNL PUT_PAGE_NAME_HERE]\]variable can be modified either manually or through variable reference to denote a unique name for the page or event within the [!DNL Flash] application. The value replacing the \[[!DNL PUT_PAGE_NAME_HERE]\] placeholder may consist of a simple name or may be structured to represent a hierarchical structure similar to a full URI. For example:
 
    ```
    on(release) {tag(“/about_us/index.swf","[PUT_ADDITIONAL_VAR_HERE]");}
@@ -48,13 +48,13 @@ To facilitate Visitor activity tracking within your [!DNL Flash] movie, please f
 
    Adobe recommends that, prior to code deployment, you compile a written specification for page names and event names to facilitate the alignment of business requirements and development tasks and reduce the potential for additional development cycles. 
 
-1. If desired, additional variables may be collected and associated with pages or events in the [!DNL Flash] movie. To do so, replace the [!DNL [PUT_ADDITIONAL_VAR_HERE]] placeholder with a set of name=value pairs separated by an ampersand (&). For example:
+1. If desired, additional variables may be collected and associated with pages or events in the [!DNL Flash] movie. To do so, replace the \[[!DNL PUT_ADDITIONAL_VAR_HERE]\] placeholder with a set of name=value pairs separated by an ampersand (&). For example:
 
    ```
    on(release) {tag(“/about_us/index.swf"," var1=value1&var2=value2");}
    ```
 
-   The variables can be modified either manually or through variable reference to denote additional attributes to be collected and associated with the page or event. If there are no applicable additional variables to collect, remove [!DNL [PUT_ADDITIONAL_VAR_HERE]].
+   The variables can be modified either manually or through variable reference to denote additional attributes to be collected and associated with the page or event. If there are no applicable additional variables to collect, remove \[[!DNL PUT_ADDITIONAL_VAR_HERE]\].
 
    Your setup of visitor tracking within [!DNL Flash] rich media content is now complete. When the event is invoked, the tag [!DNL (PAGENAME,VARIABLES)] function will be called, resulting in an HTTP request being made for the following file. This function will be called in addition to other functions that may be triggered as defined within your [!DNL Flash] movie:
 
