@@ -10,7 +10,7 @@ uuid: 5312b9c4-0193-4d45-af54-e8f6d2706bf2
 
 Steps to saving and loading filters.
 
-1. Right-click the filter’s name (or **[!UICONTROL [noname]]** if the filter is new) and click **[!UICONTROL Save Filter]**.
+1. Right-click the filter’s name (or **\[[!UICONTROL noname]\]** if the filter is new) and click **[!UICONTROL Save Filter]**.
 1. Enter the desired name for the filter in the **[!UICONTROL Save As]** label.
 
    ![Step Info](assets/vis_FilterEditor_SaveFilter.png)
