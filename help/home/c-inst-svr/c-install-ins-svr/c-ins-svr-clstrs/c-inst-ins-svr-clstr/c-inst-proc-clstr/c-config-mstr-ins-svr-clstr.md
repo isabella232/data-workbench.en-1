@@ -133,7 +133,7 @@ The [!DNL Synchronize.cfg] file specifies the location of the master [!DNL Insig
 1. Expand the component structure. 
 1. In the Cluster Primary Server Address parameter, specify the IP address of the master (primary) **[!UICONTROL Insight Server]**.
 
-   ![](assets/cfg_cluster_SyncFile_(CentralCopy).png)
+   ![](assets/cfg_cluster_SyncFile_CentralCopy.png)
 
    To create a log that records each time synchronization occurs between the master [!DNL Insight Server] and the processing [!DNL Insight Servers], make sure that the Enable Synchronization Log parameter is set to “true.” 
 

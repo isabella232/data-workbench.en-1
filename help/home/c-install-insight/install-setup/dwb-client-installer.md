@@ -48,7 +48,7 @@ Launch the installation wizard executable and walk through each step to install 
       >
       >A generic ***Insight.cfg*** file without server details will be installed initially. It is recommended that you use the newly installed ***Insight.cfg*** file and customize it rather than moving a file from a previous installation. Because the path for installing the workstation has changed, the addition of fonts, removal of the *User Folder*, and the removal of the *TraceFileComponent * is recommended.
 
-1. (optional) Select** Custom** to choose the language package and the location of the program and data files. 
+1. (optional) Select **Custom** to choose the language package and the location of the program and data files. 
 1. Select location for **shortcuts in the Start Menu**.
 
    ![](assets/6_4_workstation_wizard_folder.png)
