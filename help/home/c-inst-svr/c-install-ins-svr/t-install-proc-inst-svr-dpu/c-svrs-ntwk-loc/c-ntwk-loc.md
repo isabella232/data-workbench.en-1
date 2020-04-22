@@ -9,7 +9,7 @@ uuid: a2097eca-dd75-4d43-b8a8-fb4c768df38d
 
 Conceptually, the address file serves the same purpose as the ETC\HOSTS file on a networked machine.
 
- However, unlike the HOSTS file, which describes a single collection of names, the address file contains multiple collections of names called network locations.
+However, unlike the HOSTS file, which describes a single collection of names, the address file contains multiple collections of names called network locations.
 
 A network location is a named collection of address definitions. Each address definition in the collection associates a common name with an IP address.
 
@@ -49,4 +49,3 @@ As shown in the example above, the NetworkLocation structure consists of three m
   </tr> 
  </tbody> 
 </table>
-
