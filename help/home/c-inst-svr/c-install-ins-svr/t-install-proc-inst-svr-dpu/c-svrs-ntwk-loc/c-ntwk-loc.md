@@ -1,5 +1,5 @@
 ---
-description: Conceptually, the address file serves the same purpose as the ETC\HOSTS file on a networked machine.
+description: Conceptually, the address file serves the same purpose as the ETC&bsol;HOSTS file on a networked machine.
 solution: Insight
 title: Network Locations
 uuid: a2097eca-dd75-4d43-b8a8-fb4c768df38d
@@ -7,7 +7,7 @@ uuid: a2097eca-dd75-4d43-b8a8-fb4c768df38d
 
 # Network Locations{#network-locations}
 
-Conceptually, the address file serves the same purpose as the ETC\HOSTS file on a networked machine.
+Conceptually, the address file serves the same purpose as the ETC&bsol;HOSTS file on a networked machine.
 
 However, unlike the HOSTS file, which describes a single collection of names, the address file contains multiple collections of names called network locations.
 
