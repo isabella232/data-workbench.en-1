@@ -6,7 +6,7 @@ topic: Data workbench
 uuid: 5ad98b52-267c-4c36-b43a-ae6ad415de8e
 ---
 
-# Define Additional Accounts{#define-additional-accounts}
+# Define Additional Accounts
 
 Users must have a valid account and provide an account name and password when they access the Report Portal.
 
