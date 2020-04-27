@@ -354,6 +354,7 @@ user-guide-title: Data Workbench Help
 + Dataset configuration {#dataset}
    + [Understanding Dataset Construction](home/c-dataset-const-proc/c-dataset-constr.md)
    + [Understanding Dataset Configuration](home/c-dataset-const-proc/c-dataset-config.md)
+   + [Data Workbench Support for GDPR](home/c-dataset-const-proc/dwb-gdpr.md)
    + Log Processing Configuration File {#log-proc-config-file}
       + [About the Log Processing Configuration File](home/c-dataset-const-proc/c-log-proc-config-file/c-abt-log-proc-config-file.md)
       + [Editing the Log Processing Configuration File](home/c-dataset-const-proc/c-log-proc-config-file/t-edit-log-proc-config-file.md)
