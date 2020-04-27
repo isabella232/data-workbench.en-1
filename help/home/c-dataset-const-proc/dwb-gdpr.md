@@ -1,11 +1,11 @@
 ---
 description: Adobe Data Workbench provides tools and processes to ready your data to comply with the General Data Protection Regulations (GDPR).
 solution: Analytics
-title: Data Workbench Support of GDPR
+title: Data Workbench Support for GDPR
 topic: Data workbench
 ---
 
-# Data Workbench Support of GDPR
+# Data Workbench Support for GDPR
 
 Adobe Data Workbench provides tools and processes to ready your data to comply with the [!DNL General Data Protection Regulations] (GDPR).
 
