@@ -8,10 +8,6 @@ uuid: bba63a8c-9cb7-4334-b66a-22db92153066
 
 New features and fixes in Data Workbench 6.73.
 
-## Data Workbench 6.73 Release Notes {#topic-7655534554ac4a4b816af1bd73b06aad56757}
-
-New features and fixes in Data Workbench 6.73.
-
 ## Fixes {#section-160baf6ea04c45a993777ee4260691ed}
 
 * Fixed an issue in Workstation where users were unable to sign in on some hardware with high resolution and high DPI. 
