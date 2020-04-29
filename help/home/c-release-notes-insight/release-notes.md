@@ -5,6 +5,7 @@ description: What's new in Adobe Analytics Data Workbench
 
 # Release Notes Overview
 
+* [Data Workbench 6.74 Release Notes](/help/home/c-release-notes-insight/dwb-6-74-release-notes.md)
 * [Data Workbench 6.73 Release Notes](/help/home/c-release-notes-insight/dwb-6-73-release-notes.md)
 * [Data Workbench 6.72 Release Notes](/help/home/c-release-notes-insight/dwb-6-72-release-notes.md)
 * [Data Workbench 6.7 Release Notes](/help/home/c-release-notes-insight/dwb-6-7-release-notes.md)
