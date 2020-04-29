@@ -17,7 +17,7 @@ The GDPR regulation identifies the roles and obligations of the different partie
 * Adobe acts as the **data processor** to provide the software and services to implement GDPR requirements based on your agreement with Adobe.
 * After integration of Data Workbench with the GDPR service and according to GDPR standards, visitors to a site (the **data subjects**) can exercise their "right to be forgotten" by Adobe, the data processor. To accomplish the right to be forgotten, you as the data controller can upload challenged visitor IDs to Adobe from a UI or API. See the [Adobe Analytics GDPR Workflow](https://docs.adobe.com/help/en/analytics/admin/data-governance/an-gdpr-workflow.html) documentation for more information, including the [submit access and delete requests](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/gdpr-submit-access-delete.html) section.
 
->[!Note]
+>[!NOTE]
 >
 >For other data sources, your organization will be responsible for cleaning up challenged visitor IDs from other log sources, such as the CRM, POS, IVR, and other raw data sources. Custom-scoped services packages will be available to provide support for organizations by _providing a full replacement set of files for each data source_ or other custom options.
 
