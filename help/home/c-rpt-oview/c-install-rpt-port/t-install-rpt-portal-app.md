@@ -2,7 +2,6 @@
 description: Report Portal is made up of a set of application server pages (ASPs) and supporting files.
 solution: Analytics
 title: Install the Report Portal Application Files
-topic: Data workbench
 uuid: 483a7401-1bb4-4a71-b8c7-e70ff1b129e7
 ---
 
