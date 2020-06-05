@@ -14,24 +14,21 @@ The final step is to run the dashboard for the first time to allow it to initial
 1. Connecting for the first time will setup the database tables, so you may experience a slight delay.
 1. The initial logon credentials are:
 
-* **[!UICONTROL Username]**: admin 
-* **[!UICONTROL Password]**: password
+   * **[!UICONTROL Username]**: admin 
+   * **[!UICONTROL Password]**: password
 
 1. On your first login, go to **[!UICONTROL User]** > **[!UICONTROL Account Settings]** and select **[!UICONTROL Change Password]** to change your administrator password.
->The dashboard installation is now complete. If you haven’t already, use the instructions detailed in the >
-><!-->
->Preparing Data Workbe>
->-->
->nch section of this guide to configure your communication with data workbench servers and to manage users and groups. >
->>[!NOTE]
->>
->>Dashboard error and audit logs can be found in the [!DNL logs] directory within the installation path. 
+
+The dashboard installation is now complete. If you haven’t already, use the instructions detailed in the Preparing Data Workbench section of this guide to configure your communication with data workbench servers and to manage users and groups.
+
+>[!NOTE]
 >
->>[!NOTE]
->>
->>If you need to change the application pool identity to a different account, make sure to grant access to the database and give the identity read/write access to the [!DNL logs] folder in the installation path. 
+>Dashboard error and audit logs can be found in the [!DNL logs] directory within the installation path. 
+
+>[!NOTE]
 >
->>[!NOTE]
->>
->>If you ever need to change the connection string for the database, simply edit the value using the **[!UICONTROL IIS Management Console]**. 
+>If you need to change the application pool identity to a different account, make sure to grant access to the database and give the identity read/write access to the [!DNL logs] folder in the installation path. 
+
+>[!NOTE]
 >
+>If you ever need to change the connection string for the database, simply edit the value using the **[!UICONTROL IIS Management Console]**. 
