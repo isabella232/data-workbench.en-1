@@ -22,7 +22,7 @@ Follow these requirements and recommendations when upgrading to Data Workbench 6
     * **[!DNL ReportServer.exe]** 
     * **[!DNL ExportIntegration.exe]**
 
-  This will allow "white list" rights for these interfacing executables. 
+  This will enable allowlist rights for these interfacing executables. 
 
 * **Update the *Trust_ca_cert.pem* certificate on the servers**. 
 * **Reorganization of Attribution Profiles**.
