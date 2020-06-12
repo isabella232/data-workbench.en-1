@@ -26,7 +26,7 @@ Make sure you have the these tasks completed before installing the Data Workbenc
     * **[!DNL ReportServer.exe]** 
     * **[!DNL ExportIntegration.exe]**
 
-  This will allow "white list" rights for these interfacing executables. 
+  This will enable allowlist rights for these interfacing executables. 
 
 * **Install Microsoft Excel to export analysis data.** To export data from workspaces as Microsoft Excel ( [!DNL .xls] or [!DNL .xlsx]) files, the computer on which you install Data Workbench must have Excel installed and registered. If Excel has not been registered and Data Workbench tries to access it for the first time, Excel displays a registration dialog box. If you are not sure whether the copy is registered, start Excel manually, and if a registration dialog box appears, complete the registration process. 
 
