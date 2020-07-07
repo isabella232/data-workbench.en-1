@@ -21,16 +21,16 @@ The master [!DNL Insight Server] manages the communication between the other [!D
 
 >[!NOTE]
 >
->The **PAServer.cfg** file. If you want to submit Predictive Analytics clustering jobs to Insight Servers, then you will need to configure the [!DNL PAServer.cfg] file for handling server-side clustering submissions. The custom profile should inherit the [!DNL PAServer.cfg] from the Predictive Analytics profile ( [!DNL Server\Profiles\Predictive Analytics\Dataset]). Set a *Master Server* in this file and save the [!DNL PAServer.cfg] to the implementation site. >
->```>
+>The **PAServer.cfg** file. If you want to submit Predictive Analytics clustering jobs to Insight Servers, then you will need to configure the [!DNL PAServer.cfg] file for handling server-side clustering submissions. The custom profile should inherit the [!DNL PAServer.cfg] from the Predictive Analytics profile ([!DNL Server\Profiles\Predictive Analytics\Dataset]). Set a *Master Server* in this file and save the [!DNL PAServer.cfg] to the implementation site.
+>
+>```
 >PAServer = PAServerConfig: 
 >  Master Server = serverInfo: 
 >    Address = string: 
 >    Port = int: 80
 >    Use SSL = bool: false
->```>
+>```
 
 >[!IMPORTANT]
 >
 >The instructions in this chapter do not apply to the creation of an [!DNL Insight Server] cluster consisting of more than five (5) [!DNL Insight Servers]. Please contact Adobe to obtain system requirements and profile configuration recommendations for clusters larger than five [!DNL Insight Servers].
-

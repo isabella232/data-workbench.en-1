@@ -33,6 +33,4 @@ You can bookmark significant workspaces to quickly move between visualizations a
 >[!IMPORTANT]
 >
 >* 25 bookmarks can be saved. 
->* If you add a bookmark and then move the location of the workspace, the bookmark will be invalid and must be deleted from the Bookmark Panel and reset. 
->
-
+>* If you add a bookmark and then move the location of the workspace, the bookmark will be invalid and must be deleted from the Bookmark Panel and reset.
