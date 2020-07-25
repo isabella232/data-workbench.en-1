@@ -3,6 +3,7 @@ cloud: experience-cloud
 product: analytics
 audience: end-user
 user-guide-title: Data Workbench Help
+user-guide-description: Learn about the multi-channel capabilities of Data Workbench. Includes Data Workbench Client, Installation, Dataset Configuration guides, and more.
 ---
 
 # Data Workbench Help {#using}
