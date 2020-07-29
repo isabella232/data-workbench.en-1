@@ -20,22 +20,22 @@ Access to the target machines is granted using the [!DNL Access Control.cfg] fil
 1. Open [!DNL Access Control.cfg] in a text editor such as Notepad.
 1. Create an access group for the [!DNL Insight Server] machines that must access the log files on this repeater server. Give this access group a name something like “Replication Targets.”
 
-       The following file fragment shows how the access group should look.
+   The following file fragment shows how the access group should look.
 
-       ```    
-       . . . 
-         6 = AccessGroup: 
-           Members = vector: N items 
-             0 = string: IP:Machine0IPAddress 
-             1 = string: IP:Machine1IPAddress 
-       . . . 
-             N = string: IP:MachineNIPAddress 
-           Name = string: Replication Targets 
-           Read-Only Access = vector: 1 items 
-             0 = string: EventDataLocation 
-           Read-Write Access = vector: 0 items 
-       . . .
-       ```
+   ```
+   . . . 
+     6 = AccessGroup: 
+       Members = vector: N items 
+         0 = string: IP:Machine0IPAddress 
+         1 = string: IP:Machine1IPAddress 
+   . . . 
+         N = string: IP:MachineNIPAddress 
+       Name = string: Replication Targets 
+       Read-Only Access = vector: 1 items 
+         0 = string: EventDataLocation 
+       Read-Write Access = vector: 0 items 
+   . . .
+   ```
 
     1. In the Members section, specify the IP address for each machine. 
     1. Update the items count for the Members vector to reflect the number of machine IP addresses you inserted. 
