@@ -11,5 +11,5 @@ uuid: ba47ded4-8676-48a7-853f-6321ea6eb601
 Steps to copy a dashboard.
 
 1. Load the dashboard you want to make a copy of.
-1. Select **[!UICONTROL Save As…]**from the dashboard menu at the top of the dashboard interface.
+1. Select **[!UICONTROL Save As…]** from the dashboard menu at the top of the dashboard interface.
 1. When the **[!UICONTROL Save Dashboard As…]** window appears, enter in a new name for the copy of the dashboard.
