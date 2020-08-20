@@ -15,10 +15,10 @@ For more information, see [Creating and Editing Derived Metrics](../../../home/c
 Notes:
 
 1. Underlined words should be entered in the expression text literally. 
-1. The form {TEXT}? represents optional text. 
-1. The form {TEXT}&#42; represents text that may occur zero or more times. 
-1. The form {A | B | C |...} represents text that consists of exactly one of the given options, such as A or B or C.... 
-1. The form [A,B) represents a range of numbers, from A up to but not including B.
+1. The form `{TEXT}?` represents optional text. 
+1. The form `{TEXT}*` represents text that may occur zero or more times. 
+1. The form `{A | B | C |...}` represents text that consists of exactly one of the given options, such as A or B or C.... 
+1. The form `[A,B)` represents a range of numbers, from A up to but not including B.
 
 <table id="table_A6CA9C9F396448209398AA2A369E63FA"> 
  <tbody> 

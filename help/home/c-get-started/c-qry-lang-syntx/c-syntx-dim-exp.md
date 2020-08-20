@@ -11,10 +11,10 @@ uuid: c437cc52-4eb3-4202-a0b4-e23889f9c8a2
 Dimension expressions are never used alone, but can be used anywhere a dimension is called for in a metric or filter expression.
 
 1. Underlined words should be entered in the expression text literally. 
-1. The form {TEXT}? represents optional text. 
-1. The form {TEXT}&#42; represents text that may occur zero or more times. 
-1. The form {A | B | C |...} represents text that consists of exactly one of the given options, such as A or B or C.... 
-1. The form [A,B) represents a range of numbers, from A up to but not including B.
+1. The form `{TEXT}?` represents optional text. 
+1. The form `{TEXT}*` represents text that may occur zero or more times. 
+1. The form `{A | B | C |...}` represents text that consists of exactly one of the given options, such as A or B or C.... 
+1. The form `[A,B)` represents a range of numbers, from A up to but not including B.
 
 <table id="table_2D9AE1E2397843C284E838330370A1EE"> 
  <tbody> 
@@ -44,7 +44,7 @@ Dimension expressions are never used alone, but can be used anywhere a dimension
   </tr> 
   <tr> 
    <td colname="col1"> <p>bucket(Level, Metric, Count, Format {, Start {, Size}? }?) </p> </td> 
-   <td colname="col2"> <p>Defines a dimension whose elements are ranges of numbers (of fixed size, e.g, [0-9], [10-19],...). Elements of Level relate to the element of the bucket dim whose range contains the value of Metric for that element of level. Format is the printf format string used to format the elements of Metric. </p> <p>Example: If Page_Duration_Minutes is a Page View-level dimension representing the number of minutes spent on each page, then bucket(Session, sum(Page_Duration_Minutes, Page_View), 100, "%0.0f minutes", 0, 5) is a Session-level dimension representing the number of minutes spent in each Session; its elements are 5 minute intervals {[0-5), [5-10),...,[495-500)}. </p> <p>Start is the starting value of the first interval (default: 0) and Size is the size of the interval (default: 1). </p> </td> 
+   <td colname="col2"> <p>Defines a dimension whose elements are ranges of numbers (of fixed size, e.g, [0-9], [10-19],...). Elements of Level relate to the element of the bucket dim whose range contains the value of Metric for that element of level. Format is the printf format string used to format the elements of Metric. </p> <p>Example: If Page_Duration_Minutes is a Page View-level dimension representing the number of minutes spent on each page, then bucket(Session, sum(Page_Duration_Minutes, Page_View), 100, "%0.0f minutes", 0, 5) is a Session-level dimension representing the number of minutes spent in each Session; its elements are 5 minute intervals <code>{[0-5), [5-10),...,[495-500)}</code>. </p> <p>Start is the starting value of the first interval (default: 0) and Size is the size of the interval (default: 1). </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>prefix(Level {,ElementName-&gt;(Prefix{,Prefix}* )}* ) </p> </td> 
