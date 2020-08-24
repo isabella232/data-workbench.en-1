@@ -14,7 +14,7 @@ A Metric Dim converts a metric into a new dimension. For example, a Metric Dim b
 
 1. Open the Metric Dim Wizard.
 
-   In a workspace, right-click and select **[UICONTROL Tools]** > **[UICONTROL Create Metric Dim]**. 
+   In a workspace, right-click and select **[!UICONTROL Tools]** > **[!UICONTROL Create Metric Dim]**. 
 
 1. Name the Metric Dim.
 
