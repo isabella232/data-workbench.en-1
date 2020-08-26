@@ -38,7 +38,7 @@ The [!DNL Geography] profile provides you with a set of default imagery layers, 
 
 * **[!UICONTROL IP Coordinates]:** This element point layer uses dynamic points to enable you to map locations in your dataset using IP addresses. The [!DNL IP Coordinates.layer] file references the Coordinates dimension ( [!DNL Coordinates.dim]) and specifies the Visitors metric as the metric to use to determine the size of the points on the globe for each coordinate.
 
-Your [!UICONTROLNL Geography] profile or other profiles in your installation may contain additional imagery layers that Adobe provided or your company created.
+Your [!UICONTROL NL Geography] profile or other profiles in your installation may contain additional imagery layers that Adobe provided or your company created.
 
 ## Create a new layer {#section-b5313773316c4e0fa748f7376a8e7f0b}
 
