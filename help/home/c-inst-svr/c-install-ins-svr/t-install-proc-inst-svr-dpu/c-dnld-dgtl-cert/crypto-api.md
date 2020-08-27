@@ -36,7 +36,7 @@ In [Using Custom Certificates](../../../../../home/c-inst-svr/c-install-ins-svr/
 </filepath>>\Certificates\
 ```
 
-The certificate's name is `<Common Name>.pem` (such as [!DNL Analytics Server 1.pem](not the [!DNL trust_ca_cert.pem] file.)
+The certificate's name is `<Common Name>.pem` (such as [!DNL Analytics Server 1.pem] (not the [!DNL trust_ca_cert.pem] file.)
 
 Before the certificate and private key can be imported, they must be converted from . [!DNL pem] format to a [!DNL .pfx] format, such as [!DNL pkcs12.pfx] ).
 
