@@ -63,7 +63,7 @@ Directions for installing the data workbench Monitoring Profile.
 
 1. Confirm that the VSL file is starting to grow as monitor records accumulate. This will take some time as the traffic volume will be extremely low in a small installation (every 10 minutes the agent sends only one hit for the host-specific data, plus one hit per processing profile). 
 1. Unzip insight_monitor.zip\profiles\Insight Historic to a temporary location. 
-1. Update host name in [!DNL profile.cfg], [!DNL  [!DNL dataset\cluster.cfg]], and the [!DNL  [!DNL dataset\segment export.cfg]]. 
+1. Update host name in [!DNL profile.cfg], [!DNL dataset\cluster.cfg], and the [!DNL dataset\segment export.cfg].
 
 1. Update the files to the data workbench profiles directory. 
 1. Update log server and path in [!DNL dataset\log processing.cfg] to the location where the Sensor VSLs are accumulating. 
