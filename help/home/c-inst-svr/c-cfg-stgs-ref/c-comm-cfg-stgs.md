@@ -27,18 +27,11 @@ Complete the parameters in the following file:
  <tbody> 
   <tr> 
    <td colname="col1"> Access Control File </td> 
-   <td colname="col2"> <p>Location of the <span class="filepath"> Access Control.cfg </span> file. The default location is the <span class="filepath"> Access Control </span> folder within the <span class="keyword"> Insight Server </span> or <span class="wintitle"> Repeater </span> installation directory. </p> <p>Example: <code> 
-      <filepath>
-        Access&nbsp;Control&nbsp;File&nbsp;=&nbsp;Path:&nbsp;Access&nbsp;Control\\Access 
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Control.cfg 
-      </filepath> </code> </p> </td> 
+   <td colname="col2"> <p>Location of the <span class="filepath"> Access Control.cfg </span> file. The default location is the <span class="filepath"> Access Control </span> folder within the <span class="keyword"> Insight Server </span> or <span class="wintitle"> Repeater </span> installation directory. </p> <p>Example: <code>Access Control File = Path: Access Control\\Access Control.cfg</code> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Access Log Directory </td> 
-   <td colname="col2"> <p>Folder to which you want to map the audit logs. </p> <p>Example: <code> 
-      <filepath>
-        Access&amp;nbsp;Log&amp;nbsp;Directory&amp;nbsp;=&amp;nbsp;string:&amp;nbsp;Audit\\ 
-      </filepath> </code> </p> <p> <p>Note:  You can map audit logs to another local drive (example: <span class="filepath"> string: P:\\Audit\\ </span>), but do not map audit logs to a network drive. </p> </p> </td> 
+   <td colname="col2"> <p>Folder to which you want to map the audit logs. </p> <p>Example: <code>Access Log Directory = string: Audit\\</code> </p> <p> <p>Note:  You can map audit logs to another local drive (example: <span class="filepath"> string: P:\\Audit\\ </span>), but do not map audit logs to a network drive. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Access Log Verbose </td> 
@@ -46,31 +39,19 @@ Complete the parameters in the following file:
   </tr> 
   <tr> 
    <td colname="col1"> IP Interface </td> 
-   <td colname="col2"> <p>IP address to use when two network cards are available for accessing two different networks. </p> <p>Example: I <code> 
-      <filepath>
-        P&amp;nbsp;Interface&amp;nbsp;=&amp;nbsp;string: 
-      </filepath> </code><i>&lt; <span class="filepath"> IP Address </span>&gt;</i> </p> </td> 
+   <td colname="col2"> <p>IP address to use when two network cards are available for accessing two different networks. </p> <p>Example: <code>IP Interface = string: &lt; IP Address &gt;</code> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Port </td> 
-   <td colname="col2"> <p>Non-secure (HTTP) port on which the <span class="keyword"> Insight Server </span> or <span class="wintitle"> Repeater </span> listens. The default port is 80. Entering a value of 0 disables non-secure connections. </p> <p>Example: <code> 
-      <filepath>
-        Port&amp;nbsp;=&amp;nbsp;int:&amp;nbsp;80 
-      </filepath> </code> </p> </td> 
+   <td colname="col2"> <p>Non-secure (HTTP) port on which the <span class="keyword"> Insight Server </span> or <span class="wintitle"> Repeater </span> listens. The default port is 80. Entering a value of 0 disables non-secure connections. </p> <p>Example: <code>Port = int: 80</code> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> SSL Ciphers </td> 
-   <td colname="col2"> Some environments require stronger communication security than others. If you want to use a specific SSL cipher suite, you can specify it with this parameter. <p>Example: <code> 
-      <filepath>
-        SSL&amp;nbsp;Ciphers&amp;nbsp;=&amp;nbsp;string:&amp;nbsp;AES256-SHA256 
-      </filepath> </code> </p> </td> 
+   <td colname="col2"> Some environments require stronger communication security than others. If you want to use a specific SSL cipher suite, you can specify it with this parameter. <p>Example: <code>SSL Ciphers = string: AES256-SHA256</code> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> SSL Port </td> 
-   <td colname="col2"> <p>Secure (via SSL) port on which the <span class="keyword"> Insight Server </span> or <span class="wintitle"> Repeater </span> listens. The default port is 443. Entering a value of 0 disables secure connections. </p> <p>Example: <span class="filepath"></span> </p> <code> 
-     <filepath>
-       SSL&amp;nbsp;Port&amp;nbsp;=&amp;nbsp;int:&amp;nbsp;443 
-     </filepath> </code> </td> 
+   <td colname="col2"> <p>Secure (via SSL) port on which the <span class="keyword"> Insight Server </span> or <span class="wintitle"> Repeater </span> listens. The default port is 443. Entering a value of 0 disables secure connections. </p> <p>Example: <span class="filepath"></span> </p> <code>SSL Port = int: 443</code> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <i>n=</i>LoggingServer: </td> 
