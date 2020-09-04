@@ -67,7 +67,7 @@ Launch the installation wizard executable and walk through each step to install 
 
    >[!NOTE]
    >
-   >The default log location for the Workstation Set up Wizard at **[!DNL C:\Users\`<userName>`\AppData\Local\Temp.]**
+   >The default log location for the Workstation Set up Wizard at  `C:\Users\<userName>\AppData\Local\Temp`.
 
    Select the **Launch application** checkbox to open the workbench after setup. 
 

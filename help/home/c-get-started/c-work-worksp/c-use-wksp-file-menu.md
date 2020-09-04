@@ -62,7 +62,7 @@ You also can save your changes, close the workspace, and return to the [!DNL Wor
 * Click the Data Workbench logo in the upper-left corner of the workspace. 
 * If your mouse has navigation buttons, click the back button on your mouse.
 
-You also can void your changes by closing the workspace without saving by pressing **[!UICONTROL `<Ctrl>` + <Backspace>]** .
+You also can void your changes by closing the workspace without saving by pressing **Ctrl+Backspace**.
 
 **Export to Excel from Template**
 

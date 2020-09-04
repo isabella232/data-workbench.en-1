@@ -35,7 +35,7 @@ You can create column headers for your export files.
 
    An export window will open. 
 
-1. Right-click the export name and click **[!UICONTROL Save as <export filename>]**.
+1. Right-click the export name and click **Save as `<export filename>`**.
 
    ![](assets/segment_export_headers_7.png)
 

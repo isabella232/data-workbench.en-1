@@ -130,7 +130,7 @@ funcs="vys-cookie,vys-log,vys-init,vys-content-type"
 Init fn="vys-init" config-file="C:/VisualSciences/txlogd.conf"
 ```
 
-In the obj.conf file (for example, C:\Sun\AppServer7\domains\domain1\server1\config\ server1-obj.conf), add the following lines directly below the existing “<Object name="default">” line:
+In the obj.conf file (for example, C:\Sun\AppServer7\domains\domain1\server1\config\ server1-obj.conf), add the following lines directly below the existing `<Object name="default">` line:
 
 ```
 NameTrans fn="vys-cookie" 

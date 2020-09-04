@@ -26,7 +26,7 @@ You can bookmark significant workspaces to quickly move between visualizations a
 
 **To delete a bookmark:**
 
-* In the Bookmark Panel, right-click and select **[!UICONTROL Remove <bookmark title>]** to delete a selected bookmark, or select **[!UICONTROL Clear All Bookmarks]** to delete all bookmarks. 
+* In the Bookmark Panel, right-click and select **Remove `<bookmark title>`** to delete a selected bookmark, or select **[!UICONTROL Clear All Bookmarks]** to delete all bookmarks. 
 
 * You can also right-click on the workspace in the thumbnail view within the worktop and select **[!UICONTROL Clear Bookmark]**.
 
