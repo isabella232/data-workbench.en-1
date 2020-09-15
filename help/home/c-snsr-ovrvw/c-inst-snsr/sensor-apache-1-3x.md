@@ -183,9 +183,11 @@ This command starts the transmitter as a daemon. Operating and error messages th
 
 >[!NOTE]
 >
->Some Solaris users might encounter an “unable to acquire mutex” error. For Sensor to function properly on these systems, the following line needs to either be added to or edited in the file /etc/system: >
->```>
+>Some Solaris users might encounter an “unable to acquire mutex” error. For Sensor to function properly on these systems, the following line needs to either be added to or edited in the file /etc/system:
+>
+>```
 >semsys:seminfo_semmnu=1024
->```>
+>```
+>
 >The default Solaris setting is 60. Based on tests conducted with Sensor, which uses three semaphores for each instance, Adobe recommends that you use 1024 as your setting. This number is high enough for Sensor to function along with any other applications on the server that may require semaphores, but does not affect performance. To support this recommendation, please note that Adrian Cockcroft stated the following in his book Sun Performance and Tuning (Prentice Hall, October 1994): “Databases tend to use lots of shared memory and semaphore settings. These do not affect performance; as long as they are big enough, the programs will run.”
 

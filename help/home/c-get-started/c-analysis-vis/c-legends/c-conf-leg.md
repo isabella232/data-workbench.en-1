@@ -47,7 +47,7 @@ The following confidence legend displays confidence details about the Conversion
 
 >[!NOTE]
 >
->When analyzing the results of any calculations, you must take into account the following caveats: >
+>When analyzing the results of any calculations, you must take into account the following caveats:
 >* The numbers are estimates. If you repeated the same calculations with a different dataset you would get a different result. This is known as random variation. 
 >* Extrapolations to higher probabilities depend on an assumption of normality that is not correct for all metrics. Therefore, the values for 99% probability are less reliable than the values for 90% probability. 
 >

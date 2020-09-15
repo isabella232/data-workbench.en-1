@@ -21,14 +21,14 @@ The Dataset directory includes additional files that are either required for the
 
   >[!IMPORTANT]
   >
-  >Set a *Master Server* in this file and save the [!DNL PAServer.cfg] to the implementation site.   >
+  >Set a *Master Server* in this file and save the [!DNL PAServer.cfg] to the implementation site.
   >
-  >```  >
+  >```
   >PAServer = PAServerConfig: 
   >  Master Server = serverInfo: 
   >    Address = string: 
   >    Port = int: 80
   >    Use SSL = bool: false
-  >```  >
+  >```
   >
 
