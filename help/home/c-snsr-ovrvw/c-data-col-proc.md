@@ -1,6 +1,6 @@
 ---
 description: Sensor automates the acquisition of data from your Internet channel by doing away with the bulk of human labor traditionally involved in data collection.
-solution: Insight
+solution: Analytics
 title: How Does the Data Collection Process Work?
 uuid: d34e5938-217b-4a1e-b96e-55a02b1c3af0
 ---

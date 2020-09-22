@@ -1,6 +1,6 @@
 ---
 description: Sensor is a lightweight, low-impact data acquisition software application that reliably, securely, and continuously collects event data from web, application, and data collection servers to be transmitted to any data workbench server.
-solution: Insight
+solution: Analytics
 title: Sensor Overview
 uuid: 75833d47-dda1-4fdc-9a07-e63342a15b11
 ---

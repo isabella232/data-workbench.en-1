@@ -1,6 +1,6 @@
 ---
 description: Instructions to complete your installation of the repeater functionality.
-solution: Insight
+solution: Analytics
 title: Next Steps
 uuid: 74ac9ef3-11c2-4af0-9901-edbbcc8ac0fb
 ---

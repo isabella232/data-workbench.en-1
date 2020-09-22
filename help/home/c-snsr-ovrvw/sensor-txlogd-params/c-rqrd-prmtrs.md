@@ -1,6 +1,6 @@
 ---
 description: Information about the required Sensor txlogd.conf parameters.
-solution: Insight
+solution: Analytics
 title: Required Parameters
 uuid: 187f4199-ec7f-4d5a-93eb-64a62d51ec7b
 ---

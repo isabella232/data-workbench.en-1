@@ -1,6 +1,6 @@
 ---
 description: The ExpFile parameter points to the location of the experiment configuration file, which defines your experiment.
-solution: Insight,Analytics
+solution: Analytics,Analytics
 title: Modifying the ExpFile Parameter
 topic: Data workbench
 uuid: bf146f46-f541-4969-8d90-af1a0c969344

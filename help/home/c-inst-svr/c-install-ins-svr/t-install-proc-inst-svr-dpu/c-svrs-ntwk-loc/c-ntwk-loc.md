@@ -1,6 +1,6 @@
 ---
 description: Conceptually, the address file serves the same purpose as the ETC&bsol;HOSTS file on a networked machine.
-solution: Insight
+solution: Analytics
 title: Network Locations
 uuid: a2097eca-dd75-4d43-b8a8-fb4c768df38d
 ---

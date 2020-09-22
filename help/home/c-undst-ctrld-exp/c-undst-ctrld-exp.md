@@ -1,6 +1,6 @@
 ---
 description: Controlled experiments are tests that enable you to compare results obtained from an experimental sample group with those from a standard control group.
-solution: Insight,Analytics
+solution: Analytics,Analytics
 title: Data Workbench Controlled Experiments
 topic: Data workbench
 uuid: 5fce2d9e-4975-44e4-a7c0-11064d8d28b4

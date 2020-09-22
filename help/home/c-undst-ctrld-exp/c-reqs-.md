@@ -1,6 +1,6 @@
 ---
 description: null
-solution: Insight,Analytics
+solution: Analytics,Analytics
 title: What Are the Requirements?
 topic: Data workbench
 uuid: c76ebf2b-4040-4ac4-b69f-3ce87bfb78f1

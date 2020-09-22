@@ -1,6 +1,6 @@
 ---
 description: The Access Control configuration file, Access Control.cfg, defines the access control groups by which Insight Server grants permissions to files based on the attributes (OU, CN, and so forth) of the incoming connection’s certificate.
-solution: Insight
+solution: Analytics
 title: Configuring Access Control
 uuid: e0206b43-3c8c-48ec-b663-814f5b663b96
 ---

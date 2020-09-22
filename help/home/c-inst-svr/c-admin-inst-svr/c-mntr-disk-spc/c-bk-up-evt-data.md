@@ -1,6 +1,6 @@
 ---
 description: Event data must be backed up daily using your company’s normal backup systems and disaster recovery procedures.
-solution: Insight
+solution: Analytics
 title: Backing Up Event Data
 uuid: 1b9e5dfe-0bf2-4ee9-bf70-1dd320a678d6
 ---

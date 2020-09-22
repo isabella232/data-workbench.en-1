@@ -1,6 +1,6 @@
 ---
 description: Test results must be clear and meaningful so that you can feel confident making large dollar decisions based on those results.
-solution: Insight,Analytics
+solution: Analytics,Analytics
 title: What Should I Test?
 topic: Data workbench
 uuid: 9dfe3685-885e-4098-ab1d-ac891ccc5199

@@ -1,6 +1,6 @@
 ---
 description: You must configure the target Insight Server(s) to retrieve data from the Repeater on which the original event data is stored.
-solution: Insight
+solution: Analytics
 title: Configuring the Replication Service
 uuid: 93931b1d-d1fd-4e98-aa88-f7962eea92a2
 ---

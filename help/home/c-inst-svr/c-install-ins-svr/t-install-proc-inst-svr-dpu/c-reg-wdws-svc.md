@@ -1,6 +1,6 @@
 ---
 description: Procedure to start Insight Server and simultaneously register it as a Microsoft Windows Service.
-solution: Insight
+solution: Analytics
 title: Registering Insight Server as a Windows Service
 uuid: 1b3d53ca-d50f-4520-abf5-6d5c40493b88
 ---

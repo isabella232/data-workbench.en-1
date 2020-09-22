@@ -1,6 +1,6 @@
 ---
 description: This file functions not only as a worksheet but also as a record of your decisions about the experiment.
-solution: Insight,Analytics
+solution: Analytics,Analytics
 title: Experiment Design Spreadsheet
 topic: Data workbench
 uuid: bcb11e39-9cbd-400c-af30-4b1c85e7f218

@@ -1,6 +1,6 @@
 ---
 description: Typically, you want to add an Insight Server DPU to an existing cluster when the amount of data you want to process and make accessible to your users of Insight and Report exceeds the capacity of your cluster’s current configuration.
-solution: Insight
+solution: Analytics
 title: Adding an Insight Server DPU to an Existing Cluster
 uuid: 1977a90e-bd51-4838-9498-f7692891109f
 ---

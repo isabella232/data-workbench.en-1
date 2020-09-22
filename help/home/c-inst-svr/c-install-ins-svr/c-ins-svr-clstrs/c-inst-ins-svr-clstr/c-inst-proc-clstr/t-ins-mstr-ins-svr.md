@@ -1,6 +1,6 @@
 ---
 description: To use a cluster, you must designate one Insight Server in the cluster to act as the master Insight Server.
-solution: Insight
+solution: Analytics
 title: Installing the Master Insight Server
 uuid: a73214f3-b175-4e9e-8802-7a8451d86d3a
 ---

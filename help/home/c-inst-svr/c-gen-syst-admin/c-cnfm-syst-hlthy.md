@@ -1,6 +1,6 @@
 ---
 description: You must ensure that the machines on which Adobe server products are installed meet the minimum system requirements as defined in the Minimum System Requirements document.
-solution: Insight
+solution: Analytics
 title: Confirming Your Systems Are Healthy
 uuid: 6d132865-36ab-40fc-be24-e031f356fce2
 ---

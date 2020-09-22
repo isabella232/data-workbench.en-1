@@ -1,6 +1,6 @@
 ---
 description: Check whether the transmitter is running by setting up alerts, checking the system status of the Sensor, and more.
-solution: Insight
+solution: Analytics
 title: Confirming that the Data Transmitter is Running
 uuid: 8dd6307c-e7d2-4800-88c7-f93385b33ca5
 ---

@@ -1,6 +1,6 @@
 ---
 description: Detailed instructions for installing and configuring Sensor for WebSphere 5.x running on AIX 5.1 or later.
-solution: Insight
+solution: Analytics
 title: WebSphere on AIX
 uuid: a5a3fd79-a7f0-4861-adca-8da3a185d0df
 ---

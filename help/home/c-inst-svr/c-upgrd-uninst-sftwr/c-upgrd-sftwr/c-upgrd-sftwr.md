@@ -1,6 +1,6 @@
 ---
 description: Instructions to upgrade your Insight Server, Transform, or Repeater software.
-solution: Insight
+solution: Analytics
 title: Upgrading Insight Server
 uuid: b83dd5fe-f91b-43e3-9f5e-68ea88ed2132
 ---

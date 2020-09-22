@@ -1,6 +1,6 @@
 ---
 description: A data workbench server becomes aware of a source of data, such as a Sensor, when it receives data from that source.
-solution: Insight
+solution: Analytics
 title: Understanding "As Of" Time
 uuid: a1853573-e77c-41f7-8b99-2843e38cc82d
 ---

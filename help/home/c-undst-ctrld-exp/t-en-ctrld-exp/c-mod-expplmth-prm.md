@@ -1,6 +1,6 @@
 ---
 description: null
-solution: Insight,Analytics
+solution: Analytics,Analytics
 title: Modifying the ExpPartialMatch Parameter (Optional)
 topic: Data workbench
 uuid: 15ed33cc-5ec8-45b2-a4eb-d1941962ca9d

@@ -1,6 +1,6 @@
 ---
 description: When restarting an Insight Server machine, you first must stop the Insight Server service.
-solution: Insight
+solution: Analytics
 title: Restarting the Service
 uuid: fda05e5a-9527-43e0-86c8-c4adba51955c
 ---

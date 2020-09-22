@@ -1,6 +1,6 @@
 ---
 description: Format instructions about time-based parameters in Insight Server.
-solution: Insight
+solution: Analytics
 title: Time Zone Codes
 uuid: dcc8aa15-5846-4f24-8b82-e25ff89871ba
 ---

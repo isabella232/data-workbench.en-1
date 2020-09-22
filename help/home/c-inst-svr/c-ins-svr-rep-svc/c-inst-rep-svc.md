@@ -1,6 +1,6 @@
 ---
 description: The Insight ServerReplication Service enables you to transmit the event data collected and stored on one Insight Server machine to another Insight Server machine.
-solution: Insight
+solution: Analytics
 title: Installing the Replication Service
 uuid: a6467d5f-ca1c-4368-ba83-0b6bcabbe511
 ---

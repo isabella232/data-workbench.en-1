@@ -1,6 +1,6 @@
 ---
 description: Information about the general configuration of the Sensor with one web server instance running on a web server.
-solution: Insight
+solution: Analytics
 title: Working with Multiple Instances of a Web Server
 uuid: 778ea95f-e0f2-4c2a-b7ed-7e323fea1e48
 ---

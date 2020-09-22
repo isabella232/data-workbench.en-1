@@ -1,6 +1,6 @@
 ---
 description: In an experiment, you can define any number of test groups in addition to the control group.
-solution: Insight,Analytics
+solution: Analytics,Analytics
 title: How Do Controlled Experiments Work?
 topic: Data workbench
 uuid: 9549e2ab-dca9-4fb1-9729-65072f951900

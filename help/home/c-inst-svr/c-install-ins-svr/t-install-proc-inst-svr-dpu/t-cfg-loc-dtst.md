@@ -1,6 +1,6 @@
 ---
 description: By default, Insight Server writes its dataset (temp.db) to the same drive as the Insight Server program files.
-solution: Insight
+solution: Analytics
 title: Configuring the Location of the Dataset (temp.db)
 uuid: a6884cad-70ed-4bc6-853c-700d301fb178
 ---

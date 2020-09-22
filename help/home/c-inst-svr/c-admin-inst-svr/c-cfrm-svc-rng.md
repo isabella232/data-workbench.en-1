@@ -1,6 +1,6 @@
 ---
 description: To ensure that your implementation is functioning properly, you should confirm that the Insight Server service is running.
-solution: Insight
+solution: Analytics
 title: Confirming that the Service Is Running
 uuid: 0e0fb43b-56d5-4994-a9c4-9281e69844eb
 ---

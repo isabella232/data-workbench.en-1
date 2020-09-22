@@ -1,6 +1,6 @@
 ---
 description: If network firewalls do not prevent access to the repeater server from Insight machines, you can create a connection between the repeater server and Insight so that you can manage the repeater server using Insight.
-solution: Insight
+solution: Analytics
 title: Creating a Connection Between Insight and Repeater
 uuid: dccce83a-8708-4763-a19a-64d905a9f624
 ---

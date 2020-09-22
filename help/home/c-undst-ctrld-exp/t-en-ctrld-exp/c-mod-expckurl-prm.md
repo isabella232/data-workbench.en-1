@@ -1,6 +1,6 @@
 ---
 description: The ExpCookieURL parameter can be used to test that your controlled experiment is working properly.
-solution: Insight,Analytics
+solution: Analytics,Analytics
 title: Modifying the ExpCookieURL Paramter (Optional)
 topic: Data workbench
 uuid: 0c160c26-f9de-4e41-a05d-bf7bb32395bb

@@ -1,6 +1,6 @@
 ---
 description: After running the experiment until the required minimum number of visitors have participated in the experiment, you can be assured of sufficient statistical confidence to evaluate the results of your experiment.
-solution: Insight,Analytics
+solution: Analytics,Analytics
 title: Evaluating the Experiment
 topic: Data workbench
 uuid: 88fd81bc-b944-48ea-bd4d-8716979ec69e

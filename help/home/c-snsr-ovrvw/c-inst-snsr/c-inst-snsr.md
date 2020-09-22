@@ -1,6 +1,6 @@
 ---
 description: You install Sensor on the same computer as the server whose activity you want to measure.
-solution: Insight
+solution: Analytics
 title: Installing Sensor
 uuid: 8d500fd0-daa0-453b-8284-b3f112a358ce
 ---

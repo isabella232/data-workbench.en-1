@@ -1,6 +1,6 @@
 ---
 description: You should regularly monitor your event log files to track Insight Server system event messages, which are logged to the <YYYYMMDD>-event.txt files located by default in the Events folder within the Insight Server installation directory.
-solution: Insight
+solution: Analytics
 title: Monitoring Administrative Events
 uuid: 92d71478-0857-4af8-909c-0cf800b081f4
 ---

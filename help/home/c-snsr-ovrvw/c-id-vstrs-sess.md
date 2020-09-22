@@ -1,6 +1,6 @@
 ---
 description: When collecting event data from a web server, Sensor automatically sets a persistent cookie for each visitor containing a small random identifier, without capturing any personally identifying information.
-solution: Insight
+solution: Analytics
 title: How Does Sensor Identify Visitors and Sessions?
 uuid: 3735ed2d-67c4-469b-8b3e-0fac90cc4c09
 ---

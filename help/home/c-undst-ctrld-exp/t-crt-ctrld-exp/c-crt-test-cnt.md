@@ -1,6 +1,6 @@
 ---
 description: Before you configure the experiment, you should create the alternate content that you want to use in the experiment.
-solution: Insight,Analytics
+solution: Analytics,Analytics
 title: Creating the Test Content
 topic: Data workbench
 uuid: d7996522-38a6-4bb8-9736-d71157c17b45

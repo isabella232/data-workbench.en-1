@@ -1,6 +1,6 @@
 ---
 description: Instructions to install and configure an Insight Server FSU for use with Repeater.
-solution: Insight
+solution: Analytics
 title: Configuring an Insight Server FSU for Repeater
 uuid: c2bae862-37d3-4841-b31b-59593c1e4316
 ---

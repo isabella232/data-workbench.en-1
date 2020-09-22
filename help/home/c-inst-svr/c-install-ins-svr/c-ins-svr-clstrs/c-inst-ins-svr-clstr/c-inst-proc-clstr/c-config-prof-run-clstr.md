@@ -1,6 +1,6 @@
 ---
 description: When you configure a dataset profile to run on an Insight Server cluster, all of the machines in the cluster share all of the dataset configuration files for that profile.
-solution: Insight
+solution: Analytics
 title: Configuring a Profile to Run on a Cluster
 uuid: e181d069-fb2f-4a71-a86f-bb9a48cfe059
 ---

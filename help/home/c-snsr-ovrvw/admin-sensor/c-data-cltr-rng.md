@@ -1,6 +1,6 @@
 ---
 description: Check whether the collector is running using different methods.
-solution: Insight
+solution: Analytics
 title: Confirming that the Data Collector is Running
 uuid: e5b9b12a-b8a5-4c00-abe5-e824516d46b7
 ---

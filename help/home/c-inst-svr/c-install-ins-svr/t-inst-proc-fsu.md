@@ -1,6 +1,6 @@
 ---
 description: The instructions for installing an Insight Server FSU and configuring it for administrative use are very similar to those for installing and configuring an Insight Server DPU.
-solution: Insight
+solution: Analytics
 title: Installation Procedures for an Insight Server FSU
 uuid: ffed5095-f83c-4641-9ccc-4b94f51c3f95
 ---

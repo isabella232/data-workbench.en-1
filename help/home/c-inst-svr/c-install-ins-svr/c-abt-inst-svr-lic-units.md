@@ -1,6 +1,6 @@
 ---
 description: Insight Server is available under two license types.
-solution: Insight
+solution: Analytics
 title: About Insight Server License Units
 uuid: e6a48b00-4dc1-416c-9039-01c01b86abbf
 ---
