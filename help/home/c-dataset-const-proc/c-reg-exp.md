@@ -153,7 +153,7 @@ Iteration metacharacters let you match a pattern more than once.
   </tr> 
   <tr> 
    <td colname="col1"> {n} </td> 
-   <td colname="col2"> <p>Match the proceeding character or range exactly n times. The following pattern matches United States phone numbers: [0-9]{3}-[0-9]{3}-[0-9]{4}. </p> <p> While not an optimal pattern, it determines whether the target string is in the proper format. </p> </td> 
+   <td colname="col2"> <p>Match the proceeding character or range exactly n times. The following pattern matches United States phone numbers: <code>[0-9]{3}-[0-9]{3}-[0-9]{4}</code>. </p> <p> While not an optimal pattern, it determines whether the target string is in the proper format. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> {n,m} </td> 

@@ -192,7 +192,7 @@ The parameters of the [!DNL Regular Expression] condition are described in the f
  </tbody> 
 </table>
 
-This example illustrates the use of the [!DNL Regular Expression] condition to match a field of data collected from website traffic. The condition returns true only if the cs(referrer-query) field contains a string matching the regular expression campaign=C[1-9][0-9]{4}. This regular expression matches any string containing "campaign=C12345." However, the pattern would not match the string "campaign=C0123&" because the first character after the "C" is not in the range 1-9.
+This example illustrates the use of the [!DNL Regular Expression] condition to match a field of data collected from website traffic. The condition returns true only if the cs(referrer-query) field contains a string matching the regular expression `campaign=C[1-9][0-9]{4}`. This regular expression matches any string containing "campaign=C12345." However, the pattern would not match the string "campaign=C0123&" because the first character after the "C" is not in the range 1-9.
 
 ![](assets/cfg_Condition_RegularExpression.png)
 
