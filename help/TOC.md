@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: analytics
 audience: end-user
 user-guide-title: Data Workbench Help
