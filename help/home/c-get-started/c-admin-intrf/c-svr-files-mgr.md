@@ -4,8 +4,8 @@ solution: Analytics
 title: Server Files Manager
 topic: Data workbench
 uuid: 62625b9d-587f-4a78-8328-2270869909f8
+exl-id: 9ac7e95d-47e5-4862-a16e-bee0df1d3d15
 ---
-
 # Server Files Manager{#server-files-manager}
 
 The Server Files Manager enables you to remotely administer and manage Data Workbench server computers from any authorized Data Workbench by providing access to all of the directories and files in the product’s installation directory, including configuration and look-up files.
@@ -111,4 +111,3 @@ The following table lists the tasks that can be completed using the [!DNL Server
   </tr> 
  </tbody> 
 </table>
-

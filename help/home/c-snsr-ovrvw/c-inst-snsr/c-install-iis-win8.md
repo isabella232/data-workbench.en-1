@@ -2,8 +2,8 @@
 description: Install and configure Sensor for Microsoft IIS 7.x or 8.x running under Microsoft Windows Server 2008 or later.
 title: Microsoft IIS on Windows Server 2008 or Later
 uuid: 7fd8da68-1553-4395-b13e-b08a6ee1948e
+exl-id: cc909daa-60c0-4188-8e90-035c41bf3105
 ---
-
 # Microsoft IIS on Windows Server 2008 or Later{#microsoft-iis-on-windows-server-or-later}
 
 Install and configure Sensor for Microsoft IIS 7.x or 8.x running under Microsoft Windows Server 2008 or later.
@@ -212,4 +212,3 @@ The log data would be augmented as detailed in the following table:
 |  v_4  | Value associated with the ZIP query string  | v_4=90210  |
 
 <!-- <a id="section_55C623AC973246DC9EBECD48DA1EE0F7"></a> -->
-

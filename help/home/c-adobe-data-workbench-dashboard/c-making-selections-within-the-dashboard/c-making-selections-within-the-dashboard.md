@@ -4,8 +4,8 @@ solution: Analytics
 title: Making Selections within the Dashboard
 topic: Data workbench
 uuid: b28bcc11-8fd3-4431-98ba-8adbd42a73d5
+exl-id: 18475e5c-97f4-42fd-883a-f822432b5301
 ---
-
 # Making Selections within the Dashboard{#making-selections-within-the-dashboard}
 
 Data within a dashboard can easily be segmented and explored by the use of selections.
@@ -25,4 +25,3 @@ For each selection that has been made from a visualization, an entry will also a
 >[!NOTE]
 >
 >Visualized data is not automatically updated each time a selection is made. Rather, after you have made your desired selections, you must initiate an update in order to segment the data and update your visualizations.
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: Graphs
 topic: Data workbench
 uuid: 6029cd1a-4fe1-41fa-9594-2c5cee1f4882
+exl-id: 39fadfd8-646b-4959-b016-87ff201c66e7
 ---
-
 # Graphs{#graphs}
 
 A graph can display one or more metrics across one or two dimensions of data.
@@ -36,4 +36,3 @@ You can also add callouts to linear graphs. See [Adding Callouts to a Workspace]
 To add a callout to Graph visualizations, you need to right-click at the bottom of the visualization (the base axis) to open a menu and select **Add Callout**.
 
 ![](assets/visualization_callout_linegraph.png)
-

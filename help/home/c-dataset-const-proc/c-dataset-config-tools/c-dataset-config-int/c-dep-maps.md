@@ -4,8 +4,9 @@ solution: Analytics
 title: Dependency Maps
 topic: Data workbench
 uuid: c869267c-5fa9-43b8-b4d4-06c7a36bfa8e
+exl-id: 4618c735-f507-4abc-a4b4-d52a37c64c60
+exl-id: 733407ca-3326-406a-a642-a3ea3d3f6b8b
 ---
-
 # Dependency Maps{#dependency-maps}
 
 Dependency maps enable you to visualize and manage the configuration of the components of your profile.
@@ -52,4 +53,4 @@ When you click a node, all of the nodes that depend on that node and all of the 
 
 When you right-click a node, you can see identifying information about each component shown on the map and choose menu options that enable you to view more detail about the component or to edit the component. In addition, you can perform text searches and display performance information for transformations and extended dimensions.
 
-For information about these functions for dependency maps, see the Administrative Interfaces chapter of the *Data Workbench User Guide*. 
+For information about these functions for dependency maps, see the Administrative Interfaces chapter of the *Data Workbench User Guide*.

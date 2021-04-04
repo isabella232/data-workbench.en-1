@@ -4,8 +4,8 @@ solution: Analytics
 title: Report Server.cfg Parameters
 topic: Data workbench
 uuid: 506f30f7-c8c6-4580-8423-7da8d00b0d57
+exl-id: 339e4219-ff4d-4df6-b45a-7144927a843b
 ---
-
 # Report Server.cfg Parameters{#report-server-cfg-parameters}
 
 Information about Report Server.cfg parameters.
@@ -171,4 +171,3 @@ The following table provides descriptions of the [!DNL Report Server.cfg] file p
   </tr> 
  </tbody> 
 </table>
-

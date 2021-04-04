@@ -4,8 +4,8 @@ solution: Analytics
 title: Locked Selections
 topic: Data workbench
 uuid: 0466baa1-6ffb-4b7b-8dc6-118de97c8549
+exl-id: eaffe761-b2ac-4521-85ca-2c5227da3445
 ---
-
 # Locked Selections{#locked-selections}
 
 Selections within one or more visualizations on a dashboard can be locked to preserve current selections and prevent further alteration.
@@ -18,4 +18,4 @@ If you try to make selections on a locked visualization, you will see a message 
 
 ![](assets/selection_locked.png)
 
-As with any selection, locked selections are preserved when a dashboard is saved and remain active when a dashboard is loaded. For more information see [Locking and Unlocking Visualizations](../../../home/c-adobe-data-workbench-dashboard/c-visualizations/c-manipulating-visualizations/c-locking-and-unlocking-visualizations.md#concept-9215bcdd5bb44dee8d92ef0cc82f44d2). 
+As with any selection, locked selections are preserved when a dashboard is saved and remain active when a dashboard is loaded. For more information see [Locking and Unlocking Visualizations](../../../home/c-adobe-data-workbench-dashboard/c-visualizations/c-manipulating-visualizations/c-locking-and-unlocking-visualizations.md#concept-9215bcdd5bb44dee8d92ef0cc82f44d2).

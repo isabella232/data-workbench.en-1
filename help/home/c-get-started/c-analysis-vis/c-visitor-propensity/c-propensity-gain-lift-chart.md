@@ -4,8 +4,8 @@ solution: Analytics
 title: Propensity Gain and Lift Charts
 topic: Data workbench
 uuid: 4f08277e-deea-48d3-ab15-214c43ad6664
+exl-id: 5ac08512-ac9c-4e85-a4f9-ea6d819095d8
 ---
-
 # Propensity Gain and Lift Charts{#propensity-gain-and-lift-charts}
 
 The Lift and Gain charts offer visualizations for evaluating the potential performance of a scored model to evaluate performance over defined portions of the audience.
@@ -36,4 +36,4 @@ Using Adobe's Audience Scoring capability, the analyst defines success as a pros
 
 The y-axis shows the percentage of the cumulative expected positive responses. In our example, we expect a total of 1 million positive responses. A value of 20% on the y-axis corresponds to 20% of the 1 million expected positive responses, or 200,000 positive responses. The x-axis shows the percentage of prospective customers contacted. In our example, the x-axis represents a fraction of the 5 million customers in the email database. The baseline (Pink) is the overall response rate - if you contact X% of prospects then you will receive X% of the total positive responses. Using the predictive model, the lift curve (green) shows the percentage of positive responses obtained (y-axis) by contacting a given percentage of prospects (x-axis).
 
-The Lift chart plots the expected lift as a result of using the predictive model to determine the top one million prospects most likely to purchase yoga pants after receiving and clicking on the email. For contacting 20 percent of randomly selected prospects using no predictive model, you should expect to get 20 percent of responders. However, using the predictive model to identify the top 20 percent of prospects most likely to respond, you expect to get 50% of responders. The y-value of the lift curve at 20 percent is 50/20 = 2.5. The lift chart shows how much more likely you are to receive respondents than if you contact a random sample of prospects. For example, by contacting only 20 percent of prospects based on the predictive model you will reach 2.5 times as many respondents as compared to having not used any predictive model. 
+The Lift chart plots the expected lift as a result of using the predictive model to determine the top one million prospects most likely to purchase yoga pants after receiving and clicking on the email. For contacting 20 percent of randomly selected prospects using no predictive model, you should expect to get 20 percent of responders. However, using the predictive model to identify the top 20 percent of prospects most likely to respond, you expect to get 50% of responders. The y-value of the lift curve at 20 percent is 50/20 = 2.5. The lift chart shows how much more likely you are to receive respondents than if you contact a random sample of prospects. For example, by contacting only 20 percent of prospects based on the predictive model you will reach 2.5 times as many respondents as compared to having not used any predictive model.

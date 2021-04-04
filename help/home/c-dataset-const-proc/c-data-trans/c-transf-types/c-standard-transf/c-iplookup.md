@@ -4,8 +4,8 @@ solution: Analytics
 title: IPLookup
 topic: Data workbench
 uuid: 6fccee39-761f-4854-a7fd-3f8b453e0698
+exl-id: 3e9dba44-8d31-49af-8ce0-fecaf92edeb7
 ---
-
 # IPLookup{#iplookup}
 
 The IPLookup transformation takes IP geo-location or IP geo-intelligence data (provided by any vendor of such data and converted into a proprietary format by Adobe) and transforms the data into geographical information that can be used in analysis.
@@ -63,4 +63,3 @@ When defining an [!DNL IPLookup] transformation, choose the appropriate transfor
 In this example, [!DNL IP geo-location] data (in the lookup file [!DNL Quova.bin]) is used to create the output fields listed. The outputs (AOL, ASN, Area Code, and so on) can be used to create dimensions for geographical analysis of visitor traffic.
 
 ![](assets/cfg_TransformationType_IPLookup.png)
-

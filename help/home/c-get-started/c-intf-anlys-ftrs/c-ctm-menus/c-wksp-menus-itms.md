@@ -4,8 +4,8 @@ solution: Analytics
 title: Create a workspace menu and menu item
 topic: Data workbench
 uuid: 9565fe7a-fa4c-42b6-9aa5-b652a2d62796
+exl-id: 26f2b85c-ab23-41a4-bf4b-9e507952fede
 ---
-
 # Create a workspace menu and menu item{#create-a-workspace-menu-and-menu-item}
 
 These steps apply only to creating submenus and menu items for the Workspace Window menu.
@@ -59,4 +59,3 @@ You can customize the metric and dimension menus by creating new folders and new
 1. (Optional) To avoid having a menu item appear in multiple menus, you should delete the corresponding file from its original folder by right-clicking the check mark for the file in the *working profile name* column and clicking **[!UICONTROL Remove]** > **[!UICONTROL Yes]**.
 
    Repeat this step for the file’s check mark in the [!DNL User] column.
-

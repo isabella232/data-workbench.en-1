@@ -2,8 +2,8 @@
 description: Instructions for using custom certificates.
 title: Using Custom Certificates in Data Workbench
 uuid: c3a2db27-bdb2-44b3-95dd-65eedd05c957
+exl-id: f813d599-723f-4b5d-a0b5-f4d71c1b1a22
 ---
-
 # Using Custom Certificates in Data Workbench{#using-custom-certificates-in-data-workbench}
 
 Instructions for using custom certificates.
@@ -125,4 +125,4 @@ When the Insight server or client is looking for a **license** certificate in th
 Certificate failed to verify. Error 20 at 0 depth. Desc: unable to get local issuer certificate. Cert details:
 ```
 
-This warning can be safely ignored. 
+This warning can be safely ignored.

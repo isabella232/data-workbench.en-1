@@ -2,8 +2,8 @@
 description: Instructions about how to install and configure Sensor for Lotus Sametime for Windows 3.1 or later running under Microsoft Windows Server 2000 or later.
 title: Lotus Sametime on Windows Server 2000 or Later
 uuid: 5e24da54-7ef6-42cf-b693-cc4fd267af93
+exl-id: 9292bfca-ad3b-436d-9d22-be67a61b8c05
 ---
-
 # Lotus Sametime on Windows Server 2000 or Later{#lotus-sametime-on-windows-server-or-later}
 
 Instructions about how to install and configure Sensor for Lotus Sametime for Windows 3.1 or later running under Microsoft Windows Server 2000 or later.
@@ -140,4 +140,3 @@ After you configure the txlogd.conf file, you can start the transmitter program,
        The transmitter is designed to run continuously. If you restart the machine, the transmitter restarts automatically. If you need to start and stop the transmitter manually, you can do so using the Services control panel in Windows.
 
 1. Restart the Lotus Domino Server and the Sametime Chat Logging service.
-

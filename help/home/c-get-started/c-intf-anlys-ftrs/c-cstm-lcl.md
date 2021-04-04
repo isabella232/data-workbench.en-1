@@ -4,8 +4,8 @@ solution: Analytics
 title: Customize Data Workbench locally
 topic: Data workbench
 uuid: 9d04ebbf-fa48-4594-9b59-8b7e4c85fe6a
+exl-id: 07ad2744-2dd3-4db0-92ab-05346f74a076
 ---
-
 # Customize Data Workbench locally{#customize-data-workbench-locally}
 
 Data Workbench is extremely flexible in the number of ways it can be customized.
@@ -19,4 +19,3 @@ To remove any customizations to Data Workbench, delete all files and folders wit
 * Configuration folder 
 * [!DNL Insight.cfg] file 
 * [!DNL Insight.exe] file
-

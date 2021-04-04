@@ -4,8 +4,8 @@ solution: Analytics
 title: Digital Certificate Installation Procedures
 topic: Data workbench
 uuid: 14749a68-96cb-4cf4-819e-07df065e4016
+exl-id: a8ae8d23-8db8-44d9-8c45-e552da81c384
 ---
-
 # Digital Certificate Installation Procedures{#digital-certificate-installation-procedures}
 
 Steps to download and install the digital certificate.
@@ -21,5 +21,4 @@ Steps to download and install the digital certificate.
 1. When prompted to save the certificate, click **[!UICONTROL Save]**.
 1. Download the file to the Certificates folder in the directory where you installed [!DNL Report Server].
 
-   This folder already contains a certificate file named [!DNL trust_ca_cert.pem]. Both certificate files must always be present for [!DNL Report] Server to function. 
-
+   This folder already contains a certificate file named [!DNL trust_ca_cert.pem]. Both certificate files must always be present for [!DNL Report] Server to function.

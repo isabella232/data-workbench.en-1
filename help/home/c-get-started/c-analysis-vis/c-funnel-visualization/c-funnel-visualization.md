@@ -4,8 +4,8 @@ solution: Analytics
 title: Funnel Visualization
 topic: Data workbench
 uuid: 7973a7a9-ed17-4d3d-be14-37b3c17fa371
+exl-id: 2fc261fa-7c93-4de1-af32-ae5b9cbcdc0e
 ---
-
 # Funnel Visualization{#funnel-visualization}
 
 The Funnel visualization lets you identify where customers abandon a marketing campaign or divert from a defined conversion path while interacting with your website or cross-channel campaign.
@@ -33,4 +33,3 @@ The Funnel visualization provides various levels of data:
 >[!NOTE]
 >
 >In the Funnel visualization, you can apply any dimension at the countable level. This is in contrast to the Path Browser and Process Maps that restrict your choice of metrics. Analysts have multiple choices when applying a metric in the Funnel visualization.
-

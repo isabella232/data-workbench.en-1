@@ -4,8 +4,8 @@ solution: Analytics
 title: Data Workbench Profile Status workspace
 topic: Data workbench
 uuid: b54713c8-863d-4376-8ebf-4a2985e28c76
+exl-id: 40b9b0bf-4fd9-48d8-875b-514921c520cd
 ---
-
 # Data Workbench Profile Status workspace{#data-workbench-profile-status-workspace}
 
 The data workbench Profile Status profile provides current information about the data workbench server health based on the profile rather than server metrics or historical data.
@@ -29,4 +29,3 @@ If the Stalled metric is 1, then the server is stalled. If the value is 0, then 
 **Log Reading for large batch loads** 
 
 ![](assets/Status_General_stalled_log.png)
-

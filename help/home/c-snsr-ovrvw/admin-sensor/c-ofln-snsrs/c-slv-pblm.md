@@ -3,8 +3,8 @@ description: When a web server goes offline because of a failure, the solution i
 solution: Analytics
 title: Solving the Problem
 uuid: 19d47b06-be12-4adf-9eac-b16cf7131834
+exl-id: 4a05dc06-360b-4c15-a881-81d350e95372
 ---
-
 # Solving the Problem{#solving-the-problem}
 
 When a web server goes offline because of a failure, the solution is a simple one that requires a Data Workbench user with appropriate privileges to open the Log Processing Mode.cfg file and add the ID of the Sensor (in our example, WEB2) to the "Offline Sources" section.
@@ -19,4 +19,4 @@ If WEB2 begins to send data again, the [!DNL data workbench server] brings the s
 
 If WEB2 goes offline again, the As Of time will again stop, and you will need to edit the [!DNL Log Processing Mode.cfg] file again even though it might already have WEB2 listed as an offline source. This is an artifact of the design of the product in keeping with the definition of the As Of time: the last time the system has data for all known sources.
 
-When you add more web servers (WEB4, WEB5, WEB6), and they begin sending data to the [!DNL data workbench server], you do not need to do anything to have the [!DNL data workbench server] recognize the new sources. The system simply becomes aware that it should be expecting data from these new sources, as described above. 
+When you add more web servers (WEB4, WEB5, WEB6), and they begin sending data to the [!DNL data workbench server], you do not need to do anything to have the [!DNL data workbench server] recognize the new sources. The system simply becomes aware that it should be expecting data from these new sources, as described above.

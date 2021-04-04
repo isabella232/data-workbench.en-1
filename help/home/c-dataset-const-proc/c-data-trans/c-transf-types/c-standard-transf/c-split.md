@@ -4,8 +4,8 @@ solution: Analytics
 title: Split
 topic: Data workbench
 uuid: 116e8465-8fb1-41eb-9a28-412cee54ab87
+exl-id: ea85b095-1306-4938-906d-35d421db6c98
 ---
-
 # Split{#split}
 
 The Split transformation splits a string into a vector of substrings based upon a given delimiter character.
@@ -62,4 +62,4 @@ The cs-uri-stem field is used to determine whether the page being requested by t
 
 ![](assets/cfg_TransformationType_Split.png)
 
-Here, the output field is x-products, which would be used to create the desired extended dimension that maps the products purchased to the sessions during which the purchase was made. 
+Here, the output field is x-products, which would be used to create the desired extended dimension that maps the products purchased to the sessions during which the purchase was made.

@@ -2,8 +2,8 @@
 description: This is a quick guide giving you the minimum steps required to validate Internal and External FTP setup.
 title: Validation of Internal and External FTP Servers
 uuid: bc381c1d-df27-4009-920b-1a804b36c204
+exl-id: 8eecfda7-ffa0-458c-a518-434758344bfe
 ---
-
 # Validation of Internal and External FTP Servers{#validation-of-internal-and-external-ftp-servers}
 
 This is a quick guide giving you the minimum steps required to validate Internal and External FTP setup.
@@ -40,4 +40,4 @@ For additional information on setting up FTP servers, see [File Transfer Protoco
 
 ## Validation Steps - Internal FTP {#section-b1f7a789ad6848cf9027f7953d81066e}
 
-The above steps can be followed to validate internal ftp from any Adobe server. 
+The above steps can be followed to validate internal ftp from any Adobe server.

@@ -4,8 +4,8 @@ solution: Analytics
 title: Data Workbench Help
 topic: Reports and analytics
 uuid: 987b69f1-b82a-4719-a71d-b0250a4a4f92
+exl-id: 9c00c87e-e5dd-4806-9338-2336ae68176a
 ---
-
 # Data Workbench Help{#data-workbench-help}
 
 ![Banner](/help/home/assets/doc_banner_workbench.png)

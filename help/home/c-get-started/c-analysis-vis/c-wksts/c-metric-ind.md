@@ -4,8 +4,8 @@ solution: Analytics
 title: Create a metric indicator
 topic: Data workbench
 uuid: da304004-ef45-4c89-8c91-dd5158172dd6
+exl-id: 5713f3dd-85ef-407c-b21c-80e9b4390b6d
 ---
-
 # Create a metric indicator{#create-a-metric-indicator}
 
 You can use worksheets to indicate that a metric has reached a defined threshold.
@@ -82,4 +82,3 @@ There are two possible outcomes for each metric when using the [!DNL Check indic
 The following worksheet illustrates what the example formulas [!DNL =(c2-b2)] and [!DNL =(b3-c3)] would display:
 
 ![](assets/vis_Worksheet_Alerts_Check.png)
-

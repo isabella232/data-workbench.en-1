@@ -4,8 +4,8 @@ solution: Analytics
 title: Help Menu
 topic: Data workbench
 uuid: d94f8b9f-bfaa-43b4-ab64-1bd75ff54c7d
+exl-id: 86482588-bb9a-4e4c-bd01-b3bea6eaaa33
 ---
-
 # Help Menu{#help-menu}
 
 Using the Help drop-down menu, you can access the dashboard product documentation
@@ -26,4 +26,3 @@ For further support regarding technical or software performance issues, contact 
 * Dashboard version number 
 * Detailed explanation of the issue you are experiencing 
 * Screen shots of issue (if possible)
-

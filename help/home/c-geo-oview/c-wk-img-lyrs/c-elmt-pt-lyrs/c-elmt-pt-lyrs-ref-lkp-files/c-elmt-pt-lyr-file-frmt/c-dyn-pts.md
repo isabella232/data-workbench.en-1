@@ -4,8 +4,8 @@ solution: Analytics
 title: Defining Element Point Layers Using Dynamic Points
 topic: Data workbench
 uuid: 5f1b4638-fe45-40be-b963-18dcd5d09afa
+exl-id: ad849fe7-b909-40ef-835f-f1764e008de9
 ---
-
 # Defining Element Point Layers Using Dynamic Points{#defining-element-point-layers-using-dynamic-points}
 
 When creating an element point layer using dynamic points, the latitude and longitude data is embedded in each element of the dimension.
@@ -90,4 +90,3 @@ Layer = ElementPointLayer:
   Metric = ref: wdata/model/metric/Visitors
   Dynamic Points = bool: true
 ```
-

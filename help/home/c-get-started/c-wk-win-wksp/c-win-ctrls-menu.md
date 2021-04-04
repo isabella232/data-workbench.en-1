@@ -4,8 +4,8 @@ solution: Analytics
 title: Window Controls menu
 topic: Data workbench
 uuid: 9a7c24a7-c591-4d73-94f5-bba79b2aa848
+exl-id: abbd6545-0b80-45a2-88d7-f0687249583d
 ---
-
 # Window Controls menu{#window-controls-menu}
 
 The Window Controls menu enables you to control an individual window.

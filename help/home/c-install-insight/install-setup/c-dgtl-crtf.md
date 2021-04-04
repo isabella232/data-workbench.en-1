@@ -2,8 +2,8 @@
 description: After you have installed the Insight program files, you must download and install the digital certificate provided to you by Adobe.
 title: Downloading and Installing the Digital Certificate
 uuid: 93ab2222-a977-4279-9e1e-71038b1d1cfa
+exl-id: 0dff95ae-880b-45d5-96df-4eb6bea58891
 ---
-
 # Downloading and Installing the Digital Certificate{#downloading-and-installing-the-digital-certificate}
 
 After you have installed the Insight program files, you must download and install the digital certificate provided to you by Adobe.
@@ -375,4 +375,4 @@ When communicating between the Data Workbench client (workstation) and server, y
 
 **Output file**
 
-An output file will be generated with the same name as the input file with a <*filename*>.*encrypted* extension. For example, if the input file is named *sample.cfg* then the output file will be named *sample.cfg.encrypted*. 
+An output file will be generated with the same name as the input file with a <*filename*>.*encrypted* extension. For example, if the input file is named *sample.cfg* then the output file will be named *sample.cfg.encrypted*.

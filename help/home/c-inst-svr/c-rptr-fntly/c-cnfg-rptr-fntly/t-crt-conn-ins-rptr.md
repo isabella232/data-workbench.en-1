@@ -3,8 +3,8 @@ description: If network firewalls do not prevent access to the repeater server f
 solution: Analytics
 title: Creating a Connection Between Insight and Repeater
 uuid: dccce83a-8708-4763-a19a-64d905a9f624
+exl-id: 81e81db5-0517-41d4-a958-d08cd3975096
 ---
-
 # Creating a Connection Between Insight and Repeater{#creating-a-connection-between-insight-and-repeater}
 
 If network firewalls do not prevent access to the repeater server from Insight machines, you can create a connection between the repeater server and Insight so that you can manage the repeater server using Insight.
@@ -44,5 +44,4 @@ If network firewalls do not prevent access to the repeater server from Insight m
 
 1. Save the file by right-clicking **[!UICONTROL (modified)]** at the top of the window and clicking **[!UICONTROL Save]**. [!DNL Insight] will attempt to connect to the repeater server using the settings you have specified. If a connection is established, a green server icon appears in the [!DNL Servers Manager] interface. If a connection cannot be established, a red icon appears.
 
-   For more information about the [!DNL Servers Manager] interface, see the * [!DNL Insight] User Guide*. 
-
+   For more information about the [!DNL Servers Manager] interface, see the * [!DNL Insight] User Guide*.

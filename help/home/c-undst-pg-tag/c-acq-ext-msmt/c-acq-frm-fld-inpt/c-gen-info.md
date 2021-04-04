@@ -4,8 +4,8 @@ solution: Analytics
 title: General Information
 topic: Data workbench
 uuid: 401816a5-1d95-48e6-bedf-ee2a5dbd2d50
+exl-id: 9effc72b-e75f-423c-87ec-6ac25edee8d6
 ---
-
 # General Information{#general-information}
 
 Values entered into a form in a web page can be collected and appended in the query string of the subsequently requested page (on form submission) through the use of JavaScript.
@@ -58,4 +58,3 @@ The following extended measurements would be acquired with this request in addit
 |  v_2  | Value associated with the CITY form field  | v_2=Los Angeles  |
 |  v_3  | Value associated with the STATE form field  | v_3=California  |
 |  v_4  | Value associated with the ZIP form field  | v_4=90210  |
-

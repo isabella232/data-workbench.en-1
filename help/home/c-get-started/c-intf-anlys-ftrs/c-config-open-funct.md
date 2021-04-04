@@ -4,8 +4,8 @@ solution: Analytics
 title: Configure open functionality
 topic: Data workbench
 uuid: dfa79a2b-e9ff-4e62-b15b-ae7911adeafd
+exl-id: c807a284-b544-41cf-958b-27b47d2142ce
 ---
-
 # Configure open functionality{#configure-open-functionality}
 
 Open functionality enables you to open such items as documents or URIs in such external applications as a text editor or a web browser.
@@ -45,4 +45,3 @@ To open a URI from a visualization, you first must edit the [!DNL Open URI.cfg] 
 
 1. Save the file. 
 1. To make this change available to all users of the working profile, right-click the check mark for the [!DNL .vw] file in the [!DNL User] column and click **[!UICONTROL Save to]** > **[!UICONTROL working profile name]**.
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: Sort data in a table
 topic: Data workbench
 uuid: 66869478-922d-41e1-915d-3ed7bff3b08d
+exl-id: 9cacb9bc-1bad-417b-b506-ca54e644de00
 ---
-
 # Sort data in a table{#sort-data-in-a-table}
 
 Steps to sort data.
@@ -29,4 +29,3 @@ If the table has only one dimension, you can simply click the label of the metri
 1. (Optional) To choose whether to sort in ascending or descending order, right-click an element or the label of the dimension that you want to sort and click **[!UICONTROL Sort]** > **[!UICONTROL Order]** > **[!UICONTROL Ascending]** or **[!UICONTROL Sort]** > **[!UICONTROL Order]** > **[!UICONTROL Descending]**.
 
    If the table has only one dimension, you can simply click the label of the metric to reverse the sort order. Clicking the label again reverses the sort order.
-

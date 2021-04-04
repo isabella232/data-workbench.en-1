@@ -4,8 +4,8 @@ solution: Analytics,Analytics
 title: Defining the Objective
 topic: Data workbench
 uuid: 4957b249-8790-4275-98ab-9c6398039a63
+exl-id: 6ee140ff-3cfb-45f8-9bce-f360fbb19322
 ---
-
 # Defining the Objective{#defining-the-objective}
 
 Define the primary function of the objective, and target audience.
@@ -21,4 +21,3 @@ Make sure to think carefully about what it is specifically that you want to unde
 **Objective:** To increase the number of visitors to our website who request a demo of our product using the “Request a Demo” graphical link, as shown in the following image:
 
 ![](assets/ControlPage.png)
-

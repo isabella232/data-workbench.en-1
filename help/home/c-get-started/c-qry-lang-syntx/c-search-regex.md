@@ -4,8 +4,8 @@ solution: Analytics
 title: Regular expressions
 topic: Data workbench
 uuid: dc8c1e88-4d95-4011-8a38-70fae0c5cf6d
+exl-id: bb1be6d8-3b7a-47e4-bb29-4a65de99666b
 ---
-
 # Regular expressions{#regular-expressions}
 
 Data workbench utilizes regular expressions (regex) for search and sort operations.
@@ -41,4 +41,4 @@ Within the **[!UICONTROL Search]** field you can perform a search following the 
 
 Additional common regular expressions can also be used to create more complex search strings. Regular expressions are used across all Data Workbench search fields including the query entity panels.
 
-See in-depth information at [regular expressions](https://docs.adobe.com/content/help/en/data-workbench/using/dataset/c-dataset-constr.html#Regular_Expressions). 
+See in-depth information at [regular expressions](https://docs.adobe.com/content/help/en/data-workbench/using/dataset/c-dataset-constr.html#Regular_Expressions).

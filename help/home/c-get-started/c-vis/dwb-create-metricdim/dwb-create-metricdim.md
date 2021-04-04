@@ -2,8 +2,8 @@
 description: Use the Metric Dim wizard to create a new Metric Dimension.
 title: Metric Dim Wizard
 uuid: 77b9bc8e-7625-4fef-9de4-f113f9b2debd
+exl-id: 109fbefc-5608-493d-aec9-8337f21eaa70
 ---
-
 # Metric Dim Wizard{#metric-dim-wizard}
 
 Use the Metric Dim wizard to create a new Metric Dimension.
@@ -90,4 +90,3 @@ You can select the metric format and set the bucket values for a dimension expre
 1. Click **Finish** and save.
 
    A save dialog will open allowing you to save the file. The selected options to view values will open in the workspace.
-

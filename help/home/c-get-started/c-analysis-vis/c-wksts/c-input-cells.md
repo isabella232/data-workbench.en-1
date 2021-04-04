@@ -4,8 +4,8 @@ solution: Analytics
 title: Create an input cell
 topic: Data workbench
 uuid: 9b2883e4-b12a-4279-9894-37a1df6c34b3
+exl-id: 1e55696e-fcc8-4521-b37b-f52409229e6d
 ---
-
 # Create an input cell{#create-an-input-cell}
 
 How to create an input cell.
@@ -27,4 +27,3 @@ After you format B1 and lock the visualization, you can change the value of the 
 ![](assets/vis_Worksheet_InputCell_locked.png)
 
 ![](assets/vis_Worksheet_InputCell_locked_changed.png)
-

@@ -2,8 +2,8 @@
 description: Information about Sensor UNIX file permissions such as the collector module, the transmitter process, the configuration file, and more.
 title: Sensor UNIX File Permissions
 uuid: 04d159b5-6569-48b6-a2db-9a0b40118ffe
+exl-id: 07cbc7df-c628-437d-9ca1-b006da8de242
 ---
-
 # Sensor UNIX File Permissions{#sensor-unix-file-permissions}
 
 Information about Sensor UNIX file permissions such as the collector module, the transmitter process, the configuration file, and more.
@@ -160,4 +160,3 @@ Information about Sensor UNIX file permissions such as the collector module, the
   </tr> 
  </tbody> 
 </table>
-

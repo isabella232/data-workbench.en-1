@@ -4,8 +4,8 @@ solution: Analytics
 title: Opening Data Workbench
 topic: Data workbench
 uuid: d1da143d-6302-4467-a989-842b54b87c2e
+exl-id: 898c9dc7-969c-4e62-be6b-1d2e0086b1d6
 ---
-
 # Opening Data Workbench{#opening-data-workbench}
 
 After Data Workbench has been installed and is connected to the server, you can use it to analyze your processed data.
@@ -35,4 +35,3 @@ After Data Workbench has been installed and is connected to the server, you can 
    >[!NOTE]
    >
    >It is not recommended for multiple users to share a single machine for using the Workstation.
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: Generating Reports
 topic: Data workbench
 uuid: 90bc42b3-d7f2-46f2-8c68-5c682d163f3c
+exl-id: 8e5765e8-71b6-4716-96fe-5c7f69407295
 ---
-
 # Generating Reports{#generating-reports}
 
 Generate reports by processing workspaces and specifying them as reports.

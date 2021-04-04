@@ -4,8 +4,8 @@ solution: Analytics
 title: Initializing the Dashboard
 topic: Data workbench
 uuid: 847ba63e-29d8-4950-aa74-22d825388e2b
+exl-id: 47098d73-d8c4-4d14-964f-108a731d3733
 ---
-
 # Initializing the Dashboard{#initializing-the-dashboard}
 
 The final step is to run the dashboard for the first time to allow it to initialize.
@@ -31,4 +31,4 @@ The dashboard installation is now complete. If you haven’t already, use the in
 
 >[!NOTE]
 >
->If you ever need to change the connection string for the database, simply edit the value using the **[!UICONTROL IIS Management Console]**. 
+>If you ever need to change the connection string for the database, simply edit the value using the **[!UICONTROL IIS Management Console]**.

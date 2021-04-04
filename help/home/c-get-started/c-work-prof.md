@@ -2,8 +2,8 @@
 description: Data Workbench downloads profiles to your machine.
 title: Profiles
 uuid: 8ea36138-9839-40e5-89e2-4b120f1dd7aa
+exl-id: a140f549-448c-4e34-8eae-ad154fa01f1f
 ---
-
 # Profiles{#profiles}
 
 Data Workbench downloads profiles to your machine.
@@ -42,4 +42,4 @@ Data Workbench users who access a profile running on a
 
 ata workbench server cluster identify only the master Data Workbench Server in the Data Workbench configuration file ( [!DNL Insight.cfg]). From the perspective of the Data Workbench user, the profile is accessible on only one Data Workbench Server (the master Data Workbench Server). However, query requests from analysts can be directed to any of the Data Workbench Servers in the cluster.
 
-For more information about profiles running on a Data Workbench Server cluster, see the *Server Products Installation and Administration Guide*. 
+For more information about profiles running on a Data Workbench Server cluster, see the *Server Products Installation and Administration Guide*.

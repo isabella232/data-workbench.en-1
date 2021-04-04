@@ -4,8 +4,8 @@ solution: Analytics
 title: Understanding Dataset Construction
 topic: Data workbench
 uuid: 540d159d-3f72-49dd-9929-107f1fc62b2b
+exl-id: 111e98b5-d899-4f79-90ce-70f520d527d6
 ---
-
 # Understanding Dataset Construction{#understanding-dataset-construction}
 
 An Adobe dataset contains the data that has been loaded and processed by the data workbench server.
@@ -66,4 +66,4 @@ The [!DNL Log Entry Condition] can be applied during transformation to look for 
 
 ## Defining Extended Dimensions {#section-25efafd0bfc84c86b9717d453a88c91b}
 
-Extended dimensions are the final products of the dataset construction process. They represent relationships between the log fields in the data. You use them to create visualizations, build extended metrics, or perform analysis to understand the operations and issues specific to your business. 
+Extended dimensions are the final products of the dataset construction process. They represent relationships between the log fields in the data. You use them to create visualizations, build extended metrics, or perform analysis to understand the operations and issues specific to your business.

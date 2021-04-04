@@ -4,8 +4,8 @@ solution: Analytics
 title: Removing a Profile Connection
 topic: Data workbench
 uuid: 47a169f3-2843-4f9e-9ca9-4596491ba07a
+exl-id: 312ace0c-71ea-4216-98e8-0e99bb4f83bd
 ---
-
 # Removing a Profile Connection{#removing-a-profile-connection}
 
 1. Click the **[!UICONTROL X]** at the end of the row to remove the connection to the profile.
@@ -13,4 +13,4 @@ uuid: 47a169f3-2843-4f9e-9ca9-4596491ba07a
 
    ![](assets/delete_connection.png)
 
-   If the operation was successful, you will see a message indicating that the profile connection was successfully removed. 
+   If the operation was successful, you will see a message indicating that the profile connection was successfully removed.

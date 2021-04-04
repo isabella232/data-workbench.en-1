@@ -4,8 +4,8 @@ solution: Analytics
 title: Making a New Vector Layer Available
 topic: Data workbench
 uuid: 7e88f183-b0aa-452d-b124-7cd970be9bb9
+exl-id: aaa1a680-3733-43c3-9d14-5aaa5f4aad6e
 ---
-
 # Making a New Vector Layer Available{#making-a-new-vector-layer-available}
 
 Steps to make a vector layer available to display on the globe visualization.

@@ -4,8 +4,8 @@ solution: Analytics
 title: Working With Dataset Configuration Interfaces
 topic: Data workbench
 uuid: c29faccd-0402-4982-9e5b-7379e2590246
+exl-id: cc2b876f-8d65-4b36-920a-dde3928795bd
 ---
-
 # Working With Dataset Configuration Interfaces{#working-with-dataset-configuration-interfaces}
 
 The dataset configuration interfaces show the relationships among the components (log sources, fields, transformations, and dimensions) of your dataset.
@@ -21,4 +21,3 @@ You can open the interfaces for dataset configuration using one of the following
   -OR- 
 
 * **Admin Tab:** Click to open the appropriate workspace thumbnail on the **[!UICONTROL Admin]** > **[!UICONTROL Dataset and Profile tab]**.
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: Installing a Data Service on a Data Workbench Server
 topic: Data workbench
 uuid: afe8e259-7fef-4327-9afc-18f36a1934db
+exl-id: 414e93b7-4e9c-4c84-8fba-8052939240c5
 ---
-
 # Installing a Data Service on a Data Workbench Server{#installing-a-data-service-on-a-data-workbench-server}
 
 Information about installing a data service on a data workbench server.
@@ -21,4 +21,4 @@ Adobe distributes the IP Geo-intelligence and IP Geo-location data services as [
 * Install the data service profile. See [Installing the Data Service Profile](../../../../home/c-geo-oview/c-wk-data-svcs/c-install-data-svc/c-inst-data-svc-prof.md). 
 * Install the data service lookups. See [Installing the Data Sevice Lookup Files](../../../../home/c-geo-oview/c-wk-data-svcs/c-install-data-svc/t-inst-data-svc-lkp-files.md).
 
-You must install the data service profile and lookup files on the data workbench server machine on which you are processing and running your dataset profile. If you are running a data workbench server cluster, you must install the files on the master server. For information about dataset profiles, see the *Dataset Configuration Guide*. 
+You must install the data service profile and lookup files on the data workbench server machine on which you are processing and running your dataset profile. If you are running a data workbench server cluster, you must install the files on the master server. For information about dataset profiles, see the *Dataset Configuration Guide*.

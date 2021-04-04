@@ -4,8 +4,8 @@ solution: Analytics
 title: Data Workbench Profile Dimensions and Metrics
 topic: Data workbench
 uuid: 42ef154f-fd8b-4609-8685-96d9dbf32a3d
+exl-id: cfad9897-2ea3-47e4-aa36-416e0fde9358
 ---
-
 # Data Workbench Profile Dimensions and Metrics{#data-workbench-profile-dimensions-and-metrics}
 
 This document describes the profiles with their fields, dimensions, and metrics employed by the data workbench Monitoring Profile.
@@ -23,4 +23,4 @@ These profiles provide dimensions and metrics that allow you to view server stat
 
 The Status profiles allow you to see how data workbench is currently performing from an operational perspective. The **Profile Status** profile and the **Server Status** profile gather data from the Detailed Status and the data workbench servers. All gathered data is placed into the `cs-uri-query` field for use.
 
-The **Historic profiles** allow you to assess the impact of configuration and hardware changes using historical data. The historical profile may be the most useful because it allows you to assess the impact of configuration and hardware changes over time. 
+The **Historic profiles** allow you to assess the impact of configuration and hardware changes using historical data. The historical profile may be the most useful because it allows you to assess the impact of configuration and hardware changes over time.

@@ -4,8 +4,8 @@ solution: Analytics
 title: Text annotations
 topic: Data workbench
 uuid: 08dd7f57-ccab-430a-b2a3-469f86b86dd2
+exl-id: 6915b341-d7a0-4e17-a260-223c0cb26422
 ---
-
 # Text annotations{#text-annotations}
 
 Text annotations are windows into which you can enter arbitrary text to add descriptive information or comments to a workspace.
@@ -61,4 +61,4 @@ This option controls the number of columns in which to display the text in the a
 
 ## Export to Microsoft Excel {#section-b239057b822348849fd17a83c3a03c22}
 
-For information about exporting windows, see [Exporting Window Data](../../../../home/c-get-started/c-wk-win-wksp/c-exp-win-data.md#concept-8df61d64ed434cc5a499023c44197349). 
+For information about exporting windows, see [Exporting Window Data](../../../../home/c-get-started/c-wk-win-wksp/c-exp-win-data.md#concept-8df61d64ed434cc5a499023c44197349).

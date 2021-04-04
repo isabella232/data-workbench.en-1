@@ -4,8 +4,8 @@ solution: Analytics
 title: Create a field viewer
 topic: Data workbench
 uuid: df48e728-96f9-4432-82c8-f8047840ffb9
+exl-id: a2563dbb-1d1f-4ed8-b73b-6ac7a2687405
 ---
-
 # Create a field viewer{#create-a-field-viewer}
 
 You can open a field viewer as a callout from a dependency map or as a standalone visualization from the Admin menu.
@@ -37,4 +37,3 @@ In the list of available fields, an X appears to the left of any field already d
 **To remove a field from a field viewer**
 
 * Right-click within the column for the field that you want to remove and click **[!UICONTROL Remove Field]**.
-

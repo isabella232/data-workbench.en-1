@@ -4,8 +4,8 @@ solution: Analytics
 title: Publish files to your working profile
 topic: Data workbench
 uuid: c8810e7e-e659-44f6-8175-babefd2a59f6
+exl-id: 7706a5e7-dade-4b50-9167-ed56d1e99273
 ---
-
 # Publish files to your working profile{#publish-files-to-your-working-profile}
 
 The Profile Manager enables the management of visualizations, segments, metrics, dimensions, and so on.
@@ -23,5 +23,4 @@ Although you can save workspaces to your working profile on the Data Workbench s
 1. In the [!DNL Profile Manager], open the necessary folders and subfolders in the [!DNL Profile Manager] to locate the file that you want to publish. The [!DNL Profile Manager] displays a white check mark in the [!DNL User] column next to the file indicating that a local copy of this file now resides in the User\*profile name* folder on your computer.
 1. Right-click the white check mark for the file in the [!DNL User] column and click **[!UICONTROL Save to]** > *< **[!UICONTROL profile name]**>*.
 
-   The [!DNL Profile Manager] displays a check mark next to the file name in the selected profile’s column and removes the white check mark in the [!DNL User] column. Your file is now available for use by all users and is downloaded automatically to them (and you) when the profile is next loaded. 
-
+   The [!DNL Profile Manager] displays a check mark next to the file name in the selected profile’s column and removes the white check mark in the [!DNL User] column. Your file is now available for use by all users and is downloaded automatically to them (and you) when the profile is next loaded.

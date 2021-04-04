@@ -4,8 +4,8 @@ solution: Analytics
 title: Mapping Report Portal to a Virtual Directory (IIS 7.0 or higher)
 topic: Data workbench
 uuid: 9d18fb85-f9d7-48b6-a19b-1e7b68a5adca
+exl-id: 2fa3439a-1fe5-4a20-83db-d233ae8b5263
 ---
-
 # Mapping Report Portal to a Virtual Directory (IIS 7.0 or higher){#mapping-report-portal-to-a-virtual-directory-iis-or-higher}
 
 Steps to map the Report Portal to a virtual directory (IIS 7.0 or higher).
@@ -58,4 +58,3 @@ Currently, most Managed Service clients have servers with the Windows Server 200
 * For the sake of standardization, place the contents of this zip file into [!DNL E:\Portal]. 
 * To determine the SMTP server For managed services clients, you can go look here. 
 * Put in a request with NetOps to change the domain name entry in IIS for the report server to something friendlier - for example, [!DNL reports.clientname.insight.omniture.com], so that your overall portal URL is [!DNL http://reports.clientname.insight.omniture.com/Portal]. Configure your [!DNL email.asa] file once this change has been put into place.
-

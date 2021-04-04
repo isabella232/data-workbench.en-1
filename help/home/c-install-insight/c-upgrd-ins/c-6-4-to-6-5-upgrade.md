@@ -2,8 +2,8 @@
 description: Follow these steps to upgrade to Data Workbench v6.5.
 title: Upgrading 6.4 to 6.5
 uuid: b90b7b0c-7467-405f-a5ca-c40e69975d49
+exl-id: bcfd1ab1-2fb8-4bcd-b6c9-329143274ca4
 ---
-
 # Upgrading 6.4 to 6.5{#upgrading-to}
 
 Follow these steps to upgrade to Data Workbench v6.5.
@@ -29,4 +29,3 @@ Follow these requirements and recommendations when upgrading to Data Workbench 6
   ```
 
   where n is the maximum number of multi-pass visualizations supported by Report Server in a workspace.
-

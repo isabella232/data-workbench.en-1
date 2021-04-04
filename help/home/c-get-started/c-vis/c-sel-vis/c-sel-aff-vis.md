@@ -4,8 +4,8 @@ solution: Analytics
 title: Understanding How a Selection Affects Other Visualizations
 topic: Data workbench
 uuid: d46f4e8d-df6f-4a7f-a796-eb9f11536ae5
+exl-id: 7756646b-9309-41aa-a098-8988f6c065c8
 ---
-
 # Understanding How a Selection Affects Other Visualizations{#understanding-how-a-selection-affects-other-visualizations}
 
 Within a workspace, a visualization represents a set of query results.
@@ -62,4 +62,3 @@ In this example, the [!DNL /direct.asp/?ldPage=hme] URI in the visualization on 
   ```
 
 * **Interpreting the Visualization:** The filtered visualization depicts the Visitors who have viewed both URIs listed in the visualization and [!DNL /direct.asp/?ldPage=hme] during the same session. This example shows that 1,069 visitors saw both [!DNL /pops/disclosure_pop.asp] and [!DNL /direct.asp/?ldPage=hme] during a single session.
-

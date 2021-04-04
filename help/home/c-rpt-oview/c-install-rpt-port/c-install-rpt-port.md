@@ -4,8 +4,8 @@ solution: Analytics
 title: Installing the Report Portal
 topic: Data workbench
 uuid: 6aeb6038-b0b0-48b9-a020-bc9dfd703c43
+exl-id: c6f140d4-a4fe-48e2-bbcd-b43efb2387dd
 ---
-
 # Installing the Report Portal{#installing-the-report-portal}
 
 To use Report Portal, you must install and configure a set of application server pages (ASPs) on IIS.
@@ -26,4 +26,3 @@ The procedures in this chapter describe how to install and configure [!DNL Repor
 >* If you are upgrading to Report Portal 2.0, increase the Field Size for the **Password** field from 50 to 150 in users.mdb database. Increasing the field size is required to accommodate passwords with updated encryption. 
 >* The Report Portal now features stronger hashing algorithms with salting support. If you are upgrading to **Report Portal 2.1**, add a new Text field, *PasswordSalt* with field size of 20 characters in [!DNL users.mdb]database. This field is required to store the password salt. 
 >
-

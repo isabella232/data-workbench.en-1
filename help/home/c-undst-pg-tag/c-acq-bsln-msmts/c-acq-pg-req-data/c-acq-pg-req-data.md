@@ -4,8 +4,8 @@ solution: Analytics
 title: Acquiring Page Request Data
 topic: Data workbench
 uuid: 06cf2b14-8d2c-483e-8a75-ce772798978f
+exl-id: e42566a3-d5b4-4f1a-b8cd-1ea646041101
 ---
-
 # Acquiring Page Request Data{#acquiring-page-request-data}
 
 Sensor acquires all measurement data that is carried on the page requests (GET requests) made to the web servers on which it has been installed.
@@ -96,4 +96,3 @@ The following table contains the fields of log information that are acquired by 
   </tr> 
  </tbody> 
 </table>
-

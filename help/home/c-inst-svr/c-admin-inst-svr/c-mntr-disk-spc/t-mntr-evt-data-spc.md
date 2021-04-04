@@ -3,8 +3,8 @@ description: Information about monitoring event data space and changing the log 
 solution: Analytics
 title: Monitoring Event Data Space
 uuid: e514e8fb-e735-4003-ab21-17470c73af37
+exl-id: 1016d00f-e0a0-47f1-a600-528c4811fcf6
 ---
-
 # Monitoring Event Data Space{#monitoring-event-data-space}
 
 Information about monitoring event data space and changing the log directory for Sensor data.
@@ -57,4 +57,3 @@ By default, event data produced by [!DNL Sensor] and transmitted to [!DNL Insigh
     1. Right-click **[!UICONTROL (modified)]** at the top of the window and click **[!UICONTROL Save]**. 
     
     1. In the [!DNL Server Files Manager], right-click the check mark for the file in the [!DNL Temp] column and select **[!UICONTROL Save to]** > *< **[!UICONTROL server name]**>*.
-

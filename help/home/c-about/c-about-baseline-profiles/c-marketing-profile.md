@@ -4,8 +4,8 @@ solution: Analytics
 title: Marketing Profile Dimensions
 topic: Data workbench
 uuid: 034b4318-58e6-4638-9b13-fac83ff9f826
+exl-id: 93804fba-a44b-4cdc-8d67-d4ec0656e742
 ---
-
 # Marketing Profile Dimensions{#marketing-profile-dimensions}
 
 The Campaign dimension is defined in the Site Marketing profile to provide campaign analysis capabilities.
@@ -44,4 +44,3 @@ You can incorporate additional dimensions of data for further analysis. These di
 |  Marketing Campaign Source  | Parses the campaign source (first value) from marketing campaign query strings.  |
 |  Marketing Campaign Type  | Parses the campaign type (second value) from marketing campaign query strings.  |
 |  PPC Campaign Detail  | Collects the value string attached to the ppc query string variable.  |
-

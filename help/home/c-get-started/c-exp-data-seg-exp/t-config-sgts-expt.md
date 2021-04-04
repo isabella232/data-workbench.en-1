@@ -4,8 +4,8 @@ solution: Analytics
 title: Configure segments for export
 topic: Data workbench
 uuid: 651be834-ee41-4487-8c5a-30d94580f6a0
+exl-id: 4f53e02c-3f00-44b3-9f6d-a2f23903b3fa
 ---
-
 # Configure segments for export{#configure-segments-for-export}
 
 You can create a segment of the elements of any countable dimension, then output data for that segment on a batch or ongoing real-time basis into a tab-delimited file.
@@ -98,4 +98,3 @@ To configure a segment for export, you must open and edit a [!DNL .export] file.
    >[!NOTE]
    >
    >The [!DNL Visitor Segment.export] file shown in the sample refers to the Visitor Segment filter. Modifying the definition of this filter changes the definition of the export.
-

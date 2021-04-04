@@ -4,8 +4,8 @@ solution: Analytics
 title: Populating the Lookup Table
 topic: Data workbench
 uuid: a11f3902-8853-4d22-bbfd-b2a3d143cb7b
+exl-id: e83d9feb-44fe-4fa1-b559-e1f5606637b5
 ---
-
 # Populating the Lookup Table{#populating-the-lookup-table}
 
 If you use the Categorize or FlatFileLookup transformations, the lookup table is loaded in memory and populated from a flat file whose location you specify when you define the transformation.
@@ -20,4 +20,3 @@ If you use an [!DNL ODBCLookup] transformation, the lookup table is loaded into 
 >[!NOTE]
 >
 >Lookup tables are loaded when the data workbench server initially begins constructing the dataset. Once established, lookup files are not meant to be changed. If you change the flat file or [!DNL ODBC] table that is used for the transformation phase, you are required to retransform the entire dataset. If you change a flat file that is used during the log processing phase, the new lookup data is applied to all new records that enter the dataset, but the changes are not applied retroactively.
-

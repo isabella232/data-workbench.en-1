@@ -4,8 +4,8 @@ solution: Analytics
 title: Updating Data Service Files
 topic: Data workbench
 uuid: 8c14be34-fde3-4c4c-9c22-739863317d6e
+exl-id: bb92d40c-cc8d-4ecf-bd48-ed962fd5d73b
 ---
-
 # Updating Data Service Files{#updating-data-service-files}
 
 If you subscribe to either data service, you periodically must update the data service files provided by Adobe.
@@ -93,4 +93,3 @@ Complete these steps for every layer ( [!DNL .layer]) file that references the [
 
 1. Save the updated layer file. 
 1. Repeat Steps 2 and 3 for every [!DNL .layer] file that references the [!DNL IP Geo-intelligence] or [!DNL IP Geo-location] [!DNL .txt] file.
-

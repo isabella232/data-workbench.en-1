@@ -4,8 +4,8 @@ solution: Analytics
 title: Features
 topic: Data workbench
 uuid: 89f52af1-10a7-4510-838e-3b759f9c7d7b
+exl-id: 2a6bb179-67a0-4b21-a9cc-20b53d960e39
 ---
-
 # Features{#features}
 
 The Adobe data workbench dashboard provides these features.
@@ -17,4 +17,4 @@ The Adobe data workbench dashboard provides these features.
 * Access dashboards created by other users. 
 * Export data for use in other applications, such as Microsoft® Excel®.
 
-This guide provides information about the functionality and user interface features delivered with the Adobe data workbench dashboard. Because your implementation of the dashboard can be fully customized, your features and functionality may differ from what is documented in this guide. 
+This guide provides information about the functionality and user interface features delivered with the Adobe data workbench dashboard. Because your implementation of the dashboard can be fully customized, your features and functionality may differ from what is documented in this guide.

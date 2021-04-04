@@ -4,8 +4,8 @@ solution: Analytics
 title: Simple Dimensions
 topic: Data workbench
 uuid: 3bca2354-02c4-4739-a7da-acccdb0efdfd
+exl-id: 2acad750-7c48-40f1-8130-ab056ac8bf0d
 ---
-
 # Simple Dimensions{#simple-dimensions}
 
 A simple dimension has a one-to-many relationship with its parent countable dimension.
@@ -97,4 +97,3 @@ Thin Mints
 The final dimension is defined as shown here:
 
 ![](assets/cfg_Transformation_Dim_Simple.png)
-

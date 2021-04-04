@@ -3,8 +3,8 @@ description: Information about the required Sensor txlogd.conf parameters.
 solution: Analytics
 title: Required Parameters
 uuid: 187f4199-ec7f-4d5a-93eb-64a62d51ec7b
+exl-id: 782e11e9-b11b-4003-9669-f31187208ec3
 ---
-
 # Required Parameters{#required-parameters}
 
 Information about the required Sensor txlogd.conf parameters.
@@ -51,4 +51,3 @@ Information about the required Sensor txlogd.conf parameters.
   </tr> 
  </tbody> 
 </table>
-

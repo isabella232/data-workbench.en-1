@@ -4,8 +4,8 @@ solution: Analytics
 title: Select a node
 topic: Data workbench
 uuid: d63b39f6-edec-4b4c-b36b-f6e6881d3419
+exl-id: a483547f-e338-4d13-8a0b-6cb7971b7790
 ---
-
 # Select a node{#select-a-node}
 
 Selecting a node by clicking it dims the other nodes so that you can more easily see the arrows to and from the highlighted node.
@@ -29,4 +29,3 @@ Selecting a node by clicking it dims the other nodes so that you can more easily
 **To remove a node or group of nodes from your selection**
 
 * Shift+click a node or Shift+drag across several nodes.
-

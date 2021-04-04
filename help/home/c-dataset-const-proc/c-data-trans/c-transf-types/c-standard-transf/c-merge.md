@@ -4,8 +4,8 @@ solution: Analytics
 title: Merge
 topic: Data workbench
 uuid: 9ca2ab22-d854-47b0-8189-f563c1e83d1c
+exl-id: 75fa824b-f68d-4ec4-a75d-0f742a7bb1ba
 ---
-
 # Merge{#merge}
 
 The Merge transformation takes the values from the input field (typically a vector of strings), combines them into a single string separated by the given delimiter, and places the resulting string in the given output field.
@@ -61,4 +61,4 @@ In this example, an input vector of strings is assumed to contain a set of produ
 
 ![](assets/cfg_TransformationType_Merge.png)
 
-So if the input field x-products contained the string values B57481, C46355, and Z97123, the resulting output string x-show-products would be B57481::C46355::Z97123. 
+So if the input field x-products contained the string values B57481, C46355, and Z97123, the resulting output string x-show-products would be B57481::C46355::Z97123.

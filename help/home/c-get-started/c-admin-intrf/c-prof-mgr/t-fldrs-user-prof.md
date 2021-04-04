@@ -4,8 +4,8 @@ solution: Analytics
 title: Create folders in the user profile
 topic: Data workbench
 uuid: d66d7b86-694a-447c-a3f0-f64c7e2a41da
+exl-id: effd4360-3b50-481e-9ee7-4e8cd4612d3e
 ---
-
 # Create folders in the user profile{#create-folders-in-the-user-profile}
 
 Steps to create a new folder in the User Profile.
@@ -19,5 +19,4 @@ Steps to create a new folder in the User Profile.
 
    For more information about using the [!DNL order.txt] file to control the appearance of your menus, see [Customizing Menus](../../../../home/c-get-started/c-intf-anlys-ftrs/c-ctm-menus/c-ctm-menus.md#concept-93d4c09cb7f34cd293b7b64fba1cf894).
 
-   You now can add local files to this folder. When you publish the local files that you create in this folder to your working profile, this folder is automatically saved there as well. For more information about publishing files, see [Publishing Files to Your Working Profile](../../../../home/c-get-started/c-admin-intrf/c-prof-mgr/t-pub-files-wkg-prof.md#task-a0106e010c834d16bd60eef4721b6af9). 
-
+   You now can add local files to this folder. When you publish the local files that you create in this folder to your working profile, this folder is automatically saved there as well. For more information about publishing files, see [Publishing Files to Your Working Profile](../../../../home/c-get-started/c-admin-intrf/c-prof-mgr/t-pub-files-wkg-prof.md#task-a0106e010c834d16bd60eef4721b6af9).

@@ -4,8 +4,8 @@ solution: Analytics
 title: Installing the Data Service Lookup Files
 topic: Data workbench
 uuid: a3fe8a14-2c74-4105-bc5b-2298f0f4b61e
+exl-id: b19904f4-ead0-4bed-a79f-864c78bc0e1d
 ---
-
 # Installing the Data Service Lookup Files{#installing-the-data-service-lookup-files}
 
 Steps to install the IP Geo-intelligence or IP Geo-location lookup files.
@@ -26,4 +26,3 @@ Steps to install the IP Geo-intelligence or IP Geo-location lookup files.
    >[!NOTE]
    >
    >Periodically, Adobe sends you files containing updated [!DNL IP Geo-intelligence] or [!DNL IP Geo-location] lookup files. When you receive these files, you need to load them onto your data workbench server as directed by Adobe. For instructions, see the following section.
-

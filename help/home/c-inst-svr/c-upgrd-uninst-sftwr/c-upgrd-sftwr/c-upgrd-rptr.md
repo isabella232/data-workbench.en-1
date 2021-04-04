@@ -3,8 +3,8 @@ description: Instructions to upgrade Repeater using Insight or to upgrade by cop
 solution: Analytics
 title: Upgrading Repeater
 uuid: 2027ed9e-9dd9-40f5-b7e9-2709f8745b5c
+exl-id: f81fa79e-f660-48fd-b2ff-419961d49c55
 ---
-
 # Upgrading Repeater{#upgrading-repeater}
 
 Instructions to upgrade Repeater using Insight or to upgrade by copying files.
@@ -48,4 +48,4 @@ After you upload the upgrade files to the [!DNL Repeater] machine, [!DNL Repeate
 >
 >If you need to upload additional files to complete your [!DNL Insight Server] upgrade, Adobe will provide instructions to do so.
 
-After you copy the upgrade files to the [!DNL Repeater] machine, [!DNL Repeater] automatically restarts itself and loads the new version. 
+After you copy the upgrade files to the [!DNL Repeater] machine, [!DNL Repeater] automatically restarts itself and loads the new version.

@@ -4,8 +4,8 @@ solution: Analytics
 title: Make selections in visualizations
 topic: Data workbench
 uuid: 3900354f-826b-41e8-9bc2-e4856928bad5
+exl-id: bb1dd7e4-a9f8-48b5-a12d-433c601b455b
 ---
-
 # Make selections in visualizations{#make-selections-in-visualizations}
 
 Selecting elements within a visualization dynamically filters the dataset.
@@ -40,4 +40,3 @@ Use the following mouse and key sequences to clear a selection:
 |---|---|
 |  Clear a single selection  | Shift+click  |
 |  Clear all selections (that is, re-select all elements)  | Right-click any value in the visualization  |
-

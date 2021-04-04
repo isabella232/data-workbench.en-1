@@ -2,8 +2,8 @@
 description: Examples of txlogd.conf files for the supported web server/OS combinations.
 title: Txlogd.conf File Samples
 uuid: ba8f3938-b7d6-44bd-93ca-eb66f509ef4e
+exl-id: 3bbb794f-c771-43c6-9ebf-8892c1d9a707
 ---
-
 # Txlogd.conf File Samples{#txlogd-conf-file-samples}
 
 Examples of txlogd.conf files for the supported web server/OS combinations.
@@ -986,4 +986,3 @@ CacheControl private,max-age=0,must-revalidate
 ```
 
 ## Section Title {#section-f25d181e181e4bb7bf46d4410756e945}
-

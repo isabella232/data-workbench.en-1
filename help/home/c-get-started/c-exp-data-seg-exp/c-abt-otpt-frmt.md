@@ -4,8 +4,8 @@ solution: Analytics
 title: Output format
 topic: Data workbench
 uuid: 12086f14-bad1-4d27-82fb-533e877d0a04
+exl-id: e695eaf4-ebe5-4dd1-8191-8045021d6411
 ---
-
 # Output format{#output-format}
 
 Guidelines for specifying the output format.
@@ -24,4 +24,4 @@ Guidelines for specifying the output format.
 
 If you want to export session duration data for your segment, you must create a new metric based on the Session Duration metric. The new metric, which is for use only with the [!DNL Output Format] field of segment export, enables Microsoft Excel to correctly interpret sessions lasting less than one hour. To create a new session duration metric, open the [!DNL Session Duration.metric] file (from the [!DNL Profile Manager]) and insert a pound sign (#) into the ftime string: [!DNL ftime = string: %#H:%M:%S]
 
-The pound sign causes a leading “0” to be appended to session durations of less than 1 hour. As a result, Excel interprets 0:53:21 as 53 minutes and 21 seconds. Save the new metric with a different name and upload it to the appropriate profile for others to use by right-clicking the check mark for the file in the [!DNL User] column and clicking **[!UICONTROL Save to]** > *< **[!UICONTROL profile name]**>*. 
+The pound sign causes a leading “0” to be appended to session durations of less than 1 hour. As a result, Excel interprets 0:53:21 as 53 minutes and 21 seconds. Save the new metric with a different name and upload it to the appropriate profile for others to use by right-clicking the check mark for the file in the [!DNL User] column and clicking **[!UICONTROL Save to]** > *< **[!UICONTROL profile name]**>*.

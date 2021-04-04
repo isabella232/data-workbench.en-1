@@ -2,8 +2,8 @@
 description: Files included in the Data Workbench installation package.
 title: Files Included in the Installation Package
 uuid: 46cda536-ea71-4840-bd7f-3fe9e0242c33
+exl-id: 086fb49c-d492-4670-938b-7ede70a7cd16
 ---
-
 # Files Included in the Installation Package{#files-included-in-the-installation-package}
 
 Files included in the Data Workbench installation package.
@@ -97,4 +97,3 @@ Data Files (**[!DNL Insight.cfg]**, Profiles, Certificates, trace logs, and user
   </tr> 
  </tbody> 
 </table>
-

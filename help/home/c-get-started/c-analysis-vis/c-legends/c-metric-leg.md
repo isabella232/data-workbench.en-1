@@ -4,8 +4,8 @@ solution: Analytics
 title: Metric legends
 topic: Data workbench
 uuid: 72de7b0e-0a71-4465-baaf-d515fe474e0d
+exl-id: 1f2e58e2-44ea-4760-a504-2ed3a80c8b19
 ---
-
 # Metric legends{#metric-legends}
 
 Metric legends enable you to see baseline metrics related to your profile and statistics related to the dataset (or to the current selection, if one has been made).
@@ -34,4 +34,4 @@ For information about exporting windows, see [Exporting Window Data](../../../..
 
 ## Export to a TSV file {#section-51a0a6f9cd05448caf149ddc927aa665}
 
-For information about exporting windows, see [Exporting Window Data](../../../../home/c-get-started/c-wk-win-wksp/c-exp-win-data.md#concept-8df61d64ed434cc5a499023c44197349). 
+For information about exporting windows, see [Exporting Window Data](../../../../home/c-get-started/c-wk-win-wksp/c-exp-win-data.md#concept-8df61d64ed434cc5a499023c44197349).

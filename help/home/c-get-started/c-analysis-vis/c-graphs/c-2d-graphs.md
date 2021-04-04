@@ -4,8 +4,8 @@ solution: Analytics
 title: 2D graphs
 topic: Data workbench
 uuid: f8860fff-4614-4b1a-b217-760bf4d48f20
+exl-id: 9767124b-8507-4b25-842b-8e2729e57461
 ---
-
 # 2D graphs{#d-graphs}
 
 Two-dimensional (2D) graphs display a metric across two dimensions.
@@ -27,4 +27,4 @@ Two-dimensional (2D) graphs display a metric across two dimensions.
 1. Move the mouse over the vertical axis to highlight a plane of the graph. 
 1. While the plane is highlighted, click+drag the mouse up or down to scale the vertical axis of the graph.
 
-See [Zooming in Visualizations](../../../../home/c-get-started/c-vis/c-zoom-vis.md#concept-7e33670bb5344f78a316f1a84cc20530). 
+See [Zooming in Visualizations](../../../../home/c-get-started/c-vis/c-zoom-vis.md#concept-7e33670bb5344f78a316f1a84cc20530).

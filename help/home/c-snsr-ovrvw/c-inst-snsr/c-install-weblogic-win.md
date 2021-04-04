@@ -2,8 +2,8 @@
 description: Detailed instructions for installing and configuring Sensor for WebLogic Server 6.x or later running under Microsoft Windows Server 2000 or later.
 title: WebLogic Server on Windows Server 2000 or Later
 uuid: 80dbf544-bd09-4af8-bb05-4032eb49dd5d
+exl-id: cf5b5284-dd61-4c55-8319-483bfe60930c
 ---
-
 # WebLogic Server on Windows Server 2000 or Later{#weblogic-server-on-windows-server-or-later}
 
 Detailed instructions for installing and configuring Sensor for WebLogic Server 6.x or later running under Microsoft Windows Server 2000 or later.
@@ -208,4 +208,3 @@ You can capture additional measurement data from J2EE-based web applications usi
    The resulting request URI is /index.jsp?A=1&B=2. 
 
 1. Repeat this procedure for each .jsp page from which you want to capture additional data.
-

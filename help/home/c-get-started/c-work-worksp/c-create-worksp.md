@@ -4,8 +4,8 @@ solution: Analytics
 title: Create a workspace
 topic: Data workbench
 uuid: 8669b70f-5ddf-4424-9269-0e4860eac498
+exl-id: 9c1fb9e6-6cc8-4894-800b-187b047c41d2
 ---
-
 # Create a workspace{#create-a-workspace}
 
 You can customize existing workspaces by adding or modifying existing visualizations or creating new workspaces.
@@ -69,4 +69,4 @@ The following example is a workspace pasted on a workspace tab that already cont
 
 ## Deleting a Workspace {#section-fb04cc195e1a4a5491ff634f5f3ca972}
 
-**To change the name of a workspace** 
+**To change the name of a workspace**

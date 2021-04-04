@@ -4,8 +4,8 @@ solution: Analytics
 title: Create a process map
 topic: Data workbench
 uuid: dbcde637-0411-4296-99ca-5510e0285e4b
+exl-id: 2e417a8e-5b1c-4dce-9e4e-ac7ed044564c
 ---
-
 # Create a process map{#create-a-process-map}
 
 You can create 2D and 3D process maps by dragging and dropping elements from bar graphs, tables, and hierarchy views onto a blank map.
@@ -49,4 +49,3 @@ For more information about page hierarchy views, see [Applying Hierarchy Views](
 
     * To copy individual nodes, click and drag each node to the second process map. 
     * To copy multiple nodes, Ctrl+click and drag to create a box around the nodes you want to copy, then click and drag the highlighted nodes to the second process map. All of the highlighted nodes are copied to the second process map.
-

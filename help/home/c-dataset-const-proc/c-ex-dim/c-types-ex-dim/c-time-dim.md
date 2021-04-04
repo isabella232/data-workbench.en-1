@@ -4,8 +4,8 @@ solution: Analytics
 title: Time Dimensions
 topic: Data workbench
 uuid: b633cf4f-0db4-4378-9e59-43b6ad8f772d
+exl-id: f9534b24-3a16-4220-bac2-bc541e121005
 ---
-
 # Time Dimensions{#time-dimensions}
 
 A time dimension enables you to create a set of periodic or absolute local time dimensions (such as Day, Day of Week, Hour of Day, Reservation Time, and so on) based on any timestamp field that you specify for the Input Time (1970 epoch) parameter.
@@ -72,4 +72,3 @@ Time dimensions are defined by the following parameters:
 This example creates a set of time dimensions based on the user-defined input field x-time-1970. The set of time dimensions is named "Session Time." Because the parent of each dimension is the Session dimension, each element of the time dimensions corresponds to the time at which a session began. The Week Start Day parameter specifies that each week of the Week dimension starts on Monday.
 
 ![](assets/cfg_Transformation_Dim_TimeDim.png)
-

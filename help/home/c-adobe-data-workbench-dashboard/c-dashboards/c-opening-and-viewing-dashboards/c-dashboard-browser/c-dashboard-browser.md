@@ -4,8 +4,8 @@ solution: Analytics
 title: Dashboard Browser
 topic: Data workbench
 uuid: ab4f81dc-c32e-408b-bcfd-3531766c9054
+exl-id: 02ee7120-2d94-4033-afce-9556383d1eba
 ---
-
 # Dashboard Browser{#dashboard-browser}
 
 The Dashboard Browser facilitates browsing, searching, and opening dashboards that you and other members of your organization have created and saved.
@@ -19,4 +19,3 @@ When you log into Adobe Data workbench dashboard, the Dashboard Browser will app
 ![](assets/browse.png)
 
 ![](assets/choose_a_dashboard.png)
-

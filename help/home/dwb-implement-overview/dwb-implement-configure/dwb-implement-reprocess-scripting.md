@@ -2,8 +2,8 @@
 description: This section is a quick guide giving you the minimum steps required to set up and schedule scripts to weekly reprocess your log files. This can be used as reference guide to set up or modify your profiles.
 title: Scripting to Weekly Reprocess
 uuid: d3cd163d-6129-4883-ac7c-b2f75b5eb247
+exl-id: f1b6f12e-629e-47c7-aa15-41f76d1c3192
 ---
-
 # Scripting to Weekly Reprocess{#scripting-to-weekly-reprocess}
 
 This section is a quick guide giving you the minimum steps required to set up and schedule scripts to weekly reprocess your log files. This can be used as reference guide to set up or modify your profiles.
@@ -51,4 +51,3 @@ Follow these steps to schedule the scripts in the Windows task scheduler.
     * Under the **Actions** tab, click **New** and a new window will open. Then provide script details and other options. (Start in will have a path where script is placed).
 
 1. Validation: Right click and run the job and verify changes in the *Log processing.cfg* file. An email will be sent to the email id provided in the script.
-

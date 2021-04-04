@@ -2,8 +2,8 @@
 description: The Latency visualization lets you analyze latent customer behavior within a set number of days before or after an event occurred after a campaign or other type of event or period of time.
 title: Latency Analysis
 uuid: 80760420-0e21-420a-b585-9cf2d9a207bd
+exl-id: 3b645ddc-6ba0-4cd5-89e6-737257d382b3
 ---
-
 # Latency Analysis{#latency-analysis}
 
 The Latency visualization lets you analyze latent customer behavior within a set number of days before or after an event occurred after a campaign or other type of event or period of time.
@@ -28,4 +28,3 @@ Using the Latency visualization, you can change the Time dimension from day, hou
 1. Modify the Latency visualization.
 
    Right-click on the **[!UICONTROL Latency]** header to select menu options to change countables, dimensions, to re-label, or to select or change other settings.
-

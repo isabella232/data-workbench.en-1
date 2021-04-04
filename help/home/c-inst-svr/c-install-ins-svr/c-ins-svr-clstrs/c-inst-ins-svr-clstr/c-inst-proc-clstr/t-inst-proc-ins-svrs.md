@@ -3,8 +3,8 @@ description: A processing Insight Server is identical to a master Insight Server
 solution: Analytics
 title: Installing and Configuring the Processing Insight Servers
 uuid: 186675f7-8b63-4675-89ec-51b0837a64d8
+exl-id: 21f7e31b-a2fb-4257-972e-5228bb1efa01
 ---
-
 # Installing and Configuring the Processing Insight Servers{#installing-and-configuring-the-processing-insight-servers}
 
 A processing Insight Server is identical to a master Insight Server except for the contents of its Components directory.
@@ -45,5 +45,4 @@ When you install a processing [!DNL Insight Server], you do the following to set
 1. Save the file.
 1. Start the [!DNL Insight Server] as described in [Registering Insight Server as a Windows Service](../../../../../../home/c-inst-svr/c-install-ins-svr/t-install-proc-inst-svr-dpu/c-reg-wdws-svc.md#concept-f2c7aa891d544a2595aa01d0d796a540).
 
-   You have now completed the installation of your [!DNL Insight Server] cluster. Next, configure the dataset profile to run on the cluster as described in the following section. 
-
+   You have now completed the installation of your [!DNL Insight Server] cluster. Next, configure the dataset profile to run on the cluster as described in the following section.

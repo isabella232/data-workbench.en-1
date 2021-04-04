@@ -2,8 +2,8 @@
 description: Detailed instructions for installing and configuring Sensor for JBoss Server 4.0.5 or later running under Microsoft Windows Server 2000 or later.
 title: JBoss Server on Windows Server 2000 or Later
 uuid: b0501749-9479-484b-8876-fe3001825f8d
+exl-id: d9001bc4-f3ef-4d26-9190-807194d20ada
 ---
-
 # JBoss Server on Windows Server 2000 or Later{#jboss-server-on-windows-server-or-later}
 
 Detailed instructions for installing and configuring Sensor for JBoss Server 4.0.5 or later running under Microsoft Windows Server 2000 or later.
@@ -207,4 +207,3 @@ You can capture additional measurement data from J2EE-based web applications usi
    The resulting request URI is /index.jsp?A=1&B=2. 
 
 1. Repeat this procedure for each .jsp page from which you want to capture additional data.
-

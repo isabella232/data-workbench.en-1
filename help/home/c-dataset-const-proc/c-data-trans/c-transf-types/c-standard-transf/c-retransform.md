@@ -4,8 +4,8 @@ solution: Analytics
 title: RETransform
 topic: Data workbench
 uuid: 60b5b60e-678a-416d-b5c3-57b1bbefce7d
+exl-id: 2595f782-0efb-4a2a-84bd-fdb04baf0852
 ---
-
 # RETransform{#retransform}
 
 The RETransform (regular expression) transformation is a pattern-matching transformation that uses regular expressions to specify a pattern to look for and capture in the input and stores the captured string in a designated output field.
@@ -76,4 +76,4 @@ This example isolates the version of the Windows operating system that a website
 
 ![](assets/cfg_TransformationType_RegularExpression.png)
 
-If you wanted to include the string "Version" in front of the version number for readability, you would change the Action parameter from "RESULTS" to "Version %1%." To include a literal percent sign (%) in your output, escape it with a second percent sign, as in "%%." 
+If you wanted to include the string "Version" in front of the version number for readability, you would change the Action parameter from "RESULTS" to "Version %1%." To include a literal percent sign (%) in your output, escape it with a second percent sign, as in "%%."

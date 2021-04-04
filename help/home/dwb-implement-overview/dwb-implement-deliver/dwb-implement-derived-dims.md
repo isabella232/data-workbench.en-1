@@ -2,8 +2,8 @@
 description: The different types of Derived (Client Side) Dimensions and how to setup those in Data Workbench.
 title: Derived Dimensions Setup
 uuid: 9d2416fb-1c29-45a8-91d0-ddca575224ad
+exl-id: 79c72135-e527-4755-b43f-eacc63d765aa
 ---
-
 # Derived Dimensions Setup{#derived-dimensions-setup}
 
 The different types of Derived (Client Side) Dimensions and how to setup those in Data Workbench.
@@ -215,4 +215,3 @@ So another Dimension Source Name pointing to Log Source ID will appear. ![](asse
 **Hiding Derived Dimensions**
 
 To hide the Derived Dimension, set the *Show* property to "false". ![](assets/dwb_impl_derived_dims13.png)
-

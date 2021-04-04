@@ -4,8 +4,8 @@ solution: Analytics
 title: Element Point Lookup File Format
 topic: Data workbench
 uuid: 3480b9f3-35cd-40b7-aac9-15a3e2f19c1c
+exl-id: da81da9e-0567-4f3a-bc0d-ab6c5e4a23b7
 ---
-
 # Element Point Lookup File Format{#element-point-lookup-file-format}
 
 Information about the element point layer columns.
@@ -29,4 +29,3 @@ ZIP_CODE LATITUDE LONGITUDE NAME
 00211 +43.005895 -071.013202 PORTSMOUTH, NH
 ...
 ```
-

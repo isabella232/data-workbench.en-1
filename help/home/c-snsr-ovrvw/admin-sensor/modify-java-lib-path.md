@@ -2,8 +2,8 @@
 description: Instructions for adding the visual_sciences.dll to the Tomcat java library path.
 title: Modify the Java Library Path
 uuid: 1e1a2704-045a-4b35-aa43-1b5bae91dc32
+exl-id: bd853d95-3f44-4860-9965-c3210ec4adcf
 ---
-
 # Modify the Java Library Path{#modify-the-java-library-path}
 
 Instructions for adding the visual_sciences.dll to the Tomcat java library path.
@@ -17,4 +17,4 @@ In the Java tab, under Java options, add a new line:
 -Djava.library.path=C:\Sensor directory
 ```
 
-Where C:\Sensor directory is the directory containing the visual_sciences.dll file. 
+Where C:\Sensor directory is the directory containing the visual_sciences.dll file.

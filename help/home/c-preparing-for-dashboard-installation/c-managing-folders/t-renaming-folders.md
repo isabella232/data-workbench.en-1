@@ -4,8 +4,8 @@ solution: Analytics
 title: Renaming Folders
 topic: Data workbench
 uuid: 803bad4a-8fe9-48e5-9629-ddc2c5430e2d
+exl-id: 1f40c50f-4af0-41d3-8aa6-b4dd74785ea3
 ---
-
 # Renaming Folders{#renaming-folders}
 
 1. Right-click the folder to rename, and select **[!UICONTROL Rename…]**.
@@ -16,4 +16,4 @@ uuid: 803bad4a-8fe9-48e5-9629-ddc2c5430e2d
 
    ![](assets/renamed_folder.png)
 
-   If the operation was successful, you will see a prompt indicating that the folder has been renamed. 
+   If the operation was successful, you will see a prompt indicating that the folder has been renamed.

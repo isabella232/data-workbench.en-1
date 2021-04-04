@@ -2,8 +2,8 @@
 description: After you have installed your Insight software and digital certificate, you must start Insight and configure its connection to Insight Server.
 title: Configuring the Connection to Insight Server
 uuid: 8ba13da6-8749-49fe-a29e-dac3906f71b8
+exl-id: 6a87e972-069a-435c-9bac-23b20f165ebb
 ---
-
 # Configuring the Connection to Insight Server{#configuring-the-connection-to-insight-server}
 
 After you have installed your Insight software and digital certificate, you must start Insight and configure its connection to Insight Server.
@@ -109,4 +109,4 @@ Type a search phrase into this field to locate the data. Depending on the succes
 
 You can also use regular expressions in the [!DNL Search] field. For example, you can use re: [!DNL *zip.*] for any entry containing the word “zip.”
 
-To clear a search, press **[!UICONTROL Escape]**. 
+To clear a search, press **[!UICONTROL Escape]**.

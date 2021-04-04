@@ -2,8 +2,8 @@
 description: Gather and describe the business questions appropriate to your marketing environment when implementing Data Workbench.
 title: Data Workbench Discovery and Requirements
 uuid: 436f0c32-b4e2-41dd-a8e9-531e0a195276
+exl-id: 25cc2940-800a-4ad2-a7bb-c343e3d65500
 ---
-
 # Data Workbench Discovery and Requirements{#data-workbench-discovery-and-requirements}
 
 Gather and describe the business questions appropriate to your marketing environment when implementing Data Workbench.

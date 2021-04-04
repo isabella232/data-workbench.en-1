@@ -3,8 +3,8 @@ description: To more thoroughly monitor your implementation, you can monitor all
 solution: Analytics
 title: Monitoring Ports and Applications
 uuid: 63d92718-81df-49eb-adda-8b49bde57a9d
+exl-id: 418b2e5c-42ec-40f0-9cae-375194288143
 ---
-
 # Monitoring Ports and Applications{#monitoring-ports-and-applications}
 
 To more thoroughly monitor your implementation, you can monitor all of the ports on your server machines as well as the software products running on each of those ports.
@@ -22,5 +22,4 @@ Using an application or script, you can monitor the TCP port on which each appli
 
    The machine should respond with a server status description. If it does not respond, check your event logs and contact Adobe Customer Care.
 
-   For more information about this type of advanced monitoring, please contact Adobe Consulting Services. 
-
+   For more information about this type of advanced monitoring, please contact Adobe Consulting Services.

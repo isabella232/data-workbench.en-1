@@ -3,8 +3,8 @@ description: You should regularly monitor available disk space so that all Insig
 solution: Analytics
 title: Monitoring Disk Space
 uuid: 13248e36-4e88-4212-816e-bcc12deefcb4
+exl-id: c2198edc-3961-4845-97cf-0ebe039f9a66
 ---
-
 # Monitoring Disk Space{#monitoring-disk-space}
 
 You should regularly monitor available disk space so that all Insight Server machines continue to perform at the highest level possible.
@@ -23,4 +23,3 @@ For more information about data storage requirements than is provided in this se
 >[!NOTE]
 >
 >Adobe consultants can evaluate your use scenario to help you project the amount of data storage that your use of Adobe software applications generate and require. To request such an evaluation, please contact Adobe Support Services.
-

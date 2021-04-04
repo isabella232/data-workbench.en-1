@@ -4,8 +4,8 @@ solution: Analytics
 title: Displaying Report Server Status
 topic: Data workbench
 uuid: 5260266d-5bd1-4905-9619-f67f6e1bc54c
+exl-id: 3a717a81-7c5d-432d-b214-4ae0455b19b5
 ---
-
 # Displaying Report Server Status{#displaying-report-server-status}
 
 The Detailed Status interface in data workbench is useful for troubleshooting errors or other issues with the Data Workbench Server and Report Server machines that are clients of Data Workbench Server.

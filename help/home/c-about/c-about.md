@@ -4,8 +4,8 @@ solution: Analytics
 title: Data Workbench Metrics, Dimensions, and Filters
 topic: Data workbench
 uuid: 3c0300a0-ae19-4817-aab8-7294e0eabdd9
+exl-id: 687d9695-e70c-49ff-ac11-1537e6309e16
 ---
-
 # Data Workbench Metrics, Dimensions, and Filters{#data-workbench-metrics-dimensions-and-filters}
 
 Metrics, dimensions, and filters provide a framework within which calculations are made about the data processed into a data workbench dataset.
@@ -47,4 +47,4 @@ Filters are syntactical expressions that reference one or more dimensions and di
 
 It is just as easy to apply such a filter to define a new metric using an expression such as [!DNL New_Metric=Metric[Filter]]. Such a filter can be used to define a new metric based on a specific dimension element. To use the above example, [!DNL Average_Age[Country='Sweden']]specifies a metric for the average age of people in Sweden. If we were to give this metric a name, such as Swedish_Average_Age, we could use it in other calculations as a metric. For example, evaluating [!DNL Swedish_Average_Age/Average_Age] would result in a single number: the ratio of the average age of people in Sweden to that of people in the rest of the world.
 
-If the dataset with information about all of the people in world also includes a dimension Eye Color, the expression [!DNL Swedish_Average_Age[Eye_Color='green']] would result in the average age of Swedes with green eyes. You might also obtain this same result without using an intermediate metric definition by applying a different filter: [!DNL Average_Age[Country='Sweden' AND Eye_Color='green']]. In this case, the [!DNL AND] operator specifies a filter expression using two other basic filter expressions. 
+If the dataset with information about all of the people in world also includes a dimension Eye Color, the expression [!DNL Swedish_Average_Age[Eye_Color='green']] would result in the average age of Swedes with green eyes. You might also obtain this same result without using an intermediate metric definition by applying a different filter: [!DNL Average_Age[Country='Sweden' AND Eye_Color='green']]. In this case, the [!DNL AND] operator specifies a filter expression using two other basic filter expressions.

@@ -4,8 +4,8 @@ solution: Analytics
 title: Dynamically Generating Reports
 topic: Data workbench
 uuid: 87174fb5-e72f-4758-8e9d-1aaa784c1898
+exl-id: c14d93cd-212d-44a1-aff9-652e5c4fbda0
 ---
-
 # Dynamically Generating Reports{#dynamically-generating-reports}
 
 You can generate reports dynamically for the dimension elements that you specify in a lookup file or for a particular number of the dimension elements, such as for the users with the 10 highest order counts.
@@ -78,4 +78,3 @@ For detailed descriptions of these parameters, see [Report.cfg Parameters](../..
 1. (Optional) In the Preload Query Filter parameter, type the name of the desired filter. 
 1. Repeat these steps for additional report sets. 
 1. For information about using a dynamic title visualization with your report, see the *Data Workbench User Guide*.
-

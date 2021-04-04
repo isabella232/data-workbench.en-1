@@ -3,8 +3,8 @@ description: You install Sensor on the same computer as the server whose activit
 solution: Analytics
 title: Installing Sensor
 uuid: 8d500fd0-daa0-453b-8284-b3f112a358ce
+exl-id: cd5b54bf-301a-41a9-a69c-d9adb314be03
 ---
-
 # Installing Sensor{#installing-sensor}
 
 You install Sensor on the same computer as the server whose activity you want to measure.
@@ -21,4 +21,4 @@ Adobe has designed [!DNL Sensor] to support a growing family of web and J2EE app
 
 This chapter contains procedures for installing [!DNL Sensor] for web server/operating system combinations.
 
-If you have not already installed the [!DNL data workbench server] that collects data from the [!DNL Sensor], you must do so before performing the procedures in this chapter. 
+If you have not already installed the [!DNL data workbench server] that collects data from the [!DNL Sensor], you must do so before performing the procedures in this chapter.

@@ -4,8 +4,8 @@ solution: Analytics
 title: Statistical measures
 topic: Data workbench
 uuid: a8782cd2-d657-4c04-9c5d-8e0af2a3b76e
+exl-id: 166ff98b-d531-4b31-897e-0c7fedbd2f4d
 ---
-
 # Statistical measures{#statistical-measures}
 
 To help with the statistics, Data Workbench provides three statistical measures in the guided analysis visualization.
@@ -30,4 +30,4 @@ The following [!DNL Site] example contains a bar graph that shows sessions for d
 
 The guided analysis visualization in the lower-left corner of the workspace indicates that the Session Number dimension provides useful information about the selected day.
 
-By examining the Session Number bar graph in the lower-right corner of the workspace, you can see that the data for Session Number 2 is much lower than the benchmark. Thus, we can conclude that, as a percentage, fewer second sessions occurred on the selected day than is usual. To view a bar graph for any of the dimensions listed in the guided analysis visualization, simply select the dimension by clicking the dimension with your mouse. 
+By examining the Session Number bar graph in the lower-right corner of the workspace, you can see that the data for Session Number 2 is much lower than the benchmark. Thus, we can conclude that, as a percentage, fewer second sessions occurred on the selected day than is usual. To view a bar graph for any of the dimensions listed in the guided analysis visualization, simply select the dimension by clicking the dimension with your mouse.

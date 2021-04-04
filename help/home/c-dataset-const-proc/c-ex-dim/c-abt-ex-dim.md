@@ -4,8 +4,8 @@ solution: Analytics
 title: About Extended Dimensions
 topic: Data workbench
 uuid: ae014a26-5286-4e36-9098-aaa463d9fe05
+exl-id: f74aa85e-f880-4ab5-a8fb-128862aa808f
 ---
-
 # About Extended Dimensions{#about-extended-dimensions}
 
 The Insight Server (InsightServer64.exe) enables you to define custom dimensions from event data or lookup data.
@@ -20,4 +20,4 @@ An extended dimension represents a relationship between log field values and a p
 
 To add an extended dimension to a visualization, you access it from the Extended list within the [!DNL Select Dimension] menu. For example, to add an extended dimension to a graph visualization, you would right-click within the workspace and click **[!UICONTROL Add Visualization]** > **[!UICONTROL Graph]** > **[!UICONTROL Extended]** > *< **[!UICONTROL dimension name]**>*. If you would like to organize the list of your extended dimensions within the data workbench interface, you can move the extended dimensions into subfolders that you create. See the Administrative Interfaces chapter of the *Data Workbench User Guide*. If you do this, the subfolders' names also appear in the menu, as in Add Visualization > Graph > Extended > <*subfolder name*> > <*dimension name*>.
 
-To see all the dimensions that have been defined for your dataset profile and the buffer size for each, open the [!DNL Detailed Status] interface in data workbench and click **[!UICONTROL Performance]**, then **[!UICONTROL Dimensions]** to expand the nodes. The buffer size, which controls query times, is expressed in MB. For more information about the [!DNL Detailed Status] interface, see the Server Administration and Installation guide. 
+To see all the dimensions that have been defined for your dataset profile and the buffer size for each, open the [!DNL Detailed Status] interface in data workbench and click **[!UICONTROL Performance]**, then **[!UICONTROL Dimensions]** to expand the nodes. The buffer size, which controls query times, is expressed in MB. For more information about the [!DNL Detailed Status] interface, see the Server Administration and Installation guide.

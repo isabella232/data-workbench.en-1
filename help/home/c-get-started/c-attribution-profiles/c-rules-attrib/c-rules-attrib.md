@@ -4,8 +4,8 @@ solution: Analytics
 title: Attribution Profile
 topic: Data workbench
 uuid: 500e9e86-cffc-4f0d-a397-6521b493bf9a
+exl-id: 29946f22-1d39-44ca-9474-13dbe228751c
 ---
-
 # Attribution Profile{#attribution-profile}
 
 Using the new rules-based Attribution profile in Data Workbench, you can quickly analyze attribution events and assign responsibility leading up to a successful conversion defined by you. The Attribution profile comes complete with the information necessary for your data Architect to set up and extend its features, and includes pre-built workspaces for your Analyst to jump right in and start analyzing.
@@ -50,4 +50,3 @@ These workspaces are organized into four categories:
 The Analyst tab includes workspaces pre-configured with reports. For example, **[!UICONTROL First Attribution]** lets you select from the **[!UICONTROL Campaign]** table to see the **[!UICONTROL Revenue]** attribution based on **[!UICONTROL Time]**.
 
 ![](assets/attribution_profile_analyst_step1.png)
-

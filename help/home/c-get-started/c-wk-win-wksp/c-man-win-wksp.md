@@ -4,8 +4,8 @@ solution: Analytics
 title: Manipulate windows in a workspace
 topic: Data workbench
 uuid: a7f9b132-999a-4ba8-9e34-1d41075f9e13
+exl-id: 0bedc792-c05b-4f7c-ac1e-f2d5c66e440d
 ---
-
 # Manipulate windows in a workspace{#manipulate-windows-in-a-workspace}
 
 The types of windows available depend on the profile and application with which you are working.
@@ -38,4 +38,3 @@ You can copy and paste windows within and between workspaces.
 
 1. Right-click the top border of the window and click **[!UICONTROL Copy]** > **[!UICONTROL Window]**. 
 1. In the desired visualization, right-click the desired element and click **[!UICONTROL Add Callout]** > **[!UICONTROL From Clipboard]**.
-

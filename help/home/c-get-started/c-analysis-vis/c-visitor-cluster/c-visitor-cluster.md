@@ -4,8 +4,8 @@ solution: Analytics
 title: Visitor Clustering
 topic: Data workbench
 uuid: 0c16aaa0-1d86-43a6-a7e2-b43b3ea80dc5
+exl-id: 68c1845d-9c49-4ad9-adf3-c123d08cf758
 ---
-
 # Visitor Clustering{#visitor-clustering}
 
 Visitor clustering lets you leverage customer characteristics to dynamically categorize visitors and generate cluster sets based on selected data inputs, thus identifying groups that have similar interests and behaviors for customer analysis and targeting.

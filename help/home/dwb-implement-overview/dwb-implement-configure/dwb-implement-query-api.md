@@ -2,8 +2,8 @@
 description: A quick guide for setting up a Query API.
 title: Query API Setup
 uuid: 521f06a4-65ee-4206-b769-4c1ce6e5fe7d
+exl-id: 8b9dace8-4dad-434c-aec3-2f6ca872a5f6
 ---
-
 # Query API Setup{#query-api-setup}
 
 A quick guide for setting up a Query API.
@@ -74,4 +74,3 @@ Follow the below steps for setting up the Query API:
    Run the Perl script available in that folder using the following command* perl api-http.pl*. ![](assets/dwb_impl_API6.png)
 
    After running the script the results should be like the screenshot below (the date time and values in the result will vary according to the as of time and other paramters in the profile on which you have configured the Query API (in step 6). ![](assets/dwb_impl_API7.png)
-

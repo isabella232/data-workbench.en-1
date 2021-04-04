@@ -4,8 +4,8 @@ solution: Analytics
 title: Worksheet expressions
 topic: Data workbench
 uuid: be57d6bd-3e13-4c90-9034-8e0f2b8315aa
+exl-id: 1ff3ec24-0363-4b6c-8c91-31e49ed0f7c4
 ---
-
 # Worksheet expressions{#worksheet-expressions}
 
 Conceptual information about worksheet expressions and using cell references.
@@ -85,4 +85,3 @@ You can substitute any string, whether on its own or within another expression i
 * **Filter cell reference:** Cell A5 contains yesterday’s date. Cell B5 contains [!DNL Visitors[ Day=A5 ]], which evaluates to the number of Visitors yesterday. 
 
 * **Concatenated cell reference:** Cell A5 contains today’s date and Cell A6 contains the 08:00 to 08:59 one-hour period of time. Cell B6 contains [!DNL Visitors[ Hour=A5+” ”+A6 ]], which evaluates to the number of Visitors today between 8:00 AM and 9:00 AM.
-

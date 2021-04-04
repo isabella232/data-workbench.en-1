@@ -4,8 +4,8 @@ solution: Analytics
 title: Installing Required Components
 topic: Data workbench
 uuid: e23fba09-4684-4daf-8426-ea91169b3348
+exl-id: d39cb14e-7cce-4088-8301-8ff566c0bde4
 ---
-
 # Installing Required Components{#installing-required-components}
 
 Steps to install the required Microsoft components.
@@ -26,4 +26,4 @@ Steps to install the required Microsoft components.
 
    For most installations, the **[!UICONTROL Typical]** installation is fine. If, however, you are planning to perform remote deployments, you will need to do a full install (choose **[!UICONTROL Complete]**).
 
-   Once all prerequisites are properly installed, you are ready to prepare the data workbench servers to communicate with the dashboard. 
+   Once all prerequisites are properly installed, you are ready to prepare the data workbench servers to communicate with the dashboard.

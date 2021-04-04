@@ -4,8 +4,8 @@ solution: Analytics
 title: Opening visualizations
 topic: Data workbench
 uuid: 106c6899-8f93-4221-898d-c7cde5ea19a8
+exl-id: 3b475429-ca2d-4bca-b1ac-2107ce200dcd
 ---
-
 # Opening visualizations{#opening-visualizations}
 
 Information about opening visualizations.
@@ -22,4 +22,3 @@ After opening up a new workspace, you may need to click **Add** > **Temporarily 
 >
 >![](assets/import_workspace.png)>
 >If you attempt to import a visualization, you will receive a "not a valid workspace" error.
-

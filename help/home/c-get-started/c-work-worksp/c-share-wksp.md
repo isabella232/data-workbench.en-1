@@ -4,8 +4,8 @@ solution: Analytics
 title: Share a workspace
 topic: Data workbench
 uuid: 6100143a-d602-42d7-b742-987fe5f835d6
+exl-id: c05b0f8f-cd73-4025-825b-32471c8681b8
 ---
-
 # Share a workspace{#share-a-workspace}
 
 You can use the Export workspace menu to print and export workspaces to .png files or to Excel.

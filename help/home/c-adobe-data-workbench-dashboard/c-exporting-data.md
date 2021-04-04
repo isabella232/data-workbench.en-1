@@ -4,8 +4,8 @@ solution: Analytics
 title: Exporting Data
 topic: Data workbench
 uuid: de37a60b-09db-4976-b427-f28b4697a8aa
+exl-id: b581d617-62e7-4f39-84f3-853c0424bb3b
 ---
-
 # Exporting Data{#exporting-data}
 
 Shows 3 ways of exporting data, and how to retrieve exports.
@@ -60,4 +60,3 @@ Exports are not removed automatically, so you can easily download the export in 
 To remove an export from the **[!UICONTROL Export List]**, click the checkmark to the right of the export title and select **[!UICONTROL Remove From List]**.
 
 ![](assets/export_remove_from_list.png)
-

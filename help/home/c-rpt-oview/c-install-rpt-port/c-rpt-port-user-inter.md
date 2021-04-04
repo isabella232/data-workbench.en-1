@@ -4,8 +4,8 @@ solution: Analytics
 title: Customize the Report Portal User Interface
 topic: Data workbench
 uuid: d1ea88e2-7b9e-4b1e-a826-dbe7c2e75976
+exl-id: 1f7c807d-d896-448f-b9dd-9fe6a68ef27e
 ---
-
 # Customize the Report Portal User Interface{#customize-the-report-portal-user-interface}
 
 Report sets must be configured in a specific way to produce reports that display properly through Report Portal.
@@ -70,4 +70,3 @@ To specify the tabs that you want [!DNL Report Portal] to display, you must conf
 1. Copy the [!DNL TopNavigation.xml] file from the first profile folder and paste it into the new folder. 
 1. Edit the [!DNL TopNavigation.xml] as necessary, then save the file. 
 1. Repeat Steps 3-5 for all other profiles available in your portal.
-

@@ -2,8 +2,8 @@
 description: Follow these steps to upgrade to Data Workbench v6.4.
 title: Upgrading 6.3 to 6.4
 uuid: 2461c1ab-cf99-4fb5-b431-d7062df7a53d
+exl-id: 540deb86-2463-4820-b67a-a32d68b4346e
 ---
-
 # Upgrading 6.3 to 6.4{#upgrading-to}
 
 Follow these steps to upgrade to Data Workbench v6.4.
@@ -150,4 +150,3 @@ Follow these requirements and recommendations when upgrading to Data Workbench 6
     1 = string: SimSun 
     2 = string: MS Mincho
   ```
-

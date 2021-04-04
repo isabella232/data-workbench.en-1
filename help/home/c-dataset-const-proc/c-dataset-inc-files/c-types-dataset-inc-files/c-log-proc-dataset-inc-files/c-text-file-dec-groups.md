@@ -4,8 +4,8 @@ solution: Analytics
 title: Text File Decoder Groups
 topic: Data workbench
 uuid: 3ff9700b-4f34-4098-8827-6856897bdb28
+exl-id: e9f6e02e-7150-455f-96f0-f34d98cc31b7
 ---
-
 # Text File Decoder Groups{#text-file-decoder-groups}
 
 The processing of log files as log sources requires the definition of a decoder within the Log Processing Dataset Include file to extract fields of data from the log entries.
@@ -81,4 +81,3 @@ A delimited decoder decodes a log file whose fields are delimited by a single ch
 This example illustrates the use of a delimited decoder to extract fields of data from a comma-delimited text file containing data about movies.
 
 ![](assets/cfg_LogProcessingInclude_DelimitedDecoder.png)
-

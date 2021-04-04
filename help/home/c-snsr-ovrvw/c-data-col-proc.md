@@ -3,8 +3,8 @@ description: Sensor automates the acquisition of data from your Internet channel
 solution: Analytics
 title: How Does the Data Collection Process Work?
 uuid: d34e5938-217b-4a1e-b96e-55a02b1c3af0
+exl-id: dd930739-ca24-4166-8ebd-84b65f6f3754
 ---
-
 # How Does the Data Collection Process Work?{#how-does-the-data-collection-process-work}
 
 Sensor automates the acquisition of data from your Internet channel by doing away with the bulk of human labor traditionally involved in data collection.
@@ -19,4 +19,4 @@ To capture this data, instrumentation within [!DNL Sensor] records information a
 
 After the [!DNL data workbench server] receives the data, it processes and stores your log files in highly-compressed [!DNL .vsl] format files, allowing you to easily maintain very large amounts of data on inexpensive hardware.
 
-For information about the event data fields collected by [!DNL Sensor] in [!DNL .vsl] files, see [Event Data Record Fields](../../home/c-snsr-ovrvw/c-evnt-data-rcd-flds/c-evnt-data-rcd-flds.md#concept-ed2a8797cb5b4995b55ffd50a9f12a44). 
+For information about the event data fields collected by [!DNL Sensor] in [!DNL .vsl] files, see [Event Data Record Fields](../../home/c-snsr-ovrvw/c-evnt-data-rcd-flds/c-evnt-data-rcd-flds.md#concept-ed2a8797cb5b4995b55ffd50a9f12a44).

@@ -4,8 +4,8 @@ solution: Analytics
 title: Configuring Access Control
 topic: Data workbench
 uuid: 600b6799-547d-46da-9027-4f64943e2ccd
+exl-id: a9ff61bb-c519-4205-8fa8-bfd1986fcd60
 ---
-
 # Configuring Access Control{#configuring-access-control}
 
 The dashboard requires certain read-only permissions to be able to access and display your data workbench data. Write privileges are not required.

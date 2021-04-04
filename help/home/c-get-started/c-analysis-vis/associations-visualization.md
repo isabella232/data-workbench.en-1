@@ -2,8 +2,8 @@
 description: The Association Table visualization let you associate metrics with metrics, dimensions, and dimension elements using Cramer's V algorithm.
 title: Association Table visualization
 uuid: 4563c336-3377-4929-8694-8c0d00866825
+exl-id: 3fc2c025-d369-45ed-8c9e-eb4a0ac412b7
 ---
-
 # Association Table visualization{#association-table-visualization}
 
 The Association Table visualization let you associate metrics with metrics, dimensions, and dimension elements using Cramer's V algorithm.
@@ -35,4 +35,3 @@ The Association Table compares metrics over a countable or non-countable dimensi
    >[!NOTE]
    >
    >There is a limit of ten rows and columns allowed in the Association Table.
-

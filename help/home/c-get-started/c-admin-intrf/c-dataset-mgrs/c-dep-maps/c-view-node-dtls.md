@@ -4,8 +4,8 @@ solution: Analytics
 title: View node details
 topic: Data workbench
 uuid: 2016a650-b021-4295-8313-d6287578ed10
+exl-id: f8ce7741-8ba2-484d-ac35-5c286b65f098
 ---
-
 # View node details{#view-node-details}
 
 Information about viewing identifying information about a profile component.
@@ -77,4 +77,3 @@ The path of the menu item in the profile’s Menu directory.
 **To view inputs or outputs for a profile component**
 
 * Right-click the desired node and click **[!UICONTROL Inputs]** or **[!UICONTROL Outputs]**. A list of inputs or outputs displays.
-

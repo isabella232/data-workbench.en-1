@@ -4,8 +4,8 @@ solution: Analytics
 title: Log Processing Dataset Include Files
 topic: Data workbench
 uuid: 8bf99c9a-f674-4a07-bb3e-de0d9efc9716
+exl-id: 06d8046d-6bac-4ccd-bcef-06f7c9ec7619
 ---
-
 # Log Processing Dataset Include Files{#log-processing-dataset-include-files}
 
 The Log Processing Dataset Include file for an inherited profile contains parameters associated with the log processing phase of dataset construction.
@@ -71,4 +71,3 @@ You should keep the following points in mind whenever you are working with [!DNL
 
 * Changing any of the parameters in this file requires reprocessing of all of the data. 
 * You can add any of the parameters described above to the [!DNL Log Processing Dataset Include] file by opening and editing the file in Notepad. Any changes you make and save appear when you reopen the file in data workbench. When adding a new parameter, use the Space key (not the Tab key) to indent two (2) spaces to the right of the previous heading level.
-

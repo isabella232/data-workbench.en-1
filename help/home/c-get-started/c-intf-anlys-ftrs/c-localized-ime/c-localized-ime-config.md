@@ -2,8 +2,8 @@
 description: Set up insight.zbin file to set the language of the client application.
 title: Setting up Localized Languages
 uuid: 97baf281-32fd-4df0-81a6-c2c7126b053c
+exl-id: 29624b3a-e26a-48a9-9dcc-21ba829c34d4
 ---
-
 # Setting up Localized Languages{#setting-up-localized-languages}
 
 Set up insight.zbin file to set the language of the client application.
@@ -73,4 +73,3 @@ Data workbench looks for the following splash screen files:
 If a splash screen is requested but missing, data workbench will access the English splash screen by default.
 
 <!-- <a id="section_91AE5EF234C14652A7B04082A22629AB"></a> -->
-

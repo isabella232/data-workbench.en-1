@@ -4,8 +4,8 @@ solution: Analytics
 title: 3D Scatter Plots
 topic: Data workbench
 uuid: 5e23547c-dbb4-490c-94bc-0731deee612e
+exl-id: 18f18cab-a31b-4ffe-89c5-412a5645af2e
 ---
-
 # 3D Scatter Plots{#d-scatter-plots}
 
 A 3D Scatter Plot graphs the elements of a data dimension (such as Days or Referral Site) on a three-dimensional grid where the x, y, and z axes represent various metrics.
@@ -64,4 +64,3 @@ Like the [Scatter Plot 2D](https://docs.adobe.com/content/help/en/data-workbench
     * **To remove a point or group of points from your selection**: **Shift** + **click** a point or **Shift** **+** **drag** across several points.
 
 <!-- <a id="section_9C30F9799F1440F09278327002E6B47A"></a> -->
-

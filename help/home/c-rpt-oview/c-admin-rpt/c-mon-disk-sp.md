@@ -4,8 +4,8 @@ solution: Analytics
 title: Monitoring Disk Space
 topic: Data workbench
 uuid: 590c8239-d20e-470e-b633-7785b75daaa6
+exl-id: 0debd601-494f-4d4e-9452-c4d32678dc95
 ---
-
 # Monitoring Disk Space{#monitoring-disk-space}
 
 You should regularly monitor available disk space so that all Report Server machines continue to perform at the highest level possible.
@@ -33,4 +33,4 @@ Make sure that you provide enough disk space to accommodate your reports in the 
 
 **Recommended Frequency:** Daily
 
-Report, system, and operating system data must be backed up regularly and diligently using your company’s normal back up and disaster recovery systems. 
+Report, system, and operating system data must be backed up regularly and diligently using your company’s normal back up and disaster recovery systems.

@@ -4,8 +4,8 @@ solution: Analytics
 title: Process map
 topic: Data workbench
 uuid: f1db41a9-400e-467a-ba59-39831fb166af
+exl-id: 019cee7b-a704-4b47-84c6-d3ddc277c43e
 ---
-
 # Process map{#process-map}
 
 Process maps enable you to analyze the flow of activity between elements of a dimension.
@@ -45,4 +45,3 @@ For example, if you are using the [!DNL Site] or HBX application, you can drag, 
 >[!NOTE]
 >
 >You can change the default dimensions or metric for a process map. For steps to configure a process map, see [Configuring Process Maps](../../../../home/c-get-started/c-intf-anlys-ftrs/t-config-proc-maps.md#task-4a95730b18a14bc790a77c013832b2d6).
-

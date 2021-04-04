@@ -4,8 +4,8 @@ solution: Analytics
 title: Binary Filter in the Correlation Matrix
 topic: Data workbench
 uuid: 61c3ca37-cfa2-49dc-87de-4e9a44647eca
+exl-id: e693fc72-5697-4c47-a498-e0d4d875c688
 ---
-
 # Binary Filter in the Correlation Matrix{#binary-filter-in-the-correlation-matrix}
 
 A Binary Filter in the Correlation Matrix lets you constrain values for one or both of the correlated metrics to better focus the comparison.
@@ -37,4 +37,4 @@ You can also add a dimension element to constrain a metric. A metric can have on
 
 ![](assets/correlation_matrix_element.png)
 
-Right-click in the workspace and select **Table**. Open a dimension with its elements and drag to the **[!UICONTROL Element]** setting in the Edit Correlation Metric Details window, or drop on a metric in the Correlation Matrix. 
+Right-click in the workspace and select **Table**. Open a dimension with its elements and drag to the **[!UICONTROL Element]** setting in the Edit Correlation Metric Details window, or drop on a metric in the Correlation Matrix.

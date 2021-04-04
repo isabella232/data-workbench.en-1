@@ -2,8 +2,8 @@
 description: Instructions for installing and configuring Sensor for Apache Server 1.3, Apache Server 2.0.42 or later, or Apache Server 2.2 running under Microsoft Windows Server 2000 or later.
 title: Apache Server 1.3, 2, 2.2, or 2.4 on Windows Server 2000 or Later
 uuid: e159ed83-6004-4f65-a3b7-502cac1d0862
+exl-id: d1bd0fc1-da5b-4183-8270-73c46195f724
 ---
-
 # Apache Server 1.3, 2, 2.2, or 2.4 on Windows Server 2000 or Later{#apache-server-or-on-windows-server-or-later}
 
 Instructions for installing and configuring Sensor for Apache Server 1.3, Apache Server 2.0.42 or later, or Apache Server 2.2 running under Microsoft Windows Server 2000 or later.
@@ -137,4 +137,3 @@ To add the collector to your web server, you must edit the [!DNL httpd.conf] fil
    >These lines are case sensitive. Type them exactly as they appear above.
 
 1. Restart the web server process (you do not have to reboot the entire server computer, simply restart the web server process). The collector is loaded with the web server and begins collecting event data and writing it to the disk queue.
-

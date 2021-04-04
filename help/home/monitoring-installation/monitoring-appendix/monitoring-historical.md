@@ -4,8 +4,8 @@ solution: Analytics
 title: Dimensions in the Data Workbench Historic profile
 topic: Data workbench
 uuid: 6d93fba4-986b-46a4-9479-aeb54853dff5
+exl-id: 9df1f317-a985-4132-b32e-f2263e0c23b2
 ---
-
 # Dimensions in the Data Workbench Historic profile{#dimensions-in-the-data-workbench-historic-profile}
 
 The following dimensions are available for use in the data workbench Historic profile.
@@ -188,4 +188,3 @@ The following dimensions are available for use in the data workbench Historic pr
 </table>
 
 <!-- <a id="section_76D8A4B07BB947558EBED1123EA203D5"></a> -->
-

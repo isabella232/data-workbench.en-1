@@ -3,8 +3,8 @@ description: Sensor, when used on a server, can collect fields of event data fro
 solution: Analytics
 title: Extensible Fields
 uuid: 91b9857e-44a4-497f-b157-51afd30306fe
+exl-id: e783d073-cf06-4415-80e1-567b55fdee12
 ---
-
 # Extensible Fields{#extensible-fields}
 
 Sensor, when used on a server, can collect fields of event data from any valid HTTP request or response header or variable available to it through the server’s API.
@@ -59,4 +59,4 @@ The following table includes descriptions of the components of a “SpecialLogFi
  </tbody> 
 </table>
 
-For help configuring [!DNL Sensor] to collect extensible event data record fields, contact Adobe Consulting Services. 
+For help configuring [!DNL Sensor] to collect extensible event data record fields, contact Adobe Consulting Services.

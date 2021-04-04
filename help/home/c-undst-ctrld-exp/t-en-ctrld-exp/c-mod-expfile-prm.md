@@ -4,8 +4,8 @@ solution: Analytics,Analytics
 title: Modifying the ExpFile Parameter
 topic: Data workbench
 uuid: bf146f46-f541-4969-8d90-af1a0c969344
+exl-id: 9c527ef9-aeda-4d83-8b98-a7dccbd55fe8
 ---
-
 # Modifying the ExpFile Parameter{#modifying-the-expfile-parameter}
 
 The ExpFile parameter points to the location of the experiment configuration file, which defines your experiment.
@@ -26,4 +26,4 @@ Make sure you record the location of the experiments directory and the name of t
 >
 >If you do not set this parameter identically on each machine in your web cluster on which a [!DNL Sensor] is installed, controlled experimentation does not work.
 
-This entry can be preconfigured and remain in the [!DNL Sensor] configuration file on an ongoing basis with no adverse effect. If the experiment configuration file name specified is not found by [!DNL Sensor] or it is blank (that is, it exists but has no content), [!DNL Sensor] does not conduct the experiment, logs an error event on the HTTP server, and continues to operate normally in all other respects. 
+This entry can be preconfigured and remain in the [!DNL Sensor] configuration file on an ongoing basis with no adverse effect. If the experiment configuration file name specified is not found by [!DNL Sensor] or it is blank (that is, it exists but has no content), [!DNL Sensor] does not conduct the experiment, logs an error event on the HTTP server, and continues to operate normally in all other respects.

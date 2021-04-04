@@ -4,8 +4,8 @@ solution: Analytics
 title: Tracking Link Clicks
 topic: Data workbench
 uuid: e4c492d2-9c90-4ed7-b997-6c50bdf98f93
+exl-id: 0cb743e6-5c6e-4f80-bc77-83d1e706c92b
 ---
-
 # Tracking Link Clicks{#tracking-link-clicks}
 
 Steps used to facilitate the collection of Link Clicks through the use of the Reference Page Tag.
@@ -100,4 +100,3 @@ var v = {};
 |  Data Collected  | Explanation  | Example  |
 |---|---|---|
 |  v_ln=  | Value denoting the Impression Campaign  | v_ln=”About%20Us”  |
-

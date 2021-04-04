@@ -2,8 +2,8 @@
 description: Information about Sensor transmitter start-up commands for UNIX and for Windows.
 title: Sensor Transmitter Command-Line Options
 uuid: 8d077d76-a709-494e-a176-07ca3e761662
+exl-id: f4b27859-8fab-42cd-bad0-b32f87764668
 ---
-
 # Sensor Transmitter Command-Line Options{#sensor-transmitter-command-line-options}
 
 Information about Sensor transmitter start-up commands for UNIX and for Windows.
@@ -38,4 +38,3 @@ To start Sensor and register it as a service on a Windows system, you use the fo
 ```
 txlog /regserver
 ```
-

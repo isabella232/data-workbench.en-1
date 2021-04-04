@@ -4,8 +4,8 @@ solution: Analytics
 title: Sample XSL Style Sheet
 topic: Data workbench
 uuid: cac5c5ad-b0ec-45d8-901d-e39ce1f6d61a
+exl-id: 688b0ce5-999b-4cfc-9228-146450132aee
 ---
-
 # Sample XSL Style Sheet{#sample-xsl-style-sheet}
 
 Code sample of XSL style sheet.
@@ -30,4 +30,3 @@ Code sample of XSL style sheet.
 </xsl:template>
 </xsl:stylesheet>
 ```
-

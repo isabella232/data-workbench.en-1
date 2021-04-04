@@ -4,8 +4,8 @@ solution: Analytics
 title: Create a latency dimension
 topic: Data workbench
 uuid: 531d8bf6-a66f-4b02-9d81-05664fb9c988
+exl-id: 38b470ef-9409-455b-b2b8-b0391f80b800
 ---
-
 # Create a latency dimension{#create-a-latency-dimension}
 
 Latency dimensions are constructed from a parent countable dimension, such as Sessions, and a time dimension, such as Day.

@@ -4,8 +4,8 @@ solution: Analytics
 title: About the Transformation Configuration File
 topic: Data workbench
 uuid: 56e11b71-1a86-47d4-8d2a-2795532b0770
+exl-id: 860562d7-6ed3-486b-9f62-1bd06878bf7e
 ---
-
 # About the Transformation Configuration File{#about-the-transformation-configuration-file}
 
 The Transformation.cfg file controls the transformation phase of dataset construction during which additional data transformations are applied to data already processed during log processing to create extended dimensions for use in analysis.
@@ -18,4 +18,3 @@ The Transformation.cfg file controls the transformation phase of dataset constru
 >[!NOTE]
 >
 >[!DNL Transformation Dataset Include] files can contain additional instructions for the transformation phase of dataset construction. These files exist within the Dataset\Transformation directory for any inherited profile, and they typically define application-specific parameters (such as web-specific configuration parameters for the [!DNL Site] application). For information about [!DNL Transformation Dataset Include] files, see [Dataset Include Files](../../../home/c-dataset-const-proc/c-dataset-inc-files/c-abt-dataset-inc-files.md). For information about web-specific configuration parameters for Site, see [Configuration Settings for Web Data](../../../home/c-dataset-const-proc/c-config-web-data/c-config-web-data.md#concept-9a306b65483a484bb3f6f3c1d7e77519).
-

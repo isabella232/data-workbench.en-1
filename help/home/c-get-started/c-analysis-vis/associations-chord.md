@@ -2,8 +2,8 @@
 description: The Association Chord visualization allows you to show both the proportion and association between metrics, dimensions, and elements, displaying larger chords as an indication of a stronger association.
 title: Association Chord visualization
 uuid: c656ffc8-e45a-44c0-a29b-cdc10dcbd1f2
+exl-id: e71394ef-4895-4a3e-912d-d6f56ca8f001
 ---
-
 # Association Chord visualization{#association-chord-visualization}
 
 The Association Chord visualization allows you to show both the proportion and association between metrics, dimensions, and elements, displaying larger chords as an indication of a stronger association.
@@ -48,4 +48,3 @@ The Associations Table compares values with Cramer's V calculation rather than u
 >[!IMPORTANT]
 >
 >Exporting an Association Table from an Association Chord Diagram that contains at least one metric will result in duplicated elements in the rows/columns of the Association Table. To avoid duplicated elements, create a new Association Table and add the desired elements rather than exporting the elements from an Association Chord Diagram.
-

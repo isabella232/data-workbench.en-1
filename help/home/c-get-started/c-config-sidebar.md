@@ -4,8 +4,8 @@ solution: Analytics
 title: Configure the sidebar
 topic: Data workbench
 uuid: 0d2f0b9a-56a9-4f27-aaa6-1f9bf7fcab2d
+exl-id: 75ccc869-8ced-4beb-b3d7-ed7febe347f9
 ---
-
 # Configure the sidebar{#configure-the-sidebar}
 
 The sidebar provides access to regularly-used functions and preserves visualizations as you move between Workspaces.
@@ -85,4 +85,3 @@ The following procedure shows a simple example of how to create a customized sta
    The values in the preceding example result in a status formula displayed as follows:
 
    ![](assets/more_status_panel.png)
-

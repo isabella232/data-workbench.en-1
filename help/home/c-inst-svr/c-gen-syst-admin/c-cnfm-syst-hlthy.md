@@ -3,8 +3,8 @@ description: You must ensure that the machines on which Adobe server products ar
 solution: Analytics
 title: Confirming Your Systems Are Healthy
 uuid: 6d132865-36ab-40fc-be24-e031f356fce2
+exl-id: 543f7592-dd3c-47ba-b174-5f12e9586378
 ---
-
 # Confirming Your Systems Are Healthy{#confirming-your-systems-are-healthy}
 
 You must ensure that the machines on which Adobe server products are installed meet the minimum system requirements as defined in the Minimum System Requirements document.
@@ -23,4 +23,4 @@ You also must monitor your systems according to the best practices for operating
 
 Adobe recommends that you configure your management tool to alert administrators when any system parameter on a server machine exceeds the threshold you have set.
 
-For [!DNL Insight Server] machines, Adobe also recommends that you configure each [!DNL Insight Server] to indicate when it reaches the minimum disk space limit you have set. For more information about these alerts, see [Configuring Administrative Alerts](../../../home/c-inst-svr/c-admin-inst-svr/t-config-adm-alrts.md#task-0858f588da4941aa9d4952f6592681aa). 
+For [!DNL Insight Server] machines, Adobe also recommends that you configure each [!DNL Insight Server] to indicate when it reaches the minimum disk space limit you have set. For more information about these alerts, see [Configuring Administrative Alerts](../../../home/c-inst-svr/c-admin-inst-svr/t-config-adm-alrts.md#task-0858f588da4941aa9d4952f6592681aa).

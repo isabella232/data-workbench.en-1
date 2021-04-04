@@ -3,8 +3,8 @@ description: The DPU configuration file, DPU.cfg, specifies various performance 
 solution: Analytics
 title: Configuring DPU.cfg
 uuid: c348622b-7d4b-4cfa-a8f8-a07d91e440d5
+exl-id: 55e4ea7f-fee3-4af7-9cbc-d121e79e6ab2
 ---
-
 # Configuring DPU.cfg{#configuring-dpu-cfg}
 
 The DPU configuration file, DPU.cfg, specifies various performance parameters for Insight Server.
@@ -34,4 +34,3 @@ The DPU configuration file, DPU.cfg, specifies various performance parameters fo
     1. Right-click **[!UICONTROL (modified)]** at the top of the window and click **[!UICONTROL Save]**. 
     
     1. In the [!DNL Server Files Manager], right-click the check mark for the file in the [!DNL Temp] column and select **[!UICONTROL Save to]** > *< **[!UICONTROL server name]**>*.
-

@@ -2,8 +2,8 @@
 description: Create custom column export headers for your segment export files to add easily understood descriptions for exported segments. This export feature also lets you output as TSV and CSV files.
 title: Segment Export with Custom Headers
 uuid: 186e7868-13b2-42e1-b83f-5a752ee9b407
+exl-id: 1d27f926-35e1-4886-b7a6-702d9947dabb
 ---
-
 # Segment Export with Custom Headers{#segment-export-with-custom-headers}
 
 Create custom column export headers for your segment export files to add easily understood descriptions for exported segments. This export feature also lets you output as TSV and CSV files.
@@ -42,4 +42,3 @@ You can create column headers for your export files.
 1. Right-click [!DNL Admin] > [!DNL Profile Manager] > [!DNL Expand Export]. Find the export file you just created and save it to an existing profile.
 
    ![](assets/segment_export_headers_8.png)
-

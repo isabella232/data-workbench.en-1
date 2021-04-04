@@ -2,8 +2,8 @@
 description: Overview of the administration of Data Workbench.
 title: Data Workbench Administration
 uuid: 97fc7565-9042-42e8-b6a2-6258783cbe69
+exl-id: 8bee2ff6-7e5f-41ba-b705-b18216a082f8
 ---
-
 # Data Workbench Administration{#data-workbench-administration}
 
 Overview of the administration of Data Workbench.
@@ -17,4 +17,3 @@ This section provides basic information about access control, errors and alerts,
 
 * For Errors and Alerts - Administrative Alerts, see [Administrative Alerts](https://docs.adobe.com/content/help/en/data-workbench/using/server-admin-install/config-settings/c-admin-alts-cfg-stgs.html). 
 * For Server Upgrades, see [Upgrading Data Workbench](https://docs.adobe.com/content/help/en/data-workbench/using/install/upgrade-dwb/c-upgrd-ins.html).
-

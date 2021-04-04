@@ -4,8 +4,8 @@ solution: Analytics
 title: Server.cfg
 topic: Data workbench
 uuid: 7e789133-09fc-442d-b643-cca8620f4a97
+exl-id: fb7667f6-4061-4bde-8a48-6489b24e0411
 ---
-
 # Server.cfg{#server-cfg}
 
 The Sample Bytes parameter in the Server.cfg file specifies the data cache size (in bytes) for data workbench.
@@ -16,4 +16,4 @@ The default value is 250e6. Instructions for opening and saving the [!DNL Server
 >
 >Because this file's parameter affects system performance, please contact Adobe before making any changes.
 
-You can further limit the size of the data cache for data workbench machine that connect to the data workbench server by setting the Maximum Sample Size parameter in the [!DNL Insight.cfg] file. For more information, see the *Data Workbench User Guide*. 
+You can further limit the size of the data cache for data workbench machine that connect to the data workbench server by setting the Maximum Sample Size parameter in the [!DNL Insight.cfg] file. For more information, see the *Data Workbench User Guide*.

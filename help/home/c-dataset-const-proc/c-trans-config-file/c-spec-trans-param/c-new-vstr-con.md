@@ -4,8 +4,8 @@ solution: Analytics
 title: New Visitor Condition
 topic: Data workbench
 uuid: e9733109-5bf3-47ce-974c-d68264291f19
+exl-id: a0520edd-bde3-4f55-858c-8974d4224435
 ---
-
 # New Visitor Condition{#new-visitor-condition}
 
 The New Visitor Condition is a Condition Operation that is used with website data to determine which visitors are considered for inclusion in the dataset.
@@ -15,4 +15,3 @@ The New Visitor Condition is a Condition Operation that is used with website dat
 The [!DNL New Visitor Condition] shown in this example creates a dataset that includes only those log entries for visitors who respond to email campaigns. This is accomplished by using the [!DNL NotEmptyCondition] test (see [Not Empty](../../../../home/c-dataset-const-proc/c-conditions/c-test-ops/c-test-op-con.md#section-1decb9d887894073a1b6b3d985729ac8)) and the [!DNL x-campaign-email] field as input to the regular expression. After the new visitors meeting the condition are identified, all log entries for those visitors are captured.
 
 ![](assets/cfg_Transformation_NewVisitorCondition.png)
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: Query Status Legend
 topic: Data workbench
 uuid: 6a0285c8-3ced-4c12-8f0c-e86d70d9e044
+exl-id: 9580ee7f-3575-4e73-b7df-5b61f6ce8e1e
 ---
-
 # Query Status Legend{#query-status-legend}
 
 The Query Status Legend provides detailed information about the queries you are performing.
@@ -40,4 +40,3 @@ The following table lists the tasks that can be completed using the [!DNL Query 
   </tr> 
  </tbody> 
 </table>
-

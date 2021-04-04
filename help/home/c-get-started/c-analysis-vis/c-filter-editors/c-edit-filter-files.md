@@ -4,8 +4,8 @@ solution: Analytics
 title: Edit filter files manually
 topic: Data workbench
 uuid: a4f932b8-dca5-44a1-a2bb-a3c683b661d5
+exl-id: e4c98d61-27f4-456b-a1dd-da69249e5fb1
 ---
-
 # Edit filter files manually{#edit-filter-files-manually}
 
 Steps to editing a .filter file manually.
@@ -17,4 +17,3 @@ Steps to editing a .filter file manually.
    ![](assets/filter_manualEdit.png)
 
 1. Edit the file as necessary. For the syntax to use when defining filters, see [Syntax for Filter Expressions](../../../../home/c-get-started/c-qry-lang-syntx/c-syntx-fltr-exp.md#concept-72f2563f809747a2a3cff7ec72462a15).
-

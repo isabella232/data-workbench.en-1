@@ -2,8 +2,8 @@
 description: Export Data Workbench data to Adobe Target using TargetBulkUpload.exe from the Detail Table.
 title: Export to Adobe Target
 uuid: 0eb99e6f-f0b5-495e-a3b6-df30f61378a7
+exl-id: 41e885bb-182a-4983-98e8-65eec1da9fe9
 ---
-
 # Export to Adobe Target{#export-to-adobe-target}
 
 Export Data Workbench data to Adobe Target using TargetBulkUpload.exe from the Detail Table.
@@ -39,4 +39,3 @@ The stuck status value is incremented with the total stuck batch size regardless
 >[!NOTE]
 >
 >Previously, DWB data was exported using the [!DNL ExportIntegration.exe]. Currently only the MMP, CRS, and S/FTP exports are used with this executable. Adobe Target integration now uses the [!DNL TargetBulkUpload.exe] in Data Workbench.
-

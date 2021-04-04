@@ -3,8 +3,8 @@ description: To detect Sensor errors as soon as possible and repair them before 
 solution: Analytics
 title: Monitoring Administrative Events
 uuid: c43d6509-6950-4436-8d6c-be7b00664f05
+exl-id: 70894074-b8aa-4f6c-87d1-d0403f4c3319
 ---
-
 # Monitoring Administrative Events{#monitoring-administrative-events}
 
 To detect Sensor errors as soon as possible and repair them before they cause major problems or outages, you should regularly monitor your Event logs.
@@ -200,4 +200,3 @@ Tables that describe Sensor events and suggested actions for the supported web s
 |  Sensor Error 3011: Init directive required. Such as Init fn=vys-init config-file=”/mypath/myfile”  | This is a configuration error. The iPlanet init directive is missing.  |
 |  Sensor Error 3015: config-file is not specified in iPlanet Init directive  | This is a configuration error. The path to the configuration file was not supplied in the iPlanet Init directive.  |
 |  Sensor Error 3019: vys-cookie was not called before vys-log. Please check configuration file  | vys-cookie must be specified as the first NameTrans directive for each software virtual server.  |
-

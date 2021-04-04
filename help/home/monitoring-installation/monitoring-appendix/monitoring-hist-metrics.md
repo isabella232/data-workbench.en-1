@@ -4,8 +4,8 @@ solution: Analytics
 title: Metrics in the Data Workbench Historical Monitoring profile
 topic: Data workbench
 uuid: 47b874f7-8acb-4593-9ac9-5997d5279e52
+exl-id: 65f0f605-f128-45bb-8f6c-95284b2da740
 ---
-
 # Metrics in the Data Workbench Historical Monitoring profile{#metrics-in-the-data-workbench-historical-monitoring-profile}
 
 The following lists the metrics included in the data workbench Historical Monitoring Profile and how they are derived.
@@ -48,4 +48,3 @@ The following lists the metrics included in the data workbench Historical Monito
 |  **Stalled** |The sum of the Processing Stalled dimension in the Insight [Profile Status](../../../home/monitoring-installation/monitoring-appendix/monitoring-profile-status.md#concept-d4cd7da41c8a42bab4aea25418264e64) profile.  |
 |  **Temp DB** | The sum of Temp DB Space Percentage for each Ping, divided by the Pings metric.  |
 |  **Transformation** | The sum of Transformation Percentage for each Ping divided by the Pings metric all divided by 10.  |
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: Math
 topic: Data workbench
 uuid: 9e1a5950-8fb2-48e9-b9a1-82c5165fba10
+exl-id: d8b9cacd-67d1-447c-94dd-7028aa371dfa
 ---
-
 # Math{#math}
 
 The Math transformation enables the use of arithmetic operations on fields within the log entries.
@@ -70,4 +70,4 @@ In this example, which uses fields of data collected from website traffic, a new
 
 ![](assets/cfg_TransformationType_Math.png)
 
-For information about the [!DNL Not Empty] condition, see [Conditions](../../../../../home/c-dataset-const-proc/c-conditions/c-abt-cond.md). 
+For information about the [!DNL Not Empty] condition, see [Conditions](../../../../../home/c-dataset-const-proc/c-conditions/c-abt-cond.md).

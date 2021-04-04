@@ -3,8 +3,8 @@ description: Transform functionality runs on an Insight Server FSU machine to en
 solution: Analytics
 title: Configuring Transform
 uuid: 0526704a-71b2-4094-9d3a-1ba84f4dc287
+exl-id: 5dbd70e4-55fc-4446-b687-525e7957209b
 ---
-
 # Configuring Transform{#configuring-transform}
 
 Transform functionality runs on an Insight Server FSU machine to enable the export of log source data for use by other applications.
@@ -62,4 +62,3 @@ All of these files are located in the [!DNL Dataset] folder for the profile.
        >[!NOTE]
        >
        >Do not save the modified configuration file to any of the internal profiles provided by Adobe (including the profile), as your changes are overwritten when you install updates to these profiles.
-

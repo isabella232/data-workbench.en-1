@@ -4,8 +4,8 @@ solution: Analytics
 title: Reviewing Report Status
 topic: Data workbench
 uuid: 0f78a9fd-83d5-4e05-b7d1-d841033a5616
+exl-id: a986f148-f019-457c-ade8-a4eaecbb1de7
 ---
-
 # Reviewing Report Status{#reviewing-report-status}
 
 Information about your Report Server status and report set status.
@@ -44,4 +44,3 @@ For more information about [!DNL Detailed Status], see the Administrative Interf
 >[!NOTE]
 >
 >If an error occurred while running a report, the error is indicated in red text below the thumbnail of that report. You can right-click the workspace to display the full error message.
-

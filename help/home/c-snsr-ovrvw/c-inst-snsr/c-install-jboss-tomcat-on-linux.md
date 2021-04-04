@@ -2,8 +2,8 @@
 description: Detailed instructions for installing and configuring Sensor for J2EE implementations running on RedHat Linux 7.x or later, Sun Solaris SPARC 2.6 or later, or Sun Solaris x86 9 or later.
 title: JBoss, Tomcat, and WebLogic Servers on RedHat Linux or Sun Solaris
 uuid: 7977fb9b-1737-4e1d-80c6-aabf968974dd
+exl-id: 09c2f266-2ecc-42fc-98b6-b91f8883af0c
 ---
-
 # JBoss, Tomcat, and WebLogic Servers on RedHat Linux or Sun Solaris{#jboss-tomcat-and-weblogic-servers-on-redhat-linux-or-sun-solaris}
 
 Detailed instructions for installing and configuring Sensor for J2EE implementations running on RedHat Linux 7.x or later, Sun Solaris SPARC 2.6 or later, or Sun Solaris x86 9 or later.
@@ -256,4 +256,3 @@ For more information about processing, see the Dataset Configuration Guide.
    The resulting request URI is /index.jsp?A=1&B=2. 
 
 1. Repeat this procedure for each .jsp page from which you want to capture additional data.
-

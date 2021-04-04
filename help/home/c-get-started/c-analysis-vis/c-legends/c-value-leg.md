@@ -4,8 +4,8 @@ solution: Analytics
 title: Value legends
 topic: Data workbench
 uuid: 7779f442-2f45-4bf8-a62a-585aaceaeb3a
+exl-id: b28ba604-93ef-4081-ae55-937fb537c068
 ---
-
 # Value legends{#value-legends}
 
 A value legend displays defined value events.
@@ -74,4 +74,4 @@ After you have defined at least one value event, the Value Segment dimension bec
 
 ## Export to Microsoft Excel {#section-feaa7a8eb8124fafbc74169bebaed6d8}
 
-For information about exporting windows, see [Exporting Window Data](../../../../home/c-get-started/c-wk-win-wksp/c-exp-win-data.md#concept-8df61d64ed434cc5a499023c44197349). 
+For information about exporting windows, see [Exporting Window Data](../../../../home/c-get-started/c-wk-win-wksp/c-exp-win-data.md#concept-8df61d64ed434cc5a499023c44197349).

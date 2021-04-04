@@ -2,8 +2,8 @@
 description: Sample files for the configuration files.
 title: Sample Configuration Files
 uuid: 9bc5c0a9-e67a-4c63-952d-9a39d75e6975
+exl-id: 8a9abadb-228b-4da6-bfe6-8e828bb6ace9
 ---
-
 # Sample Configuration Files{#sample-configuration-files}
 
 Sample files for the configuration files.
@@ -90,4 +90,3 @@ Example of a complete obj.conf file for Netscape Enterprise Server, iPlanet, Sun
   PathCheck fn="check-acl" acl="es-internal"
 </Object>
 ```
-

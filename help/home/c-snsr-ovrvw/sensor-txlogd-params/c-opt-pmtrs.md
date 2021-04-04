@@ -3,8 +3,8 @@ description: Information about optional Sensor txlogd.conf file parameters.
 solution: Analytics
 title: Optional Parameters
 uuid: 8515a571-93ce-49cd-9ded-c9273259d0ee
+exl-id: 5141f215-979c-4eb8-8c2c-94eef5815743
 ---
-
 # Optional Parameters{#optional-parameters}
 
 Information about optional Sensor txlogd.conf file parameters.
@@ -162,4 +162,3 @@ Information about optional Sensor txlogd.conf file parameters.
   </tr> 
  </tbody> 
 </table>
-

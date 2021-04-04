@@ -2,8 +2,8 @@
 description: null
 title: Workstation setup
 uuid: 1dadddec-f157-4d66-845b-9d4047363d69
+exl-id: 177d48b6-9b0d-48f5-9dd2-17cb5a27d2b2
 ---
-
 # Workstation setup{#workstation-setup}
 
 This section includes the following topics:

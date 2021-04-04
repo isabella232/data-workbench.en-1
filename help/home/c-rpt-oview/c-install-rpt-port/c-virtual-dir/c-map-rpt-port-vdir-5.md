@@ -4,8 +4,8 @@ solution: Analytics
 title: Mapping Report Portal to a Virtual Directory (IIS 5.0)
 topic: Data workbench
 uuid: 9514c33e-c139-4cc2-97c2-8b241522c44d
+exl-id: 20d8e9ea-c5b6-4a1b-9b15-557cc71ad5d9
 ---
-
 # Mapping Report Portal to a Virtual Directory (IIS 5.0){#mapping-report-portal-to-a-virtual-directory-iis}
 
 Steps to map the Report Portal to a virtual directory (IIS 5.0).
@@ -75,4 +75,3 @@ Steps to map the Report Portal to a virtual directory (IIS 5.0).
    ![](assets/rptPort_scrn_VirDirs_Installed.png)
 
 1. When finished, go to [Edit the Session Configuration File](../../../../home/c-rpt-oview/c-install-rpt-port/t-edit-sess-config-file.md#task-cf11c3a780bd4936afd3f64a6b30afc7) to continue with the installation process.
-

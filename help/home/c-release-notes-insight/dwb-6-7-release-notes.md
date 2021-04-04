@@ -2,8 +2,8 @@
 description: New features, fixes, and known issues in Data Workbench 6.7.
 title: Data Workbench 6.7 Release Notes
 uuid: b84f5f2b-4f1c-490c-982b-6bd8d3a63e25
+exl-id: e5ec3224-66d1-47a6-9bf3-8be9f6568b8d
 ---
-
 # Data Workbench 6.7 Release Notes{#data-workbench-release-notes}
 
 New features, fixes, and known issues in Data Workbench 6.7.
@@ -102,4 +102,4 @@ Updated files include:
    
    ```
 
-See [archived release notes](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/release-notes.html) for Data Workbench 5.3 to 5.52. 
+See [archived release notes](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/release-notes.html) for Data Workbench 5.3 to 5.52.

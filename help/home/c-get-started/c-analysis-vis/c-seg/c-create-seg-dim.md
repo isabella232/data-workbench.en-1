@@ -4,8 +4,8 @@ solution: Analytics
 title: Create a segment dimensions
 topic: Data workbench
 uuid: 68dcf3bf-fbc9-4924-a0dd-d112cf366131
+exl-id: 393d544e-e821-49e3-8cfb-5a3496aa7380
 ---
-
 # Create a segment dimensions{#create-a-segment-dimensions}
 
 To create a segment dimension, you begin by making a selection within a workspace and then adding the segment to a visualization.
@@ -41,4 +41,4 @@ To create a segment dimension, you begin by making a selection within a workspac
 
 You can access the segment dimension whenever you are working with a visualization. You also can export data associated with the elements in your saved dimension using the segment export feature.
 
-For more information about the segment export feature and instructions to configure it for your needs, see [Configuring Segments for Export](../../../../home/c-get-started/c-exp-data-seg-exp/t-config-sgts-expt.md#task-8857f221fa66463990ec9b60db6db372). 
+For more information about the segment export feature and instructions to configure it for your needs, see [Configuring Segments for Export](../../../../home/c-get-started/c-exp-data-seg-exp/t-config-sgts-expt.md#task-8857f221fa66463990ec9b60db6db372).

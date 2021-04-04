@@ -4,8 +4,8 @@ solution: Analytics
 title: Editing the Log Processing Configuration File
 topic: Data workbench
 uuid: 2ffae53a-ef2f-4933-821d-13f29dcdb68d
+exl-id: 294063ef-6771-4310-8198-df57fab1e2b4
 ---
-
 # Editing the Log Processing Configuration File{#editing-the-log-processing-configuration-file}
 
 Steps to edit the Log Processing.cfg file for a dataset profile.
@@ -120,4 +120,4 @@ Steps to edit the Log Processing.cfg file for a dataset profile.
    >
    >Do not save the modified configuration file to any of the internal profiles provided by Adobe, as your changes are overwritten when you install updates to these profiles.
 
-   For more information about reprocessing your data, see [Reprocessing and Retransformation](../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md). 
+   For more information about reprocessing your data, see [Reprocessing and Retransformation](../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md).

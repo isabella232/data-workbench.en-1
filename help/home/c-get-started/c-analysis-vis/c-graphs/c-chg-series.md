@@ -4,8 +4,8 @@ solution: Analytics
 title: Change a series
 topic: Data workbench
 uuid: 4e9630c6-a663-486d-ae82-f6d25f74a41c
+exl-id: 7a639a7f-e526-4916-a957-b005277bdd2d
 ---
-
 # Change a series{#change-a-series}
 
 Elements within a dimension can be color-coded as a series within a line graph so that each element can be more easily tracked across other visualizations in the workspace.
@@ -23,4 +23,3 @@ When a series is active, data for the different elements of the dimension is sho
 **To disable a series**
 
 * Right-click an element or the label of the dimension and click **[!UICONTROL Change Series]** > **[!UICONTROL None]**.
-

@@ -4,8 +4,8 @@ solution: Analytics,Analytics
 title: Modifying the ExpCookieURL Paramter (Optional)
 topic: Data workbench
 uuid: 0c160c26-f9de-4e41-a05d-bf7bb32395bb
+exl-id: fe3dadab-890d-4426-b6f5-8ffd1cd38c69
 ---
-
 # Modifying the ExpCookieURL Paramter (Optional){#modifying-the-expcookieurl-paramter-optional}
 
 The ExpCookieURL parameter can be used to test that your controlled experiment is working properly.
@@ -20,4 +20,4 @@ The default page for this parameter is [!DNL setcookie.htm], but you can use any
 
 Following is an example of the ExpCookieURL parameter:
 
-[!DNL ExpCookieURL /setcookie.htm] 
+[!DNL ExpCookieURL /setcookie.htm]

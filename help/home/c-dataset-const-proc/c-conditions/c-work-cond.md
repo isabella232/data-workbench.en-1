@@ -4,8 +4,8 @@ solution: Analytics
 title: Working With Conditions
 topic: Data workbench
 uuid: b6f52b40-26aa-429b-9ff5-3f3b9c9d57a9
+exl-id: 0792b308-aa0b-4741-be0c-4f7cc28f3e09
 ---
-
 # Working With Conditions{#working-with-conditions}
 
 Information about adding, removing, or copying a condition.
@@ -56,4 +56,3 @@ You can copy a condition from one location to another location in the same file,
 
 1. Right-click the name of the condition or the number corresponding to the condition that you want to copy and click **[!UICONTROL Copy]**. 
 1. Right-click the name or number of the condition below which you want to place the copied condition and click **[!UICONTROL Paste]**.
-

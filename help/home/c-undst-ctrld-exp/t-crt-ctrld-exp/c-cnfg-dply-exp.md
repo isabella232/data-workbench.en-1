@@ -4,8 +4,8 @@ solution: Analytics,Analytics
 title: Configuring and Deploying the Experiment
 topic: Data workbench
 uuid: 460d3ea4-a6c8-4ac4-9a3f-eab71f65b096
+exl-id: 957c2ea2-72a5-4bb2-af1d-65187613c26d
 ---
-
 # Configuring and Deploying the Experiment{#configuring-and-deploying-the-experiment}
 
 After you have defined your objective, hypothesis, and experiment details as well as created your test content, you must configure Sensor to deploy the controlled experiment.
@@ -124,4 +124,4 @@ You must deploy the experiment configuration file to each machine in your web cl
 
 * On each application or web server running a [!DNL Sensor] that is serving pages involved in the experiment, place the experiment configuration text file in the directory that you specified in the ExpFile parameter in the [!DNL Sensor] configuration file. See [Modifying the ExpFile Parameter](../../../home/c-undst-ctrld-exp/t-en-ctrld-exp/c-mod-expfile-prm.md#concept-25232b386a654870becc789d4f1fcc28).
 
-[!DNL Sensor] randomly selects website visitors for each group based on the percentages that you defined in the file and serves the test or control group content to them as appropriate. 
+[!DNL Sensor] randomly selects website visitors for each group based on the percentages that you defined in the file and serves the test or control group content to them as appropriate.

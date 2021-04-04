@@ -4,8 +4,8 @@ solution: Analytics
 title: Countable Dimensions
 topic: Data workbench
 uuid: 3312f5eb-69b9-43af-b32a-5c40e3050b29
+exl-id: c607c15d-de85-4daf-af76-79b460f51b38
 ---
-
 # Countable Dimensions{#countable-dimensions}
 
 A countable dimension's elements can be counted by the system.
@@ -69,4 +69,3 @@ This example illustrates the definition of a countable dimension using event dat
 This example also illustrates the definition of a countable dimension using event data collected from website traffic, but it has a defined Key parameter. The Session countable dimension uses the x-session-key field as its key. (The x-session-key field is the output of the [!DNL Sessionize] transformation and has a unique value for each session.) Every unique combination of an element of the Visitor dimension (the parent) and the x-session-key field is an element of the Session dimension.
 
 ![](assets/cfg_Transformation_Dim_Countable2.png)
-

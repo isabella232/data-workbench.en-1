@@ -4,8 +4,8 @@ solution: Analytics
 title: Sample Data Workbench Transform.cfg Files
 topic: Data workbench
 uuid: cb473a5a-54e2-4bf7-84fb-c9c27910ef64
+exl-id: f7aadde4-6d89-4bd4-b34b-192a81a71dc3
 ---
-
 # Sample Data Workbench Transform.cfg Files{#sample-data-workbench-transform-cfg-files}
 
 Information about how to specify parameters in the Transform.cfg file based on the several scenarios.
@@ -42,4 +42,3 @@ The following [!DNL Transform.cfg] window provides instructions to read [!DNL .v
 The following [!DNL Transform.cfg] window provides instructions to read [!DNL .vsl]files from the Logs directory and export the x-timestring and x-trackingid fields to a text file stored in the Logs\VT directory. The regular expression transformation ( [!DNL RETransform]) takes as its input the cs-uri-stem field and creates a new field (x-site) that defines a section of the site. The x-site field is included in the name of output text files, each of which contain data for one calendar day.
 
 ![](assets/cfg_VisualTransform_SplittingExample.png)
-

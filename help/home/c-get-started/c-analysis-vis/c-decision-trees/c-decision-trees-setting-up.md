@@ -2,8 +2,8 @@
 description: Set up a Decision Tree by identifying a positive case and adding metric and dimension inputs to evaluate the data and explore the decision tree.
 title: Building a Decision Tree
 uuid: 5790d322-5460-444d-95d8-a06696f9a55f
+exl-id: 06db9e77-72ea-44c7-8451-d3f195acd196
 ---
-
 # Building a Decision Tree{#building-a-decision-tree}
 
 Set up a Decision Tree by identifying a positive case and adding metric and dimension inputs to evaluate the data and explore the decision tree.
@@ -132,4 +132,3 @@ Follow these steps to build a decision tree.
     * Predictive Markup Language (**PMML**), an XML-based file format used by applications to describe and exchange decision tree models. 
     * **Text** displaying simple columns and rows of true or false, percentages, number of members, and input values. 
     * A **Dimension** with branches corresponding to predicted outcome elements.
-

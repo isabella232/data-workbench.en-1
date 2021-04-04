@@ -2,8 +2,8 @@
 description: Encrypt passwords and other strings when communicating between the client and server.
 title: String Encryption
 uuid: b2ec6a10-136c-4694-a425-04dbb41d43d1
+exl-id: 43696ff1-3153-4d85-b9a9-c2752dd2c29a
 ---
-
 # String Encryption{#string-encryption}
 
 Encrypt passwords and other strings when communicating between the client and server.
@@ -54,4 +54,4 @@ When communicating between the Data Workbench client (workstation) and server, y
 
 **Output file**
 
-An output file will be generated with the same name as the input file with a <*filename*>.*encrypted* extension. For example, if the input file is named *sample.cfg* then the output file will be named *sample.cfg.encrypted*. 
+An output file will be generated with the same name as the input file with a <*filename*>.*encrypted* extension. For example, if the input file is named *sample.cfg* then the output file will be named *sample.cfg.encrypted*.

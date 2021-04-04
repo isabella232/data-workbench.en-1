@@ -3,8 +3,8 @@ description: Check whether the collector is running using different methods.
 solution: Analytics
 title: Confirming that the Data Collector is Running
 uuid: e5b9b12a-b8a5-4c00-abe5-e824516d46b7
+exl-id: 1235d741-1ddf-4a65-8377-3d8a9b4ba0d3
 ---
-
 # Confirming that the Data Collector is Running{#confirming-that-the-data-collector-is-running}
 
 Check whether the collector is running using different methods.
@@ -42,4 +42,4 @@ Another way to verify that the collector is running on a web server is to check 
 
 It is possible to rename the cookie. If you have done so, you must look for the name specified, not v1st.
 
-You can perform this check using an automated script or monitoring agent. For a sample script or additional help with this task, please contact Adobe Consulting Services. 
+You can perform this check using an automated script or monitoring agent. For a sample script or additional help with this task, please contact Adobe Consulting Services.

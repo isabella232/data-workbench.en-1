@@ -4,8 +4,8 @@ solution: Analytics
 title: Configuration Files for Transform
 topic: Data workbench
 uuid: abb5b7a4-ade6-4658-b3a1-7ce4c2c17507
+exl-id: 9cd5ae3a-e3fc-466f-a6ab-20582001fb4a
 ---
-
 # Configuration Files for Transform{#configuration-files-for-transform}
 
 Transform functionality includes three configuration files that contain the required parameters for reading and exporting data.
@@ -17,4 +17,3 @@ Transform functionality includes three configuration files that contain the requ
 >[!NOTE]
 >
 >Before you begin to configure your implementation of transformation functionality, please confirm that you have properly installed the data workbench [!DNL Transform.cfg] and data workbench T [!DNL ransform Mode.cfg] files and all of the Adobe software products and applications needed for your implementation. For installation instructions, see the *Server Products Installation and Administration Guide*.
-

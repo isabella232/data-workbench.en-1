@@ -4,8 +4,8 @@ solution: Analytics
 title: P3P Considerations for Third-Party Page Tagging
 topic: Data workbench
 uuid: b88d0d22-0ff8-4b63-9be9-7acc12061146
+exl-id: 8eb521b6-802c-4d9f-a6b4-b1c4f694b8b8
 ---
-
 # P3P Considerations for Third-Party Page Tagging{#p-p-considerations-for-third-party-page-tagging}
 
 Conceptual information about third-party tagging and preventing cookie-blocking using P3P.
@@ -43,4 +43,4 @@ All compact policies and policy XML files should be tailored for the respective 
 
 For more information on how Internet Explorer 6 handles P3P Headers, please visit:
 
-[http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnpriv/html/ie6privacyfeature.asp](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnpriv/html/ie6privacyfeature.asp) 
+[http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnpriv/html/ie6privacyfeature.asp](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnpriv/html/ie6privacyfeature.asp)

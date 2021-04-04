@@ -4,8 +4,8 @@ solution: Analytics,Analytics
 title: Modifying Transformation.cfg
 topic: Data workbench
 uuid: c17e48db-8fd9-4640-b621-6963bb8223d7
+exl-id: a9c89789-8290-4a24-91c1-ca1c5b7b437a
 ---
-
 # Modifying Transformation.cfg{#modifying-transformation-cfg}
 
 Now that the x-experiment field is available, you must create an extended dimension to include the x-experiment field in your dataset, which allows you to view your results in Insight.
@@ -49,4 +49,4 @@ The following procedure includes the creation of both the new Split transformati
    >
    >The dataset begins retransforming immediately.
 
-   For more information about [!DNL Transformation.cfg] and extended dimensions, see the *Dataset Configuration Guide*. 
+   For more information about [!DNL Transformation.cfg] and extended dimensions, see the *Dataset Configuration Guide*.

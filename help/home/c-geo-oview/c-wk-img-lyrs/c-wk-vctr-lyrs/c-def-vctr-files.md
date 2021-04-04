@@ -4,8 +4,8 @@ solution: Analytics
 title: Defining Vector Layers Referencing Vector Files
 topic: Data workbench
 uuid: 162d4ecc-d305-42e3-a5d4-0c1609a40f29
+exl-id: c6da3cd9-f42a-4e9c-ae48-9f4ffdc42f7b
 ---
-
 # Defining Vector Layers Referencing Vector Files{#defining-vector-layers-referencing-vector-files}
 
 You can create a vector layer that references one or more vector (.vec) files, which contains the data that defines the vectors to be drawn on the globe.
@@ -64,4 +64,3 @@ Layer = VectorLayer:
   Alpha = double: .5
   Error Factor = double: 4
 ```
-

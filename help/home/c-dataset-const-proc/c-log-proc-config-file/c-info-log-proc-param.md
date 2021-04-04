@@ -4,8 +4,8 @@ solution: Analytics
 title: Log Processing Parameters
 topic: Data workbench
 uuid: 97b25665-f588-4f44-8f71-2382600d1b6f
+exl-id: f373e954-6827-4afa-9557-73e0a884a602
 ---
-
 # Log Processing Parameters{#log-processing-parameters}
 
 Links to additional information about specific parameters in the Log Processing.cfg file.
@@ -70,4 +70,3 @@ The recommended values for each parameter (without and with key splitting) are s
 >[!NOTE]
 >
 >[!DNL Group Maximum Key Bytes], [!DNL Split Key Bytes], [!DNL Split Key Space Ratio], and [!DNL Split Key Bucket Space] all must be declared for key splitting to work properly. Do not change the values of these parameters without consulting Adobe.
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: Adding a Profile Connection
 topic: Data workbench
 uuid: 0a168236-8c15-456b-9ac8-ca572baa916a
+exl-id: c8dd2286-df88-4b23-a7de-cd90bfe76289
 ---
-
 # Adding a Profile Connection{#adding-a-profile-connection}
 
 1. Click **[!UICONTROL Add Profile Connection]** to bring up the **[!UICONTROL New Profile Connection]** window.
@@ -24,4 +24,4 @@ uuid: 0a168236-8c15-456b-9ac8-ca572baa916a
 
 1. Once the form has been configured appropriately, click **[!UICONTROL Create Connection]** to add the profile connection to the system.
 
-   If the operation was successful, you will see a prompt indicating that the profile connection has been created. 
+   If the operation was successful, you will see a prompt indicating that the profile connection has been created.

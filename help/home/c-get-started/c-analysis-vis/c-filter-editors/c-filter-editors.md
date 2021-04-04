@@ -4,8 +4,8 @@ solution: Analytics
 title: Filter editors
 topic: Data workbench
 uuid: c4e99e44-1927-4131-92e9-111c76bdc3e2
+exl-id: 9009c760-8726-4234-b85b-727aeae761bd
 ---
-
 # Filter editors{#filter-editors}
 
 A filter editor is a special visualization for building and editing filters.
@@ -23,4 +23,3 @@ In addition, you can use the filter editor to open and edit any [!DNL .filter] f
 >[!NOTE]
 >
 >When you open the filter for the first time, the filter editor updates the filter’s definition to match the filter editor format.
-

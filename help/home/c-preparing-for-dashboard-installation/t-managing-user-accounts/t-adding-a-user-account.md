@@ -4,8 +4,8 @@ solution: Analytics
 title: Adding a User Account
 topic: Data workbench
 uuid: c322eeaa-a3f4-41e8-b38c-dd892ec29a87
+exl-id: c99f3189-4d89-443a-be5b-84352c4ec6e8
 ---
-
 # Adding a User Account{#adding-a-user-account}
 
 1. Click **[!UICONTROL Add User]** to bring up the **[!UICONTROL New User]** prompt.
@@ -26,4 +26,4 @@ uuid: c322eeaa-a3f4-41e8-b38c-dd892ec29a87
 1. **[!UICONTROL Assigned Groups]**: Choose from the default Administrators group and any other groups that have been created. No groups are required at this time and the user’s group membership can be modified at any time.
 1. Once the form has been configured appropriately, click **[!UICONTROL Add User]** to add the user to the system.
 
-   If the operation was successful, you will see a prompt indicating that the user was created. 
+   If the operation was successful, you will see a prompt indicating that the user was created.

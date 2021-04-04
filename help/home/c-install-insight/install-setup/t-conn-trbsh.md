@@ -2,8 +2,8 @@
 description: If Insight cannot connect to the Insight Server(s) using the specified settings, a red node appears in the Servers Manager.
 title: Connection Troubleshooting
 uuid: 17190cee-da5c-449f-aca5-8e9e35e0a5fd
+exl-id: 7938d4d6-e1ab-46d9-9ccb-cf79677c5688
 ---
-
 # Connection Troubleshooting{#connection-troubleshooting}
 
 If Insight cannot connect to the Insight Server(s) using the specified settings, a red node appears in the Servers Manager.
@@ -20,4 +20,4 @@ This might occur, for example, if you configure the connection incorrectly or yo
 
 You can view additional status information in the [!DNL insight.log] file. This log file is located in the [!DNL Trace] folder in the directory where you installed Insight. To view the file, open it in a text editor such as Notepad.
 
-If you need assistance understanding the information in the [!DNL insight.log] file, first contact your system administrator. If you require further assistance, contact Adobe Customer Care. 
+If you need assistance understanding the information in the [!DNL insight.log] file, first contact your system administrator. If you require further assistance, contact Adobe Customer Care.

@@ -2,8 +2,8 @@
 description: This section explains the Saint Scrubber script.
 title: Scripting for the SAINT Scrubber
 uuid: 2e5aa6f2-dadb-48a6-8443-69396530587c
+exl-id: 5f6d92b1-baaa-4d67-a1c2-ce7d51affb17
 ---
-
 # Scripting for the SAINT Scrubber{#scripting-for-the-saint-scrubber}
 
 This section explains the Saint Scrubber script.
@@ -51,4 +51,3 @@ Steps performed in the Perl script:
     * Move processed input files to processed sub folders so the script does not repeat the effort when run again on the same existing input folder 
     * Recognize date in workbench filenames; sort processing first by date then alpha—regardless of folder name. This will ensure that the sequence is correct no matter the workbench file type (ecom, non-ecom) or report suite ID (if you are processing multiple report suites into a single Insight dataset). 
     * Support email alerts `<discoiqbr>`
-

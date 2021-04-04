@@ -4,8 +4,8 @@ solution: Analytics
 title: Work with derived dimensions
 topic: Data workbench
 uuid: 3a955fdc-6666-40ab-aee0-bd23c260c009
+exl-id: 5b7e3a2a-ac61-4186-ad6c-234edf68af3e
 ---
-
 # Work with derived dimensions{#work-with-derived-dimensions}
 
 The new dimensions that you create using Data Workbench (referred to as derived dimensions) are client-side dimensions.
@@ -66,4 +66,3 @@ You also can save defined segments as a dimension. For steps, see [Reusing a Seg
 1. To save the file, right-click **[!UICONTROL (modified)]** at the top of the window and click **[!UICONTROL Save]**.
 
    If you would like all users of a profile to use the modified dimension, you must upload it to the profile using the [!DNL Profile Manager]. For more information, see [Publishing Files to Your Working Profile](../../../../home/c-get-started/c-admin-intrf/c-prof-mgr/t-pub-files-wkg-prof.md#task-a0106e010c834d16bd60eef4721b6af9).
-

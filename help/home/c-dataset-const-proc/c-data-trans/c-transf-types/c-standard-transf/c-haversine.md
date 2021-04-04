@@ -4,8 +4,8 @@ solution: Analytics
 title: Haversine
 topic: Data workbench
 uuid: 835fa9dd-db70-4498-a03e-59595bc041fe
+exl-id: e700c0a0-1a1a-4c56-bb4f-1deb1b39b059
 ---
-
 # Haversine{#haversine}
 
 In mathematics, the haversine formula is an equation that gives circle distances between two points on a sphere identified from their longitudes and latitudes.
@@ -32,4 +32,3 @@ As an example, if you code in a latitude and longitude of their store as Lat1, L
 >[!NOTE]
 >
 >If you want to identify distances for other locations, then each individual location must have its own set of lat and lon fields.
-

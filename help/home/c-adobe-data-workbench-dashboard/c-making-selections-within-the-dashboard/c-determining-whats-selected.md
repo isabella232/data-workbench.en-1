@@ -4,8 +4,8 @@ solution: Analytics
 title: Determining What's Selected
 topic: Data workbench
 uuid: fb8c6e4e-7345-431a-b9b4-0c08b8f6aabb
+exl-id: cc627c48-2fd6-4a1a-a4b7-c807af01a0b2
 ---
-
 # Determining What's Selected{#determining-what-s-selected}
 
 There are two ways to determine which selections have been made within a dashboard.
@@ -15,4 +15,3 @@ There are two ways to determine which selections have been made within a dashboa
   ![](assets/selection_identify.png)
 
 * Another feature to help identify the selections that have been made is visualization highlighting. Any visualization that has a selection will be outlined in orange. Also, placing the mouse cursor over a selection item will highlight its corresponding visualization in bright yellow, showing the user where the selection came from.
-

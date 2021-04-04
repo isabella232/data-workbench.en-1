@@ -4,8 +4,8 @@ solution: Analytics
 title: Creating a User Group
 topic: Data workbench
 uuid: 8a474480-81fa-4a86-9937-2fb82e949436
+exl-id: 8af9d635-ff07-486f-845a-44541d577fad
 ---
-
 # Creating a User Group{#creating-a-user-group}
 
 1. Click **[!UICONTROL Create Group]** to bring up the **[!UICONTROL New Group]** form.
@@ -43,4 +43,4 @@ uuid: 8a474480-81fa-4a86-9937-2fb82e949436
     
 1. Click **[!UICONTROL Create Group]** to create the user group.
 
-   If the operation was successful, you will see a message indicating that the user group was successfully created. 
+   If the operation was successful, you will see a message indicating that the user group was successfully created.

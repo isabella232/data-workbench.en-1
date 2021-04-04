@@ -3,8 +3,8 @@ description: Access levels describe which URIs on the machine a group of users i
 solution: Analytics
 title: Understanding Access Levels
 uuid: e9091ae1-9a34-4e00-a928-20d04119ee9e
+exl-id: 64e2dc39-1ca1-425b-bec7-acb10a8819c0
 ---
-
 # Understanding Access Levels{#understanding-access-levels}
 
 Access levels describe which URIs on the machine a group of users is permitted to read or modify.
@@ -112,4 +112,3 @@ When defining access control groups, you need to include all System Administrato
 1. Save the file by right-clicking **[!UICONTROL (modified)]** at the top of the window and then clicking **[!UICONTROL Save]**. 
 
 1. To save the locally made changes to the [!DNL Insight Server] machine, in the [!DNL Server Files Manager], right-click the check mark for [!DNL Access Control.cfg] in the [!DNL Temp] column, then click **[!UICONTROL Save to]** *< **[!UICONTROL server name]**>*.
-

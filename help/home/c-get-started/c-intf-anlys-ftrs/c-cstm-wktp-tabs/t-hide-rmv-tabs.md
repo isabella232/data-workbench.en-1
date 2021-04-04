@@ -4,8 +4,8 @@ solution: Analytics
 title: Hide or remove a tab
 topic: Data workbench
 uuid: 38af5ddc-798f-4969-aadd-d72b80b368f6
+exl-id: 0b5b1fc8-2ce4-4f99-b12f-023b161ceddc
 ---
-
 # Hide or remove a tab{#hide-or-remove-a-tab}
 
 Steps to hide, but not delete, a tab from the Worktop.

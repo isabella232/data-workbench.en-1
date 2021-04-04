@@ -4,8 +4,9 @@ solution: Analytics
 title: Data Workbench 6.0 to 6.1 Upgrade
 topic: Data workbench
 uuid: 4671c2bf-06ab-49c4-8dd1-24115facd83b
+exl-id: 559e1942-561c-4270-9670-550177730cdb
+exl-id: 2a337d2e-c70e-4f35-a6c2-c3a7f50a0800
 ---
-
 # Data Workbench 6.0 to 6.1 Upgrade{#data-workbench-to-upgrade}
 
 Follow these steps to update to data workbench v6.1 from your data workbench v6.0x installation.
@@ -202,4 +203,4 @@ IME allows you to input international characters.
 
 1. Launch the shortcut that you created to synchronize profiles and the updated [!DNL .zbin] file.
 
-The client installation is now complete. 
+The client installation is now complete.

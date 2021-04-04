@@ -4,8 +4,8 @@ solution: Analytics
 title: Servers Manager
 topic: Data workbench
 uuid: 96c8f060-ffd4-46b9-b039-b2ac024400b6
+exl-id: e8b22d9f-3f1b-4a97-942a-85786bd3c547
 ---
-
 # Servers Manager{#servers-manager}
 
 The primary tool used by system administrators is the Servers Manager.

@@ -4,8 +4,8 @@ solution: Analytics
 title: Defining Lookup Transformations
 topic: Data workbench
 uuid: 4f7358b1-9e6a-4d03-b0c6-411e454fc11e
+exl-id: 7b1504be-8669-4340-8400-e33f9663b602
 ---
-
 # Defining Lookup Transformations{#defining-lookup-transformations}
 
 Information about the transformations that you can use to incorporate lookup data into the dataset.
@@ -300,4 +300,3 @@ Suppose that you want to convert outdated DNS records to the updated records. Bo
 Our example transformation searches the log entries for the s-dns field, and, if located, the lookup table VISUAL.LOOKUP is used to compare the s-dns entry against the entries in the [!DNL OLDDNS] column of the table. If a row is located in the table, the output field s-dns is given the updated DNS record entry from the [!DNL NEWDNS] column of the identified row.
 
 ![](assets/cfg_TransformationType_ODBCLookup.png)
-

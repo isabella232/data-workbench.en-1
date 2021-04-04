@@ -4,8 +4,8 @@ solution: Analytics
 title: Specify projection information for terrain images
 topic: Data workbench
 uuid: cc1e1e35-6b23-4121-a9f5-489001cb2ef8
+exl-id: 2638c5d4-164d-411b-8464-0a3af81b6537
 ---
-
 # Specify projection information for terrain images{#specify-projection-information-for-terrain-images}
 
 Data workbench supports both latitude-longitude projections and Universal Transverse Mercator (UTM) projections for all terrain image layer sources.
@@ -132,4 +132,3 @@ To specify a UTM projection for any terrain image source, you must open the [!DN
   </tr> 
  </tbody> 
 </table>
-

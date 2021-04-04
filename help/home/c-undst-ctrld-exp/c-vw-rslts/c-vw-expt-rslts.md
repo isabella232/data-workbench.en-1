@@ -4,8 +4,8 @@ solution: Analytics,Analytics
 title: Viewing the Experiment Results
 topic: Data workbench
 uuid: c0468cad-fb8d-4ecf-8912-bf80b44b0a65
+exl-id: cada693c-79cb-4f49-a2f0-6ff60425be1c
 ---
-
 # Viewing the Experiment Results{#viewing-the-experiment-results}
 
 After you have added the new field to Log Processing.cfg and created the new Split transformation and extended dimension, you can view the new extended dimension that you created as soon as the Fast Input stage of data reprocessing has finished.
@@ -28,4 +28,4 @@ The New Homepage experiment is shown at the bottom of the table with its two gro
 
 ![](assets/controlledexpgrps.png)
 
-You now can use the experiment dimension and any relevant metrics to explore and interpret the experiment results, as well as create useful reports detailing those results. 
+You now can use the experiment dimension and any relevant metrics to explore and interpret the experiment results, as well as create useful reports detailing those results.

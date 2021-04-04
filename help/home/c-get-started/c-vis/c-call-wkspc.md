@@ -4,8 +4,8 @@ solution: Analytics
 title: Adding callouts to a workspace
 topic: Data workbench
 uuid: fb3dd74d-da20-40cb-bc96-e56d25003e48
+exl-id: fcdb9231-d44a-4287-b799-6a66f7f79432
 ---
-
 # Adding callouts to a workspace{#adding-callouts-to-a-workspace}
 
 Callouts are windows that you add to a workspace to bring attention to a particular dimension element by creating a new visualization with a virtual selection of that element.
@@ -74,4 +74,4 @@ For expression syntax rules, see [Query Language Syntax](../../../home/c-get-sta
 
 1. If desired, add metrics to or remove metrics from the metric legend.
 
-See [Metric Legends](../../../home/c-get-started/c-analysis-vis/c-legends/c-metric-leg.md#concept-e7195bc8f7844ae295bda3a88b028d5b). 
+See [Metric Legends](../../../home/c-get-started/c-analysis-vis/c-legends/c-metric-leg.md#concept-e7195bc8f7844ae295bda3a88b028d5b).

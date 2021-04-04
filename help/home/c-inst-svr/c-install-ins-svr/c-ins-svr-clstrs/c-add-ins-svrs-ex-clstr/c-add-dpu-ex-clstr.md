@@ -3,8 +3,8 @@ description: Typically, you want to add an Insight Server DPU to an existing clu
 solution: Analytics
 title: Adding an Insight Server DPU to an Existing Cluster
 uuid: 1977a90e-bd51-4838-9498-f7692891109f
+exl-id: 9cac2795-626b-4fe3-8a7c-f36c9f1dc68f
 ---
-
 # Adding an Insight Server DPU to an Existing Cluster{#adding-an-insight-server-dpu-to-an-existing-cluster}
 
 Typically, you want to add an Insight Server DPU to an existing cluster when the amount of data you want to process and make accessible to your users of Insight and Report exceeds the capacity of your cluster’s current configuration.
@@ -36,4 +36,4 @@ This task applies only to Windows 32 bit.
 
 ## Adding the New Insight Server DPU to the Dataset Profile’s Processing Servers {#section-cdc6c3913b9f4010b5e17cc7ec85e849}
 
-If the new DPU processes the same dataset as the other DPUs in the cluster, add the common name of the new DPU to the [!DNL profile.cfg] file on master [!DNL Insight Server] as described in [Specifying the Processing Servers in Profile.cfg](../../../../../home/c-inst-svr/c-install-ins-svr/c-ins-svr-clstrs/c-inst-ins-svr-clstr/c-inst-proc-clstr/c-config-prof-run-clstr.md#section-99664e072c21462f91fbafb6d893fcf9). 
+If the new DPU processes the same dataset as the other DPUs in the cluster, add the common name of the new DPU to the [!DNL profile.cfg] file on master [!DNL Insight Server] as described in [Specifying the Processing Servers in Profile.cfg](../../../../../home/c-inst-svr/c-install-ins-svr/c-ins-svr-clstrs/c-inst-ins-svr-clstr/c-inst-proc-clstr/c-config-prof-run-clstr.md#section-99664e072c21462f91fbafb6d893fcf9).

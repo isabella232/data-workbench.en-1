@@ -4,8 +4,8 @@ solution: Analytics
 title: String and Numeric Parameters
 topic: Data workbench
 uuid: 2840967e-dd9e-40b2-91e4-3fdfa38f88e7
+exl-id: 37d004da-cde7-4b67-b0cb-0acbb6d8ad68
 ---
-
 # String and Numeric Parameters{#string-and-numeric-parameters}
 
 String and numeric parameters take as their values strings and numbers, respectively.
@@ -17,4 +17,3 @@ You cannot reference string and numeric parameters in [!DNL Input] or [!DNL Outp
 This example shows a [!DNL Log Processing Dataset Include] file that defines a string parameter and a numeric parameter. Note that the string parameter, named "Value Lookups," defines a file location (Lookups\Values) relative to the data workbench server installation directory.
 
 ![](assets/cfg_Parameters_StringNumeric.png)
-

@@ -3,8 +3,8 @@ description: By default, Insight Server writes its dataset (temp.db) to the same
 solution: Analytics
 title: Configuring the Location of the Dataset (temp.db)
 uuid: a6884cad-70ed-4bc6-853c-700d301fb178
+exl-id: 6812883f-ad51-4314-8c80-e95c3fe84664
 ---
-
 # Configuring the Location of the Dataset (temp.db){#configuring-the-location-of-the-dataset-temp-db}
 
 By default, Insight Server writes its dataset (temp.db) to the same drive as the Insight Server program files.
@@ -44,4 +44,3 @@ If you want [!DNL Insight Server] to maintain the dataset on a different drive, 
    >[!NOTE]
    >
    >Note the use of the double backslashes in the file names above. In [!DNL Insight Server] configuration files, the backslash character is an escape character. It is used to express special control sequences (for example, \t for a tab character) in text. To represent an actual backslash character, you must type the backslash twice (for example, \\) to override the escape function. This applies only when editing configuration files in a text editor such as Notepad.
-

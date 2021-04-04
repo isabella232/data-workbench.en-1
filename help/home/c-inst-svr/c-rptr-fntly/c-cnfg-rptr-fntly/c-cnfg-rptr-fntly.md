@@ -3,8 +3,8 @@ description: Repeater functionality enables an Insight Server FSU to receive Sen
 solution: Analytics
 title: Configuring Repeater Functionality
 uuid: 45dca069-a91f-4fd4-bd47-c8c2e6aab834
+exl-id: 61b70772-07fb-4963-b09f-6b2cf97b01a1
 ---
-
 # Configuring Repeater Functionality{#configuring-repeater-functionality}
 
 Repeater functionality enables an Insight Server FSU to receive Sensor-acquired event data from one or more sources and replicate the data to one or more Insight Server FSUs running the Insight ServerReplication Service.
@@ -20,4 +20,4 @@ To install [!DNL Repeater], you must perform the steps listed for the following 
 * [Configuring an Insight Server FSU for Repeater](../../../../home/c-inst-svr/c-rptr-fntly/c-cnfg-rptr-fntly/t-cfg-fsu-rptr.md#task-1ad7fa5777b845f4bd398f97226e56b2)
 * [Configuring Access Control for Target Machines](../../../../home/c-inst-svr/c-rptr-fntly/c-cnfg-rptr-fntly/t-cfg-acc-ctrll-tgt-mach.md#task-0e49953728444839bc0a26234501a4c5)
 
-If network firewalls allow access to your [!DNL Repeater] from [!DNL Insight], you can create a connection as described in [Creating a Connection Between Insight and Repeater](../../../../home/c-inst-svr/c-rptr-fntly/c-cnfg-rptr-fntly/t-crt-conn-ins-rptr.md#task-785bfe5f0e31484683e4345038add118). 
+If network firewalls allow access to your [!DNL Repeater] from [!DNL Insight], you can create a connection as described in [Creating a Connection Between Insight and Repeater](../../../../home/c-inst-svr/c-rptr-fntly/c-cnfg-rptr-fntly/t-crt-conn-ins-rptr.md#task-785bfe5f0e31484683e4345038add118).

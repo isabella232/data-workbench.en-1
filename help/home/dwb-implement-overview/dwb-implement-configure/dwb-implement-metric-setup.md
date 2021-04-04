@@ -2,8 +2,8 @@
 description: This section explains how to create metrics in Data Workbench.
 title: Metrics Setup
 uuid: 57c1410b-c09c-4a59-b3a1-575323e1b8e3
+exl-id: a60c08d3-f708-43be-a14f-8b7f129f3ee5
 ---
-
 # Metrics Setup{#metrics-setup}
 
 This section explains how to create metrics in Data Workbench.
@@ -69,4 +69,4 @@ Please refer to the documentation for more assistance:
 
 [Syntax for Metric Expressions](https://docs.adobe.com/content/help/en/data-workbench/using/client/qry-lang-syntx/c-syntx-mtrc-exp.html)
 
-[Creating and Editing Derived Metrics](https://docs.adobe.com/content/help/en/data-workbench/using/client/admin-ui/profile-mgr/c-drvd-mtrcs.html) 
+[Creating and Editing Derived Metrics](https://docs.adobe.com/content/help/en/data-workbench/using/client/admin-ui/profile-mgr/c-drvd-mtrcs.html)

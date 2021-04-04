@@ -4,8 +4,8 @@ solution: Analytics
 title: Denormal Dimensions
 topic: Data workbench
 uuid: f172fbce-e967-41ce-9958-9062561ecbcc
+exl-id: 0c4fad38-bc7c-4b63-98ec-c9121e576a36
 ---
-
 # Denormal Dimensions{#denormal-dimensions}
 
 A denormal dimension has a one-to-one relationship with its parent countable dimension.
@@ -87,4 +87,3 @@ Denormal dimensions are defined by the following parameters:
 The denormal dimension shown in this example takes all of the data in the field x-trackingid as input and includes it in a dimension named Visitor ID. For a segment of visitors that you have created, you can export the data in the Visitor ID dimension (as well as any other defined dimension).
 
 ![](assets/cfg_Transformation_Dim_Denormal.png)
-

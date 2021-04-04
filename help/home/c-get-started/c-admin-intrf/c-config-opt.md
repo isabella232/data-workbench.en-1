@@ -4,8 +4,8 @@ solution: Analytics
 title: Configuration option
 topic: Data workbench
 uuid: 1edfcf03-b278-4d81-942c-c9024378e13c
+exl-id: bb694d3c-64f7-4a74-b774-4d5145250e6d
 ---
-
 # Configuration option{#configuration-option}
 
 The Configuration option opens your Insight.cfg file, which controls your connections to various servers.
@@ -30,4 +30,3 @@ The Configuration option opens your Insight.cfg file, which controls your connec
 Data Workbench attempts to connect to the server(s) using the settings that you have specified. If a connection is established, a green node appears in the [!DNL Servers Manager] as shown below. If Data Workbench cannot connect to the server, a red node appears.
 
 ![](assets/vis_SysStat_RedGreenDots.png)
-

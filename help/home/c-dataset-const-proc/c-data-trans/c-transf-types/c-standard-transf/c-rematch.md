@@ -4,8 +4,8 @@ solution: Analytics
 title: REMatch
 topic: Data workbench
 uuid: 8ef80bfa-aea2-45a1-a7d9-38ad33043886
+exl-id: 571e6f1c-f557-49c3-9e7c-c31f06132ec7
 ---
-
 # REMatch{#rematch}
 
 The REMatch transformation is a pattern-matching transformation that uses regular expressions to specify one or more patterns to look for and capture in the input.
@@ -72,4 +72,3 @@ The REMatch transformation is a pattern-matching transformation that uses regula
 In this example, a [!DNL REMatch] transformation parses a date of the format YYYY-MM-DD into the fields x-year, x-month, and x-day. For the date 2007-01-02, the values of x-year, x-month, and x-day would be 2007, 01, and 02, respectively.
 
 ![](assets/cfg_TransformationType_REMatch.png)
-

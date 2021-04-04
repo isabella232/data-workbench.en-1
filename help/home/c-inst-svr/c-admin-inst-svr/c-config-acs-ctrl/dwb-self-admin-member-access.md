@@ -2,8 +2,8 @@
 description: Administrators can give workstation users the partial ability to manage access control for custom groups.
 title: User Administration of Group Member Access
 uuid: c31128f9-1094-4337-9bf6-96401278df33
+exl-id: 6d2a0f19-a33c-49f6-a470-c95d2c1532c7
 ---
-
 # User Administration of Group Member Access{#user-administration-of-group-member-access}
 
 Administrators can give workstation users the partial ability to manage access control for custom groups.
@@ -124,4 +124,4 @@ $(Group Name)
 
 Where "Group Name" matches what's defined in the user list file, including white spaces. ![](assets/6_4_workstation_groups_2.png)
 
-At this point the Data Workbench administrator can confirm that select group users have access to the user list file. The select users can then open the **[!DNL User List.cfg]** file, edit it, and add and remove CN or OU members as needed. 
+At this point the Data Workbench administrator can confirm that select group users have access to the user list file. The select users can then open the **[!DNL User List.cfg]** file, edit it, and add and remove CN or OU members as needed.

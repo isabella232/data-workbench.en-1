@@ -4,8 +4,8 @@ solution: Analytics
 title: Web-Specific Settings for Log Processing
 topic: Data workbench
 uuid: dea861a6-3f78-4cb9-8108-ecf397b37667
+exl-id: abb6e6a7-011f-40d6-b778-16da2332af72
 ---
-
 # Web-Specific Settings for Log Processing{#web-specific-settings-for-log-processing}
 
 Information about web-specific settings that are defined in Log Processing Dataset Include files that are delivered with Adobe profiles for Site.
@@ -78,4 +78,3 @@ You can configure your implementation of [!DNL Site] to use lookup files to remo
    >[!NOTE]
    >
    >If it is critical that the underlying log entries used to construct a dataset do not change (even if the transformations used to construct and update the dataset and its dimensions change), the Robot Lookup File, Baseline, and the Robot Lookup File, Extended, should be version controlled. Placing a version number on these files ensures that updates to the default robot lookup files do not unintentionally change previously constructed reporting datasets by adding or deleting entries in these files.
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: ExtractValue
 topic: Data workbench
 uuid: 305827a2-04e6-421f-82cb-923d62b02e70
+exl-id: 5bafe64f-081a-49ec-997e-68e8f6915a71
 ---
-
 # ExtractValue{#extractvalue}
 
 If you are working with web data, you can use the ExtractValue transformation to extract a value from a query string, cookie, or similarly encoded field in your website data.
@@ -59,4 +59,3 @@ If you want to extract a search phrase, you can extract the entire phrase and, i
 This example configures an [!DNL ExtractValue] transformation to extract values of the x-v-search-querynames field from cs(referrer-query) and store them in the x-search-phrase field.
 
 ![](assets/cfg_TransformationType_ExtractValue.png)
-

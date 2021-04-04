@@ -4,8 +4,8 @@ solution: Analytics
 title: Map the Report Portal Pages to Virtual Directories
 topic: Data workbench
 uuid: 75ca85d5-d526-48f9-b2c4-ca77c903c6af
+exl-id: 13e457d4-7039-491a-a65d-f23ad7e9fe77
 ---
-
 # Map the Report Portal Pages to Virtual Directories{#map-the-report-portal-pages-to-virtual-directories}
 
 To configure Report Portal, you must map its application files to virtual directories.
@@ -23,4 +23,3 @@ Follow the set of procedures for the version of IIS that you are using:
 * [Mapping Report Portal to a Virtual Directory (IIS 7.0)](../../../../home/c-rpt-oview/c-install-rpt-port/c-virtual-dir/c-map-rpt-port-vdir-7.md#concept-9fc9595bb83147238965be4832df0a08) 
 * [Mapping Report Portal to a Virtual Directory (IIS 5.0)](../../../../home/c-rpt-oview/c-install-rpt-port/c-virtual-dir/c-map-rpt-port-vdir-5.md#concept-402cb33c50d640e480098517140ffc74) 
 * \ [Edit the Session Configuration File](../../../../home/c-rpt-oview/c-install-rpt-port/t-edit-sess-config-file.md#task-cf11c3a780bd4936afd3f64a6b30afc7)
-

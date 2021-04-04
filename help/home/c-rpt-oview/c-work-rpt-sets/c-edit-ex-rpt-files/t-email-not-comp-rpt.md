@@ -4,8 +4,8 @@ solution: Analytics
 title: Email Notification of Completed Report
 topic: Data workbench
 uuid: 567e0423-a17a-407c-87ea-735c1c8aef96
+exl-id: 1d79fac9-667d-4139-8629-69c8795377b1
 ---
-
 # Email Notification of Completed Report{#email-notification-of-completed-report}
 
 You can configure data workbench to send an email when a report is generated.

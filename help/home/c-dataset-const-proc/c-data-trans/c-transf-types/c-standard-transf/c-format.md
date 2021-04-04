@@ -4,8 +4,8 @@ solution: Analytics
 title: Format
 topic: Data workbench
 uuid: c596902e-21bc-4ce6-9ca4-7ca86dfc0a6c
+exl-id: 842b502e-cd16-45b3-ada8-6f2d899f1d54
 ---
-
 # Format{#format}
 
 The Format transformation takes a set of inputs and formats them to create an output matching the given structure.
@@ -58,4 +58,4 @@ In this example, two vectors, one a vector of strings representing product categ
 
 ![](assets/cfg_TransformationType_Format.png)
 
-If the input vectors contained product categories of (683, 918) and quantities of (10, 4), the result would be one final output vector containing the following two strings: ("Product 683, Quantity 10", "Product 918, Quantity 4"). 
+If the input vectors contained product categories of (683, 918) and quantities of (10, 4), the result would be one final output vector containing the following two strings: ("Product 683, Quantity 10", "Product 918, Quantity 4").

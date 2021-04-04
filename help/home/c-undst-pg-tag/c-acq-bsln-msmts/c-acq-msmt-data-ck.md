@@ -4,8 +4,8 @@ solution: Analytics
 title: Acquiring Measurement Data Through Cookies
 topic: Data workbench
 uuid: 34cd6baf-6317-4774-8165-58208698b53c
+exl-id: 37c7b5f6-33bf-4373-963a-e08a826e05df
 ---
-
 # Acquiring Measurement Data Through Cookies{#acquiring-measurement-data-through-cookies}
 
 As a part of the Baseline Measurement data collected, Sensor collects the domain cookies sent from a visitor’s machine when making a request from your web server.
@@ -98,4 +98,4 @@ document.testform.submit();
 </script>
 ```
 
-In this example, a session cookie is set on the visitor’s machine with the name and value of every form field that exists within the form. This includes input fields, check boxes, radio buttons, select boxes, and text areas. As you may notice in this example, because the number of form fields is unknown, it is necessary to capture all form name and field values as a single string, delimited by an ampersand. This step must be taken because of a limit on the number of cookies a user may have on his or her computer at one point in time. Microsoft Internet Explorer allows only twenty (20) session cookies to be present before it begins dropping the oldest. 
+In this example, a session cookie is set on the visitor’s machine with the name and value of every form field that exists within the form. This includes input fields, check boxes, radio buttons, select boxes, and text areas. As you may notice in this example, because the number of form fields is unknown, it is necessary to capture all form name and field values as a single string, delimited by an ampersand. This step must be taken because of a limit on the number of cookies a user may have on his or her computer at one point in time. Microsoft Internet Explorer allows only twenty (20) session cookies to be present before it begins dropping the oldest.

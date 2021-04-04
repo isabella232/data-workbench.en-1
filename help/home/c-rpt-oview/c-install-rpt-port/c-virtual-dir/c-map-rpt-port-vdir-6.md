@@ -4,8 +4,8 @@ solution: Analytics
 title: Mapping Report Portal to a Virtual Directory (IIS 6.0)
 topic: Data workbench
 uuid: e09d23d7-09de-4180-8260-60527f47aa98
+exl-id: 39335705-7391-49af-a63d-c0fe4ca3f8f0
 ---
-
 # Mapping Report Portal to a Virtual Directory (IIS 6.0){#mapping-report-portal-to-a-virtual-directory-iis}
 
 Steps to map the Report Portal to a virtual directory (IIS 6.0).
@@ -92,4 +92,3 @@ To use [!DNL Report Portal], ASPs must be enabled on IIS. (By default, ASPs are 
 
 1. If their Status is Prohibited, select **[!UICONTROL Active Server Pages]** and click **[!UICONTROL Allow]**. 
 1. Close IIS Manager.
-

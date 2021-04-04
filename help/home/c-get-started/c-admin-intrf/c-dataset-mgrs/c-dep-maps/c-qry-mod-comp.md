@@ -4,8 +4,8 @@ solution: Analytics
 title: Query model components
 topic: Data workbench
 uuid: 708fab0b-dc10-4306-b410-49268069ac3b
+exl-id: 1f5d0a3a-6647-4762-ab20-9d80e467d48f
 ---
-
 # Query model components{#query-model-components}
 
 Conceptual information about query model components.
@@ -23,4 +23,3 @@ The following figure shows a dependency map whose nodes represent a query model�
 >[!NOTE]
 >
 >Because the dependency map is designed to accommodate acyclic dependencies, nodes involved in circular dependencies may not display properly on the map. You can search for circular dependencies by typing “circular dependency” in the [!DNL Search] text box. For more information about the [!DNL Search] feature, see [Searching Within a Map](../../../../../home/c-get-started/c-admin-intrf/c-dataset-mgrs/c-dep-maps/t-srch-map.md#task-a1e7065a538d46c78a7d28676d880dfb).
-

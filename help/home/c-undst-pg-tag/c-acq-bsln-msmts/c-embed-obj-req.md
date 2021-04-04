@@ -4,8 +4,8 @@ solution: Analytics
 title: Acquiring Embedded Object Requests (Page Tags)
 topic: Data workbench
 uuid: 7fe561d1-aa5a-4ac9-82ba-aa27c7d208dd
+exl-id: 593e49bc-9619-4e85-8ce3-2e9d23d175c9
 ---
-
 # Acquiring Embedded Object Requests (Page Tags){#acquiring-embedded-object-requests-page-tags}
 
 After the HTML of a page is requested by a browser, the browser requests the embedded objects referenced in the HTML of that page from a web server to fill in the page shown by the browser.
@@ -96,4 +96,3 @@ By using the override feature provided in the content-type filtering capabilitie
   </tr> 
  </tbody> 
 </table>
-

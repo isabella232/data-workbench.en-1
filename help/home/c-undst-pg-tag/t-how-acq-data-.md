@@ -4,8 +4,8 @@ solution: Analytics
 title: How Do I Acquire this Data_
 topic: Data workbench
 uuid: c0d8b01e-a135-4ef7-8159-811766929f62
+exl-id: 1c886f60-eae9-48c2-b641-396c622035d4
 ---
-
 # How Do I Acquire this Data_{#how-do-i-acquire-this-data}
 
 You must install and run Sensor on each web server that serves the content for your site to collect all of the requests that are seen by those servers.
@@ -16,5 +16,4 @@ You must install and run Sensor on each web server that serves the content for y
 1. [!DNL Sensor] is installed on two web servers, also referred to as data collection servers in this guide, at your location that are dedicated to collecting page tag request data from tagged pages. All content on your site is tagged and all page tags are directed to the two data collection servers.
 1. [!DNL Sensor’s] data collection services are provided by an outsourcer that runs data collection servers to collect all of your web request data. In this case, all content on your site is tagged and the page tags send their data to the outsourced data collection servers.
 
-   For more information about [!DNL Sensor], see the *Data Workbench [!DNL Sensor] Guide*. 
-
+   For more information about [!DNL Sensor], see the *Data Workbench [!DNL Sensor] Guide*.

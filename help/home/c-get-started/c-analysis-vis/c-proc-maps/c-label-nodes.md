@@ -4,8 +4,8 @@ solution: Analytics
 title: Label a node
 topic: Data workbench
 uuid: ded00cc8-2958-4aca-9d45-92afc441e9e2
+exl-id: e234aa1b-2f5d-42ec-bad7-2ada0db38702
 ---
-
 # Label a node{#label-a-node}
 
 Information about displaying, hiding, and changing a node's label.
@@ -28,4 +28,3 @@ Information about displaying, hiding, and changing a node's label.
 1. Click the node label to enter edit mode and change the label of the node as desired.
 
 ![](assets/mnu_2DProcessMap_label.png)
-

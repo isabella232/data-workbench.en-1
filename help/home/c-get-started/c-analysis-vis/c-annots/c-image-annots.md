@@ -4,8 +4,8 @@ solution: Analytics
 title: Image annotations
 topic: Data workbench
 uuid: 62a655f6-120b-4cf4-adaa-aa04f721a7dc
+exl-id: 905d3e9e-0d24-456e-af45-c29f12ed986d
 ---
-
 # Image annotations{#image-annotations}
 
 Using an image annotation, you can copy an image from any source and paste it directly into a workspace.
@@ -46,4 +46,3 @@ Using an image annotation, you can copy an image from any source and paste it di
 The [!DNL Fit to Window] option, when selected, lets the annotation automatically expand or shrink to fit the image size. The [!DNL Fit to Window] option is enabled by default.
 
 * Right-click within the annotation click **[!UICONTROL Fit to Window]**. When enabled, an X appears to the left of [!DNL Fit to Window].
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: Customize a menu using order.txt files
 topic: Data workbench
 uuid: 4346114a-05d0-4d15-9633-09c9d869cdd6
+exl-id: 3803a56f-19b7-4792-a277-97f76c11ec0e
 ---
-
 # Customize a menu using order.txt files{#customize-a-menu-using-order-txt-files}
 
 You can customize the appearance of any menu by editing the order.txt file associated with that menu.

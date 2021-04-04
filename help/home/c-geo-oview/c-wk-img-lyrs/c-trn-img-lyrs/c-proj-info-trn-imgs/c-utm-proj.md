@@ -4,8 +4,8 @@ solution: Analytics
 title: Universal Transverse Mercator Projections
 topic: Data workbench
 uuid: 55421412-5c68-4a4f-88d6-650d5999a77c
+exl-id: 7d7610c3-14e7-474e-b792-ad413c86a2ef
 ---
-
 # Universal Transverse Mercator Projections{#universal-transverse-mercator-projections}
 
 The Universal Transverse Mercator (UTM) projection is defined by eight parameters.
@@ -44,4 +44,3 @@ To specify a UTM projection for any terrain image source, you must open the [!DN
 |  Northwest Corner Coordinates, Southeast Corner Coordinates  | The coordinates (in projected meters) of the top left and bottom right corners of the image.  |
 |  Prime Meridian  | The longitude of the central meridian of the projection, specified in degrees east of Greenwich. Negative numbers may be used to specify degrees west.  |
 |  Scale Factor  | The ratio of the radius of the projection cylinder to the semimajor axis of the ellipsoid. For Universal Transverse Mercator (UTM) projections, this is always 0.9996.  |
-

@@ -2,8 +2,8 @@
 description: Best Fit Attribution is a machine-learning approach to assigning attribution values across the different channels of a successful conversion event. Data Workbench automatically evaluates contributions to success across a window of time per channel, and then builds an attribution model based on your customers' actual interaction patterns.
 title: Best Fit Attribution
 uuid: 0c51beb3-8f74-4f8e-9722-0c885140c8ce
+exl-id: 225a54d0-370c-4274-8a87-dc287bbb8201
 ---
-
 # Best Fit Attribution{#best-fit-attribution}
 
 Best Fit Attribution is a machine-learning approach to assigning attribution values across the different channels of a successful conversion event. Data Workbench automatically evaluates contributions to success across a window of time per channel, and then builds an attribution model based on your customers' actual interaction patterns.
@@ -107,4 +107,4 @@ Then, instead of entering a Touch Metric and Dimension Elements for the Channels
 
 ![](assets/attrib_results_2.png)
 
-See the example of the second method below. You can see that the results of both options are identical. 
+See the example of the second method below. You can see that the results of both options are identical.

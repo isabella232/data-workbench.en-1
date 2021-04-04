@@ -4,8 +4,8 @@ solution: Analytics
 title: Types of process maps
 topic: Data workbench
 uuid: 19473b77-13c1-4829-b018-d3316e434ba4
+exl-id: 8bac7036-c7fe-4566-8e59-08e1ddc7ddb7
 ---
-
 # Types of process maps{#types-of-process-maps}
 
 Information about the different types of process maps.
@@ -64,4 +64,4 @@ The 3D process map in the following example shows nodes corresponding to the pag
 
 ![](assets/vis_3DProcessMap_PageNodes.png)
 
-In the example, the height of each bar and the thickness and intensity of each connector are proportional to the Sessions metric, a count of sessions in which the pages were viewed. Therefore, a page with tall bar, such as /faq/all/FAQs, was viewed during more sessions than a page with a short bar, such as /vs/demo. Note that the connections between two pages do not indicate that one page was viewed immediately before or after another during a given session. Other pages might have been viewed during the same session, but these pages are not shown on this map. 
+In the example, the height of each bar and the thickness and intensity of each connector are proportional to the Sessions metric, a count of sessions in which the pages were viewed. Therefore, a page with tall bar, such as /faq/all/FAQs, was viewed during more sessions than a page with a short bar, such as /vs/demo. Note that the connections between two pages do not indicate that one page was viewed immediately before or after another during a given session. Other pages might have been viewed during the same session, but these pages are not shown on this map.

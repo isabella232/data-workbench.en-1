@@ -4,8 +4,8 @@ solution: Analytics
 title: Add, change, and move a dimension
 topic: Data workbench
 uuid: d8e67374-3b2b-4548-9322-e83c52941331
+exl-id: d2249f39-f4ab-4ec6-a2fb-90f8ecb2e3d1
 ---
-
 # Add, change, and move a dimension{#add-change-and-move-a-dimension}
 
 You can add multiple dimensions to a table to attain a more detailed cross-tabulation of the data.
@@ -32,4 +32,3 @@ You can move a dimension to a different position on the same axis or to the oppo
 
     * To move a dimension to the opposing axis, click to top axis or to left axis. 
     * To swap locations with another dimension on the same axis, click **[!UICONTROL (move here)]**.
-

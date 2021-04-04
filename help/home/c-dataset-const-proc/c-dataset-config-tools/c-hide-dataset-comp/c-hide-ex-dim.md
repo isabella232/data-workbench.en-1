@@ -4,8 +4,8 @@ solution: Analytics
 title: Hiding Extended Dimensions
 topic: Data workbench
 uuid: c32f47ad-0246-4611-b54c-0c9f0eb396bd
+exl-id: 5baccf39-6f3b-40a1-b1c0-a8e5d6a61211
 ---
-
 # Hiding Extended Dimensions{#hiding-extended-dimensions}
 
 You can use either the Hidden parameter or the Show parameter to hide extended dimensions so they do not show on the dimension menu in data workbench.
@@ -47,4 +47,4 @@ The Show parameter is not one of the parameters available for defining extended 
 
 When you use the Show parameter to hide an extended dimension, you do not have to retransform your dataset to make the change take effect. You can choose to hide or show the dimension in your local version of the profile (that is, you can save the [!DNL .dim] file to your User folder), or you can save the [!DNL .dim] file to the server for use by other users of the profile.
 
-You also can use the Show parameter to hide metrics and filters. For information, see the Configuring Interface and Analysis Features chapter in the *Data Workbench User Guide*. 
+You also can use the Show parameter to hide metrics and filters. For information, see the Configuring Interface and Analysis Features chapter in the *Data Workbench User Guide*.

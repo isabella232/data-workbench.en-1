@@ -4,8 +4,8 @@ solution: Analytics
 title: Dimension Types
 topic: Data workbench
 uuid: 07659373-8d9b-473d-8daa-ca8e7ac4afe8
+exl-id: cbc25504-2c1c-4622-adc1-c9bbac8e12fb
 ---
-
 # Dimension Types{#dimension-types}
 
 Several types of dimensions are available in the data workbench server. As such, it is important to know the dimension type when using a dimension to create metrics, filters, or derived dimensions.
@@ -50,4 +50,3 @@ Insight Server can create and maintain the following types of dimensions:
   </tr> 
  </tbody> 
 </table>
-

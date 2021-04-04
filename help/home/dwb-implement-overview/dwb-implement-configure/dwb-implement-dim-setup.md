@@ -2,8 +2,8 @@
 description: This section explains the different types of Dimensions and how to set them up in DWB.
 title: Dimension Setup
 uuid: 5b40cb43-7790-4b87-a0bb-be395a420157
+exl-id: 04afd773-e938-49f7-83c9-1d706a6dc525
 ---
-
 # Dimension Setup{#dimension-setup}
 
 This section explains the different types of Dimensions and how to set them up in DWB.
@@ -97,4 +97,4 @@ Steps to define Extended Dimension:
 
 ## Hiding Extended Dimensions {#section-02339fb51658418eabc10186cd5957d7}
 
-Extended Dimensions can be hidden so they do not show up on the Dimension Menu in the DWB. To hide the dimension, set the Hidden property to "True" in the dimension definition. 
+Extended Dimensions can be hidden so they do not show up on the Dimension Menu in the DWB. To hide the dimension, set the Hidden property to "True" in the dimension definition.

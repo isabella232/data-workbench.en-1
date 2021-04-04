@@ -4,8 +4,8 @@ solution: Analytics
 title: About Transformation Functionality
 topic: Data workbench
 uuid: f797f283-025b-4fb5-a110-84a9483dccaa
+exl-id: db5d6329-407d-43f3-92fc-1b40f7289916
 ---
-
 # About Transformation Functionality{#about-transformation-functionality}
 
 Transform functionality (Transform) runs on a data workbench server machine to enable the export of log source data for use by other applications.
@@ -18,4 +18,4 @@ Transform functionality (Transform) runs on a data workbench server machine to e
 
 You can view memory usage information for [!DNL Transform] in the Detailed Status interface. For more information, see the Administrative Interfaces chapter of the *Data Workbench User Guide*.
 
-The segment export feature provides another means of exporting data from an Adobe application. [!DNL Transform] enables you to export unprocessed data to an external target, but the segment export feature enables you to output processed data from the dataset and requires that the exported data be defined as a dimension in the dataset. For more information about segment export, see the *Data Workbench User Guide*. 
+The segment export feature provides another means of exporting data from an Adobe application. [!DNL Transform] enables you to export unprocessed data to an external target, but the segment export feature enables you to output processed data from the dataset and requires that the exported data be defined as a dimension in the dataset. For more information about segment export, see the *Data Workbench User Guide*.

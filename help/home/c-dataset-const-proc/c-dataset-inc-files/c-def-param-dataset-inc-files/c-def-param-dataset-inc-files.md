@@ -4,8 +4,8 @@ solution: Analytics
 title: Defining Parameters in Dataset Include Files
 topic: Data workbench
 uuid: 1eb7d48c-a107-4b32-abca-55d30586813f
+exl-id: 80bb77e1-a157-4e16-9519-6d0e2ce17fe1
 ---
-
 # Defining Parameters in Dataset Include Files{#defining-parameters-in-dataset-include-files}
 
 When configuring your dataset, you can define variables, referred as parameters, to represent meaningful values.
@@ -45,4 +45,3 @@ The following sections describe the types of parameters that you can define.
 
 * [String and Numeric Parameters](../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-def-param-dataset-inc-files/c-string-num-param.md#concept-14f391ce107c4a3dad827ec7967f1080) 
 * [Vector Parameters](../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-def-param-dataset-inc-files/c-vector-param.md#concept-adb42a5474e245a9996d0aa8d5d522d0)
-

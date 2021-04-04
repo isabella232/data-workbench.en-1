@@ -4,8 +4,8 @@ solution: Analytics
 title: Editing Existing Dataset Include Files
 topic: Data workbench
 uuid: fcce2e46-b4a8-4c53-83bb-32ab410eb89e
+exl-id: f4095871-d004-4e10-af18-bf6c1e47493d
 ---
-
 # Editing Existing Dataset Include Files{#editing-existing-dataset-include-files}
 
 Steps to editing existing dataset include files.
@@ -35,4 +35,3 @@ For information about opening and working with the [!DNL Profile Manager], see t
    >[!NOTE]
    >
    >Do not save the modified configuration file to any of the internal profiles provided by Adobe, as your changes are overwritten when you install updates to these profiles.
-

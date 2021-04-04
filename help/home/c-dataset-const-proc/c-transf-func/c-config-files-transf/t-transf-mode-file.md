@@ -4,8 +4,8 @@ solution: Analytics
 title: The Transform Mode.cfg File
 topic: Data workbench
 uuid: 6e875d02-341a-414c-90e5-aa7fa910ab81
+exl-id: 4faca063-3ca9-4c7c-9f04-ba2dfb647a77
 ---
-
 # The Transform Mode.cfg File{#the-transform-mode-cfg-file}
 
 The configuration file Transform Mode.cfg enables you to pause processing of data into a dataset, specify offline sources, or specify the frequency at which the data workbench server running transformation functionality saves its state files.
@@ -51,4 +51,4 @@ Making changes to the [!DNL Transform Mode.cfg] file, including adding or removi
 1. Right-click **[!UICONTROL (modified)]** at the top of the window and click **[!UICONTROL Save]**.
 1. To make the locally made changes take effect, in the [!DNL Profile Manager], right-click the check mark for the data workbench [!DNL Transform Mode.cfg] in the [!DNL User] column, then click **[!UICONTROL Save to]** > **[!UICONTROL profile name]**, where profile name is the name of the profile for which you are exporting data. Reprocessing of the data begins after synchronization of the profile.
 
-   For information about reprocessing your data for export, see [Reprocessing and Retransformation](../../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md). 
+   For information about reprocessing your data for export, see [Reprocessing and Retransformation](../../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md).

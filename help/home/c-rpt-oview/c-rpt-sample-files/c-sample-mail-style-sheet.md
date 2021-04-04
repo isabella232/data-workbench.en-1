@@ -4,8 +4,8 @@ solution: Analytics
 title: Sample Mail XSL Style Sheet
 topic: Data workbench
 uuid: 846ddf22-e6da-4d37-ba50-d75f850b9a3f
+exl-id: 4b868da4-1a3b-454c-940c-8ffd9644c92a
 ---
-
 # Sample Mail XSL Style Sheet{#sample-mail-xsl-style-sheet}
 
 Code sample of Mail XSL style sheet.
@@ -26,4 +26,3 @@ Code sample of Mail XSL style sheet.
 </xsl:stylesheet>
 
 ```
-

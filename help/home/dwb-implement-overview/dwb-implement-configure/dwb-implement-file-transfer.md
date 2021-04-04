@@ -2,8 +2,8 @@
 description: A quick guide for different file transfer methods in DWB.
 title: File Transfer Governance
 uuid: a3e19f8a-1cc4-437c-9661-408f675109c0
+exl-id: a0ecd8e1-6d6f-4811-9869-092837dc9e55
 ---
-
 # File Transfer Governance{#file-transfer-governance}
 
 A quick guide for different file transfer methods in DWB.
@@ -231,4 +231,3 @@ File Tranfer Governance is a standard process to transfer files from an internal
        login to server -> go to Run -> \\server_name\E$ [new folder will open and directly copy or move the files] 
     
     1. Use "copy_files.pl" script to copy files from one server to other or "move_files.pl" to move files from one server to other. (These files are available in E:\scripts\Scripository)
-

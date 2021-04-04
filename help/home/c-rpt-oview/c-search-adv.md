@@ -4,8 +4,8 @@ solution: Analytics
 title: Advanced Search in the Report Portal
 topic: Data workbench
 uuid: 3b5262fb-ea42-449f-8ef9-897806a310a8
+exl-id: 891d51ad-8477-4a1a-9fe5-97e1210f11d5
 ---
-
 # Advanced Search in the Report Portal{#advanced-search-in-the-report-portal}
 
 The Report Portal provides a search feature to find reports based on a tree view of folders, tree view of report dates, and an ad hoc search.
@@ -54,4 +54,3 @@ The Report Portal provides a search feature to find reports based on a tree view
   </tr> 
  </tbody> 
 </table>
-

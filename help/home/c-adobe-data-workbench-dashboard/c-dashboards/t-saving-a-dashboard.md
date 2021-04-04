@@ -4,8 +4,8 @@ solution: Analytics
 title: Saving a Dashboard
 topic: Data workbench
 uuid: 50dd713a-f7ce-4b53-8ba6-398643d2eef2
+exl-id: 4affc287-470b-47c6-af55-c0b6919321b0
 ---
-
 # Saving a Dashboard{#saving-a-dashboard}
 
 1. To save a new dashboard, select either **[!UICONTROL Save]** or **[!UICONTROL Save As…]** from the Dashboard Menu at the top of the dashboard interface. For a new dashboard, both options have the same result.

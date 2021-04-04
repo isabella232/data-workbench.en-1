@@ -4,8 +4,8 @@ solution: Analytics
 title: Registering Report Server as a Windows Service
 topic: Data workbench
 uuid: 01fc0bbf-9f4a-487e-b1cb-16bf6974a541
+exl-id: 46ea5dd4-7041-451e-91e5-f927873fc7d7
 ---
-
 # Registering Report Server as a Windows Service{#registering-report-server-as-a-windows-service}
 
 Steps to register and run Report Server.
@@ -49,4 +49,4 @@ When you start [!DNL Report Server] for the first time, it automatically connect
        >
        >After the [!DNL Report Server] service starts, the file [!DNL ReportServer.log] is created in the Report Server [!DNL Trace] directory. This file is also useful for troubleshooting issues with [!DNL Report Server].
 
-You have completed the installation of [!DNL Report Server]. [!DNL Report Server] is designed to run continuously. If you restart the machine, [!DNL Report Server] restarts automatically. If you need to start and stop [!DNL Report Server] manually, you can do so using the [!DNL Services] control panel in Windows. 
+You have completed the installation of [!DNL Report Server]. [!DNL Report Server] is designed to run continuously. If you restart the machine, [!DNL Report Server] restarts automatically. If you need to start and stop [!DNL Report Server] manually, you can do so using the [!DNL Services] control panel in Windows.

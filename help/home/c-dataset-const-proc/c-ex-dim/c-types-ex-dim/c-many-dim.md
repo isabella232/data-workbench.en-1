@@ -4,8 +4,8 @@ solution: Analytics
 title: Many-to-Many Dimensions
 topic: Data workbench
 uuid: 42c909e8-1228-4210-9406-ffc0d92372fa
+exl-id: 02d1a21c-a5b4-4b58-8089-9b9c68a7b1d1
 ---
-
 # Many-to-Many Dimensions{#many-to-many-dimensions}
 
 A many-to-many dimension has a many-to-many relationship with its parent countable dimension.
@@ -60,4 +60,4 @@ This example illustrates the definition of a many-to-many dimension using event 
 
 ![](assets/cfg_Transformation_Dim_ManytoMany.png)
 
-By creating such a transformation, you can create a visualization in data workbench that depicts the relationship between the selected product dimension and the number of sessions that involve each of the products. 
+By creating such a transformation, you can create a visualization in data workbench that depicts the relationship between the selected product dimension and the number of sessions that involve each of the products.

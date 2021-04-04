@@ -3,8 +3,8 @@ description: Event data must be backed up daily using your company’s normal ba
 solution: Analytics
 title: Backing Up Event Data
 uuid: 1b9e5dfe-0bf2-4ee9-bf70-1dd320a678d6
+exl-id: 5afeb3a2-a2e7-4155-8fb9-1abc9c22c3c6
 ---
-
 # Backing Up Event Data{#backing-up-event-data}
 
 Event data must be backed up daily using your company’s normal backup systems and disaster recovery procedures.
@@ -17,4 +17,4 @@ Event data must be backed up daily using your company’s normal backup systems 
 
 **Recommended Frequency:** Daily
 
-Integration, operating system, output, and system data must be backed up regularly and diligently using your company’s normal backup and disaster recovery systems. 
+Integration, operating system, output, and system data must be backed up regularly and diligently using your company’s normal backup and disaster recovery systems.

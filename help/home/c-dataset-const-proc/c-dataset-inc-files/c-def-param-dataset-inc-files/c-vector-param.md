@@ -4,8 +4,8 @@ solution: Analytics
 title: Vector Parameters
 topic: Data workbench
 uuid: 2ca83502-acc4-4b94-b0e4-a48a596e7623
+exl-id: c6140bdf-dcd9-4fa9-a6e0-34cbc45414d0
 ---
-
 # Vector Parameters{#vector-parameters}
 
 Vector parameters contain multiple values for a single variable.
@@ -18,4 +18,4 @@ Note that the vector parameter is the only item listed for the [!DNL Matches] ve
 
 ![](assets/cfg_Parameters_InternalDomains_Ref.png)
 
-For more information about internal domains, see [Configuration Settings for Web Data](../../../../home/c-dataset-const-proc/c-config-web-data/c-config-web-data.md#concept-9a306b65483a484bb3f6f3c1d7e77519). For information about the [!DNL String Match] condition, see [Conditions](../../../../home/c-dataset-const-proc/c-conditions/c-abt-cond.md). 
+For more information about internal domains, see [Configuration Settings for Web Data](../../../../home/c-dataset-const-proc/c-config-web-data/c-config-web-data.md#concept-9a306b65483a484bb3f6f3c1d7e77519). For information about the [!DNL String Match] condition, see [Conditions](../../../../home/c-dataset-const-proc/c-conditions/c-abt-cond.md).

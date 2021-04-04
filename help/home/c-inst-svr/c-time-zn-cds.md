@@ -3,8 +3,8 @@ description: Format instructions about time-based parameters in Insight Server.
 solution: Analytics
 title: Time Zone Codes
 uuid: dcc8aa15-5846-4f24-8b82-e25ff89871ba
+exl-id: d8923b01-24fe-4a70-9800-f2eedf567c6a
 ---
-
 # Time Zone Codes{#time-zone-codes}
 
 Format instructions about time-based parameters in Insight Server.
@@ -49,4 +49,3 @@ The following table contains the list of codes you can use to specify time zones
 |  mdt  | Mountain Daylight  | 7  |
 |  pst  | Pacific Standard  | 8  |
 |  pdt  | Pacific Daylight  | 8  |
-

@@ -2,8 +2,8 @@
 description: Instructions about how to install and configure IBM HTTP server on IBM AIX 5.1 or later running under Microsoft Windows Server 2000 or later.
 title: IBM HTTP Server on AIX 5.1 or Later
 uuid: d4a37ab2-514a-4afb-905b-420159c4ef0a
+exl-id: 1d0c3aa9-de2d-45c0-b52d-b6e3fd4fd453
 ---
-
 # IBM HTTP Server on AIX 5.1 or Later{#ibm-http-server-on-aix-or-later}
 
 Instructions about how to install and configure IBM HTTP server on IBM AIX 5.1 or later running under Microsoft Windows Server 2000 or later.
@@ -285,4 +285,3 @@ To capture additional data from a page:
    The resulting request URI is /index.jsp?A=1&B=2. 
 
 1. Repeat this procedure for each .jsp page from which you want to capture additional data.
-

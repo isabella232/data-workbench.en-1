@@ -4,8 +4,10 @@ solution: Analytics
 title: Installing the Input Method Editor
 topic: Data workbench
 uuid: 2a4dc6de-9dd7-4280-b410-fb88a135fe45
+exl-id: 3fcc58f5-29a9-427e-831a-44d527614b56
+exl-id: 0bdc7d95-b49a-4ca5-9fde-9c1ce2cd14ec
+exl-id: e4e1c016-0544-434a-b82e-fdd2a4af316c
 ---
-
 # Installing the Input Method Editor{#installing-the-input-method-editor}
 
 Data workbench now supports the Input Method Editor (IME) as a secondary text entry process for international languages.
@@ -44,4 +46,4 @@ Starting data workbench in Chinese requires you to invoke [!DNL Insight.exe] wit
 Insight.exe -zh-cn
 ```
 
-(These command line arguments are not case sensitive.) 
+(These command line arguments are not case sensitive.)

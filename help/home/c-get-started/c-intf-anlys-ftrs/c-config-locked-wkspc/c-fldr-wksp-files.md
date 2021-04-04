@@ -4,8 +4,8 @@ solution: Analytics
 title: Folder.lock and workspace.lock files
 topic: Data workbench
 uuid: d4c69e16-0596-4542-854f-bc614167ae80
+exl-id: 980b8692-8aa5-481f-b6bc-33836d8a3a76
 ---
-
 # Folder.lock and workspace.lock files{#folder-lock-and-workspace-lock-files}
 
 Within the Workspaces folder of your Data Workbench installation directory, a folder.lock file specifies whether the workspaces in that particular folder are locked, while a workspace name.lock file specifies whether a particular workspace is locked.
@@ -62,4 +62,4 @@ The workspaces in this folder are now locked or unlocked according to the settin
 
 1. To make this the setting for all users working with the same working profile, right-click the check mark for the file and click **[!UICONTROL Save to]** > *< **[!UICONTROL working profile name]**>*.
 
-The selected workspaces is now locked or unlocked according to the setting in the new file. 
+The selected workspaces is now locked or unlocked according to the setting in the new file.

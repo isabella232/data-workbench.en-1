@@ -2,8 +2,8 @@
 description: Instructions about how to install and configure Sensor for Lotus Domino Server 6 for Windows 3.1 or later running under Microsoft Windows Server 2000 or later.
 title: Lotus Domino Server on Windows Server 2000 or Later
 uuid: e3fb1478-92d1-4488-a4b8-244d258cc00a
+exl-id: b736c8e6-0642-419c-8715-6586c21f2182
 ---
-
 # Lotus Domino Server on Windows Server 2000 or Later{#lotus-domino-server-on-windows-server-or-later}
 
 Instructions about how to install and configure Sensor for Lotus Domino Server 6 for Windows 3.1 or later running under Microsoft Windows Server 2000 or later.
@@ -158,4 +158,3 @@ After you configure the txlogd.conf file, you can start the transmitter program,
        ```
 
        The transmitter is designed to run continuously. If you restart the machine, the transmitter restarts automatically. If you need to start and stop the transmitter manually, you can do so using the Services control panel in Windows.
-

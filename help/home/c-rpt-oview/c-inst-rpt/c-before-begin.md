@@ -4,8 +4,8 @@ solution: Analytics
 title: Before You Begin
 topic: Data workbench
 uuid: cb464fb6-3109-4eff-9c95-f0cf1f8a8c66
+exl-id: 5c8bb4c3-fe76-4b4e-960d-113a9927ad59
 ---
-
 # Before You Begin{#before-you-begin}
 
 For some of the features of Report Server to work, you must provide and configure hardware or software before installing.
@@ -31,4 +31,3 @@ The following requirements exist for Report Server:
   >When you generate reports as Excel files, you are opening a new instance of Excel. For more information about this process, see [http://support.microsoft.com/kb/257757](http://support.microsoft.com/kb/257757).
 
 * **Provide access to an SMTP server to distribute reports by email.** If you would like to distribute reports in email, Report Server must be able to connect to an SMTP server, and the appropriate ports to the email forwarding service must be opened.
-

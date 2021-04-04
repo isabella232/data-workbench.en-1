@@ -4,8 +4,8 @@ solution: Analytics
 title: Customize a worktop tab
 topic: Data workbench
 uuid: f1f557c8-f4cb-4789-8162-39cc7c52c943
+exl-id: 529c6d8d-fc42-4c2b-a111-b8eea4665d8b
 ---
-
 # Customize a worktop tab{#customize-a-worktop-tab}
 
 Each tab or subtab in the Worktop corresponds to a particular type of information, such as Dashboards, Activity, Acquisition, and so on.
@@ -17,4 +17,3 @@ Each tab that appears in the [!DNL Worktop] corresponds to a folder in the *work
 >[!NOTE]
 >
 >For information about using the [!DNL order.txt] file to customize the workspace window menu, see [Customizing Menus](../../../../home/c-get-started/c-intf-anlys-ftrs/c-ctm-menus/c-ctm-menus.md#concept-93d4c09cb7f34cd293b7b64fba1cf894).
-

@@ -2,8 +2,8 @@
 description: Seven different attribution models are provided to use with the Attribution profile to help illustrate and quantify the customer-marketing journey.
 title: Attribution Models
 uuid: 4c73629c-9d58-49d5-adeb-8175484709fa
+exl-id: 35d3f491-a8ed-4d9d-8d48-fc5f20e977a5
 ---
-
 # Attribution Models{#attribution-models}
 
 Seven different attribution models are provided to use with the Attribution profile to help illustrate and quantify the customer-marketing journey.
@@ -59,4 +59,3 @@ Path Browser visualization
 **3D Process Map visualization**
 
 ![](assets/attrib_model_3Dprocess_map.png)
-

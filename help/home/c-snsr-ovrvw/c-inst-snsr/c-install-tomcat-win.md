@@ -2,8 +2,8 @@
 description: Detailed instructions for installing and configuring Sensor for Apache Jakarta Tomcat 4.1 or later running under Windows Server 2000 or later.
 title: Tomcat Server on Windows Server 2000 or Later
 uuid: 58feec67-ffbb-4f25-8f22-3d109d464e9a
+exl-id: 6f4f1592-2b7d-434a-b292-9333e170f851
 ---
-
 # Tomcat Server on Windows Server 2000 or Later{#tomcat-server-on-windows-server-or-later}
 
 Detailed instructions for installing and configuring Sensor for Apache Jakarta Tomcat 4.1 or later running under Windows Server 2000 or later.
@@ -216,4 +216,3 @@ You can capture additional measurement data from J2EE-based web applications usi
    The resulting request URI is /index.jsp?A=1&B=2. 
 
 1. Repeat this procedure for each .jsp page from which you want to capture additional data.
-

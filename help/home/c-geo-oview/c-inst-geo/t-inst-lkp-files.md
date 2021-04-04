@@ -4,8 +4,8 @@ solution: Analytics
 title: Installing the Geography Lookup Files
 topic: Data workbench
 uuid: 5e47921b-a8e6-4e12-a029-bfa1538515a1
+exl-id: 6ad1e537-9065-433f-ba4f-3e8e6331a7e4
 ---
-
 # Installing the Geography Lookup Files{#installing-the-geography-lookup-files}
 
 Steps to install the Geography lookup files on the data workbench server.
@@ -16,4 +16,3 @@ The lookup file [!DNL (Lookups\Geography\DMA.txt]) provided with the [!DNL Geogr
 1. Copy the Geography folder to the Lookups folder in your data workbench server installation directory. You want to end up with a ...\Lookups\Geography folder on your data workbench server as shown in the following example. The names of the other folders within the Lookups folder may differ from the ones shown.
 
    ![Step Info](assets/Geo_installLookups_dir.png)
-

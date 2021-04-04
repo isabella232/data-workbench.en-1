@@ -4,8 +4,8 @@ solution: Analytics
 title: Visualizations
 topic: Data workbench
 uuid: 1e15de30-7761-422a-a836-7a1b49b58daf
+exl-id: 7e8b23cd-5e95-4cd5-b07e-3aa53f26fac7
 ---
-
 # Visualizations{#visualizations}
 
 Visualizations are elements added to the dashboard canvas and configured to display various metric and dimension-based data.
@@ -38,4 +38,3 @@ The header portion of the visualization contains the visualization title and vis
 * Sample Indicator. Shown when the data visualized is a sample and not a 100% complete query result. 
 * Visualization Tools. Performs specific operations on the visualizations. Tools available depend on the visualization type, state, and current user permissions. 
 * Visualization Body. Displays the data of the visualization as configured. This area is interactive and depends on the type of visualization being displayed.
-

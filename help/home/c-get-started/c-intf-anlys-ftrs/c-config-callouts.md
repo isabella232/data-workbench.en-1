@@ -4,8 +4,8 @@ solution: Analytics
 title: Configure a callout
 topic: Data workbench
 uuid: 779764bd-86c3-49cf-aabc-edb39caf0490
+exl-id: 509163b2-0bd1-47b4-8612-aac460a501cc
 ---
-
 # Configure a callout{#configure-a-callout}
 
 Callouts bring attention to a particular dimension element by creating a new visualization with a virtual selection of a particular dimension element in a visualization.
@@ -60,4 +60,3 @@ For instructions to add a callout or metric callout to a visualization, see [Add
 1. Click **[!UICONTROL File]** > **[!UICONTROL Save As]**. In the **[!UICONTROL Save As]** window, click once, then double-click **[!UICONTROL Metric Callout]**. In the [!DNL File Name] field, type a name for the file and click **[!UICONTROL Save]**. The metric callout file is saved to the User\*working profile name*\Context\Metric Callout folder. 
 
 1. (Optional) To make this metric callout available to all users of the working profile, in the [!DNL Profile Manager], right-click the check mark next to the file name in the [!DNL User] column and click **[!UICONTROL Save to]** > *< **[!UICONTROL working profile name]**>*.
-

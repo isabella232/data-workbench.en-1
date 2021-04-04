@@ -2,8 +2,8 @@
 description: Use Workstation to manage your Data Workbench users.
 title: Self-provisioning of users
 uuid: e3c10bc4-2fa0-4368-9952-e38a4794aee9
+exl-id: fba916bf-66a1-4b69-a1c0-cad5b27bbbba
 ---
-
 # Self-provisioning of users{#self-provisioning-of-users}
 
 Use Workstation to manage your Data Workbench users.
@@ -39,4 +39,4 @@ When a user is logged on to multiple machines with same IMS account on the same 
 
 Flag: Conflict Notifications
 
-This is applicable for workspaces, metrics, dimension, etc. in User Folder. 
+This is applicable for workspaces, metrics, dimension, etc. in User Folder.

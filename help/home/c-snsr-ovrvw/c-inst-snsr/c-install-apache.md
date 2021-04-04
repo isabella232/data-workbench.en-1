@@ -2,8 +2,8 @@
 description: Instructions about how to install and configure Apache Server 2.0.40, 2.0.42 or later, Apache Server 2.2, or Apache Server 2.4 on Linux, Sun Solaris, or FreeBSD.
 title: Apache Server 2.0.40, 2.0.42 or later, and Apache Server 2.2 or 2.4 on Linux, Solaris, or FreeBSD
 uuid: 3703e2c1-5b8d-4def-b146-49e59d78a669
+exl-id: d5b943be-e9ca-4601-88c7-bb2bfdc0d080
 ---
-
 # Apache Server 2.0.40, 2.0.42 or later, and Apache Server 2.2 or 2.4 on Linux, Solaris, or FreeBSD{#apache-server-or-later-and-apache-server-or-on-linux-solaris-or-freebsd}
 
 Instructions about how to install and configure Apache Server 2.0.40, 2.0.42 or later, Apache Server 2.2, or Apache Server 2.4 on Linux, Sun Solaris, or FreeBSD.
@@ -210,4 +210,4 @@ To ensure that the transmitter loads automatically when the web server machine i
 /usr/local/bin/txlogd -f /etc/txlogd.conf
 ```
 
-This command starts the transmitter as a daemon. Operating and error messages that the transmitter generates are written to syslog. 
+This command starts the transmitter as a daemon. Operating and error messages that the transmitter generates are written to syslog.

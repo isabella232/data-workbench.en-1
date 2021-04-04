@@ -4,8 +4,8 @@ solution: Analytics
 title: Creating New Dataset Include Files
 topic: Data workbench
 uuid: 707bdd84-b12b-4226-b6aa-43c9fc7ec9fe
+exl-id: 8a7b343d-b695-41aa-b465-8c5cd68d6ef7
 ---
-
 # Creating New Dataset Include Files{#creating-new-dataset-include-files}
 
 Steps to create a new dataset include file.
@@ -51,4 +51,4 @@ You should create a new dataset include file to perform any of the following dat
    >
    >Do not save the modified configuration file to any of the internal profiles provided by Adobe, as your changes are overwritten when you install updates to these profiles.
 
-To edit a dataset include file that you created, see [Editing Existing Dataset Include Files](../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-work-dataset-inc-files/t-edit-ex-dataset-inc-files.md#task-456c04e38ebc425fb35677a6bb6aa077). 
+To edit a dataset include file that you created, see [Editing Existing Dataset Include Files](../../../../home/c-dataset-const-proc/c-dataset-inc-files/c-work-dataset-inc-files/t-edit-ex-dataset-inc-files.md#task-456c04e38ebc425fb35677a6bb6aa077).

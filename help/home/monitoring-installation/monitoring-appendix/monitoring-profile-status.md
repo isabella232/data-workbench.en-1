@@ -4,8 +4,8 @@ solution: Analytics
 title: Dimensions in the Data Workbench Profile Status profile
 topic: Data workbench
 uuid: bd84a3e5-d1ea-4768-9dac-62f5dfbad49a
+exl-id: 57b3ff16-26db-4292-819b-f6cd8e024c2a
 ---
-
 # Dimensions in the Data Workbench Profile Status profile{#dimensions-in-the-data-workbench-profile-status-profile}
 
 The following dimensions are available for use in the data workbench Profile Status profile.
@@ -126,4 +126,3 @@ The following dimensions are available for use in the data workbench Profile Sta
   </tr> 
  </tbody> 
 </table>
-

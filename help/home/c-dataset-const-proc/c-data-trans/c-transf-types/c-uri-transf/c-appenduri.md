@@ -4,8 +4,8 @@ solution: Analytics
 title: AppendURI
 topic: Data workbench
 uuid: 8334d4f9-2bf6-4bd0-af65-8f2b0959652d
+exl-id: 0d5901c0-bd13-4499-8e26-44839aeb7413
 ---
-
 # AppendURI{#appenduri}
 
 The AppendURI transformation provides a way to add information to the default value that comes from the log entries used to build the dataset.
@@ -35,4 +35,4 @@ This would result in a rather uninteresting mapping of the traffic through the s
 
 ![](assets/cfg_TransformationType_AppendURI.png)
 
-In this example, there are two pages used by the system to handle all requests: [!DNL modelview.asp] and [!DNL xmlmodelview.asp]. One page is used for browser traffic, and the other is used for system-to-system XML communications. The application server process uses the id name of the cs-uri-query to determine which action to take. Therefore, you can extract the value from the id field and append it to the URI. The result is a collection of URIs with a range of variation that reflects visitor traffic through the website. Here, a [!DNL String Match] condition determines the log entries to which the transformation is applied by searching the cs-uri-stem field for the two web pages of interest and ignoring all others. The input (the value of our name-value pair) is the result of cs-uri-query(id), which is "login." As specified by the Query String Key parameter, the name being appended is "id." Thus, for the incoming cs-uri value of our example, the resulting URI used by the [!DNL URI] dimension is [!DNL /modelview.asp&id=login]. 
+In this example, there are two pages used by the system to handle all requests: [!DNL modelview.asp] and [!DNL xmlmodelview.asp]. One page is used for browser traffic, and the other is used for system-to-system XML communications. The application server process uses the id name of the cs-uri-query to determine which action to take. Therefore, you can extract the value from the id field and append it to the URI. The result is a collection of URIs with a range of variation that reflects visitor traffic through the website. Here, a [!DNL String Match] condition determines the log entries to which the transformation is applied by searching the cs-uri-stem field for the two web pages of interest and ignoring all others. The input (the value of our name-value pair) is the result of cs-uri-query(id), which is "login." As specified by the Query String Key parameter, the name being appended is "id." Thus, for the incoming cs-uri value of our example, the resulting URI used by the [!DNL URI] dimension is [!DNL /modelview.asp&id=login].

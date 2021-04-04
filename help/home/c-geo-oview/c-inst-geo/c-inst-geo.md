@@ -4,8 +4,8 @@ solution: Analytics
 title: Installing Data Workbench Geography
 topic: Data workbench
 uuid: 2c3d2e4a-97a7-4afc-b72d-c012db77e535
+exl-id: 3f32672c-e62b-4b8b-84f7-11ff732519ad
 ---
-
 # Installing Data Workbench Geography{#installing-data-workbench-geography}
 
 This chapter provides the steps to install data workbenchGeography on a data workbench server.

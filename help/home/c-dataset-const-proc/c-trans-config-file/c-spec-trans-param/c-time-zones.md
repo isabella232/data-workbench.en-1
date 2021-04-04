@@ -4,8 +4,8 @@ solution: Analytics
 title: Time Zones
 topic: Data workbench
 uuid: 7b253c5a-f2b1-410c-9433-f13ed1d7a8b3
+exl-id: c8dc49d5-3245-428a-bfb9-42970df73d3e
 ---
-
 # Time Zones{#time-zones}
 
 The Time Zone parameter in the Transformation.cfg file controls time dimensions, time conversions (for example, defining the x-local-timestring field), and formatting of all local times in the dataset profile.
@@ -36,4 +36,3 @@ Data workbench users will see data in the dataset profile's time zone instead of
 >[!NOTE]
 >
 >You can specify a Time Zone parameter in the [!DNL Log Processing.cfg] file, where it is used for time conversions during log processing. For information about the Time Zone parameter in the [!DNL Log Processing.cfg] file, see [Log Processing Configuration File](../../../../home/c-dataset-const-proc/c-log-proc-config-file/c-abt-log-proc-config-file.md).
-

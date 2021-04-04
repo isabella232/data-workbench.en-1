@@ -4,8 +4,8 @@ solution: Analytics
 title: Considerations for the Log Processing Configuration File
 topic: Data workbench
 uuid: 2ccedf63-12d9-40e9-912a-aee030191b1e
+exl-id: 278a4a10-d382-4d9f-b3f4-bcc4783eb50c
 ---
-
 # Considerations for the Log Processing Configuration File{#considerations-for-the-log-processing-configuration-file}
 
 Conceptual information to consider when editing the Log Processing.cfg file.
@@ -26,4 +26,3 @@ Conceptual information to consider when editing the Log Processing.cfg file.
 * You can add any of the parameters described above to the [!DNL Log Processing.cfg] file by opening and editing the file in Notepad. Any changes you make and save appear when you reopen the file in data workbench. When adding a new parameter, use the Space key (not the Tab key) to indent two (2) spaces to the right of the previous heading level.
 
   Any errors that occur during the log processing phase of the dataset construction process for a dataset profile are shown in the [!DNL Profiles] node of the [!DNL Detailed Status] interface in data workbench. For information about the [!DNL Detailed Status] interface, see the *Data Workbench User Guide*.
-

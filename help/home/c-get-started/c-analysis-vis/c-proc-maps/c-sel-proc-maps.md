@@ -4,8 +4,8 @@ solution: Analytics
 title: Make a selection from a process map
 topic: Data workbench
 uuid: 7fd00090-c9ab-4bb6-8584-7de7b6f4b68c
+exl-id: 8ede395f-906a-49e0-8ff8-b43a326275e5
 ---
-
 # Make a selection from a process map{#make-a-selection-from-a-process-map}
 
 You can make selections within process maps to create filters that include or exclude data associated with a particular node.
@@ -37,4 +37,3 @@ When you make a selection based on a node within a process map, you are selectin
 When you make a selection in a 3D process map, the node for which the selection is made is circled. Benchmarks appear around each bar help you compare metric values with and without the selection. See [Understanding Benchmarks](../../../../home/c-get-started/c-vis/c-ustd-benchmks.md#concept-c7b0f4102e92458096f8c4765cbe2914).
 
 ![](assets/vis_3DProcessMap_Selection.png)
-

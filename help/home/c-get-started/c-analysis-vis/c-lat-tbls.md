@@ -4,8 +4,8 @@ solution: Analytics
 title: Latency tables
 topic: Data workbench
 uuid: 8081540c-f96c-424e-802d-05d1be5a728d
+exl-id: 22f6d52f-e1c2-430a-9e69-3440be0ecdea
 ---
-
 # Latency tables{#latency-tables}
 
 Latency table visualizations are tables that include a latency dimension, which is a type of derived dimension that measures the time that has elapsed since a particular event occurred.
@@ -91,4 +91,4 @@ For information about exporting windows, see [Exporting Window Data](../../../ho
 
 ## Export to a TSV file {#section-fd921f351c994ed0a94f63d3bd5b5a87}
 
-For information about exporting windows, see [Exporting Window Data](../../../home/c-get-started/c-wk-win-wksp/c-exp-win-data.md#concept-8df61d64ed434cc5a499023c44197349). 
+For information about exporting windows, see [Exporting Window Data](../../../home/c-get-started/c-wk-win-wksp/c-exp-win-data.md#concept-8df61d64ed434cc5a499023c44197349).

@@ -4,8 +4,8 @@ solution: Analytics
 title: Set Permissions for the Database
 topic: Data workbench
 uuid: 747d1adc-bfc9-4f54-a2b1-ae5e12dd82a2
+exl-id: 901cf702-633c-4660-b1bd-4937d0c3293c
 ---
-
 # Set Permissions for the Database{#set-permissions-for-the-database}
 
 To enable Report Portal to write to the database that contains information needed to authenticate users, you must set the proper permissions for the database.

@@ -4,8 +4,8 @@ solution: Analytics
 title: Setting up Localized Languages
 topic: Data workbench
 uuid: 7735e183-7ba3-4e11-bfe2-7f87e4c55fc8
+exl-id: bb57887f-f213-48a4-9a10-8da7ea33eda5
 ---
-
 # Setting up Localized Languages{#setting-up-localized-languages}
 
 Set up insight.zbin file to set the language of the client application.
@@ -75,4 +75,3 @@ Data workbench looks for the following splash screen files:
 If a splash screen is requested but missing, data workbench will access the English splash screen by default.
 
 <!-- <a id="section_91AE5EF234C14652A7B04082A22629AB"></a> -->
-

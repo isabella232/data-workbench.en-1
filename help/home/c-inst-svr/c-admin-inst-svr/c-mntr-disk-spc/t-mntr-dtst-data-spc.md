@@ -3,8 +3,8 @@ description: Information about dataset monitoring and adding new locations for d
 solution: Analytics
 title: Monitoring Dataset Data Space
 uuid: 0b7b95e7-b1bb-49cf-b465-fdbdc4ee214e
+exl-id: eb34d5fe-73c6-461f-8bb0-85833d8f824f
 ---
-
 # Monitoring Dataset Data Space{#monitoring-dataset-data-space}
 
 Information about dataset monitoring and adding new locations for dataset data storage.
@@ -55,4 +55,3 @@ If you want [!DNL Insight Server] to maintain the dataset on a different drive, 
     1. Right-click **[!UICONTROL (modified)]** at the top of the window and click **[!UICONTROL Save]**. 
     
     1. In the [!DNL Server Files Manager], right-click the check mark for the file in the [!DNL Temp] column and select **[!UICONTROL Save to]** > *< **[!UICONTROL server name]**>*.
-

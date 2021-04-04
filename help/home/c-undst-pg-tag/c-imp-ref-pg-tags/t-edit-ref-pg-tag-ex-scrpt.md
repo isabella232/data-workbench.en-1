@@ -4,8 +4,8 @@ solution: Analytics
 title: Editing the Reference Page Tag Execution Script
 topic: Data workbench
 uuid: 0db00b89-e420-423d-9b88-8b724baa828f
+exl-id: bc922b59-716e-4e92-84b5-59a52620df03
 ---
-
 # Editing the Reference Page Tag Execution Script{#editing-the-reference-page-tag-execution-script}
 
 The Reference Page Tag consists of a Page Tag Execution Script that resides on a web server, and when called results in the collection of all client-side data for the page requested by the site visitor.

@@ -4,8 +4,8 @@ solution: Analytics
 title: Configuring the Connection to the Insight Server
 topic: Data workbench
 uuid: 2018b67e-90a6-41d7-b628-4b463869df6e
+exl-id: a398a665-fe09-448a-977c-b0f9de4add09
 ---
-
 # Configuring the Connection to the Insight Server{#configuring-the-connection-to-the-insight-server}
 
 Before you can generate reports and alerts, you must configure Report Server to specify the address of the Insight server and identify the profiles that you want it to report against.

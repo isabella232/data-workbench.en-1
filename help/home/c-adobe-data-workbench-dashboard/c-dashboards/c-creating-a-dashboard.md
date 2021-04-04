@@ -4,8 +4,8 @@ solution: Analytics
 title: Creating a Dashboard
 topic: Data workbench
 uuid: 5b9e9db2-d7ac-4c97-8df0-74a9e5a0c496
+exl-id: bd51d4c0-bcf2-4ba6-8b32-de06c74f359f
 ---
-
 # Creating a Dashboard{#creating-a-dashboard}
 
 Creating a dashboard is recommended even for short-term, ad-hoc analytical needs.
@@ -34,4 +34,4 @@ Next, decide what kind of data you want to display and how you want to display i
 
 ![](assets/after_configure.png)
 
-From this point you can simply perform your analysis and discard the dashboard, or you can choose to save the dashboard to the server for reuse and/or sharing. For information on how to interact with a dashboard to perform analysis, see the section [Making Selections within the Dashboard](../../../home/c-adobe-data-workbench-dashboard/c-making-selections-within-the-dashboard/c-making-selections-within-the-dashboard.md#concept-0989862de0044cc4bbfd7f4441275fc4). 
+From this point you can simply perform your analysis and discard the dashboard, or you can choose to save the dashboard to the server for reuse and/or sharing. For information on how to interact with a dashboard to perform analysis, see the section [Making Selections within the Dashboard](../../../home/c-adobe-data-workbench-dashboard/c-making-selections-within-the-dashboard/c-making-selections-within-the-dashboard.md#concept-0989862de0044cc4bbfd7f4441275fc4).

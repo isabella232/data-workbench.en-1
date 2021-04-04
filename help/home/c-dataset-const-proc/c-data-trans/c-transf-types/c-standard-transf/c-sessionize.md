@@ -4,8 +4,8 @@ solution: Analytics
 title: Sessionize
 topic: Data workbench
 uuid: c6e2487a-80e5-4e00-b4d4-2ce013fac3ea
+exl-id: bb25cb4b-7185-4524-8ff5-740b672e1cd9
 ---
-
 # Sessionize{#sessionize}
 
 If you are working with data collected from website traffic, you can use the Sessionize transformation to determine how sessions are defined.
@@ -88,4 +88,3 @@ The [!DNL Sessionize] transformation in this example takes as its input the x-ti
 For information about the [!DNL NeitherCondition], see [Conditions](../../../../../home/c-dataset-const-proc/c-conditions/c-abt-cond.md). For information about the Internal Domains and Session Timeout parameters, see [Configuration Settings for Web Data](../../../../../home/c-dataset-const-proc/c-config-web-data/c-config-web-data.md#concept-9a306b65483a484bb3f6f3c1d7e77519).
 
 ![](assets/cfg_TransformationType_Sessionize.png)
-

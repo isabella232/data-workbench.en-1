@@ -4,8 +4,9 @@ solution: Analytics
 title: Vector layers referencing tab separated values files
 topic: Data workbench
 uuid: 42607b34-e9f2-420a-ba5a-05562598b480
+exl-id: be16ba73-4a98-472b-98f1-1b32e671b763
+exl-id: 7b0b0286-072b-4b31-b6ec-ced322da5236
 ---
-
 # Vector layers referencing tab separated values files{#vector-layers-referencing-tab-separated-values-files}
 
 When creating a vector layer that references a tab separated values (.tsv) file, the vector data is obtained by retrieving drawing instructions as well as longitude and latitude data from the .tsv file.
@@ -79,4 +80,3 @@ Layer = VectorLayer:
   </tr> 
  </tbody> 
 </table>
-

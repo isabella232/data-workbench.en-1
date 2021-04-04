@@ -4,8 +4,8 @@ solution: Analytics
 title: Confidence legends
 topic: Data workbench
 uuid: 2559ff7c-6060-4fee-b509-9ae0c3912016
+exl-id: 9aab169a-98b8-4e71-b74d-28e385c5c424
 ---
-
 # Confidence legends{#confidence-legends}
 
 Confidence legends help you to determine the likelihood that the numbers you are seeing are due to chance and to understand the possible deviations in the data.
@@ -59,4 +59,4 @@ The following confidence legend displays confidence details about the Conversion
 
 ## Export to Microsoft Excel {#section-f36e2db7273740b7af278f8a2b79d564}
 
-For information about exporting windows, see [Exporting Window Data](../../../../home/c-get-started/c-wk-win-wksp/c-exp-win-data.md#concept-8df61d64ed434cc5a499023c44197349). 
+For information about exporting windows, see [Exporting Window Data](../../../../home/c-get-started/c-wk-win-wksp/c-exp-win-data.md#concept-8df61d64ed434cc5a499023c44197349).

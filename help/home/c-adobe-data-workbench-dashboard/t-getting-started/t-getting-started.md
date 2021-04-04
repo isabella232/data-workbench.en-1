@@ -4,8 +4,8 @@ solution: Analytics
 title: Getting Started
 topic: Data workbench
 uuid: 9e2ed5fd-29d7-4e06-ad55-c4a35a9043c8
+exl-id: acaa7563-d462-4838-b2b5-3c010382da34
 ---
-
 # Getting Started{#getting-started}
 
 To begin using the Adobe data workbench dashboard, follow these steps.

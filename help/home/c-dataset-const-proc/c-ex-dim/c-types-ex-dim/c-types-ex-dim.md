@@ -4,8 +4,8 @@ solution: Analytics
 title: Types of Extended Dimensions
 topic: Data workbench
 uuid: 68f42903-0599-43f2-8b5b-da9e171d77b1
+exl-id: 13a52ece-b68b-45bc-ac2d-d68c91742c9d
 ---
-
 # Types of Extended Dimensions{#types-of-extended-dimensions}
 
 The Insight Server enables you to define countable, simple, many-to-many, numeric, denormal, and time dimensions for inclusion in your data set.
@@ -19,4 +19,3 @@ After the Insight Server uses the parent dimension to determine which log entrie
 >[!NOTE]
 >
 >If a log entry does not satisfy an extended dimension's Condition, the Insight Server substitutes blank values for all of the fields in the log entry. The actual log entry still exists, and the specified Operation determines whether the blank value of the [!DNL Input] field is used.
-

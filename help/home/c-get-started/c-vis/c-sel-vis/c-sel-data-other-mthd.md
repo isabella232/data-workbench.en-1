@@ -4,8 +4,8 @@ solution: Analytics
 title: Selecting Data Using Other Methods
 topic: Data workbench
 uuid: 0e2b8e6d-d696-4597-9f85-1968b18cfbc8
+exl-id: d6ef163e-1faa-4b0f-b69b-9e559f6f34fb
 ---
-
 # Selecting Data Using Other Methods{#selecting-data-using-other-methods}
 
 In addition to making simple yet powerful point-and-click selections in visualizations, your Adobe application provides three methods that you can use to select data and work with that selected data.
@@ -29,4 +29,3 @@ Each of these methods is appropriate for particular situations:
   Example: You want to perform an in-depth analysis of the data related to only those customers from California.
 
   Using a subset affects all of your workspaces because the subset is applied globally to Data Workbench. See [Working with Subsets](../../../../home/c-get-started/c-vis/c-wk-subsets/c-wk-subsets.md#concept-43809322b6374d5cb2536630a13e943b).
-

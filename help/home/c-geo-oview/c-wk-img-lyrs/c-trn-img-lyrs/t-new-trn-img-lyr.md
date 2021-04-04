@@ -4,8 +4,8 @@ solution: Analytics
 title: Making a New Terrain Image Layer Available
 topic: Data workbench
 uuid: aeeb4ab0-f55c-47b8-96e4-eafd4df4d68a
+exl-id: 76374298-ed65-4fcf-b40b-be7c15784f40
 ---
-
 # Making a New Terrain Image Layer Available{#making-a-new-terrain-image-layer-available}
 
 Steps to make a new terrain layer available to display on the globe visualization.

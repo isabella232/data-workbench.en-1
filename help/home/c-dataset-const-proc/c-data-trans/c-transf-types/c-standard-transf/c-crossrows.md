@@ -4,8 +4,8 @@ solution: Analytics
 title: CrossRows
 topic: Data workbench
 uuid: 5910c150-6bec-4d98-b116-9b382fd54d3c
+exl-id: 321f986e-44a9-454c-9311-0ae37a11a088
 ---
-
 # CrossRows{#crossrows}
 
 Like other transformations, the CrossRows transformation is applied to the rows of data (log entries) in your log sources.
@@ -105,4 +105,4 @@ The input field, x-timestamp, is considered for only those input rows in which t
 
 ![](assets/cfg_TransformationType_CrossRows.png)
 
-[!DNL CrossRows] executes in an amount of time proportional to the size of its inputs plus the size of its outputs. This means that for operations SUM, FIRST ROW, and LAST ROW, it is no less efficient than other transformations. For ALL, the situation is more complex because it is possible to configure [!DNL CrossRows] to output an amount of data for each row of data (log entry) that is proportional to the total number of rows (log entries) for a given tracking ID. 
+[!DNL CrossRows] executes in an amount of time proportional to the size of its inputs plus the size of its outputs. This means that for operations SUM, FIRST ROW, and LAST ROW, it is no less efficient than other transformations. For ALL, the situation is more complex because it is possible to configure [!DNL CrossRows] to output an amount of data for each row of data (log entry) that is proportional to the total number of rows (log entries) for a given tracking ID.

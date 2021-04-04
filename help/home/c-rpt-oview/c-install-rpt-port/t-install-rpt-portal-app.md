@@ -3,8 +3,8 @@ description: Report Portal is made up of a set of application server pages (ASPs
 solution: Analytics
 title: Install the Report Portal Application Files
 uuid: 483a7401-1bb4-4a71-b8c7-e70ff1b129e7
+exl-id: 0eb7805c-d8f6-4cfd-834e-babc1818ebc0
 ---
-
 # Install the Report Portal Application Files{#install-the-report-portal-application-files}
 
 Report Portal is made up of a set of application server pages (ASPs) and supporting files.

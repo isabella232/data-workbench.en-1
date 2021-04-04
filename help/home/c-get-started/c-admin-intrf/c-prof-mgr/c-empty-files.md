@@ -4,8 +4,8 @@ solution: Analytics
 title: Hide a file by emptying it (zero-byte)
 topic: Data workbench
 uuid: 82c1a5c9-1bbb-41c7-bee7-704f0a9ef87d
+exl-id: d5841fb5-afae-4352-aded-01b0b2eb9f85
 ---
-
 # Hide a file by emptying it (zero-byte){#hide-a-file-by-emptying-it-zero-byte}
 
 If you do not have permission to delete files from a profile or you do not want to delete a file permanently, you can use empty (zero-byte) files to hide files.
@@ -28,4 +28,3 @@ This functionality is useful for a number of reasons, including when you want to
 1. Right-click the check mark next to the name of the file and click **[!UICONTROL Make Local]**. 
 1. Open the local file and delete its contents. 
 1. Save and close the file.
-

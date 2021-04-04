@@ -4,8 +4,8 @@ solution: Analytics
 title: Working with filter conditions
 topic: Data workbench
 uuid: a75fcb21-be5c-452a-8632-86cd78db15cb
+exl-id: 15745b0c-2754-4f8b-acfd-a6bd5886ecf8
 ---
-
 # Working with filter conditions{#working-with-filter-conditions}
 
 Information about working with filter conditions including creating a new filter and adding a condition to a new filter.
@@ -114,4 +114,3 @@ You can add descriptions to each of the conditions that you add to a filter. You
       ![](assets/vis_FilterEditor_ConditionDescription.png)
 
 * To remove a description, click **[!UICONTROL Remove description]**. The condition remains in the filter editor window.
-

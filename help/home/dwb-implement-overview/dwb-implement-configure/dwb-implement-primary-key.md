@@ -2,8 +2,8 @@
 description: This section explains how to create Primary keys (Tracking ID) for Data Workbench datasets for schema design and implementation.
 title: Data processing - Building Primary Key
 uuid: 7a12950e-6ac0-47d5-b4a8-0b50c48b04fa
+exl-id: 9937038f-d011-4946-8a5b-cc724b611ae5
 ---
-
 # Data processing - Building Primary Key{#data-processing-building-primary-key}
 
 This section explains how to create Primary keys (Tracking ID) for Data Workbench datasets for schema design and implementation.
@@ -29,4 +29,3 @@ Assuming, both offline and online data is available (for this example), and the 
 Use the Hash function to create the *trackingId* as shown: 
 
 ![](assets/dwb_impl_primary_key2.png)
-

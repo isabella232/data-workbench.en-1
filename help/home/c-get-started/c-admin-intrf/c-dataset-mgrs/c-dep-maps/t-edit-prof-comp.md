@@ -4,8 +4,8 @@ solution: Analytics
 title: Edit profile components
 topic: Data workbench
 uuid: e71adfae-afaa-4cd4-b7c5-a71e6a1b5459
+exl-id: 6a4d9e0f-1536-4d39-a27d-5b6805c19c8e
 ---
-
 # Edit profile components{#edit-profile-components}
 
 Steps to edit the configuration of a profile component.
@@ -23,4 +23,4 @@ From a dependency map, you can open the configuration or editor window for a log
    For more information about the parameters for dataset components, see the *Dataset Configuration Guide*. 
 
 1. To save the file locally, right-click **[!UICONTROL (modified)]** or **[!UICONTROL (New)]** at the top of the window and click **[!UICONTROL Save]**.
-To make the changes take effect, save the file to the server using the [!DNL Profile Manager]. See [Publishing Files to Your Working Profile](../../../../../home/c-get-started/c-admin-intrf/c-prof-mgr/t-pub-files-wkg-prof.md#task-a0106e010c834d16bd60eef4721b6af9). 
+To make the changes take effect, save the file to the server using the [!DNL Profile Manager]. See [Publishing Files to Your Working Profile](../../../../../home/c-get-started/c-admin-intrf/c-prof-mgr/t-pub-files-wkg-prof.md#task-a0106e010c834d16bd60eef4721b6af9).

@@ -3,8 +3,8 @@ description: You should regularly monitor your event log files to track Insight 
 solution: Analytics
 title: Monitoring Administrative Events
 uuid: 92d71478-0857-4af8-909c-0cf800b081f4
+exl-id: e468a7d0-ed09-4367-88ce-b68964511e76
 ---
-
 # Monitoring Administrative Events{#monitoring-administrative-events}
 
 You should regularly monitor your event log files to track Insight Server system event messages, which are logged to the `<YYYYMMDD>-event.txt` files located by default in the Events folder within the Insight Server installation directory.
@@ -56,4 +56,3 @@ The Administrative Event Logs configuration file, [!DNL Administrative Events Lo
 
     1. Right-click **[!UICONTROL (modified)]** at the top of the window and click **[!UICONTROL Save]**. 
     1. In the [!DNL Server Files Manager], right-click the check mark for the file in the [!DNL Temp] column and select **[!UICONTROL Save to]** > **[!UICONTROL server name]**.
-

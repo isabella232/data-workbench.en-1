@@ -4,8 +4,8 @@ solution: Analytics
 title: 2D scatter plots
 topic: Data workbench
 uuid: 73c23d22-3c3a-4535-b66b-0e3508bd904c
+exl-id: 340f8c18-ce47-4f3a-aba4-3d6124505313
 ---
-
 # 2D scatter plots{#d-scatter-plots}
 
 Scatter plots graph the elements of a data dimension (such as Page or City) on a grid in which the x- and y-axes represent different metrics.
@@ -53,4 +53,3 @@ The size of each point on the scatter plot is determined by the radius metric. T
 Right-click the label of the dimension at the top of the graph and click **[!UICONTROL Change Radius Metric]** > *< **[!UICONTROL metric name]**>*.
 
 ![](assets/mnu_ScatterPlot_Change.png)
-

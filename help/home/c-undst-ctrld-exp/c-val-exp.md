@@ -4,8 +4,8 @@ solution: Analytics,Analytics
 title: Validating the Experiment
 topic: Data workbench
 uuid: 59769f5b-4175-479e-ad7d-7226e9c666af
+exl-id: 6dfd01ca-288d-40fd-aad4-75a588902ebd
 ---
-
 # Validating the Experiment{#validating-the-experiment}
 
 After you have deployed your experiment, you should validate that the experiment is working properly.
@@ -37,4 +37,3 @@ If you were to type the following into your browser, the browser would display t
 When visitors in the index2 group request the home page, the “Request a Demo” graphical link displays higher on the page, as in the following graphic:
 
 ![](assets/TestPage.png)
-

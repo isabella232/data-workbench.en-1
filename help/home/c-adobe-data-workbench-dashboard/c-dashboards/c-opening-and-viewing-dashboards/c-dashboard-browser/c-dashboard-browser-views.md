@@ -4,8 +4,8 @@ solution: Analytics
 title: Dashboard Browser Views
 topic: Data workbench
 uuid: 8e5ef06a-6c5a-4792-a732-fe7574aed8ab
+exl-id: 94da6ee1-30ab-426f-9be3-fd56f172aadb
 ---
-
 # Dashboard Browser Views{#dashboard-browser-views}
 
 Explains the Thumbnail View and the List View.
@@ -32,4 +32,4 @@ The List View provides table-based information on the dashboards for which you h
 
 ![](assets/list_view.png)
 
-Clicking on a dashboard entry will display the dashboard’s details in the right-hand panel of the dashboard browser. To switch between views, re-select the desired view option. 
+Clicking on a dashboard entry will display the dashboard’s details in the right-hand panel of the dashboard browser. To switch between views, re-select the desired view option.

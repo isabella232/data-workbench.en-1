@@ -3,8 +3,8 @@ description: A data workbench server becomes aware of a source of data, such as 
 solution: Analytics
 title: Understanding "As Of" Time
 uuid: a1853573-e77c-41f7-8b99-2843e38cc82d
+exl-id: 58ea5c6f-de6b-48d2-b573-f265857026da
 ---
-
 # Understanding "As Of" Time{#understanding-as-of-time}
 
 A data workbench server becomes aware of a source of data, such as a Sensor, when it receives data from that source.
@@ -20,4 +20,3 @@ The [!DNL data workbench server] uses data that is sent from the transmitter to 
 1. To keep an HTTP/1.1 persistent connection open between the [!DNL Sensor] and the [!DNL data workbench server]. 
 
 1. To keep the As Of time current in the event that website traffic is not being collected and sent to the [!DNL data workbench server].
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: File blocks
 topic: Data workbench
 uuid: 079dccba-ef19-4895-90bb-6c56f26e8beb
+exl-id: 04b0faf1-a16d-4e46-b790-5fe2023f2ba1
 ---
-
 # File blocks{#file-blocks}
 
 When you display dataset components on a dependency map, you have the option to enable the Include File Blocks display option.
@@ -28,4 +28,3 @@ Each green node is a dimension block and has the following options:
 
 * To view the input fields or the parent dimension of the dimension block, right-click the node for the block and click **[!UICONTROL Inputs]**. 
 * To view the output dimensions of the dimension block, right-click the node for the block and click **[!UICONTROL Outputs]**.
-

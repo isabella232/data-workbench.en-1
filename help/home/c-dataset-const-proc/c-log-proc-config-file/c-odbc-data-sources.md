@@ -4,8 +4,8 @@ solution: Analytics
 title: ODBC Data Sources
 topic: Data workbench
 uuid: 5b37cd41-2d79-472c-8e6d-00ff894991a9
+exl-id: b22b1e27-9b6c-4708-b45c-a9605807689a
 ---
-
 # ODBC Data Sources{#odbc-data-sources}
 
 The data workbench server (InsightServer64.exe) can read event data from any SQL database (for example, Oracle or Microsoft SQL Server) that has an ODBC 3.0 compliant driver.
@@ -100,4 +100,3 @@ For data from databases using the Open Database Connectivity (ODBC) standard, th
 This example shows the [!DNL Log Processing] configuration window in data workbench with an ODBC data source. This Data Source takes data from a table called [!DNL VISUAL.VSL] in a database with [!DNL Data Source Name] "VSTestO." Five (5) column objects ( [!DNL Fields]) map data from the data columns in the database to the data workbench server.
 
 ![](assets/cfg_LogProcessing_LogSources_ODBC.png)
-

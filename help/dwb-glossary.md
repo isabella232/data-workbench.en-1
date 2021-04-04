@@ -2,8 +2,8 @@
 description: null
 title: Data Workbench Glossary
 uuid: 1000c43d-383c-442d-bd09-de4f286ded31
+exl-id: 29d6560a-0394-4031-8152-20f7ea0de00b
 ---
-
 # Data Workbench Glossary{#data-workbench-glossary}
 
 **Alert**
@@ -352,4 +352,4 @@ In data workbench, a workspace is a container for a particular analysis and visu
 
 **Worktop**
 
-The “home” area within the data workbench user interface that enables you to organize and access all of your workspaces and reports. It also enables you to create and save new and updated workspaces and reports to the data workbench server so that others using the same profile can access them as well. 
+The “home” area within the data workbench user interface that enables you to organize and access all of your workspaces and reports. It also enables you to create and save new and updated workspaces and reports to the data workbench server so that others using the same profile can access them as well.

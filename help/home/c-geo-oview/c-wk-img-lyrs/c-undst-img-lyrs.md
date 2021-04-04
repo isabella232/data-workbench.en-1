@@ -4,8 +4,8 @@ solution: Analytics
 title: Understanding Imagery Layers
 topic: Data workbench
 uuid: 8f4618bf-d8bd-4d21-a29e-ab2871d781ca
+exl-id: ffe084ec-db8b-46f4-8266-0f1b771b3349
 ---
-
 # Understanding Imagery Layers{#understanding-imagery-layers}
 
 Conceptual Information about the Geography profile layers, types of imagery layers, and creating new layers.
@@ -48,4 +48,4 @@ You can create new imagery layers by copying the appropriate type of layer file 
 * The [!DNL .layer] file must reference the appropriate lookup and dimension files, if necessary. 
 * The referenced lookup file also must be stored within the data workbench server installation directory, and its path must be specified accurately in the [!DNL .layer] file.
 
-For more information about the format and parameters for each type of layer file and its associated files, see the section in this chapter for the appropriate layer type. 
+For more information about the format and parameters for each type of layer file and its associated files, see the section in this chapter for the appropriate layer type.

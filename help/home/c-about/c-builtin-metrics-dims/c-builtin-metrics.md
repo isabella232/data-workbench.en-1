@@ -4,8 +4,8 @@ solution: Analytics
 title: Built-in Metrics
 topic: Data workbench
 uuid: 1e4d91dc-0130-4296-8395-fd2ddb03f6ef
+exl-id: a8a2a8dd-dc13-4eb3-92ce-09f02252ecf0
 ---
-
 # Built-in Metrics{#built-in-metrics}
 
 Data workbench includes built-in metrics.
@@ -24,4 +24,3 @@ The following table lists the available built-in metrics for data workbench:
 |  Total Processed Log Entries  | The number of filtered log entries that have been incorporated into the Adobe dataset.  |
 |  Transformation Progress  | The percentage completion of the transformation phase of Insight Server data processing.  |
 |  Uncompressed Log Bytes Read  | The total amount of uncompressed data (in bytes) that has so far been processed during the log processing phase.  |
-

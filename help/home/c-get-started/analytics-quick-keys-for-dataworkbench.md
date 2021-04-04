@@ -2,8 +2,8 @@
 description: Use these shortcut keys for workspaces and configuration files.
 title: Keyboard shortcuts for the Data Workbench Client
 uuid: 134bcf04-767c-4170-b375-545862b2d333
+exl-id: 77b02661-d084-4860-8d28-97fb37b82332
 ---
-
 # Keyboard shortcuts for the Data Workbench Client{#keyboard-shortcuts-for-the-data-workbench-client}
 
 Use these shortcut keys for workspaces and configuration files. 

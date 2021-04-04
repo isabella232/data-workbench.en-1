@@ -4,8 +4,8 @@ solution: Analytics
 title: Built-in Profile Filters
 topic: Data workbench
 uuid: d6854d2c-4643-476e-8a44-f188e18cb115
+exl-id: bb167487-415d-44a8-9a0a-9a76d90ba5c0
 ---
-
 # Built-in Profile Filters{#built-in-profile-filters}
 
 Profile filters constrain the scope of the data available from a dataset.
@@ -47,4 +47,4 @@ entity = derived_filter:
 
 By default, workspaces have the Broken Session filter applied to both their selection and their benchmarks, and it can be toggled by right-clicking in the workspace and clicking Data > Broken Session Filter.
 
-The Broken Session Filter can be referenced in filter expressions as Broken_Session_Filter, even if it is not enabled for the current workspace. See [filter expressions](https://docs.adobe.com/content/help/en/data-workbench/using/client/t-open-ins.html#Syntax_for_Identifiers) for additional information. 
+The Broken Session Filter can be referenced in filter expressions as Broken_Session_Filter, even if it is not enabled for the current workspace. See [filter expressions](https://docs.adobe.com/content/help/en/data-workbench/using/client/t-open-ins.html#Syntax_for_Identifiers) for additional information.

@@ -4,8 +4,8 @@ solution: Analytics
 title: Viewing Accounts
 topic: Data workbench
 uuid: 22817b8f-67f2-4e59-9bc6-d3fc180ede56
+exl-id: 294e41ea-22d8-40ee-9746-c33c3c07ae2f
 ---
-
 # Viewing Accounts{#viewing-accounts}
 
 Information about viewing your accounts.
@@ -23,4 +23,3 @@ The following information displays for each account:
 |  Admin  |Whether this user is allowed to create, update, and delete user accounts as well as edit notes associated with each report. A setting of [!DNL True] indicates that this is an admin account.  |
 |  Profile Access  |The profiles that this user is allowed to access (for example, ProductSales). If the user is allowed to access all profiles associated with [!DNL Report Portal], “ALL” displays.  |
 |  Tab Access  |The tabs that this user is allowed to access (for example, [!DNL Admin]). If the user is allowed to access all tabs in the [!DNL Report Portal], “ALL” displays.  |
-

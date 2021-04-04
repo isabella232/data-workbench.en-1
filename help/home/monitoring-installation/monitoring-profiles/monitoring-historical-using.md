@@ -4,8 +4,8 @@ solution: Analytics
 title: Data Workbench Historic workspace
 topic: Data workbench
 uuid: 61c45cae-f255-4d20-bb6b-f318c8dd8214
+exl-id: e6d7e924-641e-468c-a828-16ebe1c8724f
 ---
-
 # Data Workbench Historic workspace{#data-workbench-historic-workspace}
 
 Use the data workbench Historic profile to see how configuration, hardware, and other changes impact performance, stability, and server capacity over time.
@@ -63,4 +63,3 @@ This dataset provides important server load characteristics, such as identifying
 
 * Day of the week (for example a Fast Input Rate on Tuesday and Wednesday), 
 * Hour of Day (what percentage of the day is it in Fast Input mode?)
-

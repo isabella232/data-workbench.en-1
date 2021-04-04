@@ -4,8 +4,8 @@ solution: Analytics,Analytics
 title: Determining the Number of Visitors Needed
 topic: Data workbench
 uuid: 07fca0aa-031a-4335-bba4-fb00cb90e29d
+exl-id: c23f4c21-21e5-4694-a500-efe1369cd4bf
 ---
-
 # Determining the Number of Visitors Needed{#determining-the-number-of-visitors-needed}
 
 To create a statistically significant experiment, you must determine how long you need to run the experiment to include enough visitors to effectively evaluate the results of the changes to your website.
@@ -15,4 +15,3 @@ If you need help determining the minimum length of your experiment, you can use 
 >[!NOTE]
 >
 >The experiment design spreadsheet can provide useful statistical inferences only when the metric in question is defined as a percentage of visitors that meet some criteria. That is, it is useful only when trying to test a visitor-based metric hypothesis.
-

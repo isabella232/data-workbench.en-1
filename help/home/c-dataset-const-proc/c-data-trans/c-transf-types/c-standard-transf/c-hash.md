@@ -4,8 +4,8 @@ solution: Analytics
 title: Hash
 topic: Data workbench
 uuid: 13bc14e6-75e2-4711-8f98-50fd18802be5
+exl-id: 6912a1d2-9ae8-42ba-94bd-a7a28cbdfae6
 ---
-
 # Hash{#hash}
 
 The Hash transformation creates a nearly unique string representing a 64-bit number from the input values.
@@ -32,4 +32,3 @@ In this example, the values of the c-ip and cs(user-agent) fields are used to cr
 >[!NOTE]
 >
 >This example does not represent an ideal solution for creating unique tracking IDs. However, in situations in which archival log information is used, it may be the best method.
-

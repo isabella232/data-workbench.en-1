@@ -2,8 +2,8 @@
 description: After setting up DWB, you can implement these features.
 title: Data Workbench Implementation of Features
 uuid: f7eec017-f27c-4ae0-bc23-45195fc08d81
+exl-id: 4b2625a6-cc44-4281-b532-fc29e8c06105
 ---
-
 # Data Workbench Implementation of Features{#data-workbench-implementation-of-features}
 
 After setting up DWB, you can implement these features.
@@ -33,4 +33,3 @@ After setting up DWB, you can implement these features.
 * To implement **Predictive Intelligence with Binomial Correlation**, see [Correlation Matrix](https://docs.adobe.com/content/help/en/data-workbench/using/client/analysis-visualizations/correlation-analysis/c-correlation-analysis.html).
 
 * To set up and validate the DWB Dashboard, go to the [Adobe Data Workbench Licensing Portal](https://license.visualsciences.com/License/#documentation). Also, see the [Basic Onboarding Instructions](../../../home/dwb-implement-overview/dwb-implement-provision/dwb-implement-onboarding.md#concept-e93aba41b26a410f959c5ca7f8e33355).
-

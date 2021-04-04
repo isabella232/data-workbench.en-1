@@ -4,8 +4,8 @@ solution: Analytics
 title: Uninstalling Data Workbench Geography
 topic: Data workbench
 uuid: 038b2dfb-4db2-42c6-85c3-bc5d776e7736
+exl-id: e3898423-3b28-4786-834a-1d1ff9deb7c6
 ---
-
 # Uninstalling Data Workbench Geography{#uninstalling-data-workbench-geography}
 
 Steps to uninstall data workbenchGeography.

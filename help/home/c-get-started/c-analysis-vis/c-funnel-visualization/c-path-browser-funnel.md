@@ -4,8 +4,8 @@ solution: Analytics
 title: Adding a Path Browser
 topic: Data workbench
 uuid: 6b6879bf-81e5-4c6f-a4a6-eecac1ab0a29
+exl-id: d9ecb982-3b9d-497f-9cae-5c4220a5204f
 ---
-
 # Adding a Path Browser{#adding-a-path-browser}
 
 From the Funnel visualization, you can open a Path Browser to identify additional detailed visitor fallout and fall through paths.
@@ -28,4 +28,3 @@ You can identify where visitors "fallout" (who left the path) or where visitors 
 1. Click the **More** button at the bottom of the Path Browser visualization to open a table with all visits listed in a tabular view for the previous and current visits.
 
    ![](assets/path_browser_more.png)
-

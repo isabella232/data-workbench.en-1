@@ -2,8 +2,8 @@
 description: This document explains how to change all the default Data Workbench configurations after the new schema is in place.
 title: Configuration Changes for New Schema
 uuid: 7d59fc28-ce56-49e2-b068-d5e286dcc057
+exl-id: 6eb4c7e6-9a1e-4bc3-80f0-623abf7de2f2
 ---
-
 # Configuration Changes for New Schema{#configuration-changes-for-new-schema}
 
 This document explains how to change all the default Data Workbench configurations after the new schema is in place.
@@ -60,4 +60,3 @@ To change the dataset schema from visitor to customer, you need to change the fo
    Adobe SC default URI.vw for 2D process Map is defined at Hit level and Visit Group as shown below: ![](assets/dwb_impl_API14.png)
 
    Changes to be made in URI.vw for new schema: ![](assets/dwb_impl_API15.png)
-

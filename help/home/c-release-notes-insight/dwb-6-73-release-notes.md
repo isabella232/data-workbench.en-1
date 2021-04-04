@@ -2,8 +2,8 @@
 description: New features and fixes in Data Workbench 6.73.
 title: Data Workbench 6.73 Release Notes
 uuid: bba63a8c-9cb7-4334-b66a-22db92153066
+exl-id: 911c0cb7-ad95-4dbb-90ff-8e5c40b19f7f
 ---
-
 # Data Workbench 6.73 Release Notes{#data-workbench-release-notes}
 
 New features and fixes in Data Workbench 6.73.
@@ -37,4 +37,4 @@ New features and fixes in Data Workbench 6.73.
 
     1. Place the latest trust_ca_cert.pem file on the server 6.61 and older servers. This setting is applicable to all Workstation 6.7x versions.
 
-See [archived release notes](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/release-notes.html) for Data Workbench 5.3 to 5.52. 
+See [archived release notes](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/release-notes.html) for Data Workbench 5.3 to 5.52.

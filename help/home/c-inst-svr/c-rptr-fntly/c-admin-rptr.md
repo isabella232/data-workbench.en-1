@@ -3,8 +3,8 @@ description: The administrative tasks for repeater functionality are very simila
 solution: Analytics
 title: Administering Repeater
 uuid: 4fbfce3a-2610-4dcd-a585-cb7ee07b90db
+exl-id: 5c7a4f95-be4b-4c2c-8dea-19037ba0b5cc
 ---
-
 # Administering Repeater{#administering-repeater}
 
 The administrative tasks for repeater functionality are very similar to those for Insight Server.
@@ -26,4 +26,3 @@ The following administrative tasks apply; exceptions or changes that you must ma
 * [Monitoring Audit Logs](../../../home/c-inst-svr/c-admin-inst-svr/t-mntr-adt-lgs.md#task-5dd9830424fe440ea1369215a1aca231) 
 * [Configuring Communications](../../../home/c-inst-svr/c-admin-inst-svr/t-config-com.md#task-471305ecf7a644789a288f93c42514ec) 
 * [Restarting the Service](../../../home/c-inst-svr/c-admin-inst-svr/t-rest-svc.md#task-97f97f1019bc440080ab2fddfdc04c74)  [!DNL Repeater] functionality is designed to run continuously. If you restart the machine, repeater restarts automatically. If you need to start and stop repeater manually, you can do so using the Services control panel in Windows.
-

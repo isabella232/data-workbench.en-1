@@ -4,8 +4,8 @@ solution: Analytics
 title: Display a workspace
 topic: Data workbench
 uuid: 45840157-e3a1-4ad9-8f62-a49db3d6d26c
+exl-id: d0e4ef5c-37cc-463b-a649-ffcc41495ca9
 ---
-
 # Display a workspace{#display-a-workspace}
 
 After working in Data Workbench, you can display one of the many pre-configured workspaces delivered with Data Workbench.
@@ -26,4 +26,4 @@ Below is an example of an open workspace.
 
 **To scroll within a workspace**
 
-With your cursor outside of the workspace, use the scroll wheel on your mouse to scroll through the workspace. 
+With your cursor outside of the workspace, use the scroll wheel on your mouse to scroll through the workspace.

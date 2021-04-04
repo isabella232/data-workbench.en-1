@@ -2,8 +2,8 @@
 description: Documentation for configuring and implementing DWB.
 title: Data Workbench Configuration and Implementation
 uuid: a6f55cb5-c348-419c-9d21-c3fe608d4ab6
+exl-id: ac9df711-0cce-46d3-8a44-a34a4deaf3c7
 ---
-
 # Data Workbench Configuration and Implementation{#data-workbench-configuration-and-implementation}
 
 Documentation for configuring and implementing DWB.

@@ -4,8 +4,8 @@ solution: Analytics
 title: Edit the Email.asp File
 topic: Data workbench
 uuid: 18251170-0317-4a32-b9e1-4ebf2d7ad123
+exl-id: e984f12f-362a-4dee-9af3-6d7a38a178a4
 ---
-
 # Edit the Email.asp File{#edit-the-email-asp-file}
 
 Access to and permissions within your Report Portal are controlled using individual user and group accounts.

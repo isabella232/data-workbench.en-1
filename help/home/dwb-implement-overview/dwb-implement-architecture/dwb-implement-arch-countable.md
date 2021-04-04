@@ -2,8 +2,8 @@
 description: Explanation of Countables in Dataworkbench (DWB) for designing and implementing the schema.
 title: Schema Design Countable Structures
 uuid: 2530980d-1c6b-4a96-b9c1-431fc75678bb
+exl-id: 4f2a2f8a-7b42-42bb-8ba1-2675ffe6b2c2
 ---
-
 # Schema Design Countable Structures{#schema-design-countable-structures}
 
 Explanation of Countables in Dataworkbench (DWB) for designing and implementing the schema.
@@ -87,4 +87,4 @@ Perform the following steps to create the Countable in Dataworkbench:
 
    If the Countable is not the top level one, then in the parent field give the name of the Parent Countable. In the example below, Engagement Countable is created and the Parent for this countable is Customer. ![](assets/dwb_impl_arch_5.png)
 
-For additional information on the Data Workbench architecture for schema design, countable structures, and offline data feed configurations, see the [Dataset Schema Interface](https://docs.adobe.com/content/help/en/data-workbench/using/client/admin-ui/c-dtst-sch-intrf.html). 
+For additional information on the Data Workbench architecture for schema design, countable structures, and offline data feed configurations, see the [Dataset Schema Interface](https://docs.adobe.com/content/help/en/data-workbench/using/client/admin-ui/c-dtst-sch-intrf.html).

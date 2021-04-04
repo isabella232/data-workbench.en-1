@@ -4,8 +4,8 @@ solution: Analytics
 title: Acquiring Additional Information
 topic: Data workbench
 uuid: 0a8075e9-4986-42c4-b505-3985b433cf8e
+exl-id: ad4f5e08-b7b7-4de3-b0c2-71440facb2d1
 ---
-
 # Acquiring Additional Information{#acquiring-additional-information}
 
 Query string variables may be added to a JavaScript request to collect additional measurements when a request is made.
@@ -39,4 +39,3 @@ In this example, the script variables for v_1 and v_2 can be derived from anothe
 |  v_pn=  | Value associated with the v_pn query string variable  | v_pn=Application Form  |
 |  v_1=  | Value associated with the v_1 query string variable  | v_1=99.99  |
 |  v_2=  | Value associated with the v_2 query string variable  | v_2=visa  |
-

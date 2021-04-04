@@ -3,8 +3,8 @@ description: The Sensor configuration file, txlogd.conf, contains parameters tha
 solution: Analytics
 title: Editing the Sensor txlogd.conf File
 uuid: e7f41c14-9047-4e1a-be0f-8acc8ecb1160
+exl-id: ed243bb4-cf87-4bcf-89d6-5ff5cec3bc6e
 ---
-
 # Editing the Sensor txlogd.conf File{#editing-the-sensor-txlogd-conf-file}
 
 The Sensor configuration file, txlogd.conf, contains parameters that Sensor uses to establish a connection with the data workbench server.
@@ -22,4 +22,4 @@ When changing other [!DNL txlogd.conf] parameters, such as the IP address of the
     * The location of the controlled experiment configuration file (defined by the ExpFile parameter in the [!DNL txlogd.conf] file) should be in a directory on the web server that is accessible to your web content developers or controlled by your content management system. 
     * The value in the ExpCookieURL parameter is a virtual page that is used to test websites. A user visiting that page will be given a new tracking ID.
 
-For more information about working with [!DNL txlogd.conf], please contact Adobe Consulting Services. 
+For more information about working with [!DNL txlogd.conf], please contact Adobe Consulting Services.

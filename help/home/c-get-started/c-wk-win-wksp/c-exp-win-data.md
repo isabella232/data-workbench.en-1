@@ -4,8 +4,8 @@ solution: Analytics
 title: Export window data
 topic: Data workbench
 uuid: 71a93f35-1096-41ae-8808-e5b94813a52c
+exl-id: ab931453-d366-4d3a-990e-7a368328da2d
 ---
-
 # Export window data{#export-window-data}
 
 You can export the data in certain windows to an Excel file (.xls or .xlsx) or to a tab separated values file (.tsv).
@@ -52,4 +52,3 @@ Right-click the top border of the window and click **[!UICONTROL Export]** > **[
 
 1. The [!DNL Save Window] dialog box appears. 
 1. Navigate to the directory in which you want to save the file. Change the name of the file if necessary, and click **[!UICONTROL Save]**.
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: Display layers
 topic: Data workbench
 uuid: ebc7025d-e619-43dd-88da-7452ada3226b
+exl-id: 12ec913f-c7e5-49b5-8792-db0881cb5cfe
 ---
-
 # Display layers{#display-layers}
 
 The Geography profile stores a collection of imagery layers and files.
@@ -27,4 +27,3 @@ To control the order in which your layers display, you can use an [!DNL order.tx
 **To toggle layers in a globe**
 
 * Right-click within the visualization and click the desired layer name. An X to the left of the layer indicates that the layer is visible.
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: XML Decoder Groups
 topic: Data workbench
 uuid: 8fc9ab80-9a71-4fe2-a646-e830ffeb67b9
+exl-id: 0b0534b7-8596-4528-a643-8a9b41dcaa33
 ---
-
 # XML Decoder Groups{#xml-decoder-groups}
 
 The processing of XML files as log sources to define decoders for extracting data from the XML file.
@@ -162,4 +162,3 @@ Path = string:
 <b>line</b> 
 Table = string: Log Entry
 ```
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: Transformation Dataset Include Files
 topic: Data workbench
 uuid: 46756f68-843c-4b0d-a79e-f107ef85db6c
+exl-id: 58793f82-162a-4d43-aea9-163716c82db6
 ---
-
 # Transformation Dataset Include Files{#transformation-dataset-include-files}
 
 The Transformation Dataset Include file for an inherited profile contains parameters associated with the transformation phase of dataset construction.
@@ -64,4 +64,4 @@ You should keep the following points in mind whenever you are working with [!DNL
 
 * You can add any of the parameters described above to the [!DNL Transformation Dataset Include] file by opening and editing the file in Notepad. Any changes you make and save appear when you reopen the file in data workbench. When adding a new parameter, use the Space key (not the Tab key) to indent two (2) spaces to the right of the previous heading level.
 
-If you subscribe to Adobe's [!DNL IP Geo-location] or [!DNL IP Geo-intelligence] data service, Adobe provides you with an internal profile consisting of a set of data transformations and extended dimensions that are created specifically for the data service. The transformations and dimensions are defined in [!DNL Transformation Dataset Include] files that are included in the Dataset directory of the internal profile. For instructions to install the internal profile for the [!DNL IP Geo-location] or [!DNL IP Geo-intelligence] data service, see the *Data Workbench User Guide*. 
+If you subscribe to Adobe's [!DNL IP Geo-location] or [!DNL IP Geo-intelligence] data service, Adobe provides you with an internal profile consisting of a set of data transformations and extended dimensions that are created specifically for the data service. The transformations and dimensions are defined in [!DNL Transformation Dataset Include] files that are included in the Dataset directory of the internal profile. For instructions to install the internal profile for the [!DNL IP Geo-location] or [!DNL IP Geo-intelligence] data service, see the *Data Workbench User Guide*.

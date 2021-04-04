@@ -1,8 +1,8 @@
 ---
 title: Data Workbench Release Notes Overview
 description: What's new in Adobe Analytics Data Workbench
+exl-id: 2b4a20ce-fb27-4343-8f5a-412c25aab028
 ---
-
 # Release Notes Overview
 
 * [Data Workbench 6.74 Release Notes](/help/home/c-release-notes-insight/dwb-6-74-release-notes.md)

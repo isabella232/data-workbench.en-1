@@ -3,8 +3,8 @@ description: Upgrading server components for Data Workbench 6.1 from 5.4 install
 solution: Analytics
 title: DWB Server upgrade  5.4 to 5.5
 uuid: 9cf9f493-f098-4c6d-a8b5-786833496557
+exl-id: dd8c2a89-6a40-4ebf-a964-eb4851ab94a5
 ---
-
 # DWB Server upgrade: 5.4 to 5.5{#dwb-server-upgrade-to}
 
 Upgrading server components for Data Workbench 6.1 from 5.4 installation.
@@ -31,4 +31,4 @@ You can also upgrade directly from [!DNL Insight] 5.3 to [!DNL Insight] 5.5 usin
 1. Copy the [!DNL Terrain Images.cfg.off] file into the Components folder of the [!DNL Master Server].
 **To upgrade client software from [!DNL Insight] 5.4 to 5.5**
 
-In the [!DNL Insight.cfg] file, make sure that the Update Software setting is set to TRUE. 
+In the [!DNL Insight.cfg] file, make sure that the Update Software setting is set to TRUE.

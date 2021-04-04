@@ -4,8 +4,8 @@ solution: Analytics
 title: Tracking Visitor Activity Within Flash Rich Media Content
 topic: Data workbench
 uuid: fe2e75eb-0897-4f63-b582-b4f1fdce02a1
+exl-id: f51c7034-a7fd-4575-80e1-18fc6513ca2b
 ---
-
 # Tracking Visitor Activity Within Flash Rich Media Content{#tracking-visitor-activity-within-flash-rich-media-content}
 
 Websites architected using Flash require special attention with respect to the capture of visitor actions performed within the rich media content.
@@ -142,4 +142,3 @@ The HTTP request resulting from the [!DNL Flash] Tag ActionScript function resul
   </tr> 
  </tbody> 
 </table>
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: Query Queue Resource Monitors
 topic: Data workbench
 uuid: 6b516bed-7f9a-4821-869e-19e720f20313
+exl-id: 6d445a4d-a415-41ce-9d45-1bdd0e726edd
 ---
-
 # Query Queue Resource Monitors{#query-queue-resource-monitors}
 
 The resource monitor vector contains the Memory Budget Monitor and the Number of Queries Monitor.
@@ -58,4 +58,3 @@ The resource monitor vector contains the Memory Budget Monitor and the Number of
   </tr> 
  </tbody> 
 </table>
-

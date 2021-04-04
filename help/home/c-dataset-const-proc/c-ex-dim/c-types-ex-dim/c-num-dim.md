@@ -4,8 +4,8 @@ solution: Analytics
 title: Numeric Dimensions
 topic: Data workbench
 uuid: 19fab770-1535-41b2-bad1-811eba5f3575
+exl-id: 69a4dfa6-8402-4c2b-8b04-e6e1a0fd5ccb
 ---
-
 # Numeric Dimensions{#numeric-dimensions}
 
 A numeric dimension consists of ordered, numerical elements and has a one-to-many relationship with its parent countable dimension.
@@ -111,4 +111,3 @@ Numeric dimensions are defined by the following parameters:
 This example illustrates the definition of a numeric dimension using event data collected from website traffic. This numeric dimension, named "Ad View Counter," counts the number of times that the visitor sees an advertisement during a given session. The assumption is that all advertisement resources are requested from the web server with ad= as part of the cs-uri-query. In the example, the number of times (COUNT) that the visitor is presented with an advertisement is the value of interest, not the actual value in the field.
 
 ![](assets/cfg_Transformation_Dim_Numeric.png)
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: Field viewer
 topic: Data workbench
 uuid: 1227b0de-6ae8-4f97-ad3e-5c9ead818ba5
+exl-id: 53ede4aa-4865-4e67-b3b1-e3e6287f29d7
 ---
-
 # Field viewer{#field-viewer}
 
 A field viewer is a table containing the values of one or more data fields.
@@ -24,4 +24,4 @@ You can open a field viewer as a callout from a [!DNL Transformation Dependency]
 >
 >Field viewers are not table visualizations; therefore, they do not have the properties associated with tables.
 
-For information about adding and removing fields and filtering within a field viewer, see [Administrative Interfaces](../../../../../home/c-get-started/c-admin-intrf/c-admin-intrf.md#concept-855c1a91e1a948969fab592adca15f74). 
+For information about adding and removing fields and filtering within a field viewer, see [Administrative Interfaces](../../../../../home/c-get-started/c-admin-intrf/c-admin-intrf.md#concept-855c1a91e1a948969fab592adca15f74).

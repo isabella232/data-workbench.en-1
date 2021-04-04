@@ -3,8 +3,8 @@ description: Information on assessing and monitoring the Address Space Load.
 solution: Analytics
 title: Monitoring Memory Usage
 uuid: e7f1c51b-d874-43f4-a074-1c064b5f298a
+exl-id: b8c0b33b-dbec-4947-911b-11c8a83bbc9c
 ---
-
 # Monitoring Memory Usage{#monitoring-memory-usage}
 
 Information on assessing and monitoring the Address Space Load.
@@ -53,5 +53,4 @@ If an [!DNL Insight Server] has not been reprocessed and queried significantly s
    |  100-125  | reliability compromised  | Adjust your dataset configuration to reduce Address Space load.  |
    |  125 or greater  | failure imminent  | Adjust your dataset configuration to reduce Address Space load. You may not see the failure imminent status before failure occurs.  |
 
-   If you see an Address Space load above 100%, you should change the configuration as soon as possible to reduce Address Space usage. 
-
+   If you see an Address Space load above 100%, you should change the configuration as soon as possible to reduce Address Space usage.

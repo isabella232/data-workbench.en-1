@@ -4,8 +4,8 @@ solution: Analytics
 title: Work with data in worksheets
 topic: Data workbench
 uuid: c2331fa5-aa07-4622-8f44-5124c22dffcb
+exl-id: 40d9211b-8f5c-4051-8f93-638ffacf45bd
 ---
-
 # Work with data in worksheets{#work-with-data-in-worksheets}
 
 Text or expressions can be entered into any cell of a worksheet.
@@ -154,4 +154,3 @@ The following table lists the basic keyboard shortcuts that you can use when ent
   </tr> 
  </tbody> 
 </table>
-

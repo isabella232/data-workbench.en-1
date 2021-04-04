@@ -2,8 +2,8 @@
 description: The Attribution profile is an inherited, ready-to-drop-in profile. In combination with the Adobe SC profile and Analytics (SC/Insight) data feed, the profile can be deployed to quickly expose new attribution models across digital channels.
 title: Deploying the Attribution Profile
 uuid: acc4e92a-2af1-4993-bae7-015ece3da26c
+exl-id: 287e1710-7e74-4904-b258-7b811ad484b7
 ---
-
 # Deploying the Attribution Profile{#deploying-the-attribution-profile}
 
 The Attribution profile is an inherited, ready-to-drop-in profile. In combination with the Adobe SC profile and Analytics (SC/Insight) data feed, the profile can be deployed to quickly expose new attribution models across digital channels.
@@ -85,4 +85,3 @@ or
 ```
 <b>x-va_instance_event</b> is not available
 ```
-

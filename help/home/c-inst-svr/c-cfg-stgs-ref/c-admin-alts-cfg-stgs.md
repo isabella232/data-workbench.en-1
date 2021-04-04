@@ -3,8 +3,8 @@ description: Instructions to configure administrative alerts for Insight Server,
 solution: Analytics
 title: Administrative Alerts Configuration Settings
 uuid: c2be2d1e-d81d-4d9f-ac94-4b642dad90b9
+exl-id: c75e442e-33e6-4fc8-8368-29482f09e1cc
 ---
-
 # Administrative Alerts Configuration Settings{#administrative-alerts-configuration-settings}
 
 Instructions to configure administrative alerts for Insight Server, Repeater, or Transform.
@@ -63,4 +63,3 @@ Complete the parameters in the following file:
   </tr> 
  </tbody> 
 </table>
-

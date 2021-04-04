@@ -4,8 +4,8 @@ solution: Analytics
 title: Create dimensions for use with segment export
 topic: Data workbench
 uuid: 7fdc043e-b2c5-4eac-adf4-bf60df6a3953
+exl-id: 0f16c242-10f6-4014-b848-ea001e9d085c
 ---
-
 # Create dimensions for use with segment export{#create-dimensions-for-use-with-segment-export}
 
 Any data that you want to export must be defined as a dimension within the profile.
@@ -20,4 +20,4 @@ Any data that you want to export must be defined as a dimension within the profi
 
 Exporting a field of data such as Tracking ID or Email Address (which can have lots of elements) requires that you create a denormal dimension that stores the raw strings of data.
 
-For more information about denormal dimensions, see the *Dataset Configuration Guide*. 
+For more information about denormal dimensions, see the *Dataset Configuration Guide*.

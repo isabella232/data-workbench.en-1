@@ -4,8 +4,8 @@ solution: Analytics
 title: Change the path browser's root
 topic: Data workbench
 uuid: 0bb9b004-9736-411b-bd22-cac04f4733a6
+exl-id: 09842b93-af26-42b9-9395-a02b86978b21
 ---
-
 # Change the path browser's root{#change-the-path-browser-s-root}
 
 You can change a path browser’s root by either designating a displayed element as the root or adding a new element to the visualization.
@@ -35,4 +35,3 @@ You can change a path browser’s root by either designating a displayed element
    >[!NOTE]
    >
    >Dragging an element to a path browser may change the base dimension associated with the path browser, but it does not change the level dimension, group dimension, or metric. Therefore, you must exercise caution in choosing a base dimension that makes sense when used with the path browser’s level dimension, group dimension, and metric. To change the level dimension, group dimension, or metric, you must edit the path browser’s [!DNL *.vw] file in a text editor such as Notepad. See [Configuring Path Browsers](../../../../home/c-get-started/c-intf-anlys-ftrs/t-config-path-brwsr.md#task-bbb3ddaa140a414f984b697c2b8202a3).
-

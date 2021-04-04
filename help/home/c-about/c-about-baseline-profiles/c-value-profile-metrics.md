@@ -4,8 +4,8 @@ solution: Analytics
 title: Value Profile Metrics
 topic: Data workbench
 uuid: 68951e33-013a-466b-b0f3-839eaef89cb5
+exl-id: 9e95008c-1162-4f50-89d2-dcf5fcf8746a
 ---
-
 # Value Profile Metrics{#value-profile-metrics}
 
 |  Metric  | Formula  | Level  | Description  |

@@ -4,8 +4,8 @@ solution: Analytics
 title: Making a New Element Point Layer Available
 topic: Data workbench
 uuid: 7880de63-d206-4c56-b8cf-75882d867ace
+exl-id: 9001f6b6-5d25-48a0-9381-04f679e0ff4d
 ---
-
 # Making a New Element Point Layer Available{#making-a-new-element-point-layer-available}
 
 Steps to make an element point layer available to display on the globe visualization.

@@ -4,8 +4,8 @@ solution: Analytics
 title: What Kind of Data Can I Acquire?
 topic: Data workbench
 uuid: 5ac864b8-4017-4d80-b491-7a5976225eb2
+exl-id: 97d87084-cac3-4a94-89e0-f01a66e20324
 ---
-
 # What Kind of Data Can I Acquire?{#what-kind-of-data-can-i-acquire}
 
 Sensor enables you to acquire web request data (event or log data) as well as extended measurement data.
@@ -47,4 +47,4 @@ For more information about acquiring extended measurement data, see [Acquiring B
 
 [!DNL Sensor] provides the best of both client-side and server-side data acquisition worlds—it acquires your server-side web log data and collects client-side, third-party site, or cache-busting measurements taken by embedded object requests. In other words, [!DNL Sensor] acquires both the request data normally known to your web servers (server-side measurements) and any additional measurement data that you collect through the use of page tags (client-side measurements) that send their data to any web servers running [!DNL Sensor]. Such web servers can be dedicated to collecting client-side measurements but are not required to be.
 
-For more information about acquiring extended measurement data, see [Acquiring Extended Measurements](../../home/c-undst-pg-tag/c-acq-ext-msmt/c-acq-ext-msmt.md#concept-d171a6d2bde843cdb65bcfe69c6a4944). 
+For more information about acquiring extended measurement data, see [Acquiring Extended Measurements](../../home/c-undst-pg-tag/c-acq-ext-msmt/c-acq-ext-msmt.md#concept-d171a6d2bde843cdb65bcfe69c6a4944).

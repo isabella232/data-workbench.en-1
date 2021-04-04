@@ -3,8 +3,8 @@ description: When you configure a dataset profile to run on an Insight Server cl
 solution: Analytics
 title: Configuring a Profile to Run on a Cluster
 uuid: e181d069-fb2f-4a71-a86f-bb9a48cfe059
+exl-id: be8090fc-b3da-41c4-a5d4-c6eb85b8a84d
 ---
-
 # Configuring a Profile to Run on a Cluster{#configuring-a-profile-to-run-on-a-cluster}
 
 When you configure a dataset profile to run on an Insight Server cluster, all of the machines in the cluster share all of the dataset configuration files for that profile.
@@ -81,4 +81,4 @@ If you need to make changes to the dataset configuration files ( [!DNL Log Proce
 >
 >[!DNL Insight] users who access a dataset profile running on a cluster identify only the master [!DNL Insight Server] in the [!DNL Insight] configuration file ( [!DNL insight.cfg]). From the perspective of the [!DNL Insight] user, the profile is accessible on only one [!DNL Insight Server] (the master [!DNL Insight Server]); however, query requests from analysts can be directed to any of the [!DNL Insight Servers] in the cluster.
 
-An [!DNL Insight Server] cluster permits the centralized storage of [!DNL .vsl] log files (from [!DNL Sensor]) on a single [!DNL Insight Server] machine called a File Server Unit (FSU). For information about installing an FSU, see [Installation Procedures for an Insight Server FSU](../../../../../../home/c-inst-svr/c-install-ins-svr/t-inst-proc-fsu.md#task-e4a4a791b6694119ba45b36f3e573016). For information about configuring an FSU, see the *Dataset Configuration Guide*. 
+An [!DNL Insight Server] cluster permits the centralized storage of [!DNL .vsl] log files (from [!DNL Sensor]) on a single [!DNL Insight Server] machine called a File Server Unit (FSU). For information about installing an FSU, see [Installation Procedures for an Insight Server FSU](../../../../../../home/c-inst-svr/c-install-ins-svr/t-inst-proc-fsu.md#task-e4a4a791b6694119ba45b36f3e573016). For information about configuring an FSU, see the *Dataset Configuration Guide*.

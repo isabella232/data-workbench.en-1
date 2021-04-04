@@ -4,8 +4,8 @@ solution: Analytics
 title: Work with derived metrics
 topic: Data workbench
 uuid: 9767c170-e0cb-47b4-94f1-e9f6950b5926
+exl-id: 83467c64-4b9a-44ab-91a2-202c76c89979
 ---
-
 # Work with derived metrics{#work-with-derived-metrics}
 
 You define new metrics (referred to as derived metrics) and edit existing metric definitions using the Metric Editor.
@@ -83,4 +83,3 @@ If you would like all users of the profile to use the metric that you created, y
 1. In the [!DNL Metric Editor], edit and save the metric definition as necessary using Steps 2-4 in [Creating New Derived Metrics](../../../../home/c-get-started/c-admin-intrf/c-prof-mgr/c-drvd-mtrcs.md#section-d57b98bf0a9940daba4920ff7efc808d).
 
    If you would like all users of the profile to use the metric that you edited, you must publish it to the working profile using the [!DNL Profile Manager]. See [Publishing Files to Your Working Profile](../../../../home/c-get-started/c-admin-intrf/c-prof-mgr/t-pub-files-wkg-prof.md#task-a0106e010c834d16bd60eef4721b6af9).
-

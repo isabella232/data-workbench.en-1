@@ -4,8 +4,8 @@ solution: Analytics
 title: Dashboard Hyperlink
 topic: Data workbench
 uuid: da27204f-64be-4ea1-8bf9-ce907e334d86
+exl-id: 05890f46-bcb6-476a-9d3b-4bfeb95b20d4
 ---
-
 # Dashboard Hyperlink{#dashboard-hyperlink}
 
 The third way that a dashboard can be opened is by using a dashboard’s hyperlink.
@@ -21,4 +21,3 @@ If you have a dashboard’s hyperlink, simply enter it into the browser’s addr
 >You will be prompted with a message if the dashboard no longer exists or you do not have proper permissions to access the dashboard.
 
 ![](assets/db_hyperlink2.png)
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: Segment export
 topic: Data workbench
 uuid: 85c8aa72-23fe-424b-9580-6759dc8f8681
+exl-id: 49998b46-f3a6-43a3-a76e-468894b27ee4
 ---
-
 # Segment export{#segment-export}
 
 You can easily create a Segment Export definition from the Detail Table visualization in the Data Workbench Client.
@@ -77,4 +77,3 @@ The [!DNL .part] and final output must reside in the configurable Exports direct
 1. Save the [!DNL .export] file.
 
    The saved file displays in the [!DNL Profile Manager] for you to save to the server. When you save the file to the server, the export begins.
-

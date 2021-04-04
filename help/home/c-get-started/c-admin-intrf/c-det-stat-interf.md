@@ -4,8 +4,8 @@ solution: Analytics
 title: Detailed Status interface
 topic: Data workbench
 uuid: c4d375d9-431f-4b0a-ba15-b7a10501b2e2
+exl-id: 6a460ebd-fb8f-4486-9849-dad2ff745cb5
 ---
-
 # Detailed Status interface{#detailed-status-interface}
 
 The Detailed Status interface is useful for troubleshooting errors or other issues with Data Workbench server computers.
@@ -118,4 +118,3 @@ The following table lists the tasks that can be completed using the [!DNL Detail
   </tr> 
  </tbody> 
 </table>
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: Installing the Monitoring Profile
 topic: Data workbench
 uuid: e0d6fc61-d9b9-4c4b-94e1-2acfd0ff4de6
+exl-id: 368e489c-75c9-4402-a709-a4f5987459b6
 ---
-
 # Installing the Monitoring Profile{#installing-the-monitoring-profile}
 
 Directions for installing the data workbench Monitoring Profile.
@@ -80,4 +80,3 @@ Directions for installing the data workbench Monitoring Profile.
 * **The agent collects the overall and oldest as-of time from data workbench detailed status**, which is reported in local host time assuming the event data log time stamps are in UTC (as in VSL files). If the event data timestamps are in a non-UTC time zone the as-of time will be offset in the resulting Insight Profile Status profile. If **all** of your event data time stamps are in the same time zone you can add that offset to *Insight Profile Status\metrics\as of delay minutes.metric*. 
 
 * **Two new dimensions were introduced to help the customer group their servers if they are in different states**, such as production, staging, testing servers, and servers in other states. For example if you are looking for "uptime", then you look at servers only in production mode. As a result, the Group dimension is just another way of arbitrarily grouping servers for your needs. For example, in the Monitoring Configuration file you can set, which host your department is servicing, such as Operations, Development, or Marketing.
-

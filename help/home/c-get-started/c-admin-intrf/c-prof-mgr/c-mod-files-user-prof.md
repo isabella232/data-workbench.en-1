@@ -4,8 +4,8 @@ solution: Analytics
 title: Modify local files in the user profile
 topic: Data workbench
 uuid: 839417d1-34db-4b14-a103-8f5297af55b7
+exl-id: 187d67a1-e436-4bfd-87ad-17b6c70dbee4
 ---
-
 # Modify local files in the user profile{#modify-local-files-in-the-user-profile}
 
 You can use the Profile Manager to download files that you want to modify.
@@ -38,4 +38,4 @@ After the file has been downloaded to the local computer, a check mark appears i
 
 1. Edit the file as desired, then save the file.
 
-In the [!DNL Profile Manager], note that the check mark in the [!DNL User] column for the file you edited has changed color. This indicates that the local file is now different from the version in the *profile name* folder. If necessary, you can publish the revised version of the file to the profile for use by other users working with this profile. 
+In the [!DNL Profile Manager], note that the check mark in the [!DNL User] column for the file you edited has changed color. This indicates that the local file is now different from the version in the *profile name* folder. If necessary, you can publish the revised version of the file to the profile for use by other users working with this profile.

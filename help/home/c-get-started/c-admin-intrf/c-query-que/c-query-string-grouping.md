@@ -2,8 +2,8 @@
 description: Query String Grouping lets you integrate a large number of fields together.
 title: Query String Grouping
 uuid: 7dc5ba71-984f-4899-99d2-f79b57fb616d
+exl-id: 4052cf7e-abdf-4e16-9f42-521c4e719786
 ---
-
 # Query String Grouping{#query-string-grouping}
 
 Query String Grouping lets you integrate a large number of fields together.

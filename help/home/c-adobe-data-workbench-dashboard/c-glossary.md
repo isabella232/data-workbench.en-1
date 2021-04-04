@@ -4,8 +4,8 @@ solution: Analytics
 title: Glossary
 topic: Data workbench
 uuid: 9c832e10-f518-4a76-b06e-2fd7ea1fd985
+exl-id: 0fcc348a-8963-4473-a19d-0235c993c19a
 ---
-
 # Glossary{#glossary}
 
 The most commonly used terminology and features of Adobe data workbench, including the dashboard.
@@ -24,4 +24,4 @@ Metrics are quantitative objects defined by a quantifiable expression. For examp
 
 ## Filters {#section-916c8df454c04a5f8b3e5da9e3af4870}
 
-Filters allow you to segment your data in a specific way. Filters will reduce your data to a subset of the whole result, and are often combined to provide a unique perspective on the data. In the dashboard, filters are first defined within Adobe data workbench and made accessible through the dashboard application. Each filter has a unique name within the dashboard interface. 
+Filters allow you to segment your data in a specific way. Filters will reduce your data to a subset of the whole result, and are often combined to provide a unique perspective on the data. In the dashboard, filters are first defined within Adobe data workbench and made accessible through the dashboard application. Each filter has a unique name within the dashboard interface.

@@ -4,8 +4,8 @@ solution: Analytics
 title: Dashboard User Interface
 topic: Data workbench
 uuid: cfa6c553-e223-4b0e-8b4a-255afa85c999
+exl-id: f80da6c7-02cb-4916-b139-617703cf27b6
 ---
-
 # Dashboard User Interface{#dashboard-user-interface}
 
 The data workbench dashboard includes a Sidebar and Toolbar with feature menus and a Dashboard Canvas where you display data visualizations.
@@ -42,4 +42,3 @@ The top toolbar provides access to these specific menus. It also displays the ti
 |  Update Menu  |Clicking the **[!UICONTROL Update]** indicator will update the current dashboard, taking into account any new selections and/or configuration changes. The menu provides the ability to adjust the **[!UICONTROL Query-to]** parameter, along with some advanced functions for administrators.  |
 |  Help Menu  | This drop-down menu is used to access the User’s Guide, FAQ, and About section of the application.  |
 |  User Menu  | A drop-down menu for logging out, accessing account settings, and accessing the administration area (for administrators only).  |
-

@@ -2,8 +2,8 @@
 description: The Customer Record Service (CRS) export feature lets you export Data Workbench data to the Adobe Analytics Core Services to integrate with other Analytics' capabilities, including Reports & Analytics.
 title: Exporting to Analytics Core Services
 uuid: 8fd7e8d8-989a-4ad6-bab5-61bfd37b0201
+exl-id: 573085e8-2260-4872-be90-a84ad61145bb
 ---
-
 # Exporting to Analytics Core Services{#exporting-to-analytics-core-services}
 
 The Customer Record Service (CRS) export feature lets you export Data Workbench data to the Adobe Analytics Core Services to integrate with other Analytics' capabilities, including Reports & Analytics.

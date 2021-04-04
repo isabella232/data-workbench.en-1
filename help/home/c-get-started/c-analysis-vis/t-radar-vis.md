@@ -4,8 +4,8 @@ solution: Analytics
 title: Radar visualization
 topic: Data workbench
 uuid: 39d67743-b6c1-46f1-99fd-7c71dfe07932
+exl-id: 5385d903-422b-4936-bbb3-0d5ee4d286de
 ---
-
 # Radar visualization{#radar-visualization}
 
 Radar charts provide quick focus on the areas that are in most need of attention, by providing a visual view of a set of metrics, and how they relate or differ.
@@ -29,5 +29,4 @@ Each radial of a radar chart is a metric, and a minimum of three metrics are req
 
 1. To scale a metric with the anchored metric, right-click the metric and choose the following option:
 
-   **Scale with anchor:** When enabled, this metric’s axis is scaled so that the benchmark ratio for the selected anchor metric is plotted in the circle, with zero at the center. When not selected, the circle represents a benchmark ratio of 1. Typically, you turn on Scale with Anchor for countable metrics, such as Visitors or Page Views, and turn it off for ratio metrics, such as Conversion, Average Session Duration, or Page Views per Session. 
-
+   **Scale with anchor:** When enabled, this metric’s axis is scaled so that the benchmark ratio for the selected anchor metric is plotted in the circle, with zero at the center. When not selected, the circle represents a benchmark ratio of 1. Typically, you turn on Scale with Anchor for countable metrics, such as Visitors or Page Views, and turn it off for ratio metrics, such as Conversion, Average Session Duration, or Page Views per Session.

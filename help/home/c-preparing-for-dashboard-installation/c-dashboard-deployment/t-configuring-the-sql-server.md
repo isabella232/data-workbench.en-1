@@ -4,8 +4,8 @@ solution: Analytics
 title: Configuring the SQL Server
 topic: Data workbench
 uuid: bdd5f9f5-a69f-4001-9f80-901bd7eae129
+exl-id: 16116cc8-f539-4cf0-ab1d-f2bddd39b38c
 ---
-
 # Configuring the SQL Server{#configuring-the-sql-server}
 
 Before the dashboard can operate, you must allow it to access the SQL Server.

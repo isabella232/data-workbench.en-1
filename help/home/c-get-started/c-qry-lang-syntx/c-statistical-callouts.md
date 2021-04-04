@@ -4,8 +4,8 @@ solution: Analytics
 title: Statistical Callouts
 topic: Data workbench
 uuid: 04911ac4-bc3f-4813-800b-087d9668a782
+exl-id: d4ed540e-f837-4db9-a81e-b8a30c15f270
 ---
-
 # Statistical Callouts{#statistical-callouts}
 
 Statistical callouts measure meaningful relationships to identify hidden opportunities and variables of interest for more advanced data mining capabilities in audience clustering and visitor response scoring.
@@ -59,4 +59,3 @@ The callout can return statistical values factored into the dataset columns.
   </tr>
  </tbody>
 </table>
-

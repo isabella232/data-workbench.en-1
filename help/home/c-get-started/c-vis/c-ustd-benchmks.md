@@ -4,8 +4,8 @@ solution: Analytics
 title: Benchmarks
 topic: Data workbench
 uuid: 2e5255cd-eafd-45de-a16f-70d719d2ac0c
+exl-id: 6294c4f9-a338-409a-a157-86cdfbbb6f76
 ---
-
 # Benchmarks{#benchmarks}
 
 Benchmarks display qualitative differences in data by comparing the distribution of a metric based on all of the data with the distribution of a metric based on a selection in the data.
@@ -22,4 +22,4 @@ The following graphs show the sessions on a website by day of the week and hour 
 
 After a selection is made, benchmarks (the thin white vertical lines highlighted above) appear in the Sessions by Hour of Day graph on the right. From the benchmarks, we can see that the traffic pattern on weekends when compared to the overall traffic pattern generally includes fewer sessions earlier in the day (08:00 to 11:00).
 
-The Radar Visualization is also useful for analyzing benchmarks. See [Radar Visualization](../../../home/c-get-started/c-analysis-vis/t-radar-vis.md#task-aeb2531e11ca48b597d5b0d704964dc8). 
+The Radar Visualization is also useful for analyzing benchmarks. See [Radar Visualization](../../../home/c-get-started/c-analysis-vis/t-radar-vis.md#task-aeb2531e11ca48b597d5b0d704964dc8).

@@ -2,8 +2,8 @@
 description: Instructions for installing and configuring Sensor for Sun Java System Application Server Standard Edition 7 running under Windows Server 2000 or later.
 title: Sun Java Server on Windows Server 2000 or Later
 uuid: 43f3eee0-2633-4bda-af6c-6c15433dd539
+exl-id: 33f24073-8eff-4bf6-8f83-7a122d1505d8
 ---
-
 # Sun Java Server on Windows Server 2000 or Later{#sun-java-server-on-windows-server-or-later}
 
 Instructions for installing and configuring Sensor for Sun Java System Application Server Standard Edition 7 running under Windows Server 2000 or later.
@@ -137,4 +137,3 @@ NameTrans fn="vys-cookie"
 ObjectType fn="vys-content-type" 
 AddLog fn="vys-log"
 ```
-

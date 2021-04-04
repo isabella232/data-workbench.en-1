@@ -2,8 +2,8 @@
 description: Data Workbench 6.2 release notes include new features, upgrade requirements, bug fixes, and known issues.
 title: Data Workbench 6.2 Release Notes
 uuid: 8631c936-d53b-493d-9f58-72f541c3ddce
+exl-id: 4048a296-db0b-4e90-a377-91cb08887485
 ---
-
 # Data Workbench 6.2 Release Notes{#data-workbench-release-notes}
 
 Data Workbench 6.2 release notes include new features, upgrade requirements, bug fixes, and known issues.
@@ -168,4 +168,3 @@ New quick keys let you resize and refit workspaces between window and full page 
 * (In Simplified Chinese version) Unable to launch Insight.exe if the installation directory is named with non-English characters.
 
   Workaround: Keep default names or rename using only English characters in the folder path to launch executables.
-

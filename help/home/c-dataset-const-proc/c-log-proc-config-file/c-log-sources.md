@@ -4,8 +4,8 @@ solution: Analytics
 title: Log Sources
 topic: Data workbench
 uuid: ea21c3d7-9188-4ba8-bacd-052d678bd799
+exl-id: 36e0799b-197d-4c59-84ae-7a4350584ab1
 ---
-
 # Log Sources{#log-sources}
 
 Log sources are files that contain the data to be used to build a dataset.
@@ -356,4 +356,4 @@ Assign a name for the group of fields and save as a decoder file. The name shoul
 
 **Step 5: Save the decoder file.**
 
-The file menu will open to name the decoder file and save as a [!DNL .cfg] file in the **Logs** folder. 
+The file menu will open to name the decoder file and save as a [!DNL .cfg] file in the **Logs** folder.

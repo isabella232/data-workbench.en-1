@@ -4,8 +4,8 @@ solution: Analytics
 title: Query-To Parameter
 topic: Data workbench
 uuid: 0035f005-ed23-4b60-9615-8a512e3dca53
+exl-id: cf25fba1-2055-433f-86ca-1f16f11ad372
 ---
-
 # Query-To Parameter{#query-to-parameter}
 
 The dashboard allows you to visualize samples of data from Adobe data workbench versus querying your dataset to completion.
@@ -21,4 +21,3 @@ Since running queries to 100 percent completion can take several minutes, it is 
 >An indicator will be shown in the header for each visualization that does not have a 100 percent complete query result.
 
 ![](assets/query_to2.png)
-

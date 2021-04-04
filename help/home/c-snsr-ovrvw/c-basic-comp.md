@@ -2,8 +2,8 @@
 description: Sensor consists of three main components  Data Collector, Disk Queue, and Data Transmitter.
 title: What are Basic Components
 uuid: 32e6e8d9-90ee-4db1-8883-dbdf245df26f
+exl-id: aee6a601-590a-43e0-aeeb-42a4522e55c8
 ---
-
 # What are Basic Components{#what-are-basic-components}
 
 Sensor consists of three main components: Data Collector, Disk Queue, and Data Transmitter.
@@ -55,4 +55,4 @@ For further recommendations about sizing the queue, contact Adobe Consulting Ser
 
 The transmitter is an independent process (for example, a daemon on a UNIX-based computer or a service on a Windows computer) that executes on the same machine as the web server.
 
-The transmitter reads the event data from the disk queue, compresses it, and sends it via HTTP/S to the Insight Server that you have specified, where it is processed and stored in **.vsl** files. 
+The transmitter reads the event data from the disk queue, compresses it, and sends it via HTTP/S to the Insight Server that you have specified, where it is processed and stored in **.vsl** files.

@@ -4,8 +4,8 @@ solution: Analytics
 title: Defining Exporters
 topic: Data workbench
 uuid: 565d4482-6c25-407c-bda7-0d116180902a
+exl-id: 5de6266a-e959-414c-9512-5e9f4011881b
 ---
-
 # Defining Exporters{#defining-exporters}
 
 Exporters provide the instructions for outputting the event data.

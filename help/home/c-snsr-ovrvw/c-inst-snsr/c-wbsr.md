@@ -3,8 +3,8 @@ description: Detailed instructions for installing and configuring Sensor for Web
 solution: Analytics
 title: WebSphere on AIX
 uuid: a5a3fd79-a7f0-4861-adca-8da3a185d0df
+exl-id: e560d265-dc84-4ff2-ac86-7a2ac5261451
 ---
-
 # WebSphere on AIX{#websphere-on-aix}
 
 Detailed instructions for installing and configuring Sensor for WebSphere 5.x running on AIX 5.1 or later.
@@ -261,4 +261,3 @@ For more information about processing, see the *Dataset Configuration Guide*.
    The resulting request URI is /index.jsp?A=1&B=2. 
 
 1. Repeat this procedure for each .jsp page from which you want to capture additional data.
-

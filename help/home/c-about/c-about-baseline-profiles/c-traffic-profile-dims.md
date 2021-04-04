@@ -4,8 +4,8 @@ solution: Analytics
 title: Traffic Profile Dimensions
 topic: Data workbench
 uuid: 9c0dabfc-67c9-4772-99ac-4c503c06ea78
+exl-id: 1e7d2904-aa5d-4848-a398-5d4669953be9
 ---
-
 # Traffic Profile Dimensions{#traffic-profile-dimensions}
 
 The Traffic profile contains the following dimensions to help identify visitor actions.
@@ -149,4 +149,3 @@ The dimensions in the following table are defined in the Dimension directory of 
   </tr> 
  </tbody> 
 </table>
-

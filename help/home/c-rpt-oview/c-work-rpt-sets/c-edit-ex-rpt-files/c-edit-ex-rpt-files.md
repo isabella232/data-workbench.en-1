@@ -4,8 +4,8 @@ solution: Analytics
 title: Editing Existing Report.cfg Files
 topic: Data workbench
 uuid: 494b9eef-42f3-4ed9-8b43-f5c09af33f2e
+exl-id: 69038c0c-bb01-4e61-aad6-1be0bdec8a6d
 ---
-
 # Editing Existing Report.cfg Files{#editing-existing-report-cfg-files}
 
 Steps to edit existing Report.cfg files using Worktop or a text editor.
@@ -94,4 +94,3 @@ Editing a [!DNL Report.cfg] file using the [!DNL Reports] tab of the [!DNL Workt
 1. Edit the configuration parameters as desired. For information about these parameters, see [Report.cfg Parameters](../../../../home/c-rpt-oview/c-rpt-param-ref/c-rpt-param.md#concept-838e59d72d3f4cb29ee15f5c7eb0ceff). 
 1. Save and close the file. 
 1. In the [!DNL Reports Manager], right-click the check mark in the [!DNL User] column for the [!DNL Report.cfg] file and select **[!UICONTROL Save to]***< **[!UICONTROL profile name]**>*.
-

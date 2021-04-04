@@ -4,8 +4,8 @@ solution: Analytics
 title: Dataset Schema
 topic: Data workbench
 uuid: 4ef5f14b-dc19-4118-a2f2-d680ded8092c
+exl-id: b80e6e8e-9147-46ec-8602-2d7e5d33f077
 ---
-
 # Dataset Schema{#dataset-schema}
 
 The Dataset Schema interface displays the extended dimensions (countable, simple, many-to-many, numeric, denormal, and time dimensions) defined in any Transformation Dataset Configuration file and the relationships between those dimensions.
@@ -87,4 +87,3 @@ The following table lists the dimension types and the colors in which their name
 ## To Display a Specific Visualization for a Dimension {#section-d46626df90bc4c44ae60c4b71eaeac7f}
 
 * In the [!DNL Dataset Schema] interface, right-click the desired dimension and click **[!UICONTROL Add Visualization]** > *< **[!UICONTROL visualization type]**>*.
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: PrependURI
 topic: Data workbench
 uuid: 3f2fb1a7-83f7-481e-b892-0937acd379f9
+exl-id: c39d9241-ed66-446e-b59d-fdb11942d0e8
 ---
-
 # PrependURI{#prependuri}
 
 Similar to the AppendURI transformation, the PrependURI transformation affects the internal field used by the data workbench server to construct the URI dimension.
@@ -32,4 +32,4 @@ results in the following URL:
 
 * [!DNL www.adobe.com/modelview.asp?id=login]
 
-Now the URI is extended to include the domain requested. 
+Now the URI is extended to include the domain requested.

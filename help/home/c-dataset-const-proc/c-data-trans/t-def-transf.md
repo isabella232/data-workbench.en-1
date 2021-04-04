@@ -4,8 +4,8 @@ solution: Analytics
 title: Defining a Transformation
 topic: Data workbench
 uuid: 69dd667b-e465-4c1a-a20e-4384e8988cd0
+exl-id: 61ce8093-9e64-419a-bddc-dc2225c0eaab
 ---
-
 # Defining a Transformation{#defining-a-transformation}
 
 You can define data transformations to be applied during either the log processing or transformation phase of dataset construction.
@@ -48,4 +48,3 @@ The following transformations work only when defined in the [!DNL Transformation
     * You can open the configuration of any transformation from a [!DNL Transformation Dependency Map]. After you open the configuration, you can edit it and save your changes. For information about [!DNL Transformation Dependency Maps], see [Dataset Configuration Tools](../../../home/c-dataset-const-proc/c-dataset-config-tools/c-dataset-config-tools.md#concept-6e058b7691834cf79dcfd1573f78d4f5). 
     
     * An empty string output from a transformation can overwrite a non-empty string in the output field.
-

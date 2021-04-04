@@ -2,8 +2,9 @@
 description: Upgrading server components for Data Workbench 6.2 and 6.2.2.
 title: DWB Server upgrade  6.1 to 6.2
 uuid: 61ecf2c1-9ced-42d3-a010-4a4fec13b987
+exl-id: 094b20f0-bc4a-467a-899e-e1800a624508
+exl-id: 20e2cf87-519e-4c27-9201-1275550bb72a
 ---
-
 # DWB Server upgrade: 6.1 to 6.2{#dwb-server-upgrade-to}
 
 Upgrading server components for Data Workbench 6.2 and 6.2.2.
@@ -22,4 +23,3 @@ Upgrading server components for Data Workbench 6.2 and 6.2.2.
 >[!NOTE]
 >
 >The 32-bit version of the Data Workbench client application may experience potential issues related to memory limitations when running predictive models using the clustering and scoring features.
-

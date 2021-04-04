@@ -4,8 +4,8 @@ solution: Analytics
 title: Correlation Analysis Use Cases
 topic: Data workbench
 uuid: 47328574-6600-44d7-8fff-feff3097488a
+exl-id: d4834350-8756-44b7-ab2d-64f86134100b
 ---
-
 # Correlation Analysis Use Cases{#correlation-analysis-use-cases}
 
 Defining dependent correlation points that make sense in your market is the essence of correlation analysis.
@@ -18,4 +18,4 @@ Digital publishers want to maximize their understanding of the potential relatio
 
 ## Optimization for E-retailers {#section-4e88ca075d654ffe90768b1c33c62c89}
 
-E-retailers are interested in driving increased revenue. For example, an e-retailer wants to compare a number of secondary success events (e.g., file downloads, product detail page views, internal search click-throughs, etc.) with weekly web revenue. They can quickly identify internal search click-throughs as having the highest correlation (*r* = 0.46), which may indicate an area for optimization. 
+E-retailers are interested in driving increased revenue. For example, an e-retailer wants to compare a number of secondary success events (e.g., file downloads, product detail page views, internal search click-throughs, etc.) with weekly web revenue. They can quickly identify internal search click-throughs as having the highest correlation (*r* = 0.46), which may indicate an area for optimization.

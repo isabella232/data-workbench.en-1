@@ -3,8 +3,8 @@ description: The Insight ServerReplication Service enables you to transmit the e
 solution: Analytics
 title: Installing the Replication Service
 uuid: a6467d5f-ca1c-4368-ba83-0b6bcabbe511
+exl-id: a235fe75-a6d0-4c20-8ea2-8b1cbad12da7
 ---
-
 # Installing the Replication Service{#installing-the-replication-service}
 
 The Insight ServerReplication Service enables you to transmit the event data collected and stored on one Insight Server machine to another Insight Server machine.
@@ -15,4 +15,4 @@ You can use the [!DNL Replication Service] in network infrastructures with multi
 
 **To install the [!DNL Replication Service]**
 
-The [!DNL Replicate.cfg] file should be installed as part of your [!DNL Insight Server] installation. You can find the file within the [!DNL Components] folder of your [!DNL Insight Server] installation directory. If you do not have this file, contact Adobe. 
+The [!DNL Replicate.cfg] file should be installed as part of your [!DNL Insight Server] installation. You can find the file within the [!DNL Components] folder of your [!DNL Insight Server] installation directory. If you do not have this file, contact Adobe.

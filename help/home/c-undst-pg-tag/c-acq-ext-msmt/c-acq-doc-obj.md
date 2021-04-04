@@ -4,8 +4,8 @@ solution: Analytics
 title: Acquiring Document Objects
 topic: Data workbench
 uuid: 7681c337-b147-4937-9d9c-0ff48d9bdd00
+exl-id: eae6609c-be86-44cf-a1a1-69ffb43231fa
 ---
-
 # Acquiring Document Objects{#acquiring-document-objects}
 
 Using the JavaScript Document Object Model, additional scripting methods can be employed to augment the request for the zig.js file.
@@ -35,4 +35,4 @@ v["_1"] = metacontent;
 |---|---|---|
 |  v_1=  | Value associated with the METAVALUE query string variable. This value represents the data within the META element of the HTML document.  | v_1=This page serves content related to the order thank you page.  |
 
-After the data is collected, you can configure the data workbench server to process this measurement data for the purposes of analysis and reporting. 
+After the data is collected, you can configure the data workbench server to process this measurement data for the purposes of analysis and reporting.

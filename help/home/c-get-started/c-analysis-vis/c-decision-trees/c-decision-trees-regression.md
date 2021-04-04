@@ -2,8 +2,8 @@
 description: Evaluate a Decision Tree using the Regression Tree option with new sampling and visualization features.
 title: Regression tree option for decision tree
 uuid: 1e3b5d5f-1fed-49c9-9a4d-d220c28075ac
+exl-id: e5f8d525-1530-4169-b246-cdaf30e984c0
 ---
-
 # Regression tree option for decision tree{#regression-tree-option-for-decision-tree}
 
 Evaluate a Decision Tree using the Regression Tree option with new sampling and visualization features.
@@ -52,4 +52,3 @@ In a Decision Tree visualization, right-click and select Options > **Regression 
   </tr> 
  </tbody> 
 </table>
-

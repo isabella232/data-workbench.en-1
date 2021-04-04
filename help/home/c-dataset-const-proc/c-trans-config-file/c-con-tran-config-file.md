@@ -4,8 +4,8 @@ solution: Analytics
 title: Considerations for the Transformation Configuration File
 topic: Data workbench
 uuid: 1b64d023-966d-4f84-beb6-4f02b3504eea
+exl-id: 7164ccb5-269c-4968-a3b4-1ff046a57f92
 ---
-
 # Considerations for the Transformation Configuration File{#considerations-for-the-transformation-configuration-file}
 
 Important information to consider when editing the Transformation.cfg file.
@@ -24,4 +24,3 @@ Important information to consider when editing the Transformation.cfg file.
 * You can add any of the parameters described above to the [!DNL Transformation.cfg] file by opening and editing the file in Notepad. Any changes you make and save appear when you reopen the file in data workbench. When adding a new parameter, use the Space key (not the Tab key) to indent two (2) spaces to the right of the previous heading level.
 
   Any errors that occur during the transformation phase of the dataset construction process for a dataset profile are shown in the [!DNL Profiles] node of the [!DNL Detailed Status] interface in data workbench. For information about the [!DNL Detailed Status] interface, see the *Data Workbench User Guide*.
-

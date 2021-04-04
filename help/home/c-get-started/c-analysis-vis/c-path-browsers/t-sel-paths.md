@@ -4,8 +4,8 @@ solution: Analytics
 title: Select a path
 topic: Data workbench
 uuid: 3131df2f-674f-44b8-9006-d8cb1ecf3874
+exl-id: c560dfd0-ccaf-4a60-88a1-29a33f8aa014
 ---
-
 # Select a path{#select-a-path}
 
 You can select a path within a path browser to create filters that include data associated with the elements in the path.
@@ -31,5 +31,4 @@ For example, suppose that you have created a path browser showing pages of a web
 
    ![](assets/client-path.png)
 
-   This path constitutes a selection, and all other open visualizations in the workspace (including legends) update to display data associated with the path created by the selected elements. See [Making Selections in Visualizations](../../../../home/c-get-started/c-vis/c-sel-vis/c-sel-vis.md#concept-012870ec22c7476e9afbf3b8b2515746). 
-
+   This path constitutes a selection, and all other open visualizations in the workspace (including legends) update to display data associated with the path created by the selected elements. See [Making Selections in Visualizations](../../../../home/c-get-started/c-vis/c-sel-vis/c-sel-vis.md#concept-012870ec22c7476e9afbf3b8b2515746).

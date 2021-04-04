@@ -2,8 +2,8 @@
 description: The Chord visualization allows you to show both the proportion and correlation between metrics, displaying larger chords as an indication of a stronger correlation.
 title: Chord Visualization
 uuid: 3f322f58-f8f5-4d91-bdf8-4b5f9d7fb072
+exl-id: d712f7b3-de2f-4ca4-a1bf-a2e4d42a084e
 ---
-
 # Chord Visualization{#chord-visualization}
 
 The Chord visualization allows you to show both the proportion and correlation between metrics, displaying larger chords as an indication of a stronger correlation.
@@ -45,4 +45,3 @@ The Chord visualization lets you see identify correlations between metrics, allo
 1. **Change Settings.** Right-click the Chord visualization to open a menu to change the dimension, display the dimensions as absolute numbers or as percentages, remove the selected metric or all metrics, edit colors and details, and export values to a Correlation Matrix. 
 
    ![](assets/chord_menu.png)
-

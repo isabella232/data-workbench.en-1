@@ -2,8 +2,8 @@
 description: The Bar Graph in Data Workbench now includes a regression comparison for multiple metrics across multiple graphs.
 title: Regression Analysis Graph
 uuid: 8512890e-f42b-4dce-826a-2b4bf2a215f4
+exl-id: bfc76c4a-edd5-41fe-b875-c199ea3beab5
 ---
-
 # Regression Analysis Graph{#regression-analysis-graph}
 
 The Bar Graph in Data Workbench now includes a regression comparison for multiple metrics across multiple graphs.
@@ -37,4 +37,3 @@ The regression analysis on a graph visualization allows analysts to perform "wha
    ![](assets/c_graph_regression_3.png)
 
    If Visitors by Visits values increase to 26,141, then the other metrics will be Visits at 26,560 and Page Views will be at 189,091.
-

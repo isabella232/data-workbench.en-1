@@ -4,8 +4,8 @@ solution: Analytics
 title: Analytics Reports
 topic: Data workbench
 uuid: 5fc26922-0687-464f-8c5d-d72d2a6078f0
+exl-id: 03bbf4a0-767c-4258-9512-2887f346bf0e
 ---
-
 # Analytics Reports{#analytics-reports}
 
 Analytic reports are provided for users of the Adobe SC profile. These data workbench reports—Page Views, Traffic, Unique Visitors, Referring Domain and other significant report types—are standard reports in Adobe Analytics.
@@ -36,4 +36,3 @@ The following are a list of Analytic reports:
 | [Product](https://docs.adobe.com/content/help/en/analytics/components/variables/dimensions-reports/reports-products.html)  | Identifies how individual products and groups of products (categories) contribute to your various conversion metrics, such as Revenue or Checkouts.  |
 | [Referring Domain](https://docs.adobe.com/content/help/en/analytics/components/variables/dimensions-reports/reports-referring-domains.html)  | Shows the domains that referred the customers that most impacted your site's success metrics. Referrers fall into two main categories: Domains and URLs. Domains refer to the domain name, and appear as the base domain without the query string or subdirectories attached. URLs include the base domain name, as well as any query strings or subdirectories.  |
 | [Search Keyword](https://docs.adobe.com/content/help/en/analytics/components/variables/dimensions-reports/reports-search-keywords.html)  | Reports that display a breakdown of search keywords.  |
-

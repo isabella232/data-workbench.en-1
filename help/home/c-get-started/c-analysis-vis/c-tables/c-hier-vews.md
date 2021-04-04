@@ -4,8 +4,8 @@ solution: Analytics
 title: Apply hierarchy views
 topic: Data workbench
 uuid: 859a92af-4f7e-4bb5-9a98-917006894301
+exl-id: 27a69404-40d3-44ab-bf5c-b2a5d8d836c2
 ---
-
 # Apply hierarchy views{#apply-hierarchy-views}
 
 Hierarchy views are available only when using the Site or HBX application.
@@ -42,4 +42,4 @@ Masking refers to selecting a subset of your data or a subset of the elements in
 
 1. Under More than, click the appropriate percentage, then click the metric that you want to mask.
 
-For example, if you click 0.1%, and then click Page Views, you are masking (hiding) any element that has less than 0.1% of the total number of pages views and displaying any element that has more than 0.1% of the total number of pages views. If you click 0%, you are masking all elements with a value of 0 (zero) for the selected metric. 
+For example, if you click 0.1%, and then click Page Views, you are masking (hiding) any element that has less than 0.1% of the total number of pages views and displaying any element that has more than 0.1% of the total number of pages views. If you click 0%, you are masking all elements with a value of 0 (zero) for the selected metric.

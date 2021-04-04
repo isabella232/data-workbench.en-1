@@ -4,8 +4,8 @@ solution: Analytics
 title: Time Zone Codes
 topic: Data workbench
 uuid: 5698882a-9682-41d8-88d3-8471578a22cc
+exl-id: 2829c4ca-af6f-4ddb-acce-b33c3b552ba7
 ---
-
 # Time Zone Codes{#time-zone-codes}
 
 Information about the Time Zone codes and formats.
@@ -47,4 +47,3 @@ If you are implementing Daylight Saving Time or a similar clock-shifting policy,
 |  mdt  | Mountain Daylight  | 7  |
 |  pst  | Pacific Standard  | 8  |
 |  pdt  | Pacific Daylight  | 8  |
-

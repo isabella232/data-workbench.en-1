@@ -4,8 +4,8 @@ solution: Analytics,Analytics
 title: How Does Site Identify Visitors?
 topic: Data workbench
 uuid: e1e451b8-e827-4010-bda9-9147c3b09958
+exl-id: 2783ee11-6d6a-463d-86b5-dd63e490201f
 ---
-
 # How Does Site Identify Visitors?{#how-does-site-identify-visitors}
 
 A typical configuration of Site uses cookies to uniquely identify visitors to your website and track their behavior over time.
@@ -22,4 +22,4 @@ During a controlled experiment, users who do not accept cookies could be placed 
 
 For more information about the Broken Session Filter, see the * [!DNL Insight] User Guide*.
 
-If a visitor clears the cookie during an experiment, the visitor is assigned a new cookie and potentially could be assigned to a different group. Because Adobe identifies the visitor as new, the experiment is not invalidated. 
+If a visitor clears the cookie during an experiment, the visitor is assigned a new cookie and potentially could be assigned to a different group. Because Adobe identifies the visitor as new, the experiment is not invalidated.

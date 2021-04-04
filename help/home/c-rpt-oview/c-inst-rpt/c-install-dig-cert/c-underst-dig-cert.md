@@ -4,8 +4,8 @@ solution: Analytics
 title: Understanding Digital Certificates
 topic: Data workbench
 uuid: a2d84e9a-16aa-4973-85da-303614a4ad7f
+exl-id: 967e9d5b-7972-497e-8902-8db0eb304f27
 ---
-
 # Understanding Digital Certificates{#understanding-digital-certificates}
 
 Adobe uses X.509 digital certificates to identify and authenticate the client and server components that make up an implementation.
@@ -40,4 +40,4 @@ If you are installing on a machine that cannot access the Internet, you must req
 
 To request a pre-locked certificate, you need to send the node identifier and your certificate number to Adobe Customer Care. To obtain the node identifier for your machine, contact Adobe Customer Care to request the Adobe [!DNL Node Identifier] utility. You also can obtain the node identifier from the alert that [!DNL Report Server] issues when it attempts to connect to the License Server and cannot. When you receive the pre-locked certificate, install it as described in the last two steps of [Digital Certificate Installation Procedures](../../../../home/c-rpt-oview/c-inst-rpt/c-install-dig-cert/t-dig-cert-install-proc.md#task-5c4bb352ff534b40adc46dd053874e5d).
 
-When the certificate needs to be re-validated, you must download a new validated certificate from the License Server and reinstall it on your machine (unless your agreement with Adobe states otherwise). 
+When the certificate needs to be re-validated, you must download a new validated certificate from the License Server and reinstall it on your machine (unless your agreement with Adobe states otherwise).

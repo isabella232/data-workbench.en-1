@@ -2,8 +2,8 @@
 description: Configure the time dimensions to display correctly for the locale.
 title: Localizing Time Dimensions
 uuid: a2098522-bf05-4680-9b78-6fb284695a0a
+exl-id: 950fe70b-a687-4b9c-b29f-555139740809
 ---
-
 # Localizing Time Dimensions{#localizing-time-dimensions}
 
 Configure the time dimensions to display correctly for the locale.
@@ -95,4 +95,4 @@ Here is an example of a **[!DNL meta.cfg]** file in the workstation:
 
 ![](assets/dwb_time_format.png)
 
-The administrator is then able to go into the **File Manager**, open the file(s) where the time dimensions are configured (e.g., **[!DNL Standard Time Dimensions.cfg]**), and edit them using in the workstation. 
+The administrator is then able to go into the **File Manager**, open the file(s) where the time dimensions are configured (e.g., **[!DNL Standard Time Dimensions.cfg]**), and edit them using in the workstation.

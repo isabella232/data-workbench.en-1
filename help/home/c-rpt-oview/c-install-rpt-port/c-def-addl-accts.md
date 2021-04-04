@@ -4,8 +4,8 @@ solution: Analytics
 title: Define Additional Accounts
 topic: Data workbench
 uuid: 5ad98b52-267c-4c36-b43a-ae6ad415de8e
+exl-id: 1f267217-a389-431a-ba49-9a9eead0ae83
 ---
-
 # Define Additional Accounts
 
 Users must have a valid account and provide an account name and password when they access the Report Portal.
@@ -30,4 +30,3 @@ For steps to add additional users, see [Working with Accounts](../../../home/c-r
 >[!NOTE]
 >
 >Optionally, you can disable user authentication and allow anonymous access to [!DNL Report Portal]. For steps to do so, see the information about the Session(“In”) parameter in [Edit the Session Configuration File](../../../home/c-rpt-oview/c-install-rpt-port/t-edit-sess-config-file.md#task-cf11c3a780bd4936afd3f64a6b30afc7).
-

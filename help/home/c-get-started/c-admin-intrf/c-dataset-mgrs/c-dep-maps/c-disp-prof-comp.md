@@ -4,8 +4,8 @@ solution: Analytics
 title: Display profile components
 topic: Data workbench
 uuid: c904dcb7-6bb9-445c-be55-0573f88928ad
+exl-id: 9d0aea02-cc24-43c2-afb8-e11ebd80e193
 ---
-
 # Display profile components{#display-profile-components}
 
 You can choose to display your profile’s dataset components, query model components, or workspaces, reports, menu options, and globe layers in the dependency map.
@@ -35,4 +35,4 @@ When you click a node, all of the nodes that depend on that node and all of the 
 >
 >A highlighted path in a dependency map does not constitute a selection.
 
-When you right-click a node, you can see identifying information about each component shown on the map and choose menu options that enable you to view more detail about the component or to edit the component. In addition, you can perform text searches and display performance information for transformations and extended dimensions. 
+When you right-click a node, you can see identifying information about each component shown on the map and choose menu options that enable you to view more detail about the component or to edit the component. In addition, you can perform text searches and display performance information for transformations and extended dimensions.

@@ -2,8 +2,8 @@
 description: Data Workbench lets you export files to integrate with the Profiles and Audiences Export as part of an integrated Adobe Experience Cloud.
 title: Master Marketing Profile Export
 uuid: bae0f0c5-a452-4afd-9f2c-5f3ab69a12d2
+exl-id: 9fc89815-d31d-41a7-a0c0-de1e84b24baa
 ---
-
 # Master Marketing Profile Export{#master-marketing-profile-export}
 
 Data Workbench lets you export files to integrate with Profiles and Audiences as part of an integrated Adobe Experience Cloud.
@@ -163,4 +163,3 @@ Time Limit (sec) = double: 1800
 |---|---|
 |  MMP Segment ID  | Required. This is an identifier you would define first in Audience Manager.  |
 |  MMP Visitor ID Field  | Map the ECID.  |
-

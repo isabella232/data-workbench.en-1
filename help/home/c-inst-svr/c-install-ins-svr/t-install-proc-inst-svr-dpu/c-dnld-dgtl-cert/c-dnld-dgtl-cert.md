@@ -3,8 +3,8 @@ description: General information about digital certificates, and procedures to d
 solution: Analytics
 title: Downloading and Installing the Digital Certificates
 uuid: ac484e96-21dc-4643-ae74-01ac957e30ee
+exl-id: 8aae9b63-7df0-4725-9833-711246bbe746
 ---
-
 # Downloading and Installing the Digital Certificates{#downloading-and-installing-the-digital-certificates}
 
 General information about digital certificates, and procedures to download and install them.
@@ -79,4 +79,3 @@ When you receive the pre-locked certificate, install it as described in the last
 1. Rename the downloaded certificate file to:
 
 [!DNL server_cert.pem]
-

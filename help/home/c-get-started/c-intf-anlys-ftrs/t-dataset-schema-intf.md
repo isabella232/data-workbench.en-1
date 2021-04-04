@@ -4,8 +4,8 @@ solution: Analytics
 title: Configure the Dataset Schema Interface
 topic: Data workbench
 uuid: 953909e8-3382-43cf-98c0-d4785c6d1dda
+exl-id: 0227663f-4789-4780-b753-d0deb35f6144
 ---
-
 # Configure the Dataset Schema Interface{#configure-the-dataset-schema-interface}
 
 Steps to change the default visualization.
@@ -37,4 +37,3 @@ For more information about [!DNL Dataset Schema Interfaces], see [The Dataset Sc
     1. In the [!DNL Profile Manager], click **[!UICONTROL Context]**, then click **[!UICONTROL Dimension Legend]**. 
     
     1. Right-click the check mark next to the file name of the new callout in the [!DNL User] column and click **[!UICONTROL Save to]** > *< **[!UICONTROL working profile name]**>*.
-

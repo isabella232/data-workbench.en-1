@@ -2,8 +2,8 @@
 description: You can now use CSV, TSV, Segment Export, and Segment Export with Header using FTP and SFTP protocols to export segment files from the client (workstation) to the server.
 title: Export a segment using S/FTP delivery
 uuid: 4d654368-cbf7-4e7f-8ab9-82f4e0261ac6
+exl-id: 0f1dc0a1-f376-47fb-887c-612a654ed0f0
 ---
-
 # Export a segment using S/FTP delivery{#export-a-segment-using-s-ftp-delivery}
 
 You can now use CSV, TSV, Segment Export, and Segment Export with Header using FTP and SFTP protocols to export segment files from the client (workstation) to the server.

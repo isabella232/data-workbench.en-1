@@ -4,8 +4,8 @@ solution: Analytics
 title: Path browsers
 topic: Data workbench
 uuid: 548091dc-935f-41ac-b67c-39080988f1ea
+exl-id: 563cf0e3-39d7-49b7-b808-b0233169fb1a
 ---
-
 # Path browsers{#path-browsers}
 
 A path browser enables you to analyze the sequence in which a particular dimension’s elements were accessed.
@@ -51,4 +51,3 @@ By right-clicking any element in the path browser, you can see the name of the m
 >[!NOTE]
 >
 >You can change the default dimensions and metric for a path browser. For instructions to configure a path browser visualization, see [Configuring Path Browsers](../../../../home/c-get-started/c-intf-anlys-ftrs/t-config-path-brwsr.md#task-bbb3ddaa140a414f984b697c2b8202a3).
-

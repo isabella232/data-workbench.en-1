@@ -4,8 +4,8 @@ solution: Analytics
 title: Edit the Session Configuration File
 topic: Data workbench
 uuid: c1bcd4d2-9bf5-425a-bda2-7f805983cdc6
+exl-id: 98cf2e11-afb8-4530-aaa4-ea3c913effc1
 ---
-
 # Edit the Session Configuration File{#edit-the-session-configuration-file}
 
 The Report Portal uses the information in a configuration file called global.asa to initialize user sessions.
@@ -30,5 +30,4 @@ The Report Portal uses the information in a configuration file called global.asa
 
    Example: [!DNL http://localhost/VisualReportPortal]
 
-   If the [!DNL Report Portal] ASPs have been installed correctly, you should see the portal login page. If you do not see this page, verify that ASPs are enabled on your IIS and double-check your virtual directory mappings. 
-
+   If the [!DNL Report Portal] ASPs have been installed correctly, you should see the portal login page. If you do not see this page, verify that ASPs are enabled on your IIS and double-check your virtual directory mappings.

@@ -2,8 +2,8 @@
 description: Detailed instructions for installing and configuring Sensor for an Apache Server 1.3.x on RedHat Linux 7.x or later, SUSE Linux 9.x or later, Sun Solaris SPARC 2.6 or later, Sun Solaris x86 9 or later, FreeBSD 4 or later, or Mac OS X PowerPC.
 title: Apache Server 1.3.x on Linux, Sun Solaris, FreeBSD, or Mac OS X
 uuid: bd46dd0f-fe36-4f8b-a87c-8ca7b64da609
+exl-id: 087494fb-c8f0-457c-b3db-d9147a739998
 ---
-
 # Apache Server 1.3.x on Linux, Sun Solaris, FreeBSD, or Mac OS X{#apache-server-x-on-linux-sun-solaris-freebsd-or-mac-os-x}
 
 Detailed instructions for installing and configuring Sensor for an Apache Server 1.3.x on RedHat Linux 7.x or later, SUSE Linux 9.x or later, Sun Solaris SPARC 2.6 or later, Sun Solaris x86 9 or later, FreeBSD 4 or later, or Mac OS X PowerPC.
@@ -190,4 +190,3 @@ This command starts the transmitter as a daemon. Operating and error messages th
 >```
 >
 >The default Solaris setting is 60. Based on tests conducted with Sensor, which uses three semaphores for each instance, Adobe recommends that you use 1024 as your setting. This number is high enough for Sensor to function along with any other applications on the server that may require semaphores, but does not affect performance. To support this recommendation, please note that Adrian Cockcroft stated the following in his book Sun Performance and Tuning (Prentice Hall, October 1994): “Databases tend to use lots of shared memory and semaphore settings. These do not affect performance; as long as they are big enough, the programs will run.”
-

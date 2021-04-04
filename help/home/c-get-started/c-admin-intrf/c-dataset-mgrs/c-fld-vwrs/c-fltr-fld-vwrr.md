@@ -4,8 +4,8 @@ solution: Analytics
 title: Filter within a field viewer
 topic: Data workbench
 uuid: 3788fa03-c898-4e9d-81a0-ecf90376cac6
+exl-id: 0bb781e7-8c1c-4a74-882f-410470782ad2
 ---
-
 # Filter within a field viewer{#filter-within-a-field-viewer}
 
 You can filter the values displayed in a field viewer by searching for specific text or by filtering out blank rows.
@@ -27,4 +27,4 @@ For information about regular expressions, see the *Dataset Configuration Guide*
 
 * Right-click within the column for the field for which you want to filter out blank rows and click **[!UICONTROL Filter out blank rows]**.
 
-When enabled, an X appears to the left of the option, and the column name is highlighted in red. 
+When enabled, an X appears to the left of the option, and the column name is highlighted in red.

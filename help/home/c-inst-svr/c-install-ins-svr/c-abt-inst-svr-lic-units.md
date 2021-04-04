@@ -3,8 +3,8 @@ description: Insight Server is available under two license types.
 solution: Analytics
 title: About Insight Server License Units
 uuid: e6a48b00-4dc1-416c-9039-01c01b86abbf
+exl-id: 82d6fa29-d36e-480d-a975-f5a5e60a32d2
 ---
-
 # About Insight Server License Units{#about-insight-server-license-units}
 
 Insight Server is available under two license types.
@@ -24,4 +24,4 @@ If you are installing an [!DNL Insight Server] DPU, see [Installation Procedures
 
 This type of server is configured to receive and store event data from one or more [!DNL Sensor] or event data replication instances ( [!DNL Repeater] functionality provided with a special use license) and stream the data to one or more [!DNL Insight Server] Data Processing Units (DPUs) for constructing Adobe datasets. DPUs communicate with an FSU using a protocol that optimizes the transfer of event data to the DPU and is significantly faster than maintaining log files on ordinary file servers. The use of an FSU also reduces hardware costs by enabling log data to be stored on lower cost storage hardware and reduces administrative complexity by allowing multiple [!DNL Sensors] to point to a single [!DNL Insight Server].
 
-If you are installing an [!DNL Insight Server] FSU, see [Installation Procedures for an Insight Server FSU](../../../home/c-inst-svr/c-install-ins-svr/t-inst-proc-fsu.md#task-e4a4a791b6694119ba45b36f3e573016). 
+If you are installing an [!DNL Insight Server] FSU, see [Installation Procedures for an Insight Server FSU](../../../home/c-inst-svr/c-install-ins-svr/t-inst-proc-fsu.md#task-e4a4a791b6694119ba45b36f3e573016).

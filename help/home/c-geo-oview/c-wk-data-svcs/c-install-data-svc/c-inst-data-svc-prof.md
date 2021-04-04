@@ -4,8 +4,8 @@ solution: Analytics
 title: Installing the Data Service Profile
 topic: Data workbench
 uuid: 1c03d0cd-7eaa-4e48-bbff-8bfad8fed9e9
+exl-id: 51d080bb-f874-426c-91ea-3912ffd38419
 ---
-
 # Installing the Data Service Profile{#installing-the-data-service-profile}
 
 The data service profiles (IP Geo-intelligence and IP Geo-location) are internal profiles that provide additional functionality to your Adobe application.
@@ -66,4 +66,3 @@ For more information about element point layers that use lookup files, see [Defi
 >[!NOTE]
 >
 >Do not save the modified configuration file to any of the internal profiles provided by Adobe (including the [!DNL IP Geo-location] or [!DNL IP Geo-intelligence] profile), as your changes are overwritten when you install updates to these profiles.
-

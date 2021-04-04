@@ -4,8 +4,8 @@ solution: Analytics
 title: Workspace File menu
 topic: Data workbench
 uuid: abbdb2db-d918-4edf-977c-1daaf8a71721
+exl-id: b2bb7d89-249c-40f5-85aa-02fea0b0fc61
 ---
-
 # Workspace File menu{#workspace-file-menu}
 
 Information about the menu options available in the Workspace file menu.
@@ -66,4 +66,4 @@ You also can void your changes by closing the workspace without saving by pressi
 
 **Export to Excel from Template**
 
-If Microsoft Excel is installed on the Data Workbench machine, automatically starts Microsoft Excel and exports the data from certain visualizations, certain legends, and text annotations to the template Excel file ( [!DNL .xls]or [!DNL .xlsx]) that you select. See [Exporting to a Template Excel File](../../../home/c-get-started/c-work-worksp/c-ex-wksp.md#section-814772929ca64cf6b92b89d3fdd02302). 
+If Microsoft Excel is installed on the Data Workbench machine, automatically starts Microsoft Excel and exports the data from certain visualizations, certain legends, and text annotations to the template Excel file ( [!DNL .xls]or [!DNL .xlsx]) that you select. See [Exporting to a Template Excel File](../../../home/c-get-started/c-work-worksp/c-ex-wksp.md#section-814772929ca64cf6b92b89d3fdd02302).

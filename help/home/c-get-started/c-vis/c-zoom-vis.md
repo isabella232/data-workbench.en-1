@@ -4,8 +4,8 @@ solution: Analytics
 title: Zoom in or out in a visualization
 topic: Data workbench
 uuid: bc28f759-c4d3-4340-8ec7-27cf6aaf21e6
+exl-id: 27072e6b-3102-40b2-a617-3cd26bf6e840
 ---
-
 # Zoom in or out in a visualization{#zoom-in-or-out-in-a-visualization}
 
 You can zoom in or out on data in graphs, globes, process maps, and scatter plots.
@@ -51,4 +51,4 @@ Both graphs and scatter plots have axes that you can zoom in or out on separatel
 
 ![](assets/vis_ZoomToSelection.png)
 
-Arrows appear on the axis indicating that more data is available beyond the portion of the visualization currently displayed. 
+Arrows appear on the axis indicating that more data is available beyond the portion of the visualization currently displayed.

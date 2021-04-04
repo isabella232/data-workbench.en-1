@@ -4,8 +4,8 @@ solution: Analytics
 title: Metric and dimension menus
 topic: Data workbench
 uuid: 0dfae2bd-6c33-4496-83ea-f7f6de960259
+exl-id: 59bed6c1-74b2-49e2-ac68-f22c8bed668a
 ---
-
 # Metric and dimension menus{#metric-and-dimension-menus}
 
 The menus accessed by right-clicking the metric or dimension area within a visualization provide access to actions related to the metric or dimension in that visualization.
@@ -161,4 +161,3 @@ This menu provides you with different options depending on the type of visualiza
   </tr> 
  </tbody> 
 </table>
-

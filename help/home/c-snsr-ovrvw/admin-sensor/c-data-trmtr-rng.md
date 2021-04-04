@@ -3,8 +3,8 @@ description: Check whether the transmitter is running by setting up alerts, chec
 solution: Analytics
 title: Confirming that the Data Transmitter is Running
 uuid: 8dd6307c-e7d2-4800-88c7-f93385b33ca5
+exl-id: 10ba704e-85be-425f-8a5d-9429100f367d
 ---
-
 # Confirming that the Data Transmitter is Running{#confirming-that-the-data-transmitter-is-running}
 
 Check whether the transmitter is running by setting up alerts, checking the system status of the Sensor, and more.
@@ -33,4 +33,4 @@ Yet another way to verify that the transmitter is running is to manually check t
 
 If the icon for a [!DNL Sensor] is green, the transmitter is running.
 
-For more information about the [!DNL Servers Manager], see the Administrative Interfaces chapter of the *Data Workbench [!DNL Sensor] Guide*. 
+For more information about the [!DNL Servers Manager], see the Administrative Interfaces chapter of the *Data Workbench [!DNL Sensor] Guide*.

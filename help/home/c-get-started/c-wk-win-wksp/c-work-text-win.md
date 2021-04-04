@@ -4,8 +4,8 @@ solution: Analytics
 title: Work with text in windows
 topic: Data workbench
 uuid: c0766fe3-3433-4409-bfae-325ec2f4c5ef
+exl-id: f786014d-c784-44f8-a399-f1d58bbb5f3d
 ---
-
 # Work with text in windows{#work-with-text-in-windows}
 
 Wherever you can enter text in a window, you can perform many of the functions that you can perform in any text editor, such as Notepad or Microsoft Word.
@@ -28,4 +28,3 @@ When copying and pasting a parameter, both must be of the same type, such as str
 
 1. Right-click a vector or node and click **[!UICONTROL Copy]**. 
 1. In the appropriate location within the text editor file, press **[!UICONTROL Ctrl+v]**.
-

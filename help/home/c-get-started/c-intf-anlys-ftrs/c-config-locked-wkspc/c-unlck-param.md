@@ -4,8 +4,8 @@ solution: Analytics
 title: Set the unlock parameter
 topic: Data workbench
 uuid: db094e32-7d82-4f93-a492-a6bed33ae722
+exl-id: 5eda919f-4cfe-4692-9dbf-f7cf64fde1de
 ---
-
 # Set the unlock parameter{#set-the-unlock-parameter}
 
 The Unlock parameter in a user’s Insight.cfg file specifies whether that user has permission to temporarily unlock locked workspaces for editing.
@@ -27,4 +27,3 @@ If the Unlock parameter is already present in the user’s [!DNL Insight.cfg] fi
 
 1. Set the value to either true or false. True enables the user to temporarily unlock any locked workspace, while false does not. 
 1. Save and close the file.
-

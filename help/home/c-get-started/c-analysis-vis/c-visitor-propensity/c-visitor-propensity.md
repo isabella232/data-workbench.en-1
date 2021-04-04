@@ -4,8 +4,8 @@ solution: Analytics
 title: Propensity Scoring
 topic: Data workbench
 uuid: 4f7163f5-6fe4-4f87-9e27-71ec8b4717af
+exl-id: 832a1e6c-8eeb-4dcc-97e8-9570e1a6eb4f
 ---
-
 # Propensity Scoring{#propensity-scoring}
 
 Propensity scoring lets you define customers based on their possibility of a successful conversion or completion of a specified event. It allows you to maximize the potential impact of efforts before executing a process or directing a campaign.
@@ -54,4 +54,3 @@ The Propensity Scoring Visualization includes these features accessible from its
 * **Select variables of interest (independent variables) as inputs to the Propensity Scoring algorithm**. These can be Metrics or individual elements of a Dimension. Propensity Scoring will start preprocessing just as in [Visitor Clustering](../../../../home/c-get-started/c-analysis-vis/c-visitor-cluster/c-visitor-cluster.md#concept-1c2406ef7b284a56a02daa38eaa2e73d). The system begins capturing a certain amount of samples that match the definition of the previously set training filter (if any). Currently, the sample size is set as 10% of scoring population (defined by training filter), with a minimum of 20,000 and maximum of 100,000, and is bound to the scoring population size. 
 
 * A Score Dimension has elements ranging from 0% to 100% that determines the likelihood of the visitors matching the Target variable.
-

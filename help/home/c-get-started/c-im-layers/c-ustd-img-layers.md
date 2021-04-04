@@ -4,8 +4,8 @@ solution: Analytics
 title: About imagery layers
 topic: Data workbench
 uuid: a8b00bda-c5b2-4f27-8c15-2d319b3bfa70
+exl-id: c6d30747-70d2-4489-ad64-fd131e76a7a2
 ---
-
 # About imagery layers{#about-imagery-layers}
 
 Conceptual information about imagery layers.
@@ -48,4 +48,4 @@ You can create new imagery layers by copying the appropriate type of layer file 
 * The [!DNL .layer] file must reference the appropriate lookup and dimension files, if necessary. 
 * The referenced lookup file also must be stored within the Data Workbench server installation directory, and its path must be specified accurately in the [!DNL .layer] file.
 
-For more information about the format and parameters for each type of layer file and its associated files, see the section in this chapter for the appropriate layer type. 
+For more information about the format and parameters for each type of layer file and its associated files, see the section in this chapter for the appropriate layer type.

@@ -4,8 +4,8 @@ solution: Analytics
 title: Create subsets
 topic: Data workbench
 uuid: e2f8d91b-ea66-46e1-9add-685aebe1d59e
+exl-id: 5386638a-43a0-4702-85c4-e72944a4201a
 ---
-
 # Create subsets{#create-subsets}
 
 Steps to create a subset.
@@ -23,4 +23,4 @@ Steps to create a subset.
 
    ![](assets/mnu_Subset.png)
 
-An X displays to the left of the [!DNL Subset menu] option and to the left of the subset’s level. 
+An X displays to the left of the [!DNL Subset menu] option and to the left of the subset’s level.

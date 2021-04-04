@@ -4,8 +4,8 @@ solution: Analytics
 title: Add a bookmarks
 topic: Data workbench
 uuid: 8b7fd6ac-9bab-4e7a-8f52-8568413052e8
+exl-id: ba05d7ee-49c6-42a0-a490-9c59fcaaddc5
 ---
-
 # Add a bookmarks{#add-a-bookmarks}
 
 You can bookmark significant workspaces to quickly move between visualizations and reports employed in your workflow.

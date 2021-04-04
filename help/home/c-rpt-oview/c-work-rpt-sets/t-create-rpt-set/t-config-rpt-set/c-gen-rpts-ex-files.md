@@ -4,8 +4,8 @@ solution: Analytics
 title: Generating Reports as Microsoft Excel Files
 topic: Data workbench
 uuid: 0717a916-93d6-4b8e-a2ff-e9179ba4a66e
+exl-id: 4e644867-db5e-4ca9-a2bf-1193e031f2bf
 ---
-
 # Generating Reports as Microsoft Excel Files{#generating-reports-as-microsoft-excel-files}
 
 Information to generate reports as Excel files.
@@ -49,4 +49,4 @@ To generate a report using a template that is specific to a report, you must nam
 
 When the report is generated, the existing tabbed sheets in the template (each representing one visualization) are repopulated with the most recent data from the report, while any new windows that are not present in the template as tabbed sheets are ignored. Any other tabbed sheets in the template file remain unchanged.
 
-In addition, if you have a macro defined in the template Excel file that you would like to run automatically when the report is generated, name the macro “VSExport.” 
+In addition, if you have a macro defined in the template Excel file that you would like to run automatically when the report is generated, name the macro “VSExport.”

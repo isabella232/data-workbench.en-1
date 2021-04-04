@@ -2,8 +2,8 @@
 description: This section explains how to create timestamps for a Data Workbench dataset.
 title: Setting up Event Time
 uuid: 0230154d-05a2-44cf-9456-0a27e55f58ef
+exl-id: 9632e713-5cf9-4acf-aafa-bfdf79a51ad9
 ---
-
 # Setting up Event Time{#setting-up-event-time}
 
 This section explains how to create timestamps for a Data Workbench dataset.
@@ -76,4 +76,3 @@ Based on the date field format, x-timestamp, x-unixtime or x-timestring variable
 In the insight foundation.cfg (or any other config under Datasetà log processing folder), use the Copy transformation to set the Event Time as shown below: ![](assets/dwb_impl_timestamp1.png)
 
 If the date in is YYYY-MM-DD HH:MM:SS.mmm format, x-timestring is used. ![](assets/dwb_impl_timestamp2.png)Example: If the date field is in the format other than defined in DWB say YYYY/MM/DD, then first format it in one of the timestamp format accepted by the DWB and then assign it to the corresponding variable. In the screenshot below, the date is first converted into YYYY-MM-DD format and then assigned to *x-timestring *variable. ![](assets/dwb_impl_timestamp3.png)
-

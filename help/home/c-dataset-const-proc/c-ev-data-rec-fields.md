@@ -4,8 +4,8 @@ solution: Analytics
 title: Event Data Record Fields
 topic: Data workbench
 uuid: b0232bfa-0a3b-4e3d-876e-6a15a3764eae
+exl-id: 35433b87-991a-4fb9-ba6a-3217e89eb769
 ---
-
 # Event Data Record Fields{#event-data-record-fields}
 
 Information about the fields of data that the data workbench server can process to construct a dataset.
@@ -178,4 +178,4 @@ The table below lists examples of fields that are derived by the data workbench 
  </tbody> 
 </table>
 
-[!DNL Sensor], when used on a server, can collect fields of event data from any valid HTTP request or response header or variable available to it through the server's API. To collect such fields of data, you must specify the desired header fields or variables in the [!DNL txlogd.conf]configuration file for [!DNL Sensor]. For more information, see the *Data Workbench [!DNL Sensor] Guide*. 
+[!DNL Sensor], when used on a server, can collect fields of event data from any valid HTTP request or response header or variable available to it through the server's API. To collect such fields of data, you must specify the desired header fields or variables in the [!DNL txlogd.conf]configuration file for [!DNL Sensor]. For more information, see the *Data Workbench [!DNL Sensor] Guide*.

@@ -3,8 +3,8 @@ description: Information about configuring the cluster on the Master Insight Ser
 solution: Analytics
 title: Configuring the Master Insight Server for Clustering
 uuid: c3ac38e3-79c5-4863-9156-194589a6bcbd
+exl-id: 28126ba4-6d81-4ca4-895c-4e8b1a54a693
 ---
-
 # Configuring the Master Insight Server for Clustering{#configuring-the-master-insight-server-for-clustering}
 
 Information about configuring the cluster on the Master Insight Server, updating the access control file for a cluster, and more.
@@ -182,4 +182,3 @@ Perform the following procedure if you want the processing [!DNL Insight Servers
     1. Right-click **[!UICONTROL (modified)]** at the top of the window and click **[!UICONTROL Save]**. 
     
     1. In [!DNL Server Files Manager], right-click the check mark for the file in the [!DNL Temp] column and click **[!UICONTROL Save to]** > *< **[!UICONTROL server name]**>*.
-

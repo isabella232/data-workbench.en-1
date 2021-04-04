@@ -4,8 +4,8 @@ solution: Analytics
 title: Deleting a workspaces
 topic: Data workbench
 uuid: 85fd84d6-0602-4ff4-a55a-44077f3f3151
+exl-id: 17ea8b7b-9ecb-44a5-844c-f7daec52dc8e
 ---
-
 # Deleting a workspaces{#deleting-a-workspaces}
 
 Information about deleting workspaces from the Worktop.
@@ -27,4 +27,3 @@ Right-click the workspace that you want to delete and click **[!UICONTROL Revert
 Right-click the workspace that you want to delete and click **[!UICONTROL Delete]**.
 
 ![](assets/mnu_workspaceManager_Deletewksp.png)
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: User Account Management
 topic: Data workbench
 uuid: 13fab0e2-e2db-442e-b139-e7b576d04dbb
+exl-id: b985a21b-6244-4e7d-86c2-14935c005335
 ---
-
 # User Account Management{#user-account-management}
 
 Information on how to access your account settings and change your password.
@@ -22,4 +22,4 @@ A window will appear that details your account information. This includes your u
 
 ## Changing your Password {#section-4ba1ee3d5d584455a1a77e992b7b876c}
 
-To change your password, first access your account information. To access your account information, select **[!UICONTROL Account Settings]** from the **[!UICONTROL User]** menu. Click **[!UICONTROL Change Password]**. 
+To change your password, first access your account information. To access your account information, select **[!UICONTROL Account Settings]** from the **[!UICONTROL User]** menu. Click **[!UICONTROL Change Password]**.

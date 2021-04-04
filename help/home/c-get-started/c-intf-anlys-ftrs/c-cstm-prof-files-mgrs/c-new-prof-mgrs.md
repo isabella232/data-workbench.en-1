@@ -4,8 +4,8 @@ solution: Analytics
 title: Create a Profile Manager
 topic: Data workbench
 uuid: e16741e2-740b-4f57-861d-e2f57d30abbc
+exl-id: 43b95473-ab3e-4a80-9b91-7c221e74b096
 ---
-
 # Create a Profile Manager{#create-a-profile-manager}
 
 The Profile Manager displays all of the directories associated with your working profile.
@@ -51,4 +51,3 @@ Data Workbench enables you to create additional profile managers that display on
    Be sure to change the name of the [!DNL .vw] file to reflect the directory in the [!DNL Profile Manager] to which it corresponds. 
 
 1. (Optional) To make the changes available to all users of the working profile, right-click the check mark for the [!DNL .vw] file in the [!DNL User] column and click **[!UICONTROL Save to]** > < **[!UICONTROL working profile name]**>.
-

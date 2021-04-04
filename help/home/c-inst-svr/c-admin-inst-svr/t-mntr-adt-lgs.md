@@ -3,8 +3,8 @@ description: Audit log files track all attempted connections to and disconnectio
 solution: Analytics
 title: Monitoring Audit Logs
 uuid: 38af9328-3f72-48a4-a0de-bf7477fedc25
+exl-id: 220330da-e5dc-4ac0-9b70-42b08ccb3577
 ---
-
 # Monitoring Audit Logs{#monitoring-audit-logs}
 
 Audit log files track all attempted connections to and disconnections from Insight Server, each of which is logged in the `<YYYYMMDD>-access.txt` files located by default in the Audit folder within the Insight Server installation directory.
@@ -22,4 +22,3 @@ Audit logs can be very helpful when troubleshooting issues connecting to [!DNL I
 1. Right-click the new check mark in the [!DNL Temp] column and click **[!UICONTROL Open]** > **[!UICONTROL in Notepad]**. The audit log appears in a new Microsoft Windows Notepad window.
 
    ![Step Info](assets/cfg_accesscontrol_accessFile.png)
-

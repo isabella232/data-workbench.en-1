@@ -4,8 +4,8 @@ solution: Analytics
 title: Editing the Transformation Configuration File
 topic: Data workbench
 uuid: 77b9e566-4a9a-4ea1-b5ab-63a4574c0fdb
+exl-id: 3fab17a4-d356-4548-b977-f5d409870753
 ---
-
 # Editing the Transformation Configuration File{#editing-the-transformation-configuration-file}
 
 Steps for editing the Transformation.cfg file for a dataset profile.
@@ -108,4 +108,4 @@ Steps for editing the Transformation.cfg file for a dataset profile.
    >
    >Do not save the modified configuration file to any of the internal profiles provided by Adobe, as your changes are overwritten when you install updates to these profiles.
 
-   For information about reprocessing or retransforming your data, see [Reprocessing and Retransformation](../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md). 
+   For information about reprocessing or retransforming your data, see [Reprocessing and Retransformation](../../../home/c-dataset-const-proc/c-reproc-retrans/c-unst-reproc-retrans.md).

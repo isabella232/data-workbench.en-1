@@ -2,8 +2,8 @@
 description: Overview of the Data Workbench architecture.
 title: Data Workbench Architecture
 uuid: 68b3f20b-7707-49bd-a212-399227bd2fad
+exl-id: fca4702c-7099-40e5-ad0b-7f8d44fa1a61
 ---
-
 # Data Workbench Architecture{#data-workbench-architecture}
 
 Overview of the Data Workbench architecture.

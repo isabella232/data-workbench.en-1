@@ -4,8 +4,8 @@ solution: Analytics
 title: File versioning
 topic: Data workbench
 uuid: 5e7430f3-1425-41d2-828b-bc8f5786bf3b
+exl-id: 82a70d51-a95c-4ddd-8d3c-cd0364940693
 ---
-
 # File versioning{#file-versioning}
 
 The Worktop makes it easy to determine where each particular workspace is stored, whether it be on the Data Workbench server, your local machine, or both.
@@ -38,4 +38,4 @@ A user workspace is a workspace that was created on and exists only on the local
 
 ![](assets/wsp_thumb_user.png)
 
-User workspaces are stored by default in the User\*working profile name*\Workspaces\*tab name* folder within the Insight installation directory. 
+User workspaces are stored by default in the User\*working profile name*\Workspaces\*tab name* folder within the Insight installation directory.

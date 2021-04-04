@@ -4,8 +4,8 @@ solution: Analytics
 title: Setting up Propensity Scoring
 topic: Data workbench
 uuid: afc9aada-3bf9-4ce6-8c43-a955771065b4
+exl-id: e16a7062-636e-44a9-a07d-343d48bf1b4c
 ---
-
 # Setting up Propensity Scoring{#setting-up-propensity-scoring}
 
 Follow these steps to use the Propensity Scoring visualization.
@@ -94,4 +94,4 @@ Follow these steps to use the Propensity Scoring visualization.
 
 1. Open a [Lift or Gain Chart](../../../../home/c-get-started/c-analysis-vis/c-visitor-propensity/c-propensity-gain-lift-chart.md#concept-0d049f6baf534f7fb97f271843ba6c4a), or the [Model Viewer](../../../../home/c-get-started/c-analysis-vis/c-visitor-propensity/c-propensity-model-viewer.md#concept-9f2593a8218140b7bd132a4c74e159f9).
 
-   Right-click on the **Model Complete** visualization and select **[!UICONTROL Lift Chart]**, **[!UICONTROL Gain Chart]**, or **[!UICONTROL Model Viewer.]** 
+   Right-click on the **Model Complete** visualization and select **[!UICONTROL Lift Chart]**, **[!UICONTROL Gain Chart]**, or **[!UICONTROL Model Viewer.]**

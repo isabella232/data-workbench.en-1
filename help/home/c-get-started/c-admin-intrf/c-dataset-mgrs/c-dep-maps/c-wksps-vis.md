@@ -4,8 +4,8 @@ solution: Analytics
 title: Workspaces and visualizations
 topic: Data workbench
 uuid: dc7fab6c-d8b4-4ed7-bad6-b3df14b9ebbf
+exl-id: a70748dd-8190-4d1b-9ee1-1011b73a1a86
 ---
-
 # Workspaces and visualizations{#workspaces-and-visualizations}
 
 Conceptual information about workspaces and visualizations.
@@ -26,4 +26,4 @@ The following figure shows a dependency map whose nodes represent the workspaces
 >
 >Because the dependency map is designed to accommodate acyclic dependencies, nodes involved in circular dependencies may not display properly on the map. You can search for circular dependencies by typing “circular dependency” in the [!DNL Search] text box. For more information about the [!DNL Search] feature, see [Searching Within a Map](../../../../../home/c-get-started/c-admin-intrf/c-dataset-mgrs/c-dep-maps/t-srch-map.md#task-a1e7065a538d46c78a7d28676d880dfb).
 
-For descriptions of other nodes on the map, see [Query Model Components](../../../../../home/c-get-started/c-admin-intrf/c-dataset-mgrs/c-dep-maps/c-qry-mod-comp.md#concept-32c6dadd32f74179b026c7e96d47710f). 
+For descriptions of other nodes on the map, see [Query Model Components](../../../../../home/c-get-started/c-admin-intrf/c-dataset-mgrs/c-dep-maps/c-qry-mod-comp.md#concept-32c6dadd32f74179b026c7e96d47710f).

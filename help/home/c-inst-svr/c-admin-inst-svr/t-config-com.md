@@ -3,8 +3,8 @@ description: The Communications configuration file, Communications.cfg, contains
 solution: Analytics
 title: Configuring Communications
 uuid: 04d08206-17b1-4348-a945-0c907c9a494c
+exl-id: af5e788e-8904-4c68-b02a-c95b523b076d
 ---
-
 # Configuring Communications{#configuring-communications}
 
 The Communications configuration file, Communications.cfg, contains Insight Server network settings and the path to the Access Control.cfg file.
@@ -30,4 +30,3 @@ The Communications configuration file, Communications.cfg, contains Insight Serv
     1. Right-click **[!UICONTROL (modified)]** at the top of the window and click **[!UICONTROL Save]**. 
     
     1. In the [!DNL Server Files Manager], right-click the check mark for the file in the [!DNL Temp] column and select **[!UICONTROL Save to]** > *< **[!UICONTROL server name]**>*.
-

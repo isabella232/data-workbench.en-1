@@ -4,8 +4,8 @@ solution: Analytics
 title: Configure a page overlay
 topic: Data workbench
 uuid: c4c612ed-5154-4b20-96ab-24b74fba19a2
+exl-id: 4e0dfce8-def2-49f3-93e8-41d82922fb88
 ---
-
 # Configure a page overlay{#configure-a-page-overlay}
 
 Page overlays are configured only in the Site application, but they can be configured for other applications.
@@ -113,4 +113,3 @@ To configure page overlay for [!DNL Site], you must edit two files:
 
 1. To save the file, right-click **[!UICONTROL (modified)]** at the top of the window and click **[!UICONTROL Save]**. 
 1. To make this change available to all users of the working profile, right-click the check mark for [!DNL Page Overlay Link Templates.cfg] in the [!DNL User] column and click **[!UICONTROL Save to]** > *< **[!UICONTROL working profile name]**>*.
-

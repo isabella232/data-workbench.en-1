@@ -4,8 +4,8 @@ solution: Analytics
 title: Activate a color link
 topic: Data workbench
 uuid: 7046128e-6d52-4875-9979-c4c7bad59c9d
+exl-id: d210e54a-5f5e-4bcf-b2d2-7a748d7b90ba
 ---
-
 # Activate a color link{#activate-a-color-link}
 
 You can display the paths between nodes in a process map in color.
@@ -14,4 +14,4 @@ You can display the paths between nodes in a process map in color.
 
 Right-click any node in the map and click **[!UICONTROL Options]** > **[!UICONTROL Color Links]**.
 
-An X to the left of Color Links indicates that colored links are active in the map. When Color Links is disabled, arrows between nodes appear gray. 
+An X to the left of Color Links indicates that colored links are active in the map. When Color Links is disabled, arrows between nodes appear gray.

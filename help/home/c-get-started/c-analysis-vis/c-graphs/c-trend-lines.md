@@ -2,8 +2,8 @@
 description: Trend lines lets you overlay graphs to compare and interpret data.
 title: Trend Lines
 uuid: b1d81973-2181-4507-a0a5-adf5eeb9f926
+exl-id: 3e7e9218-49b2-4877-a4bd-318b838089e8
 ---
-
 # Trend Lines{#trend-lines}
 
 Trend lines lets you overlay graphs to compare and interpret data.
@@ -26,4 +26,3 @@ To add a Trend Line
    The trend will be calculated and rendered on the graph, and a callout will open displaying detailed information of the trend equation.
 
    ![](assets/trend_line_detail.png)
-

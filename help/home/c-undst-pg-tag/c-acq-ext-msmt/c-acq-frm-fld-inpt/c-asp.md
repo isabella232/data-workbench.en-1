@@ -4,8 +4,8 @@ solution: Analytics
 title: ASP-Specific Information
 topic: Data workbench
 uuid: 552288cb-b775-4121-8869-322f2a26932b
+exl-id: f73235e1-d44a-4056-b1f4-a86879c19483
 ---
-
 # ASP-Specific Information{#asp-specific-information}
 
 Web pages are often structured using ASP (Active Server Pages) programming language.
@@ -52,4 +52,3 @@ The log data would be augmented as detailed in the following table:
 |  v_2  | Value associated with the CITY query string  | v_2=Los Angeles  |
 |  v_3  | Value associated with the STATE query string  | v_3=California  |
 |  v_4  | Value associated with the ZIP query string  | v_4=90210  |
-

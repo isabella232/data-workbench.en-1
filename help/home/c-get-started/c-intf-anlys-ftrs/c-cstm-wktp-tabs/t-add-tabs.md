@@ -4,8 +4,8 @@ solution: Analytics
 title: Add a tab to the worktop
 topic: Data workbench
 uuid: 3c8b459d-4824-4678-871d-1a577235957a
+exl-id: 30201eb9-1006-42b0-9d73-0962e41192ce
 ---
-
 # Add a tab to the worktop{#add-a-tab-to-the-worktop}
 
 Add a tab to the Worktop to quickly access a workspace.
@@ -33,4 +33,4 @@ Add a tab to the Worktop to quickly access a workspace.
 
 1. (Optional) To make the changes available to all users of the working profile, right-click the white check mark for the [!DNL .vw] file in the [!DNL User] column and click **[!UICONTROL Save to]** > *< **[!UICONTROL working profile name]**>*.
 
-   To display only the full-sized version of the description workspace and not the thumbnail of this workspace, you must save the workspace to the working profile. To do so, in the [!DNL Profile Manager], right-click the white check mark for the [!DNL description.vw] file in the [!DNL User] column, then click **[!UICONTROL Save to]** > *< **[!UICONTROL working profile name]**>*. 
+   To display only the full-sized version of the description workspace and not the thumbnail of this workspace, you must save the workspace to the working profile. To do so, in the [!DNL Profile Manager], right-click the white check mark for the [!DNL description.vw] file in the [!DNL User] column, then click **[!UICONTROL Save to]** > *< **[!UICONTROL working profile name]**>*.

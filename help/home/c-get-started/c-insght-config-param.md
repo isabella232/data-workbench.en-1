@@ -4,8 +4,8 @@ solution: Analytics
 title: Configuration parameters
 topic: Data workbench
 uuid: 6e1248c1-3eae-44a3-8b19-f595d79e8d0d
+exl-id: c92fc79f-452d-4839-840a-a3ea9e8754c4
 ---
-
 # Configuration parameters{#configuration-parameters}
 
 Set the parameters in the Insight.cfg file to specify your network connection and Data Workbench configuration settings.
@@ -190,4 +190,3 @@ The following table provides descriptions of the available [!DNL Insight.cfg] fi
   </tr> 
  </tbody> 
 </table>
-

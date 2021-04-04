@@ -4,8 +4,8 @@ solution: Analytics
 title: Building a Funnel
 topic: Data workbench
 uuid: 88afa09d-42ff-4e3b-b5cc-d74e01f4fc39
+exl-id: 24b63998-3aad-4ddf-b2d2-78dd0df9a510
 ---
-
 # Building a Funnel{#building-a-funnel}
 
 Follow these steps to build a new funnel visualization
@@ -44,4 +44,4 @@ Follow these steps to build a new funnel visualization
 
 From the Funnel, you can identify your fall out and fall through rates and the percentage of customers converting sales and following campaigns or content paths. For additional information, you can open a [Path Browser](../../../../home/c-get-started/c-analysis-vis/c-funnel-visualization/c-path-browser-funnel.md#concept-b0cedf7a28ae422696ded1258c9a4119) to see a detailed list of the pages taken before arriving at the selected page, and the paths taken after they left.
 
-See additional [Funnel features](../../../../home/c-get-started/c-analysis-vis/c-funnel-visualization/c-funnel-visualization-features.md#concept-e65c81fe17794acd8d00d796b1780dc3). 
+See additional [Funnel features](../../../../home/c-get-started/c-analysis-vis/c-funnel-visualization/c-funnel-visualization-features.md#concept-e65c81fe17794acd8d00d796b1780dc3).

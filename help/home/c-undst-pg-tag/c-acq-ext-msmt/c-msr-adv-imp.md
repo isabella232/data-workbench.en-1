@@ -4,8 +4,8 @@ solution: Analytics
 title: Measuring Advertisement Impression
 topic: Data workbench
 uuid: ca2bd6bf-4f49-406c-b47a-18d6abfb48a4
+exl-id: 77cd816e-63a4-4080-ac65-0661e1de4ec0
 ---
-
 # Measuring Advertisement Impression{#measuring-advertisement-impression}
 
 Marketing your website may involve the placement of advertisements in the form of image or other rich media files (served from your web server) on third-party websites.
@@ -61,4 +61,3 @@ Click Here
   </tr> 
  </tbody> 
 </table>
-

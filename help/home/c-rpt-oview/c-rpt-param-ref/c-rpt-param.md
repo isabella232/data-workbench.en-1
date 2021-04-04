@@ -4,8 +4,8 @@ solution: Analytics
 title: Report.cfg Parameters
 topic: Data workbench
 uuid: 7a20f4f6-99e6-401a-ba3c-c508881c0f0d
+exl-id: 31e4de5f-f7e8-4a35-b5c6-6ad8ef79a259
 ---
-
 # Report.cfg Parameters{#report-cfg-parameters}
 
 Information about Report.cfg parameters.
@@ -208,4 +208,3 @@ If you need to add additional parameters to a [!DNL Report.cfg] file, you must d
   </tr> 
  </tbody> 
 </table>
-

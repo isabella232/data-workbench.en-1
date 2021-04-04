@@ -4,8 +4,8 @@ solution: Analytics
 title: Understanding subsets
 topic: Data workbench
 uuid: ed185b63-dbb3-4ed4-9403-cf4dc8be2ff1
+exl-id: a75b36f9-d34d-4a4a-8a2c-15ae5461823c
 ---
-
 # Understanding subsets{#understanding-subsets}
 
 Conceptual information about subsets.
@@ -32,4 +32,3 @@ A user at a large retailer wants to create a subset (local cache) of one particu
 The following example shows you a bar graph of Visitors over time and a Traffic metric legend. The first figure contains no selections: all of the data in the dataset is represented. The second figure shows data for a subset of Days = {...} by Visitors, in which Days is based on a selection of the elements April 1st through April 5th in the Day dimension.
 
 ![](assets/client-sub1.png)
-

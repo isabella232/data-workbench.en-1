@@ -4,8 +4,8 @@ solution: Analytics
 title: Union
 topic: Data workbench
 uuid: 2f8bd332-727e-4a4e-a3e7-a52ea2b0a33a
+exl-id: 841b5133-d587-409c-b39e-47169beb2ddf
 ---
-
 # Union{#union}
 
 The Union transformation takes a set of inputs and creates a vector of strings as the output.
@@ -25,4 +25,4 @@ This example uses fields of data from website traffic to create a list of the zi
 
 ![](assets/cfg_TransformationType_Union.png)
 
-While it is possible for both of these values to be available in a single log entry, you can select which value to use when you create a dimension based on the transformation's output. In a typical use case, you would create a simple dimension that takes either the first or the last of the encountered values. For information about creating simple dimensions, see [Extended Dimensions](../../../../../home/c-dataset-const-proc/c-ex-dim/c-abt-ex-dim.md). 
+While it is possible for both of these values to be available in a single log entry, you can select which value to use when you create a dimension based on the transformation's output. In a typical use case, you would create a simple dimension that takes either the first or the last of the encountered values. For information about creating simple dimensions, see [Extended Dimensions](../../../../../home/c-dataset-const-proc/c-ex-dim/c-abt-ex-dim.md).

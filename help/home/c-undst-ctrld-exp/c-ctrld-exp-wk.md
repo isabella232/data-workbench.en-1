@@ -4,8 +4,8 @@ solution: Analytics,Analytics
 title: How Do Controlled Experiments Work?
 topic: Data workbench
 uuid: 9549e2ab-dca9-4fb1-9729-65072f951900
+exl-id: 1d3af6a2-078e-4eb8-848e-685f531a60c5
 ---
-
 # How Do Controlled Experiments Work?{#how-do-controlled-experiments-work}
 
 In an experiment, you can define any number of test groups in addition to the control group.
@@ -21,4 +21,3 @@ The results of the experiments can be analyzed easily using [!DNL Insight] to de
 >[!NOTE]
 >
 >Adobe strongly recommends that controlled experiments be coordinated and performed with input from those individuals in your organization who are responsible for configuring and maintaining your analysis datasets.
-

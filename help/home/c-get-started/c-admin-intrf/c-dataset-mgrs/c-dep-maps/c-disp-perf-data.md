@@ -4,8 +4,8 @@ solution: Analytics
 title: Display performance data
 topic: Data workbench
 uuid: 7149c565-79a6-4e01-acae-d6eea1f5fa39
+exl-id: 665716c7-08e2-4797-9e98-7b5dba5facb5
 ---
-
 # Display performance data{#display-performance-data}
 
 Information about displaying performance data for a transformation or extended dimension.
@@ -20,4 +20,3 @@ Information about displaying performance data for a transformation or extended d
 ![](assets/vis_DependencyMap_PerfData_Transformation.png)
 
 ![](assets/vis_DependencyMap_PerfData_ExtDims.png)
-

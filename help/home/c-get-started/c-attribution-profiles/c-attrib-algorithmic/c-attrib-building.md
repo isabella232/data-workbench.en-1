@@ -2,8 +2,8 @@
 description: Open Best Fit Attribution from the Premium menu and follow these steps to build a Best Fit Attribution model.
 title: Build a Best Fit Attribution Model
 uuid: d1fd0340-1917-41bc-9a08-e78a79d084e7
+exl-id: e0a42374-2500-46a3-a72a-708ab2d228db
 ---
-
 # Build a Best Fit Attribution Model{#build-a-best-fit-attribution-model}
 
 Open Best Fit Attribution from the Premium menu and follow these steps to build a Best Fit Attribution model.
@@ -158,4 +158,3 @@ The **Options** menu provides advanced features to set up and display Best Fit A
 | **[!UICONTROL Reset All]** |From the **[!UICONTROL Reset]** menu, select **[!UICONTROL Reset All]** to clear the visualization and the input metrics.  |
 | **[!UICONTROL Remove]** |Right-click on any input and select **[!UICONTROL Remove]** to clear the metric from the selected input.  |
 | **[!UICONTROL Remove All]** |Right-click on *Channels* and select **[!UICONTROL Remove All]** to clear all input metrics.  |
-

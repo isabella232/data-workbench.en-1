@@ -4,8 +4,8 @@ solution: Analytics
 title: Query Queue
 topic: Data workbench
 uuid: 4d64bc89-b664-4532-9f17-be11812d36d4
+exl-id: 5d9b20bf-9396-4016-beed-cee8f533f3ea
 ---
-
 # Query Queue{#query-queue}
 
 Normally, the Data Workbench server answers incoming user queries as they are received, and continues to provide results and real-time updates until the user is no longer requesting them.
@@ -34,4 +34,3 @@ The default configuration includes a simple configuration for the [!DNL Query Qu
     * **Resource Monitors:** (Vector) Right-click to add a resource monitor. You can specify whether the [!DNL Query Queue] monitors memory or the number of queries. Right-click **[!UICONTROL Resource Monitor]** to choose Memory Budget Monitor or Number of Queries Monitor. See [Query Queue Resource Monitors](../../../../home/c-get-started/c-admin-intrf/c-query-que/c-query-que-res-mon.md#concept-0840967b228c4d5ba3b59b4b2759f325) for more information. 
     
     * **Untouchable Priority:** (Int) Specifies that bunches with a priority greater than or equal to this value are never preempted to scheduling of higher priority bunches. Used in conjunction with the [!DNL Memory Budget Monitor] described in the [User Group Parameters Table](../../../../home/c-get-started/c-admin-intrf/c-query-que/c-query-que-user-grps.md#concept-5555f51402ed49419c067d61738474c1).
-

@@ -4,8 +4,8 @@ solution: Analytics
 title: Using the Worktop thumbnail menu
 topic: Data workbench
 uuid: bada2260-3ae7-4fb6-938a-40b7acb1ffa7
+exl-id: 2220051d-5c53-48ed-8e13-62883819f22a
 ---
-
 # Using the Worktop thumbnail menu{#using-the-worktop-thumbnail-menu}
 
 How to export, copy, and bookmark from the Worktop.
@@ -74,4 +74,3 @@ Appears only for local versions of server workspaces and user workspaces and wor
 Bookmark a workspace to quickly retrieve later.
 
 A bookmark icon ![](assets/bookmark_icon.png) will appear above the workspace on the worktop and the name of the workspace will appear in the Bookmark panel. ![](assets/bookmark_worktop.png)
-

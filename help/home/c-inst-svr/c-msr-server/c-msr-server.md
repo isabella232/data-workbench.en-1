@@ -2,8 +2,8 @@
 description: Identify minimum requirements and recommendations for Data Workbench (formerly [!DNL Insight]) server components before planning and implementing your system.
 title: Server System Requirements
 uuid: c4487c76-03b9-4755-893b-555d451b1e69
+exl-id: 6dd78331-8370-400e-b580-9b9bad13e62c
 ---
-
 # Server System Requirements{#server-system-requirements}
 
 Identify minimum requirements and recommendations for Data Workbench server components before planning and implementing your system.

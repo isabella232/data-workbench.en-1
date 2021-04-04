@@ -2,8 +2,8 @@
 description: Export segments using the segment export wizard
 title: Segment export wizard
 uuid: 705bdf00-54e5-4992-8978-91afda8c7543
+exl-id: 6f42c5c6-a158-4ddd-8949-4ef55a44ed1c
 ---
-
 # Segment export wizard{#segment-export-wizard}
 
 Export segments using the segment export wizard
@@ -118,4 +118,3 @@ The following exports types are available using the wizard:
 * Generic 
 * FTP 
 * SFTP
-

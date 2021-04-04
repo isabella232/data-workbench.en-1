@@ -4,8 +4,8 @@ solution: Analytics
 title: Baseline Profiles
 topic: Data workbench
 uuid: ff76ff7e-ccde-4d99-9109-8612a4a83183
+exl-id: f1bd5c1d-5f79-4b8c-9928-97169d553631
 ---
-
 # Baseline Profiles{#baseline-profiles}
 
 A set of standard profiles for each application has been created to enable one or more of the profiles to be installed at any given time.
@@ -35,4 +35,4 @@ Adobe also provides the following optional profiles to use:
 * The **IP Geo-location profile** includes dimensions and layer files related to the analysis of visitors’ locations based on IP geo-location data provided to Adobe by Quova, Inc., and incorporated into data workbench. 
 * The IP Geo-intelligence profile includes dimensions and layer files related to the analysis of visitor’s locations based on IP geo-intelligence data provided to Adobe by Digital Envoy, Inc., and incorporated into data workbench.
 
-For information about the IP-Geo-location and IP Geo-intelligence profiles, contact your Adobe support personnel. The following sections describe the metrics and dimensions defined in each of the baseline profiles. 
+For information about the IP-Geo-location and IP Geo-intelligence profiles, contact your Adobe support personnel. The following sections describe the metrics and dimensions defined in each of the baseline profiles.

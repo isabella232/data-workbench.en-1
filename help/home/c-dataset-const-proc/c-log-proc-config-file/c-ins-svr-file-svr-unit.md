@@ -4,8 +4,8 @@ solution: Analytics
 title: Configuring a Data Workbench Server File Server Unit
 topic: Data workbench
 uuid: ccb65952-f017-4434-b2f8-74c274450834
+exl-id: 19b8c08a-e9f2-47ab-ad9f-1fddfbd9d249
 ---
-
 # Configuring a Data Workbench Server File Server Unit{#configuring-a-data-workbench-server-file-server-unit}
 
 Information about Insight Server file server units and the file server configuration process.

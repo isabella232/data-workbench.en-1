@@ -4,8 +4,8 @@ solution: Analytics
 title: Terrain image layers
 topic: Data workbench
 uuid: 17968293-1ad2-4040-a174-d33f418af9b7
+exl-id: 754211a7-0b1f-4353-86f8-9c634d70cd83
 ---
-
 # Terrain image layers{#terrain-image-layers}
 
 A terrain image layer displays terrain imagery of the Earth.
@@ -130,4 +130,3 @@ To define a terrain image layer, you must have the following:
 
 1. Save the file by right-clicking **[!UICONTROL (modified)]** at the top of the window and clicking **[!UICONTROL Save]**. 
 1. To save an updated file to the Data Workbench server computer, in the [!DNL Server Files Manager], right-click the check mark for [!DNL Terrain Images.cfg] in the [!DNL Temp] column, then click **[!UICONTROL Save to]** > *< **[!UICONTROL server name]**>*.
-

@@ -2,8 +2,8 @@
 description: The Data Workbench Implementation Guide acts as a reference for onboarding, planning, and technical questions for implementation.
 title: Implementing Adobe Data Workbench
 uuid: 2ea3ef17-29d3-4a68-9444-d9682a773942
+exl-id: 12eb484c-74d6-46a9-b668-72b501f209e8
 ---
-
 # Implementing Adobe Data Workbench{#implementing-adobe-data-workbench}
 
 The Data Workbench Implementation Guide acts as a reference for onboarding, planning, and technical questions for implementation.
@@ -68,4 +68,4 @@ See the [Configuration and Implementation](../../home/dwb-implement-overview/dwb
 
 After setting up DWB, you can implement these features.
 
-See the [Implementation of Features](../../home/dwb-implement-overview/dwb-implement-deliver/dwb-implement-deliver.md#concept-9afa96d72a544fb4a3d1eb5be799012c) section for more information. 
+See the [Implementation of Features](../../home/dwb-implement-overview/dwb-implement-deliver/dwb-implement-deliver.md#concept-9afa96d72a544fb4a3d1eb5be799012c) section for more information.

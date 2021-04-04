@@ -4,8 +4,8 @@ solution: Analytics
 title: Creating path browsers
 topic: Data workbench
 uuid: 84a5e587-fb02-461b-aec8-1b6ad473ebc3
+exl-id: 9fa11b84-da73-447a-8b10-7eab381e3f66
 ---
-
 # Creating path browsers{#creating-path-browsers}
 
 You can create a path browser from a graph, table, or process map.
@@ -32,4 +32,3 @@ You can create a path browser from a graph, table, or process map.
 >[!NOTE]
 >
 >When you create a path browser from a process map, the path browser ignores the elements of the level dimension with no associated base dimension elements. When you drag a node from a process map onto a path browser, the path browser’s base dimension (named Map) is defined by the process map, and its elements are limited to the elements on the process map. As a result, some elements of the path browser’s level dimension do not have associated base dimension elements and are not represented in the path browser.
-

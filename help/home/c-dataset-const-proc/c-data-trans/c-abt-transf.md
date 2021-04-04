@@ -4,8 +4,8 @@ solution: Analytics
 title: About Transformations
 topic: Data workbench
 uuid: 9366f607-741d-4512-9e1b-4165f4291246
+exl-id: 9bd533ef-a87e-400a-9bb0-5af1851cca0a
 ---
-
 # About Transformations{#about-transformations}
 
 Transformations enable you to extract information available in your data files and manipulate it into a more useful form.
@@ -19,4 +19,4 @@ Transformations operate on the log entries (you can think of log entries as rows
 >
 >The data input to transformation from log processing is ordered by time and grouped by the tracking ID in your source data. Several transformations require that the data is in this form and work only when defined in during transformation.
 
-Changes to transformations must be made with care. Transformations do not affect which log entries flow into the dataset construction process, but they do affect the results presented. This permits changes to be made in what is being analyzed without changing the data upon which the analysis is based. However, changes in transformations can fundamentally alter the values produced in analyses. 
+Changes to transformations must be made with care. Transformations do not affect which log entries flow into the dataset construction process, but they do affect the results presented. This permits changes to be made in what is being analyzed without changing the data upon which the analysis is based. However, changes in transformations can fundamentally alter the values produced in analyses.

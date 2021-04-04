@@ -4,8 +4,8 @@ solution: Analytics
 title: Built-in Dimensions
 topic: Data workbench
 uuid: 0aabbc52-266d-46c1-a4b3-dd575c0f2c72
+exl-id: c08a487d-60b8-4db7-8776-7ae1b9f1f27c
 ---
-
 # Built-in Dimensions{#built-in-dimensions}
 
 Data workbench includes built-in dimensions.
@@ -36,4 +36,3 @@ The following table lists the available built-in dimensions for data workbench:
   </tr> 
  </tbody> 
 </table>
-

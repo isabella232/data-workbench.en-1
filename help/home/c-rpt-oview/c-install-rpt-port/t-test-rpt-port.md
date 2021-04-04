@@ -4,8 +4,8 @@ solution: Analytics
 title: Test the Report Portal
 topic: Data workbench
 uuid: eee0df5e-78e0-49b2-853c-40f1b332328b
+exl-id: 197ff815-9234-4dce-b30f-b9cacf259634
 ---
-
 # Test the Report Portal{#test-the-report-portal}
 
 Steps to open the Report Portal and ensure that you can successfully view the reports for your profile.
@@ -26,4 +26,3 @@ Steps to open the Report Portal and ensure that you can successfully view the re
     * The portal contains a tab for each report set in the output folder. 
     * Each tab displays the report set’s summary report. 
     * The menu on each tab lists the individual subfolders (if any) for the report set and displays the contents of those folders.
-

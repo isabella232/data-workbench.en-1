@@ -2,8 +2,8 @@
 description: Create Dimensions defined by metric attributes (Metric Dims) using a step-by-step wizard. Then test, preview, and save the new Metric Dim to your Dimensions list.
 title: Metric Dim Wizard
 uuid: 411b2e28-0958-43bb-a853-7de7b3063818
+exl-id: 4d283a00-409c-4d74-a558-40744caba71c
 ---
-
 # Metric Dim Wizard{#metric-dim-wizard}
 
 Create Dimensions defined by metric attributes (Metric Dims) using a step-by-step wizard. Then test, preview, and save the new Metric Dim to your Dimensions list.
@@ -90,4 +90,3 @@ A Metric Dim converts a metric into a new dimension. For example, a Metric Dim b
 1. Click **[!UICONTROL Finish]** and save.
 
    A save dialog will open allowing you to save the file. The selected options to view values will open in the workspace.
-

@@ -2,8 +2,8 @@
 description: Instructions for installing and configuring Sensor on the family of web servers that evolved from the original Netscape Enterprise Web Server running on Linux or Solaris machines. Includes Netscape Enterprise, iPlanet, Sun ONE, and Sun Java System Servers on Linux or Solaris.
 title: Netscape Enteprise on Linux or Solaris
 uuid: 47ea614c-d45c-4ab4-a8fe-ed9227da4582
+exl-id: bd2e50b9-94fe-4f05-b227-11e83eb0a665
 ---
-
 # Netscape Enteprise on Linux or Solaris{#netscape-enteprise-on-linux-or-solaris}
 
 Instructions for installing and configuring Sensor on the family of web servers that evolved from the original Netscape Enterprise Web Server running on Linux or Solaris machines. Includes Netscape Enterprise, iPlanet, Sun ONE, and Sun Java System Servers on Linux or Solaris.
@@ -214,4 +214,4 @@ To ensure that the transmitter loads automatically when the web server machine i
 
 This command starts the transmitter as a daemon. Operating and error messages that the transmitter generates are written to [!DNL syslog].
 
-The default Solaris setting is 60. Based on tests conducted with Sensor, which uses three semaphores for each instance, Adobe recommends that you use 1024 as your setting. This number is high enough for Sensor to function along with any other applications on the server that may require semaphores, but does not affect performance. To support this recommendation, please note that Adrian Cockcroft stated the following in his book Sun Performance and Tuning (Prentice Hall, October 1994): “Databases tend to use lots of shared memory and semaphore settings. These do not affect performance; as long as they are big enough, the programs will run.” 
+The default Solaris setting is 60. Based on tests conducted with Sensor, which uses three semaphores for each instance, Adobe recommends that you use 1024 as your setting. This number is high enough for Sensor to function along with any other applications on the server that may require semaphores, but does not affect performance. To support this recommendation, please note that Adrian Cockcroft stated the following in his book Sun Performance and Tuning (Prentice Hall, October 1994): “Databases tend to use lots of shared memory and semaphore settings. These do not affect performance; as long as they are big enough, the programs will run.”

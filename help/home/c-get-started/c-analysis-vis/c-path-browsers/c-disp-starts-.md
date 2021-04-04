@@ -4,8 +4,8 @@ solution: Analytics
 title: Display the start and end of paths
 topic: Data workbench
 uuid: b5294111-393c-44d9-a641-18ecd566797f
+exl-id: 08604c56-f151-49e6-8290-50f8fa04c802
 ---
-
 # Display the start and end of paths{#display-the-start-and-end-of-paths}
 
 You can display the starts and ends of paths in the path browser.
@@ -23,4 +23,3 @@ For example, if your path browser shows the sequence of pages for each session, 
 >[!NOTE]
 >
 >You cannot set a start or end node as the root of a path browser or select a start or end node.
-
