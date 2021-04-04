@@ -4,8 +4,7 @@ solution: Analytics
 title: Data Workbench 5.5 to 6.1 Upgrade
 topic: Data workbench
 uuid: 14e3612e-11a2-402a-9478-904ec55df23c
-exl-id: c730f6d5-2171-4d97-a967-509dc2517c86
-exl-id: 3f25917b-b929-4e3b-84f0-1a81b30ba641
+exl-id: c730f6d5-2171-4d97-a967-509dc2517c86,3f25917b-b929-4e3b-84f0-1a81b30ba641
 ---
 # Data Workbench 5.5 to 6.1 Upgrade{#data-workbench-to-upgrade}
 
