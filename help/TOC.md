@@ -46,7 +46,6 @@ user-guide-description: Learn about the multi-channel capabilities of Data Workb
       + [Upgrading Data Workbench Overview](home/c-install-insight/c-upgrd-ins/c-upgrd-ins.md)
       + [Upgrading 6.4 to 6.5](home/c-install-insight/c-upgrd-ins/c-6-4-to-6-5-upgrade.md)
       + [Upgrading 6.3 to 6.4](home/c-install-insight/c-upgrd-ins/c-6-3-to-6-4-upgrade.md)
-      + [DWB Server upgrade: 6.2 to 6.3](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-2-to-6-3-upgrade.md)
       + [DWB Server upgrade: 6.1 to 6.2](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-1-to-6-2-upgrade.md)
       + [Data Workbench 6.0 to 6.1 Upgrade](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-6-0-to-6-1-upgrade.md)
       + [Data Workbench 5.5 to 6.1 Upgrade](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-5-x-to-6-1-upgrade.md)
@@ -262,7 +261,6 @@ user-guide-description: Learn about the multi-channel capabilities of Data Workb
       + Working with vector layers {#vector-layers}
          + [Working with vector layers](home/c-get-started/c-im-layers/c-vctr-layers/c-vctr-layers.md)
          + [Define vector layers referencing vector files](home/c-get-started/c-im-layers/c-vctr-layers/c-ref-vctr-files.md)
-         + [Vector layers referencing tab separated values files](home/c-geo-oview/c-wk-img-lyrs/c-wk-vctr-lyrs/c-tab-sep-val-files.md)
          + [Make a new vector layer available](home/c-get-started/c-im-layers/c-vctr-layers/t-make-new-vctr-layer-av.md)
    + Administrative interfaces {#admin-ui}
       + [Administrative interfaces](home/c-get-started/c-admin-intrf/c-admin-intrf.md)
@@ -327,7 +325,6 @@ user-guide-description: Learn about the multi-channel capabilities of Data Workb
          + [Change the tab order](home/c-get-started/c-intf-anlys-ftrs/c-cstm-wktp-tabs/t-chg-ordr-tabs.md)
          + [Display subfolders as subtabs](home/c-get-started/c-intf-anlys-ftrs/c-cstm-wktp-tabs/c-sbfldrs-sbtabs.md)
          + [Hide or remove a tab](home/c-get-started/c-intf-anlys-ftrs/c-cstm-wktp-tabs/t-hide-rmv-tabs.md)
-      + [Installing the Input Method Editor](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-localized-ime.md)
       + [Setting up Localized Languages](home/c-get-started/c-intf-anlys-ftrs/c-localized-ime/c-localized-ime-config.md)
       + Configure a locked workspace {#config-locked-wkspc}
          + [Configure a locked workspace](home/c-get-started/c-intf-anlys-ftrs/c-config-locked-wkspc/c-config-locked-wkspc.md)
@@ -373,7 +370,6 @@ user-guide-description: Learn about the multi-channel capabilities of Data Workb
          + [New Visitor Condition](home/c-dataset-const-proc/c-trans-config-file/c-spec-trans-param/c-new-vstr-con.md)
          + [Time Zones](home/c-dataset-const-proc/c-trans-config-file/c-spec-trans-param/c-time-zones.md)
       + [Considerations for the Transformation Configuration File](home/c-dataset-const-proc/c-trans-config-file/c-con-tran-config-file.md)
-      + [DeviceAtlas Distribution](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-deviceatlas-update.md)
    + Dataset Include Files {#dataset-include-files}
       + [About Dataset Include Files](home/c-dataset-const-proc/c-dataset-inc-files/c-abt-dataset-inc-files.md)
       + [Working with Dataset Include Files](home/c-dataset-const-proc/c-dataset-inc-files/c-work-dataset-inc-files/c-work-dataset-inc-files.md)
@@ -461,7 +457,6 @@ user-guide-description: Learn about the multi-channel capabilities of Data Workb
       + Dataset Configuration Interfaces {#dataset-config-ui}
          + [Working With Dataset Configuration Interfaces](home/c-dataset-const-proc/c-dataset-config-tools/c-dataset-config-int/c-dataset-config-int.md)
          + [Dataset Schema](home/c-dataset-const-proc/c-dataset-config-tools/c-dataset-config-int/c-dataset-schema.md)
-         + [Dependency Maps](home/c-dataset-const-proc/c-dataset-config-tools/c-dataset-config-int/c-dep-maps.md)
          + [Field Viewers](home/c-dataset-const-proc/c-dataset-config-tools/c-dataset-config-int/c-field-viewers.md)
       + Hiding Dataset Components {#hide-dataset-comp}
          + [Hiding Dataset Components](home/c-dataset-const-proc/c-dataset-config-tools/c-hide-dataset-comp/c-hide-dataset-comp.md)
@@ -758,12 +753,6 @@ user-guide-description: Learn about the multi-channel capabilities of Data Workb
       + Upgrading Insight Server {#upgrade-insight-server}
          + [Upgrading Insight Server](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-upgrd-sftwr.md)
          + [DWB Server upgrade: 6.2 to 6.3](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-2-to-6-3-upgrade.md)
-         + [DWB Server upgrade: 6.1 to 6.2](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-1-to-6-2-upgrade.md)
-         + Data Workbench 6.0 to 6.1 Upgrade {#upgrade-6-0-to-6-1}
-            + [Data Workbench 6.0 to 6.1 Upgrade](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-6-0-to-6-1-upgrade.md)
-            + [Installing the Input Method Editor](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-localized-ime.md)
-            + [DeviceAtlas Distribution](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-deviceatlas-update.md)
-         + [Data Workbench 5.5 to 6.1 Upgrade](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-5-x-to-6-1-upgrade.md)
          + [DWB Server upgrade: 5.4 to 5.5](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/t-upgrd-to-5.5.md)
          + [Upgrading Transform](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/t-upgrd-trfm.md)
          + [Upgrading Repeater](home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-upgrd-rptr.md)
