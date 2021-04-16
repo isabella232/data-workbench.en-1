@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Column Charts
 title: Column Charts
-topic: Data workbench
 uuid: 2458546f-587c-465e-a4ab-6cf348f37534
 exl-id: 50186aca-81c4-4168-a6af-1cdaf7a282fb
 ---

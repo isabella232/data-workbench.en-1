@@ -1,8 +1,6 @@
 ---
 description: The Remote Desktop option enables administrators to access the Data Workbench server or Report computers directly from Data Workbench using the computer’s IP address.
-solution: Analytics
 title: Remote desktop option
-topic: Data workbench
 uuid: c5914eff-4554-41d1-b5a7-6a598354eeb4
 exl-id: c4b4f59d-191c-4daa-affa-20a3e89f9fd2
 ---

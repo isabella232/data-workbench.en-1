@@ -1,8 +1,6 @@
 ---
 description: Data workbench provides a set of transformations that enables the data workbench server to incorporate lookup data into the dataset.
-solution: Analytics
 title: Integrating Lookup Data
-topic: Data workbench
 uuid: 35fd48f7-c0c4-4a83-919d-c15902f27495
 exl-id: 150d3aae-4431-488f-8f19-b522637ee935
 ---

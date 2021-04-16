@@ -1,8 +1,6 @@
 ---
 description: Steps to search for components containing specific text.
-solution: Analytics
 title: Search within a map
-topic: Data workbench
 uuid: 87fa8c69-f1f1-4977-b60c-050ddaacaab2
 exl-id: fb04aedb-aa31-45d0-9225-66d8fd2f7810
 ---

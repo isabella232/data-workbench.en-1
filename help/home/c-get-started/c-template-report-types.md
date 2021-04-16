@@ -1,8 +1,6 @@
 ---
 description: Analytic reports are provided for users of the Adobe SC profile. These data workbench reports—Page Views, Traffic, Unique Visitors, Referring Domain and other significant report types—are standard reports in Adobe Analytics.
-solution: Analytics
 title: Analytics Reports
-topic: Data workbench
 uuid: 5fc26922-0687-464f-8c5d-d72d2a6078f0
 exl-id: 03bbf4a0-767c-4258-9512-2887f346bf0e
 ---

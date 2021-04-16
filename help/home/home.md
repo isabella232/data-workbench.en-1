@@ -1,6 +1,5 @@
 ---
-description: null
-solution: Analytics
+description: Data Workbench documentation
 title: Data Workbench Help
 topic: Reports and analytics
 uuid: 987b69f1-b82a-4719-a71d-b0250a4a4f92

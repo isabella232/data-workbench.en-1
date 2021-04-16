@@ -1,8 +1,6 @@
 ---
 description: Two-dimensional (2D) graphs display a metric across two dimensions.
-solution: Analytics
 title: 2D graphs
-topic: Data workbench
 uuid: f8860fff-4614-4b1a-b217-760bf4d48f20
 exl-id: 9767124b-8507-4b25-842b-8e2729e57461
 ---

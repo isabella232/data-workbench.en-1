@@ -1,8 +1,6 @@
 ---
 description: Transform functionality includes three configuration files that contain the required parameters for reading and exporting data.
-solution: Analytics
 title: Configuration Files for Transform
-topic: Data workbench
 uuid: abb5b7a4-ade6-4658-b3a1-7ce4c2c17507
 exl-id: 9cd5ae3a-e3fc-466f-a6ab-20582001fb4a
 ---

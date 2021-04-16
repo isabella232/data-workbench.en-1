@@ -1,8 +1,6 @@
 ---
 description: The LookupRows transformation looks at other log entries with the same tracking ID and sets the value of the output field to the value of a designated field in the input row.
-solution: Analytics
 title: LookupRows
-topic: Data workbench
 uuid: 4cff7cf1-00c8-4ab1-8adc-3805518226d3
 exl-id: caa9a311-b056-4fe8-bb11-1605cc690375
 ---

@@ -1,8 +1,6 @@
 ---
 description: Steps to install the Geography lookup files on the data workbench server.
-solution: Analytics
 title: Installing the Geography Lookup Files
-topic: Data workbench
 uuid: 5e47921b-a8e6-4e12-a029-bfa1538515a1
 exl-id: 6ad1e537-9065-433f-ba4f-3e8e6331a7e4
 ---

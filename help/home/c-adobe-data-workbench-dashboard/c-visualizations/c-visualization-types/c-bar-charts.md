@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Bar Charts
 title: Bar Charts
-topic: Data workbench
 uuid: 1baac7b3-7918-4de6-81f3-1aba7e9b8e20
 exl-id: e4e25832-5552-4acb-9adc-aea93b384a9e
 ---

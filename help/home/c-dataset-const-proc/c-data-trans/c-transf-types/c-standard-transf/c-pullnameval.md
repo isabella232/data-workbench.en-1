@@ -1,8 +1,6 @@
 ---
 description: The PullNameValues transformation is a special operation that takes the values in the cs-uri-query field and separates each of the name-value pairs into a separate string.
-solution: Analytics
 title: PullNameValues
-topic: Data workbench
 uuid: b24db987-78e8-4afc-9113-89aedc0170b2
 exl-id: 3660ff6e-87dc-42cf-a897-0e2e0e021c07
 ---

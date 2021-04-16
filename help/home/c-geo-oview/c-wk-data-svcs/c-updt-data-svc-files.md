@@ -1,8 +1,6 @@
 ---
 description: If you subscribe to either data service, you periodically must update the data service files provided by Adobe.
-solution: Analytics
 title: Updating Data Service Files
-topic: Data workbench
 uuid: 8c14be34-fde3-4c4c-9c22-739863317d6e
 exl-id: bb92d40c-cc8d-4ecf-bd48-ed962fd5d73b
 ---

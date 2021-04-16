@@ -1,8 +1,6 @@
 ---
 description: Confidence legends help you to determine the likelihood that the numbers you are seeing are due to chance and to understand the possible deviations in the data.
-solution: Analytics
 title: Confidence legends
-topic: Data workbench
 uuid: 2559ff7c-6060-4fee-b509-9ae0c3912016
 exl-id: 9aab169a-98b8-4e71-b74d-28e385c5c424
 ---

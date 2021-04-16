@@ -1,6 +1,5 @@
 ---
 description: Steps to configure Transform on an Insight Server FSU.
-solution: Analytics
 title: Transform
 uuid: 17538912-caca-4953-ad84-b832be555dbf
 exl-id: a96abecb-b035-4fee-8bcd-edac38f7245f

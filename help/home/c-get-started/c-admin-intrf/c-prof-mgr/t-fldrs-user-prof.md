@@ -1,8 +1,6 @@
 ---
 description: Steps to create a new folder in the User Profile.
-solution: Analytics
 title: Create folders in the user profile
-topic: Data workbench
 uuid: d66d7b86-694a-447c-a3f0-f64c7e2a41da
 exl-id: effd4360-3b50-481e-9ee7-4e8cd4612d3e
 ---

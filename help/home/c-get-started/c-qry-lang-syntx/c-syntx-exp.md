@@ -1,8 +1,6 @@
 ---
 description: Syntax rules for formulas.
-solution: Analytics
 title: Syntax for any expression
-topic: Data workbench
 uuid: 663e3fd2-80e5-4805-8706-34a0e02ebd0f
 exl-id: ca1a52c1-b5bd-48bd-95cd-f8059913bd0a
 ---

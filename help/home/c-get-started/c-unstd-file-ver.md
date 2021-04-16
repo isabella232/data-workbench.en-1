@@ -1,8 +1,6 @@
 ---
 description: The Worktop makes it easy to determine where each particular workspace is stored, whether it be on the Data Workbench server, your local machine, or both.
-solution: Analytics
 title: File versioning
-topic: Data workbench
 uuid: 5e7430f3-1425-41d2-828b-bc8f5786bf3b
 exl-id: 82a70d51-a95c-4ddd-8d3c-cd0364940693
 ---

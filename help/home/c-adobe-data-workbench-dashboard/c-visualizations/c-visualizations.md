@@ -1,8 +1,6 @@
 ---
 description: Visualizations are elements added to the dashboard canvas and configured to display various metric and dimension-based data.
-solution: Analytics
 title: Visualizations
-topic: Data workbench
 uuid: 1e15de30-7761-422a-a836-7a1b49b58daf
 exl-id: 7e8b23cd-5e95-4cd5-b07e-3aa53f26fac7
 ---

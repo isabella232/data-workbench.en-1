@@ -1,6 +1,5 @@
 ---
 description: To more thoroughly monitor your implementation, you can monitor all of the ports on your server machines as well as the software products running on each of those ports.
-solution: Analytics
 title: Monitoring Ports and Applications
 uuid: 63d92718-81df-49eb-adda-8b49bde57a9d
 exl-id: 418b2e5c-42ec-40f0-9cae-375194288143

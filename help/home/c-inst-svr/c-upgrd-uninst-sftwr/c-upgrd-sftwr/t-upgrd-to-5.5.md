@@ -1,6 +1,5 @@
 ---
 description: Upgrading server components for Data Workbench 6.1 from 5.4 installation.
-solution: Analytics
 title: DWB Server upgrade  5.4 to 5.5
 uuid: 9cf9f493-f098-4c6d-a8b5-786833496557
 exl-id: dd8c2a89-6a40-4ebf-a964-eb4851ab94a5

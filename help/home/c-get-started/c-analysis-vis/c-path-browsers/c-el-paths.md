@@ -1,8 +1,6 @@
 ---
 description: You can choose to view more elements in the path.
-solution: Analytics
 title: View more elements in paths
-topic: Data workbench
 uuid: dc45121b-1e95-4f7e-a85c-ba8b3a24fa33
 exl-id: 4337ee79-2a62-4be4-a22c-08c77516e327
 ---

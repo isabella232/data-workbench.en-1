@@ -1,8 +1,6 @@
 ---
 description: You can visualize data from multiple profiles in one dashboard.
-solution: Analytics
 title: Cross-Profile Selections
-topic: Data workbench
 uuid: e9377bcf-8de9-4952-a81a-863216f25fb7
 exl-id: a14400bf-64e3-44be-b9ab-d8a9ded406ae
 ---

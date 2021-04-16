@@ -1,8 +1,6 @@
 ---
 description: A field viewer is a table containing the values of one or more data fields.
-solution: Analytics
 title: Field viewer
-topic: Data workbench
 uuid: 1227b0de-6ae8-4f97-ad3e-5c9ead818ba5
 exl-id: 53ede4aa-4865-4e67-b3b1-e3e6287f29d7
 ---

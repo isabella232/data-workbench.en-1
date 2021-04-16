@@ -1,8 +1,6 @@
 ---
 description: Data Workbench can be configured to allow only certain users to change certain workspaces.
-solution: Analytics
 title: Configure a locked workspace
-topic: Data workbench
 uuid: 0bb264f6-20b9-43d9-903e-1b2422af21d5
 exl-id: e31a786e-064e-4f2c-9bf4-7ceafde814c0
 ---

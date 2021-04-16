@@ -1,8 +1,6 @@
 ---
 description: How to export, copy, and bookmark from the Worktop.
-solution: Analytics
 title: Using the Worktop thumbnail menu
-topic: Data workbench
 uuid: bada2260-3ae7-4fb6-938a-40b7acb1ffa7
 exl-id: 2220051d-5c53-48ed-8e13-62883819f22a
 ---

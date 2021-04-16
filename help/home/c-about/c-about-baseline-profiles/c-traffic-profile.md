@@ -1,8 +1,6 @@
 ---
 description: The Traffic profile contains the following metrics to identify visitor traffic.
-solution: Analytics
 title: Traffic Profile Metrics
-topic: Data workbench
 uuid: 7dfa18ef-d2cd-44ae-8c56-a0630a9d5cf2
 exl-id: 38f191e5-5b30-4fe0-a680-bcb33fe52eca
 ---

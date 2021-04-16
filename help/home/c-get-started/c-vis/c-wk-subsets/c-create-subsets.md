@@ -1,8 +1,6 @@
 ---
 description: Steps to create a subset.
-solution: Analytics
 title: Create subsets
-topic: Data workbench
 uuid: e2f8d91b-ea66-46e1-9add-685aebe1d59e
 exl-id: 5386638a-43a0-4702-85c4-e72944a4201a
 ---

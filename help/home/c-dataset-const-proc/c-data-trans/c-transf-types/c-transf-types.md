@@ -1,8 +1,6 @@
 ---
 description: Insight Server provides standard and URI transformations.
-solution: Analytics
 title: Types of Transformations
-topic: Data workbench
 uuid: 94392104-9789-4b11-a266-4dfc1b74fcc6
 exl-id: 477fa592-7a05-4001-876a-786af413ed6a
 ---

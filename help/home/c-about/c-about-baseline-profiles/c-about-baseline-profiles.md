@@ -1,8 +1,6 @@
 ---
 description: A set of standard profiles for each application has been created to allow for one or more of the profiles to be installed at any given time.
-solution: Analytics
 title: Baseline Profiles
-topic: Data workbench
 uuid: ff76ff7e-ccde-4d99-9109-8612a4a83183
 exl-id: f1bd5c1d-5f79-4b8c-9928-97169d553631
 ---

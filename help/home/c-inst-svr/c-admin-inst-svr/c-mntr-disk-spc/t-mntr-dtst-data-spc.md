@@ -1,6 +1,5 @@
 ---
 description: Information about dataset monitoring and adding new locations for dataset data storage.
-solution: Analytics
 title: Monitoring Dataset Data Space
 uuid: 0b7b95e7-b1bb-49cf-b465-fdbdc4ee214e
 exl-id: eb34d5fe-73c6-461f-8bb0-85833d8f824f

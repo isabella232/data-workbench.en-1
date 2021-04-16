@@ -1,8 +1,6 @@
 ---
 description: When you display dataset components on a dependency map, you have the option to enable the Include File Blocks display option.
-solution: Analytics
 title: File blocks
-topic: Data workbench
 uuid: 079dccba-ef19-4895-90bb-6c56f26e8beb
 exl-id: 04b0faf1-a16d-4e46-b790-5fe2023f2ba1
 ---

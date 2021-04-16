@@ -1,8 +1,6 @@
 ---
 description: A numeric dimension consists of ordered, numerical elements and has a one-to-many relationship with its parent countable dimension.
-solution: Analytics
 title: Numeric Dimensions
-topic: Data workbench
 uuid: 19fab770-1535-41b2-bad1-811eba5f3575
 exl-id: 69a4dfa6-8402-4c2b-8b04-e6e1a0fd5ccb
 ---

@@ -1,8 +1,6 @@
 ---
 description: Information about opening a field viewer for a log source, transformation, or extended dimension.
-solution: Analytics
 title: Open a field viewer
-topic: Data workbench
 uuid: fcc839cd-21dc-4eb0-9b8e-55fc92e6d400
 exl-id: 32a7418e-ca31-4d56-89a4-11416135f3e2
 ---

@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Tables
 title: Tables
-topic: Data workbench
 uuid: 3bfb5be4-5510-456b-8b3d-6e57cb93949e
 exl-id: 215ad990-92af-4c36-9946-89dbe36bbb8c
 ---

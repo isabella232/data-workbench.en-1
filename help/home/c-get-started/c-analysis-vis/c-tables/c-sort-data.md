@@ -1,8 +1,6 @@
 ---
 description: Steps to sort data.
-solution: Analytics
 title: Sort data in a table
-topic: Data workbench
 uuid: 66869478-922d-41e1-915d-3ed7bff3b08d
 exl-id: 9cacb9bc-1bad-417b-b506-ca54e644de00
 ---

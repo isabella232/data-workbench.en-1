@@ -1,8 +1,6 @@
 ---
 description: You can remove a visualization from the dashboard canvas at any point.
-solution: Analytics
 title: Removing Visualizations
-topic: Data workbench
 uuid: 9192d64c-29da-4e9f-ae7d-f873548c025c
 exl-id: 4a60c4f0-016e-4088-a565-5a40717a91cf
 ---

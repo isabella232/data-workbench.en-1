@@ -1,6 +1,5 @@
 ---
 description: Insight Server’s clients (Report and Insight) use common names to refer to Insight Servers.
-solution: Analytics
 title: Defining the Server's Network Location
 uuid: 9cf2f268-6fde-4427-b832-a238d126d697
 exl-id: def360b8-f146-45ca-ae61-fd213adef68b

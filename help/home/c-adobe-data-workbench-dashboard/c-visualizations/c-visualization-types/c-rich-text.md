@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Rich text
 title: Rich text
-topic: Data workbench
 uuid: d4e98fd1-da1e-47d2-be17-0f8771ae6b2e
 exl-id: 6913160c-4261-40bd-b22a-4c7a7969b8a7
 ---

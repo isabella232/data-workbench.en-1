@@ -1,8 +1,6 @@
 ---
 description: You define new metrics (referred to as derived metrics) and edit existing metric definitions using the Metric Editor.
-solution: Analytics
 title: Work with derived metrics
-topic: Data workbench
 uuid: 9767c170-e0cb-47b4-94f1-e9f6950b5926
 exl-id: 83467c64-4b9a-44ab-91a2-202c76c89979
 ---

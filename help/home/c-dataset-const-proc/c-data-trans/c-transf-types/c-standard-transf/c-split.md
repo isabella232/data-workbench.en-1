@@ -1,8 +1,6 @@
 ---
 description: The Split transformation splits a string into a vector of substrings based upon a given delimiter character.
-solution: Analytics
 title: Split
-topic: Data workbench
 uuid: 116e8465-8fb1-41eb-9a28-412cee54ab87
 exl-id: ea85b095-1306-4938-906d-35d421db6c98
 ---

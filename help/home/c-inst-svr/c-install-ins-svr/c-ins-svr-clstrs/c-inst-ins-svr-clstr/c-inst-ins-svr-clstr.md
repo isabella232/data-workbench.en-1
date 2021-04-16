@@ -1,6 +1,5 @@
 ---
 description: Steps to install an Insight Server cluster.
-solution: Analytics
 title: Installing an Insight Server Cluster
 uuid: 0a0eb03d-2454-4b02-8b9d-cacf9deb5451
 exl-id: 17f8deef-b6df-4245-9850-8a7b5eca688d

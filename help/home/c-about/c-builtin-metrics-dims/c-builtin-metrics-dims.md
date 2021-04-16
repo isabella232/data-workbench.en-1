@@ -1,8 +1,6 @@
 ---
 description: This section provides detailed information about the built-in metrics, dimensions, and filters provided in data workbench.
-solution: Analytics
 title: About Built-in Metrics, Dimensions, and Filters
-topic: Data workbench
 uuid: 05676254-f6f5-4cb1-a664-da96d5b965db
 exl-id: d581a029-fd59-47c5-b832-64407102ace7
 ---

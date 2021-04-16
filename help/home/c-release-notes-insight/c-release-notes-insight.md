@@ -1,8 +1,6 @@
 ---
 description: Identify new features, upgrade instructions, and bug fixes for released versions of Data Workbench.
-solution: Analytics
 title: Data Workbench Release Notes
-topic: Data workbench
 uuid: 6b3fd8c9-ad25-4205-a1a9-593a1e7cae28
 ---
 

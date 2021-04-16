@@ -1,8 +1,6 @@
 ---
 description: Information about working with the Data Workbench server either offline or online.
-solution: Analytics
 title: Working offline and online
-topic: Data workbench
 uuid: 613699d4-6d06-4c3c-b0aa-620933ae4d67
 exl-id: 1c9e0f4f-3172-40d3-b751-ebe6f9f57f8a
 ---

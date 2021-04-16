@@ -1,8 +1,6 @@
 ---
 description: Data Workbench 6.1 release notes include new features, upgrade requirements, bug fixes, and known issues.
-solution: Analytics
 title: Data Workbench 6.1 Release Notes
-topic: Data workbench
 uuid: 5bfb558a-ce85-4b4a-95dc-ccef337c4d1b
 exl-id: ed37a00f-b4cd-428e-abb7-7c52d5cfd2f9
 ---

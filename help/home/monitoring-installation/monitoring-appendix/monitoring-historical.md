@@ -1,8 +1,6 @@
 ---
 description: The following dimensions are available for use in the data workbench Historic profile.
-solution: Analytics
 title: Dimensions in the Data Workbench Historic profile
-topic: Data workbench
 uuid: 6d93fba4-986b-46a4-9479-aeb54853dff5
 exl-id: 9df1f317-a985-4132-b32e-f2263e0c23b2
 ---

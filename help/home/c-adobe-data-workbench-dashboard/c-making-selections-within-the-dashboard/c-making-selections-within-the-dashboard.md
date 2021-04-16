@@ -1,8 +1,6 @@
 ---
 description: Data within a dashboard can easily be segmented and explored by the use of selections.
-solution: Analytics
 title: Making Selections within the Dashboard
-topic: Data workbench
 uuid: b28bcc11-8fd3-4431-98ba-8adbd42a73d5
 exl-id: 18475e5c-97f4-42fd-883a-f822432b5301
 ---

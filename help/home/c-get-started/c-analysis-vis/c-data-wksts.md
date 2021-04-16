@@ -1,8 +1,6 @@
 ---
 description: Text or expressions can be entered into any cell of a worksheet.
-solution: Analytics
 title: Work with data in worksheets
-topic: Data workbench
 uuid: c2331fa5-aa07-4622-8f44-5124c22dffcb
 exl-id: 40d9211b-8f5c-4051-8f93-638ffacf45bd
 ---

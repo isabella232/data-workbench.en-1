@@ -1,8 +1,6 @@
 ---
 description: Metrics can be edited using the Metric Editor and saved in the Metrics directory of a profile.
-solution: Analytics
 title: Syntax for metric expressions
-topic: Data workbench
 uuid: 801e265d-d7e4-4f0f-9698-d0b50dd00995
 exl-id: 27d86fea-6500-4608-aadb-f39058fd3a6e
 ---

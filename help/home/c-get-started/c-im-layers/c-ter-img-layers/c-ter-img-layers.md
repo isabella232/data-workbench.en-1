@@ -1,8 +1,6 @@
 ---
 description: A terrain image layer displays terrain imagery of the Earth.
-solution: Analytics
 title: Terrain image layers
-topic: Data workbench
 uuid: 17968293-1ad2-4040-a174-d33f418af9b7
 exl-id: 754211a7-0b1f-4353-86f8-9c634d70cd83
 ---

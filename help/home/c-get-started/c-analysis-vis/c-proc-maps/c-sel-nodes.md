@@ -1,8 +1,6 @@
 ---
 description: Selecting a node by clicking it dims the other nodes so that you can more easily see the arrows to and from the highlighted node.
-solution: Analytics
 title: Select a node
-topic: Data workbench
 uuid: d63b39f6-edec-4b4c-b36b-f6e6881d3419
 exl-id: a483547f-e338-4d13-8a0b-6cb7971b7790
 ---

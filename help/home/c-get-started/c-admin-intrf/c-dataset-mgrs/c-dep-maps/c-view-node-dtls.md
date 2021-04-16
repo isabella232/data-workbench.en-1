@@ -1,8 +1,6 @@
 ---
 description: Information about viewing identifying information about a profile component.
-solution: Analytics
 title: View node details
-topic: Data workbench
 uuid: 2016a650-b021-4295-8313-d6287578ed10
 exl-id: f8ce7741-8ba2-484d-ac35-5c286b65f098
 ---

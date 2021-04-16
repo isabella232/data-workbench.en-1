@@ -1,8 +1,6 @@
 ---
 description: Information about opening visualizations.
-solution: Analytics
 title: Opening visualizations
-topic: Data workbench
 uuid: 106c6899-8f93-4221-898d-c7cde5ea19a8
 exl-id: 3b475429-ca2d-4bca-b1ac-2107ce200dcd
 ---

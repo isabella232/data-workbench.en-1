@@ -1,8 +1,6 @@
 ---
 description: Information about how to specify parameters in the Transform.cfg file based on the several scenarios.
-solution: Analytics
 title: Sample Data Workbench Transform.cfg Files
-topic: Data workbench
 uuid: cb473a5a-54e2-4bf7-84fb-c9c27910ef64
 exl-id: f7aadde4-6d89-4bd4-b34b-192a81a71dc3
 ---

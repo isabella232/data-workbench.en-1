@@ -1,8 +1,6 @@
 ---
 description: Each DPU from which the dashboard is to visualize data must have a Query API license.
-solution: Analytics
 title: Verifying Query API Enablement
-topic: Data workbench
 uuid: deedd1a4-c476-49f6-9278-556d914d2b93
 exl-id: 3dde2958-0f99-45f8-b65b-207a92362292
 ---

@@ -1,6 +1,5 @@
 ---
 description: Instructions to configure communications for Insight Server or Repeater.
-solution: Analytics
 title: Communications Configuration Settings
 uuid: 03297cf0-eb55-4db0-b692-eba24fcf947c
 exl-id: a35788d1-de36-4350-a107-eee392e44503

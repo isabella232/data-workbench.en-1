@@ -1,8 +1,6 @@
 ---
 description: Steps to open the Report Portal and ensure that you can successfully view the reports for your profile.
-solution: Analytics
 title: Test the Report Portal
-topic: Data workbench
 uuid: eee0df5e-78e0-49b2-853c-40f1b332328b
 exl-id: 197ff815-9234-4dce-b30f-b9cacf259634
 ---

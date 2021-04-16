@@ -1,8 +1,6 @@
 ---
 description: Steps for editing the Transformation.cfg file for a dataset profile.
-solution: Analytics
 title: Editing the Transformation Configuration File
-topic: Data workbench
 uuid: 77b9e566-4a9a-4ea1-b5ab-63a4574c0fdb
 exl-id: 3fab17a4-d356-4548-b977-f5d409870753
 ---

@@ -1,8 +1,6 @@
 ---
 description: When you make a selection on a globe from a particular layer, all of the other layers show data related to the selected data only.
-solution: Analytics
 title: Make selections on a globe
-topic: Data workbench
 uuid: 265206f8-2437-4490-8e7c-0a00ce56fd7f
 exl-id: 83e3b08b-b2a8-455b-87a4-bf48c619b3b9
 ---

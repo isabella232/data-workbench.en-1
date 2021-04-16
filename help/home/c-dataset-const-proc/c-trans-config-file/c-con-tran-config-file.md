@@ -1,8 +1,6 @@
 ---
 description: Important information to consider when editing the Transformation.cfg file.
-solution: Analytics
 title: Considerations for the Transformation Configuration File
-topic: Data workbench
 uuid: 1b64d023-966d-4f84-beb6-4f02b3504eea
 exl-id: 7164ccb5-269c-4968-a3b4-1ff046a57f92
 ---

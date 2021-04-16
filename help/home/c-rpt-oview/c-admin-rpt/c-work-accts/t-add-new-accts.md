@@ -1,8 +1,6 @@
 ---
 description: Steps to add new accounts.
-solution: Analytics
 title: Adding New Accounts
-topic: Data workbench
 uuid: 32081bc3-9050-42a2-95ad-85e7736fe5c4
 exl-id: dabd1dd5-fcbf-4612-a240-89cafed2cf2e
 ---

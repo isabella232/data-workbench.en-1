@@ -1,8 +1,6 @@
 ---
 description: Information about Log Processing and Transformation dataset include files.
-solution: Analytics
 title: Types of Dataset Include Files
-topic: Data workbench
 uuid: 5dc0a937-a036-4ede-bc2c-1c5fef10808a
 exl-id: 8a897f23-aff0-4720-8166-8f1ee7aea13f
 ---

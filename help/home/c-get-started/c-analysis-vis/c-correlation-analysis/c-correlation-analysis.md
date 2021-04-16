@@ -1,8 +1,6 @@
 ---
 description: Statistical correlations measure meaningful relationships to identify opportunities through advanced data mining.
-solution: Analytics
 title: Correlation Matrix
-topic: Data workbench
 uuid: 7f6bdb65-dc31-4e27-9870-4c9402ee6031
 exl-id: 79c23bb9-2b4b-4fe0-bfdb-52721fbbdf0c
 ---

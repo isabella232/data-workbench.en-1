@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: System Logs
 title: System Logs
-topic: Data workbench
 uuid: 8413702b-e3a3-465a-990c-10e4b81a7294
 exl-id: 6125df64-c831-4481-82a2-61a8fb9956a6
 ---

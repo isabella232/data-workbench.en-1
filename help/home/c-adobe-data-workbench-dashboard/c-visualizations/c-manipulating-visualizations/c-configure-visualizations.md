@@ -1,8 +1,6 @@
 ---
 description: Visualizations can easily be configured and reconfigured.
-solution: Analytics
 title: Configuring Visualizations
-topic: Data workbench
 uuid: d918f45b-2e4d-499f-902f-bcc661fe12f3
 exl-id: d70869ee-fb75-47a3-92fe-518f69f5fe73
 ---

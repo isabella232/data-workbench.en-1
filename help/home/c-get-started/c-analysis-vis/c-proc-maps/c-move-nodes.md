@@ -1,8 +1,6 @@
 ---
 description: You can move nodes within a map or between process maps as long as the maps have the same base dimension.
-solution: Analytics
 title: Move a node
-topic: Data workbench
 uuid: 9ce0b5dd-6421-4451-a12d-5fbaac2c54c0
 exl-id: b6c4f363-b5c9-4495-a7d4-eb17b40748c9
 ---

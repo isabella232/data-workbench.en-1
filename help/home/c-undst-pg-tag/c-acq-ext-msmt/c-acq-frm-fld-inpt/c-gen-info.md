@@ -1,8 +1,6 @@
 ---
 description: Values entered into a form in a web page can be collected and appended in the query string of the subsequently requested page (on form submission) through the use of JavaScript.
-solution: Analytics
 title: General Information
-topic: Data workbench
 uuid: 401816a5-1d95-48e6-bedf-ee2a5dbd2d50
 exl-id: 9effc72b-e75f-423c-87ec-6ac25edee8d6
 ---

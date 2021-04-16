@@ -1,8 +1,6 @@
 ---
 description: Formatting information about the element point layer file.
-solution: Analytics
 title: Element Point Layer File Format
-topic: Data workbench
 uuid: a8b3d2f4-0ed2-480d-a2a6-75d43025a579
 exl-id: 125796f6-a447-4f12-bcf2-3e669783cf1e
 ---

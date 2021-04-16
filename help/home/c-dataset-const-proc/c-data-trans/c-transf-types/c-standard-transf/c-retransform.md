@@ -1,8 +1,6 @@
 ---
 description: The RETransform (regular expression) transformation is a pattern-matching transformation that uses regular expressions to specify a pattern to look for and capture in the input and stores the captured string in a designated output field.
-solution: Analytics
 title: RETransform
-topic: Data workbench
 uuid: 60b5b60e-678a-416d-b5c3-57b1bbefce7d
 exl-id: 2595f782-0efb-4a2a-84bd-fdb04baf0852
 ---

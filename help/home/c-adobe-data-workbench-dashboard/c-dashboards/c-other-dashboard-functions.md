@@ -1,8 +1,6 @@
 ---
 description: Special functions include sharing, exporting, and deleting dashboards and are performed from the details panel of a selected dashboard.
-solution: Analytics
 title: Other Dashboard Functions
-topic: Data workbench
 uuid: 4f5ed0fa-c1eb-4059-9fb5-33e1d0e2f85a
 exl-id: f11d7aae-19b9-43e8-9abe-0702c0a53e3e
 ---

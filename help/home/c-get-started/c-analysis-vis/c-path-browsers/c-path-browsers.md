@@ -1,8 +1,6 @@
 ---
 description: A path browser enables you to analyze the sequence in which a particular dimension’s elements were accessed.
-solution: Analytics
 title: Path browsers
-topic: Data workbench
 uuid: 548091dc-935f-41ac-b67c-39080988f1ea
 exl-id: 563cf0e3-39d7-49b7-b808-b0233169fb1a
 ---

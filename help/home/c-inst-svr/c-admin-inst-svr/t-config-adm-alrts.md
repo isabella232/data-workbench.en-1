@@ -1,6 +1,5 @@
 ---
 description: Administrative alerts send email notifications to the specified email addresses when errors are detected by the Insight Server during the normal course of operation.
-solution: Analytics
 title: Configuring Administrative Alerts
 uuid: 398e088b-ff83-46ae-a20c-ba0b50d85702
 exl-id: 886e390f-fb2c-4922-8b01-9e5133a94e1b

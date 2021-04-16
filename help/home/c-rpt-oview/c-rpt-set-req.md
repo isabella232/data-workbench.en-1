@@ -1,8 +1,6 @@
 ---
 description: Conceptual information about requirements for your report sets.
-solution: Analytics
 title: Report Set Requirements
-topic: Data workbench
 uuid: 81d79a8f-cde1-4d86-b8b4-1b71313bac24
 exl-id: 58a2a142-8927-4300-997b-b94d0bf2e896
 ---

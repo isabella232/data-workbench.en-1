@@ -1,6 +1,5 @@
 ---
 description: Repeater functionality enables an Insight Server FSU to receive Sensor-acquired event data from one or more sources and replicate the data to one or more Insight Server FSUs running the Insight ServerReplication Service.
-solution: Analytics
 title: Configuring Repeater Functionality
 uuid: 45dca069-a91f-4fd4-bd47-c8c2e6aab834
 exl-id: 61b70772-07fb-4963-b09f-6b2cf97b01a1

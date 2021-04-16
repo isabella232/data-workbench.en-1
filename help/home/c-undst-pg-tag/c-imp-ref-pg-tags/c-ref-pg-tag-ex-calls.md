@@ -1,8 +1,6 @@
 ---
 description: The Reference Page Tag Execution Call is inserted into web pages for which you want to collect measurement data.
-solution: Analytics
 title: Adding Reference Page Tag Execution Calls
-topic: Data workbench
 uuid: 8c682649-d1b1-40a6-a2b2-4ff5a92b732f
 exl-id: a4f9ab2b-50e8-4e0b-9c87-80dffb697316
 ---

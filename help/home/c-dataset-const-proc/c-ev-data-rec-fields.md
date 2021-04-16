@@ -1,8 +1,6 @@
 ---
 description: Information about the fields of data that the data workbench server can process to construct a dataset.
-solution: Analytics
 title: Event Data Record Fields
-topic: Data workbench
 uuid: b0232bfa-0a3b-4e3d-876e-6a15a3764eae
 exl-id: 35433b87-991a-4fb9-ba6a-3217e89eb769
 ---

@@ -1,6 +1,5 @@
 ---
 description: Instructions to tune DPU performance.
-solution: Analytics
 title: DPU Performance Settings
 uuid: e2b87548-7eb3-4f82-a94e-8ec7c3dc27c2
 exl-id: 738c3a76-f8b4-4d84-86ee-ce9b99f50dae

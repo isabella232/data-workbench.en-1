@@ -1,8 +1,6 @@
 ---
 description: The Universal Transverse Mercator (UTM) projection is defined by eight parameters.
-solution: Analytics
 title: Universal Transverse Mercator Projections
-topic: Data workbench
 uuid: 55421412-5c68-4a4f-88d6-650d5999a77c
 exl-id: 7d7610c3-14e7-474e-b792-ad413c86a2ef
 ---

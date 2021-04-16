@@ -1,8 +1,6 @@
 ---
 description: Information about installing a data service on a data workbench server.
-solution: Analytics
 title: Installing a Data Service on a Data Workbench Server
-topic: Data workbench
 uuid: afe8e259-7fef-4327-9afc-18f36a1934db
 exl-id: 414e93b7-4e9c-4c84-8fba-8052939240c5
 ---

@@ -1,8 +1,6 @@
 ---
 description: The configuration file Log Processing Mode.cfg enables you to pause processing of data into a dataset, specify offline sources, or specify the frequency at which data workbench server saves its state files.
-solution: Analytics
 title: Log Processing Mode.cfg
-topic: Data workbench
 uuid: 1f1e5d8b-80e7-4423-bb03-56e706a1b7b4
 exl-id: e252b815-e691-490d-9ac9-88bb1fd2c64d
 ---

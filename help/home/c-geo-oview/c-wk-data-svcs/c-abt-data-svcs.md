@@ -1,8 +1,6 @@
 ---
 description: Information about data service options for mapping IP addresses.
-solution: Analytics
 title: About the Data Services
-topic: Data workbench
 uuid: 60fa12b9-4b64-457d-b0d4-1d7eb44f19b2
 exl-id: 330c6fb6-c579-45fb-ae5a-22649dc006aa
 ---

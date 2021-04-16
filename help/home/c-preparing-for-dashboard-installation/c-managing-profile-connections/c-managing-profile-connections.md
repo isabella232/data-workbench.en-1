@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Managing Profile Connections
 title: Managing Profile Connections
-topic: Data workbench
 uuid: 244ced13-2185-4347-bd0a-d8471daafe7b
 exl-id: 94f302d5-ee40-41c8-9b94-811fea915ecb
 ---

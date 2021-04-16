@@ -1,8 +1,6 @@
 ---
 description: Users must have a valid account and provide an account name and password when they access the Report Portal.
-solution: Analytics
 title: Define Additional Accounts
-topic: Data workbench
 uuid: 5ad98b52-267c-4c36-b43a-ae6ad415de8e
 exl-id: 1f267217-a389-431a-ba49-9a9eead0ae83
 ---

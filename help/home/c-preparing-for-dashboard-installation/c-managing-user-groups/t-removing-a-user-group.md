@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Removing a User Group
 title: Removing a User Group
-topic: Data workbench
 uuid: 722f7ef9-5f93-4944-a1d2-4fbd7833b4f7
 exl-id: 826e8e4f-d64c-43cc-beff-9e03a27d62ca
 ---

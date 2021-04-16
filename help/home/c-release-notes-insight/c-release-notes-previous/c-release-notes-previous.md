@@ -1,8 +1,6 @@
 ---
 description: View the previous Data Workbench release notes.
-solution: Analytics
 title: Data Workbench 6.0 Release Notes
-topic: Data workbench
 uuid: 36f518a1-7964-4380-9cfe-38950126bbb4
 ---
 

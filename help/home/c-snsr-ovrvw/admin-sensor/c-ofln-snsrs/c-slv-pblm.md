@@ -1,6 +1,5 @@
 ---
 description: When a web server goes offline because of a failure, the solution is a simple one that requires a Data Workbench user with appropriate privileges to open the Log Processing Mode.cfg file and add the ID of the Sensor (in our example, WEB2) to the "Offline Sources" section.
-solution: Analytics
 title: Solving the Problem
 uuid: 19d47b06-be12-4adf-9eac-b16cf7131834
 exl-id: 4a05dc06-360b-4c15-a881-81d350e95372

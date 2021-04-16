@@ -1,8 +1,6 @@
 ---
 description: Add a tab to the Worktop to quickly access a workspace.
-solution: Analytics
 title: Add a tab to the worktop
-topic: Data workbench
 uuid: 3c8b459d-4824-4678-871d-1a577235957a
 exl-id: 30201eb9-1006-42b0-9d73-0962e41192ce
 ---

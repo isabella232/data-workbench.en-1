@@ -1,8 +1,6 @@
 ---
 description: The Compare condition and Range condition require that you specify the type of comparison to be made for the condition.
-solution: Analytics
 title: Test Types for Test Operations
-topic: Data workbench
 uuid: dc0433dd-a35e-472e-8975-f58347512c11
 exl-id: 8abed46e-e76d-47c0-bbe9-cf98cf2d61e8
 ---

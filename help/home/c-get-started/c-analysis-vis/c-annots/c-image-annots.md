@@ -1,8 +1,6 @@
 ---
 description: Using an image annotation, you can copy an image from any source and paste it directly into a workspace.
-solution: Analytics
 title: Image annotations
-topic: Data workbench
 uuid: 62a655f6-120b-4cf4-adaa-aa04f721a7dc
 exl-id: 905d3e9e-0d24-456e-af45-c29f12ed986d
 ---

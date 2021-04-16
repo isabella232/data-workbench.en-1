@@ -1,8 +1,6 @@
 ---
 description: Steps to create a new dataset include file.
-solution: Analytics
 title: Creating New Dataset Include Files
-topic: Data workbench
 uuid: 707bdd84-b12b-4226-b6aa-43c9fc7ec9fe
 exl-id: 8a7b343d-b695-41aa-b465-8c5cd68d6ef7
 ---

@@ -1,8 +1,6 @@
 ---
 description: To connect to a data workbench server, Report Server must have permission to access that server.
-solution: Analytics
 title: Enabling Access to the Data Workbench Server
-topic: Data workbench
 uuid: e112ac2a-34fe-40a2-9324-262f5cb1f681
 exl-id: bf409413-470e-4e05-9bd2-b5b511bbe4a5
 ---

@@ -1,6 +1,5 @@
 ---
 description: A processing Insight Server is identical to a master Insight Server except for the contents of its Components directory.
-solution: Analytics
 title: Installing and Configuring the Processing Insight Servers
 uuid: 186675f7-8b63-4675-89ec-51b0837a64d8
 exl-id: 21f7e31b-a2fb-4257-972e-5228bb1efa01

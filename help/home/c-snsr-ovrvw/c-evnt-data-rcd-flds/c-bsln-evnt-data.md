@@ -1,6 +1,5 @@
 ---
 description: Information about baseline event data record fields as recorded by Sensor.
-solution: Analytics
 title: Baseline Event Data Record Fields
 uuid: aa36d332-089c-4ae2-98e2-a93d2fa023b7
 exl-id: ad3d8806-863a-4871-a35b-6680163f00ac

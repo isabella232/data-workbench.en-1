@@ -1,8 +1,6 @@
 ---
 description: Steps to add a visualization to the dashboard canvas.
-solution: Analytics
 title: Creating Visualizations
-topic: Data workbench
 uuid: d8eb60ac-cc99-4af3-b9c4-946b0a7274ca
 exl-id: 139e24ed-5b22-4d52-8e0a-cef0fe523a49
 ---

@@ -1,8 +1,6 @@
 ---
 description: The first step is to enable the IIS role on your dashboard server.
-solution: Analytics
 title: Enabling IIS
-topic: Data workbench
 uuid: fbd194db-3307-41ae-8ece-05eb261d74ad
 exl-id: 0d431302-1e69-49b6-8757-9823fd70a3b4
 ---

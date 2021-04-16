@@ -1,8 +1,6 @@
 ---
 description: You can create a path browser from a graph, table, or process map.
-solution: Analytics
 title: Creating path browsers
-topic: Data workbench
 uuid: 84a5e587-fb02-461b-aec8-1b6ad473ebc3
 exl-id: 9fa11b84-da73-447a-8b10-7eab381e3f66
 ---

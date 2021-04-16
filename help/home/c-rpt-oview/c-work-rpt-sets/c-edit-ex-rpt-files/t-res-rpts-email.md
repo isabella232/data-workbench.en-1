@@ -1,8 +1,6 @@
 ---
 description: Steps to resend reports by email.
-solution: Analytics
 title: Resending Reports by Email
-topic: Data workbench
 uuid: 384dfa1f-6a72-4fef-886e-bf2290f5993f
 exl-id: eb37fd3e-6e7b-4672-bcf0-fffa9f10997d
 ---

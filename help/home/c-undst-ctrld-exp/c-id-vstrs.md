@@ -2,7 +2,6 @@
 description: A typical configuration of Site uses cookies to uniquely identify visitors to your website and track their behavior over time.
 solution: Analytics,Analytics
 title: How Does Site Identify Visitors?
-topic: Data workbench
 uuid: e1e451b8-e827-4010-bda9-9147c3b09958
 exl-id: 2783ee11-6d6a-463d-86b5-dd63e490201f
 ---

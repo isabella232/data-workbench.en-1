@@ -1,8 +1,6 @@
 ---
 description: How to create an input cell.
-solution: Analytics
 title: Create an input cell
-topic: Data workbench
 uuid: 9b2883e4-b12a-4279-9894-37a1df6c34b3
 exl-id: 1e55696e-fcc8-4521-b37b-f52409229e6d
 ---

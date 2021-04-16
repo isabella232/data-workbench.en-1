@@ -1,8 +1,6 @@
 ---
 description: After you have created and saved the workspaces within your report set folder, you must create a new Report.cfg file.
-solution: Analytics
 title: Configure the Report Set
-topic: Data workbench
 uuid: 21f8dcde-8fe1-4ba0-9eb7-39ff812dcf14
 exl-id: 780e6bb1-b332-4984-b132-df11d95b592a
 ---

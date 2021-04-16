@@ -1,8 +1,6 @@
 ---
 description: The Configuration option opens your Insight.cfg file, which controls your connections to various servers.
-solution: Analytics
 title: Configuration option
-topic: Data workbench
 uuid: 1edfcf03-b278-4d81-942c-c9024378e13c
 exl-id: bb694d3c-64f7-4a74-b774-4d5145250e6d
 ---

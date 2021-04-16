@@ -1,8 +1,6 @@
 ---
 description: There are two ways to determine which selections have been made within a dashboard.
-solution: Analytics
 title: Determining What's Selected
-topic: Data workbench
 uuid: fb8c6e4e-7345-431a-b9b4-0c08b8f6aabb
 exl-id: cc627c48-2fd6-4a1a-a4b7-c807af01a0b2
 ---

@@ -1,8 +1,6 @@
 ---
 description: Steps to install the required Microsoft components.
-solution: Analytics
 title: Installing Required Components
-topic: Data workbench
 uuid: e23fba09-4684-4daf-8426-ea91169b3348
 exl-id: d39cb14e-7cce-4088-8301-8ff566c0bde4
 ---

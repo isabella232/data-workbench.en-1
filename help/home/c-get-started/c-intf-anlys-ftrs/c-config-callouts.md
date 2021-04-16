@@ -1,8 +1,6 @@
 ---
 description: Callouts bring attention to a particular dimension element by creating a new visualization with a virtual selection of a particular dimension element in a visualization.
-solution: Analytics
 title: Configure a callout
-topic: Data workbench
 uuid: 779764bd-86c3-49cf-aabc-edb39caf0490
 exl-id: 509163b2-0bd1-47b4-8612-aac460a501cc
 ---

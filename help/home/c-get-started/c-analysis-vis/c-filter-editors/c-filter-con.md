@@ -1,8 +1,6 @@
 ---
 description: Information about working with filter conditions including creating a new filter and adding a condition to a new filter.
-solution: Analytics
 title: Working with filter conditions
-topic: Data workbench
 uuid: a75fcb21-be5c-452a-8632-86cd78db15cb
 exl-id: 15745b0c-2754-4f8b-acfd-a6bd5886ecf8
 ---

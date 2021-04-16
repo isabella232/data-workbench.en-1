@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Managing the Schema
 title: Managing the Schema
-topic: Data workbench
 uuid: fd9a2254-7171-47b9-9db3-b1c320b7df78
 exl-id: 8b40921b-d430-4c77-826c-e65d8fcbeb90
 ---

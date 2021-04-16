@@ -1,8 +1,6 @@
 ---
 description: To specify the profiles that you want to be available in Report Portal, you must configure the profiles.xml file.
-solution: Analytics
 title: Edit the Profiles.xml File
-topic: Data workbench
 uuid: 3640552b-bc46-4b4f-8524-e021b0ca2bfc
 exl-id: 7a3900e4-e472-4295-80f7-ce755958bc18
 ---

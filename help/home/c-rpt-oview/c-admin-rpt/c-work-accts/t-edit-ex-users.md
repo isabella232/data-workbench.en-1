@@ -1,8 +1,6 @@
 ---
 description: Steps to edit existing user accounts.
-solution: Analytics
 title: Editing Existing Users
-topic: Data workbench
 uuid: 5c01f0f9-0d30-4526-a4fb-43c7e1cb076f
 exl-id: cfbc54d8-16b4-4629-b556-a2aa4ee0c606
 ---

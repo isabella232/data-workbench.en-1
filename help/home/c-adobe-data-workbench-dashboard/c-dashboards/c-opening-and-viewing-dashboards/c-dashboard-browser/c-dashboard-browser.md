@@ -1,8 +1,6 @@
 ---
 description: The Dashboard Browser facilitates browsing, searching, and opening dashboards that you and other members of your organization have created and saved.
-solution: Analytics
 title: Dashboard Browser
-topic: Data workbench
 uuid: ab4f81dc-c32e-408b-bcfd-3531766c9054
 exl-id: 02ee7120-2d94-4033-afce-9556383d1eba
 ---

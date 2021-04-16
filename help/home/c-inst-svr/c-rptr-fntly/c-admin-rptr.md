@@ -1,6 +1,5 @@
 ---
 description: The administrative tasks for repeater functionality are very similar to those for Insight Server.
-solution: Analytics
 title: Administering Repeater
 uuid: 4fbfce3a-2610-4dcd-a585-cb7ee07b90db
 exl-id: 5c7a4f95-be4b-4c2c-8dea-19037ba0b5cc

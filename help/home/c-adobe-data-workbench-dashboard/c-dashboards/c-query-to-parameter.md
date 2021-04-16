@@ -1,8 +1,6 @@
 ---
 description: The dashboard allows you to visualize samples of data from Adobe data workbench versus querying your dataset to completion.
-solution: Analytics
 title: Query-To Parameter
-topic: Data workbench
 uuid: 0035f005-ed23-4b60-9615-8a512e3dca53
 exl-id: cf25fba1-2055-433f-86ca-1f16f11ad372
 ---

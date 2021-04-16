@@ -1,8 +1,6 @@
 ---
 description: Guidelines for specifying the output format.
-solution: Analytics
 title: Output format
-topic: Data workbench
 uuid: 12086f14-bad1-4d27-82fb-533e877d0a04
 exl-id: e695eaf4-ebe5-4dd1-8191-8045021d6411
 ---

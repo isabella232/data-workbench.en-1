@@ -1,8 +1,6 @@
 ---
 description: Locks/unlocks the current visualization.
-solution: Analytics
 title: Locking and Unlocking Visualizations
-topic: Data workbench
 uuid: 968f1a1d-8de7-4738-9a8d-db9179192478
 exl-id: bce8fc1e-9a9d-4fb2-ab43-08d2cf77e70f
 ---

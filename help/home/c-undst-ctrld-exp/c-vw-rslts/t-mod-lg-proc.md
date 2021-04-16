@@ -2,7 +2,6 @@
 description: You must add the x-experiment field to the Log Processing.cfg file, which is used to create an extended dimension.
 solution: Analytics,Analytics
 title: Modifying Log Processing.cfg
-topic: Data workbench
 uuid: 9105b09b-e3d5-4922-a205-b459553a4bec
 exl-id: 23c7873f-8ffd-422f-896b-d6c7e16aabbd
 ---

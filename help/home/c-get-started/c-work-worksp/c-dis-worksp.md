@@ -1,8 +1,6 @@
 ---
 description: After working in Data Workbench, you can display one of the many pre-configured workspaces delivered with Data Workbench.
-solution: Analytics
 title: Display a workspace
-topic: Data workbench
 uuid: 45840157-e3a1-4ad9-8f62-a49db3d6d26c
 exl-id: d0e4ef5c-37cc-463b-a649-ffcc41495ca9
 ---

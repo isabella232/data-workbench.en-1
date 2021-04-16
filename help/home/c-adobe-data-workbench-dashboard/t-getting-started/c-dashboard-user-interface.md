@@ -1,8 +1,6 @@
 ---
 description: The data workbench dashboard includes a Sidebar and Toolbar with feature menus and a Dashboard Canvas where you display data visualizations.
-solution: Analytics
 title: Dashboard User Interface
-topic: Data workbench
 uuid: cfa6c553-e223-4b0e-8b4a-255afa85c999
 exl-id: f80da6c7-02cb-4916-b139-617703cf27b6
 ---

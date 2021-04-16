@@ -1,8 +1,6 @@
 ---
 description: When restarting a Report Server machine, you first must stop the Report Server service.
-solution: Analytics
 title: Restarting Report Server
-topic: Data workbench
 uuid: a5509e40-ef6f-452c-bc75-e1f9f7729b2e
 exl-id: 4edb16b7-c640-4899-931e-0f8870d08b45
 ---

@@ -1,6 +1,5 @@
 ---
 description: The address file installed on Insight Server contains four pre-defined network locations.
-solution: Analytics
 title: The Address File Installed on Insight Server
 uuid: a58d36d8-e1a3-43e7-91c5-c57351e1be49
 exl-id: 12e9bfa2-99ac-4584-b761-38401d1bc3d1

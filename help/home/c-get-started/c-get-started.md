@@ -1,8 +1,6 @@
 ---
 description: An overview of the basic elements, procedures, and terminology that you need to understand when working with Data Workbench.
-solution: Analytics
 title: Data Workbench Client
-topic: Data workbench
 uuid: 3f99e681-e68f-4aee-aa42-e72a1444b029
 ---
 

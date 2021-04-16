@@ -1,8 +1,6 @@
 ---
 description: The Funnel visualization includes features to build a funnel with multiple dimensions, raw visitor numbers, percentage of visitors at each step, and separate scopes.
-solution: Analytics
 title: Funnel Features
-topic: Data workbench
 uuid: 7d2f5ff9-95d3-41f5-931c-689f140714c2
 exl-id: e78dcefe-6f92-45de-9990-0beac09ad82f
 ---

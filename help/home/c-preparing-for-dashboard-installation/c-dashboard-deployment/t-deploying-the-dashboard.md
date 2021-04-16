@@ -1,8 +1,6 @@
 ---
 description: Steps to deploy the dashboard in IIS.
-solution: Analytics
 title: Deploying the Dashboard
-topic: Data workbench
 uuid: e9a5d62e-9d59-448a-9728-8087aec0fdec
 exl-id: d59efcc3-7405-407d-840a-b5202f418d51
 ---

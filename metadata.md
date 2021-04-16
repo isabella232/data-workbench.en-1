@@ -1,13 +1,8 @@
 ---
 cloud: Experience Cloud
 product: adobe analytics
-solution-title: Learn & Support
-solution-hub-url: https://helpx.adobe.com/support/analytics.html
-solution-image: assets/analytics-icon-24.png
-getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/analytics/get-started.html
-tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/analytics/kt/index/analytics-videos.html
+solution: Analytics
+type: Documentation
 git-repo: https://github.com/AdobeDocs/data-workbench.en
 index: yes
 ---

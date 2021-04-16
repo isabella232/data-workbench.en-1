@@ -1,8 +1,6 @@
 ---
 description: Information about some of the additional configuration files contained in the Dataset directory for the dataset profile or its inherited profiles.
-solution: Analytics
 title: Additional Configuration Files
-topic: Data workbench
 uuid: a8faf8aa-0218-445a-92a0-2cef6f4c26f3
 exl-id: 372035b5-fcfb-47fd-919f-3f1309b98c1e
 ---

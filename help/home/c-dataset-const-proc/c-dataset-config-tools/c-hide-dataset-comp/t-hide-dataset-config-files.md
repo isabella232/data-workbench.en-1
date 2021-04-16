@@ -1,8 +1,6 @@
 ---
 description: If you do not want to inherit a configuration file from an internal or other inherited profile (that is, you want the instructions in the file to be ignored during dataset construction), but you do not want to modify the file, you can create an empty (zero-byte) file with the same name and store the file in another profile.
-solution: Analytics
 title: Hiding Dataset Configuration Files
-topic: Data workbench
 uuid: eb33cf54-e067-4af2-a10e-7ffe43910e4f
 exl-id: 327847d1-421a-4ed1-9a5f-2491765a34bd
 ---

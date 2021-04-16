@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Managing User Groups
 title: Managing User Groups
-topic: Data workbench
 uuid: e1ece130-f135-48d8-aa30-5032b161b2ea
 exl-id: 51a6b39e-8305-475b-b62f-9c695e229aaa
 ---

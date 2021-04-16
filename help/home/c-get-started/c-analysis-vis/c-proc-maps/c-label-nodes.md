@@ -1,8 +1,6 @@
 ---
 description: Information about displaying, hiding, and changing a node's label.
-solution: Analytics
 title: Label a node
-topic: Data workbench
 uuid: ded00cc8-2958-4aca-9d45-92afc441e9e2
 exl-id: e234aa1b-2f5d-42ec-bad7-2ada0db38702
 ---

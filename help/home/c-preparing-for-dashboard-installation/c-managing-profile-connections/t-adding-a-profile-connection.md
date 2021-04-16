@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Adding a Profile Connection
 title: Adding a Profile Connection
-topic: Data workbench
 uuid: 0a168236-8c15-456b-9ac8-ca572baa916a
 exl-id: c8dd2286-df88-4b23-a7de-cd90bfe76289
 ---

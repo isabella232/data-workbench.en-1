@@ -1,8 +1,6 @@
 ---
 description: The purpose of Sensor’s content-type filtering capability is to eliminate the need to store and process information that is not useful for analysis purposes.
-solution: Analytics
 title: Filtering By Content Type
-topic: Data workbench
 uuid: 8a3b567b-8c7b-4ca2-bfcb-74a1addda2bd
 exl-id: 0ed93a18-ef47-462b-8609-3ec98b037e6b
 ---

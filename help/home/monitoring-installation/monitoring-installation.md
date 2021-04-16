@@ -1,8 +1,6 @@
 ---
 description: Directions for installing the data workbench Monitoring Profile.
-solution: Analytics
 title: Installing the Monitoring Profile
-topic: Data workbench
 uuid: e0d6fc61-d9b9-4c4b-94e1-2acfd0ff4de6
 exl-id: 368e489c-75c9-4402-a709-a4f5987459b6
 ---

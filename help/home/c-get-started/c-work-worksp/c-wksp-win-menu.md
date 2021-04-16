@@ -1,8 +1,6 @@
 ---
 description: This menu enables you to add available visualizations to your workspace.
-solution: Analytics
 title: Using the workspace Window menu
-topic: Data workbench
 uuid: 0fa153c1-5d68-4777-98ee-9682fd4adc41
 exl-id: 1077087b-b985-4339-b465-736722b917a5
 ---

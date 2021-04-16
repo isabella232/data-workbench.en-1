@@ -1,8 +1,6 @@
 ---
 description: The Dashboard Browser also allows you to perform searches to find existing dashboards.
-solution: Analytics
 title: Searching within the Dashboard Browser
-topic: Data workbench
 uuid: b11b024e-3876-48f2-85e2-a4af047e4985
 exl-id: f6dd923c-f98b-4ca0-a109-88b3988b9c95
 ---

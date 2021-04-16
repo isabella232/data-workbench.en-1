@@ -1,8 +1,6 @@
 ---
 description: View a list of Data Workbench client user interface actions and shortcut keys.
-solution: Analytics
 title: Quick reference
-topic: Data workbench
 uuid: d4563f21-4a0c-4ba5-844a-700b03a7f56e
 exl-id: 59ac0cc7-e7c7-4ce1-889a-9a65a0faa853
 ---

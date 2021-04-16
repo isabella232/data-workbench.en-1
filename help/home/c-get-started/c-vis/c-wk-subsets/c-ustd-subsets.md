@@ -1,8 +1,6 @@
 ---
 description: Conceptual information about subsets.
-solution: Analytics
 title: Understanding subsets
-topic: Data workbench
 uuid: ed185b63-dbb3-4ed4-9403-cf4dc8be2ff1
 exl-id: a75b36f9-d34d-4a4a-8a2c-15ae5461823c
 ---

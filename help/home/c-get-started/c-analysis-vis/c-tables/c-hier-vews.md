@@ -1,8 +1,6 @@
 ---
 description: Hierarchy views are available only when using the Site or HBX application.
-solution: Analytics
 title: Apply hierarchy views
-topic: Data workbench
 uuid: 859a92af-4f7e-4bb5-9a98-917006894301
 exl-id: 27a69404-40d3-44ab-bf5c-b2a5d8d836c2
 ---

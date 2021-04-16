@@ -1,8 +1,6 @@
 ---
 description: String and numeric parameters take as their values strings and numbers, respectively.
-solution: Analytics
 title: String and Numeric Parameters
-topic: Data workbench
 uuid: 2840967e-dd9e-40b2-91e4-3fdfa38f88e7
 exl-id: 37d004da-cde7-4b67-b0cb-0acbb6d8ad68
 ---

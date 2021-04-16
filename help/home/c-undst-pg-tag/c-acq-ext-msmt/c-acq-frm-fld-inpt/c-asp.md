@@ -1,8 +1,6 @@
 ---
 description: Web pages are often structured using ASP (Active Server Pages) programming language.
-solution: Analytics
 title: ASP-Specific Information
-topic: Data workbench
 uuid: 552288cb-b775-4121-8869-322f2a26932b
 exl-id: f73235e1-d44a-4056-b1f4-a86879c19483
 ---

@@ -1,8 +1,6 @@
 ---
 description: The data workbench server (InsightServer64.exe) can read event data from any SQL database (for example, Oracle or Microsoft SQL Server) that has an ODBC 3.0 compliant driver.
-solution: Analytics
 title: ODBC Data Sources
-topic: Data workbench
 uuid: 5b37cd41-2d79-472c-8e6d-00ff894991a9
 exl-id: b22b1e27-9b6c-4708-b45c-a9605807689a
 ---

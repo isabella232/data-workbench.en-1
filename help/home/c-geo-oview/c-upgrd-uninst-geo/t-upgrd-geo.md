@@ -1,8 +1,6 @@
 ---
 description: Steps to upgrade the Geography profile and update the Geography lookups on your data workbench server.
-solution: Analytics
 title: Upgrading Data Workbench Geography
-topic: Data workbench
 uuid: 7e147283-fe0c-4d7c-b7ad-c7c98029d202
 exl-id: 7c954a73-e6f9-4258-8134-2b96c6fb636b
 ---

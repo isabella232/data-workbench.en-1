@@ -2,7 +2,6 @@
 description: Define the primary function of the objective, and target audience.
 solution: Analytics,Analytics
 title: Defining the Objective
-topic: Data workbench
 uuid: 4957b249-8790-4275-98ab-9c6398039a63
 exl-id: 6ee140ff-3cfb-45f8-9bce-f360fbb19322
 ---

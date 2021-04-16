@@ -1,8 +1,6 @@
 ---
 description: Legends provide explanatory details about the visualizations displayed within a workspace, enabling you to more fully explore the data represented in your visualizations.
-solution: Analytics
 title: Legends
-topic: Data workbench
 uuid: c2e7c43f-2e9d-41ac-bb18-08d00776e8b2
 exl-id: e1cb5cdc-27df-4f29-a840-0e2e5ca34a44
 ---

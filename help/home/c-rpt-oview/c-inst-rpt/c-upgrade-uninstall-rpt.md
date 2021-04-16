@@ -1,8 +1,6 @@
 ---
 description: Information about upgrading and uninstalling your Report Server software.
-solution: Analytics
 title: Upgrading and Uninstalling Report Server
-topic: Data workbench
 uuid: 42f0d190-1a88-424d-be4b-90338144d287
 exl-id: 86d0d848-4e2a-45cb-a1b3-b8a856332d33
 ---

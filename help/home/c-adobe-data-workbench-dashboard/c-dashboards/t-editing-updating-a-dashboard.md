@@ -1,8 +1,6 @@
 ---
 description: Existing dashboards can be edited at any time, either for temporary ad hoc purposes or to make permanent changes to be saved to the server.
-solution: Analytics
 title: Editing or Updating a Dashboard
-topic: Data workbench
 uuid: 643f24f5-78ce-4876-8c01-889bfae5735e
 exl-id: 822c5544-f7e3-4297-b784-926c43f8bc4e
 ---

@@ -1,8 +1,6 @@
 ---
 description: Information about test operation conditions including compare, not empty, range, regular expression, and string match.
-solution: Analytics
 title: Test Operation Conditions
-topic: Data workbench
 uuid: 6a117569-1372-4095-972b-76289a45f19e
 exl-id: 6c1f521b-a6b9-4bb7-bdfa-56c615b0c916
 ---

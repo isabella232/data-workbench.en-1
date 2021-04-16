@@ -1,8 +1,6 @@
 ---
 description: The ChangeCase transformation changes the case of the string in the Input parameter as specified by the Action parameter.
-solution: Analytics
 title: ChangeCase
-topic: Data workbench
 uuid: 676e79e6-324e-43d1-8982-b44596d0eeac
 exl-id: 2002fe22-d31c-4286-9f73-59ef205f1384
 ---

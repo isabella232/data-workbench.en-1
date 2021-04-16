@@ -1,8 +1,6 @@
 ---
 description: Lists the minimum configuration requirements.
-solution: Analytics
 title: Minimum System Requirements
-topic: Data workbench
 uuid: 15848e82-8c16-4ed8-a96f-d4293519203a
 exl-id: 6e679b17-99fc-40bc-b35c-0a0afbc4e807
 ---

@@ -1,8 +1,6 @@
 ---
 description: Link to information about exporting workspaces to Microsoft Excel.
-solution: Analytics
 title: Export to Microsoft Excel
-topic: Data workbench
 uuid: ba97942c-9a58-4e49-b567-4844db7ff619
 exl-id: 8e379de4-cd9e-430d-96d6-40322eaa3ea9
 ---

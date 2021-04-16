@@ -1,8 +1,6 @@
 ---
 description: The third way that a dashboard can be opened is by using a dashboard’s hyperlink.
-solution: Analytics
 title: Dashboard Hyperlink
-topic: Data workbench
 uuid: da27204f-64be-4ea1-8bf9-ce907e334d86
 exl-id: 05890f46-bcb6-476a-9d3b-4bfeb95b20d4
 ---

@@ -1,8 +1,6 @@
 ---
 description: Information about displaying highlighted nodes in another dependency map.
-solution: Analytics
 title: Display a highlighted node
-topic: Data workbench
 uuid: 557252d0-1178-49fb-b473-588ccb117a15
 exl-id: 732aa5fd-4497-45b5-b3ac-5ebf7be1dd81
 ---

@@ -1,6 +1,5 @@
 ---
 description: You may want to add an Insight Server FSU to an existing cluster if you want to store source data on an additional file server or if you want to set up a back up for your master Insight Server.
-solution: Analytics
 title: Adding an Insight Server FSU to an Existing Cluster
 uuid: 57d6ef52-eef9-4425-943a-331e4c9c4207
 exl-id: b3b08016-42ad-4972-a8b7-ee714493fa52

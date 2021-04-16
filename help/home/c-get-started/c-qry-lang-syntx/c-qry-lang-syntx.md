@@ -1,8 +1,6 @@
 ---
 description: Query language syntax for creating and editing metric, dimension, and filter expressions.
-solution: Analytics
 title: Query language syntax
-topic: Data workbench
 uuid: 446df540-b3e5-4c21-a0a7-766abddff43d
 exl-id: 8beb2745-1452-4373-87d2-ada705de90b1
 ---

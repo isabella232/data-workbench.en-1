@@ -1,8 +1,6 @@
 ---
 description: Code sample of the Report index.
-solution: Analytics
 title: Sample Report Index
-topic: Data workbench
 uuid: 38711240-8434-4f8f-81da-6c223064613b
 exl-id: 33a038c0-c3d1-4458-a2dd-8ec5155396b5
 ---

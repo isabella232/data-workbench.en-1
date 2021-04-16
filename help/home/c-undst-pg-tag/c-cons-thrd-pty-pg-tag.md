@@ -1,8 +1,6 @@
 ---
 description: Conceptual information about third-party tagging and preventing cookie-blocking using P3P.
-solution: Analytics
 title: P3P Considerations for Third-Party Page Tagging
-topic: Data workbench
 uuid: b88d0d22-0ff8-4b63-9be9-7acc12061146
 exl-id: 8eb521b6-802c-4d9f-a6b4-b1c4f694b8b8
 ---

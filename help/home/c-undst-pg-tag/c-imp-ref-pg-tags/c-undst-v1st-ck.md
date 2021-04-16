@@ -1,8 +1,6 @@
 ---
 description: Site uses cookies to uniquely identify visitors to your website and track their behavior over time.
-solution: Analytics
 title: Understanding the v1st Cookie
-topic: Data workbench
 uuid: 6112cafe-51e3-42f0-8554-4a653dea782a
 exl-id: c5e8e1cb-686b-4d31-821e-60beb2808f80
 ---

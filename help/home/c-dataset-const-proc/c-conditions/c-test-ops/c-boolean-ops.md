@@ -1,8 +1,6 @@
 ---
 description: The Boolean operations combine the results of the test operations, which function as children of the boolean operations.
-solution: Analytics
 title: Boolean Operations
-topic: Data workbench
 uuid: 01143bc2-c867-434c-8028-86d4708e8b80
 exl-id: 5b01e614-5603-43ff-9be4-aa329cca1645
 ---

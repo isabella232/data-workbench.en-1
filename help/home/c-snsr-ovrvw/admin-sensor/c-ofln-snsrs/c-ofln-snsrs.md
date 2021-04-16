@@ -1,6 +1,5 @@
 ---
 description: Plan for two scenarios with regard to the Sensor going offline.
-solution: Analytics
 title: Dealing with Offline Sensors
 uuid: a8be847d-e506-4fbc-9d57-a28ff0cbeff2
 exl-id: f655c2ad-da3a-47cc-a62c-0a2937cdc0e4

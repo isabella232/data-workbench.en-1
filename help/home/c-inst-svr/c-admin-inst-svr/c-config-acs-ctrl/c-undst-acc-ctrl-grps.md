@@ -1,6 +1,5 @@
 ---
 description: Five pre-built access control groups are available, but you can create and manage additional groups as required.
-solution: Analytics
 title: Understanding Access Control Groups
 uuid: ff783078-6d2f-4a64-ab11-8083e35d765f
 exl-id: 35353b0a-7f08-4215-8a2c-ee1e26d9f5db

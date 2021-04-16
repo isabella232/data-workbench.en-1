@@ -1,8 +1,6 @@
 ---
 description: Benchmarks display qualitative differences in data by comparing the distribution of a metric based on all of the data with the distribution of a metric based on a selection in the data.
-solution: Analytics
 title: Benchmarks
-topic: Data workbench
 uuid: 2e5255cd-eafd-45de-a16f-70d719d2ac0c
 exl-id: 6294c4f9-a338-409a-a157-86cdfbbb6f76
 ---

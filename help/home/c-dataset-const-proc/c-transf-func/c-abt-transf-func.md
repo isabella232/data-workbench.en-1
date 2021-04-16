@@ -1,8 +1,6 @@
 ---
 description: Transform functionality (Transform) runs on a data workbench server machine to enable the export of log source data for use by other applications.
-solution: Analytics
 title: About Transformation Functionality
-topic: Data workbench
 uuid: f797f283-025b-4fb5-a110-84a9483dccaa
 exl-id: db5d6329-407d-43f3-92fc-1b40f7289916
 ---

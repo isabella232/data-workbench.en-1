@@ -1,8 +1,6 @@
 ---
 description: An Adobe dataset contains the data that has been loaded and processed by the data workbench server.
-solution: Analytics
 title: Understanding Dataset Construction
-topic: Data workbench
 uuid: 540d159d-3f72-49dd-9929-107f1fc62b2b
 exl-id: 111e98b5-d899-4f79-90ce-70f520d527d6
 ---

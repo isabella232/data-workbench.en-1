@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Moving Dashboards and Folders
 title: Moving Dashboards and Folders
-topic: Data workbench
 uuid: 7b878f40-4964-4b03-94d3-8387ac84470c
 exl-id: 7b983ab5-d77f-4c74-b880-b4f2abe02b90
 ---

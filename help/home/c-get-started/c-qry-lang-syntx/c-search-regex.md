@@ -1,8 +1,6 @@
 ---
 description: Data workbench utilizes regular expressions (regex) for search and sort operations.
-solution: Analytics
 title: Regular expressions
-topic: Data workbench
 uuid: dc8c1e88-4d95-4011-8a38-70fae0c5cf6d
 exl-id: bb1be6d8-3b7a-47e4-bb29-4a65de99666b
 ---

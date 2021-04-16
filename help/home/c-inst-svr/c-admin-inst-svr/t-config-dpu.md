@@ -1,6 +1,5 @@
 ---
 description: The DPU configuration file, DPU.cfg, specifies various performance parameters for Insight Server.
-solution: Analytics
 title: Configuring DPU.cfg
 uuid: c348622b-7d4b-4cfa-a8f8-a07d91e440d5
 exl-id: 55e4ea7f-fee3-4af7-9cbc-d121e79e6ab2

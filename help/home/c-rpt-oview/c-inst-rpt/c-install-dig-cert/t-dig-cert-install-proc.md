@@ -1,8 +1,6 @@
 ---
 description: Steps to download and install the digital certificate.
-solution: Analytics
 title: Digital Certificate Installation Procedures
-topic: Data workbench
 uuid: 14749a68-96cb-4cf4-819e-07df065e4016
 exl-id: a8ae8d23-8db8-44d9-8c45-e552da81c384
 ---

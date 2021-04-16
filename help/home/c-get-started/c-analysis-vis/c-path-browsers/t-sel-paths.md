@@ -1,8 +1,6 @@
 ---
 description: You can select a path within a path browser to create filters that include data associated with the elements in the path.
-solution: Analytics
 title: Select a path
-topic: Data workbench
 uuid: 3131df2f-674f-44b8-9006-d8cb1ecf3874
 exl-id: c560dfd0-ccaf-4a60-88a1-29a33f8aa014
 ---

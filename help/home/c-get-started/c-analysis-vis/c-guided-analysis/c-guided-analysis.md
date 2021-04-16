@@ -1,8 +1,6 @@
 ---
 description: A guided analysis visualization provides cues for further analysis based on the selections that you make in a workspace.
-solution: Analytics
 title: Guided analysis
-topic: Data workbench
 uuid: 01ed8207-3a14-45ac-8a1d-4e17ac39bb94
 exl-id: c19b52b6-52db-455e-adde-8b2400aae006
 ---

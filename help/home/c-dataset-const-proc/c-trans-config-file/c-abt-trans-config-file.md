@@ -1,8 +1,6 @@
 ---
 description: The Transformation.cfg file controls the transformation phase of dataset construction during which additional data transformations are applied to data already processed during log processing to create extended dimensions for use in analysis.
-solution: Analytics
 title: About the Transformation Configuration File
-topic: Data workbench
 uuid: 56e11b71-1a86-47d4-8d2a-2795532b0770
 exl-id: 860562d7-6ed3-486b-9f62-1bd06878bf7e
 ---

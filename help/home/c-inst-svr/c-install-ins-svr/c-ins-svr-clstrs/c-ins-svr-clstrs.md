@@ -1,6 +1,5 @@
 ---
 description: General information about Insight Server clusters and installing Insight Server clusters.
-solution: Analytics
 title: Insight Server Clusters
 uuid: 93aeb750-ccfe-4029-ba8e-9cdad956175a
 ---

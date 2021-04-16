@@ -1,8 +1,6 @@
 ---
 description: Any data that you want to export must be defined as a dimension within the profile.
-solution: Analytics
 title: Create dimensions for use with segment export
-topic: Data workbench
 uuid: 7fdc043e-b2c5-4eac-adf4-bf60df6a3953
 exl-id: 0f16c242-10f6-4014-b848-ea001e9d085c
 ---

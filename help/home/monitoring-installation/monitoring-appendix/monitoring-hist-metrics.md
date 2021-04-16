@@ -1,8 +1,6 @@
 ---
 description: The following lists the metrics included in the data workbench Historical Monitoring Profile and how they are derived.
-solution: Analytics
 title: Metrics in the Data Workbench Historical Monitoring profile
-topic: Data workbench
 uuid: 47b874f7-8acb-4593-9ac9-5997d5279e52
 exl-id: 65f0f605-f128-45bb-8f6c-95284b2da740
 ---

@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Initializing and Updating a Profile's Schema Definition
 title: Initializing and Updating a Profile's Schema Definition
-topic: Data workbench
 uuid: 38e47ded-340e-4f65-b06c-f2e2254f0863
 exl-id: e8190909-4416-4d4a-8901-130d01906773
 ---

@@ -1,6 +1,5 @@
 ---
 description: List of files installed with Insight Server and the files present after it has been registered, and run for the first time.
-solution: Analytics
 title: Insight Server Directory Structure
 uuid: 8339b275-f118-4d5d-937e-4df9f8a56b50
 exl-id: 568391d0-e0f7-4a5a-ad71-de33c52968a0

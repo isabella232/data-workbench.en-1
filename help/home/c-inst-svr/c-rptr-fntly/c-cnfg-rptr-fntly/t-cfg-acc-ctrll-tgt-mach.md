@@ -1,6 +1,5 @@
 ---
 description: Target Insight Server machines running the Insight Server Replication Service must be able to read the log files on this repeater server.
-solution: Analytics
 title: Configuring Access Control for Target Machines
 uuid: 35e032cf-6c1d-4348-88ce-4f4a6a30b16f
 exl-id: 2d0b554a-30e9-4344-9aec-a68fd5f57304

@@ -1,8 +1,6 @@
 ---
 description: A value legend displays defined value events.
-solution: Analytics
 title: Value legends
-topic: Data workbench
 uuid: 7779f442-2f45-4bf8-a62a-585aaceaeb3a
 exl-id: b28ba604-93ef-4081-ae55-937fb537c068
 ---

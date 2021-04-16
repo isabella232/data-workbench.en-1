@@ -1,5 +1,5 @@
 ---
-description: null
+description: Data Workbench Glossary
 title: Data Workbench Glossary
 uuid: 1000c43d-383c-442d-bd09-de4f286ded31
 exl-id: 29d6560a-0394-4031-8152-20f7ea0de00b

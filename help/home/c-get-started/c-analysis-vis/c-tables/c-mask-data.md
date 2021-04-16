@@ -1,8 +1,6 @@
 ---
 description: Masking refers to selecting a subset of your data or a subset of the elements in a dimension.
-solution: Analytics
 title: Mask data
-topic: Data workbench
 uuid: 81b5f4e0-826c-4803-9169-66a424a4ea9f
 exl-id: 3029e08e-827f-40d7-b5a1-45630876a097
 ---

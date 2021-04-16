@@ -1,8 +1,6 @@
 ---
 description: The Transformation Dataset Include file for an inherited profile contains parameters associated with the transformation phase of dataset construction.
-solution: Analytics
 title: Transformation Dataset Include Files
-topic: Data workbench
 uuid: 46756f68-843c-4b0d-a79e-f107ef85db6c
 exl-id: 58793f82-162a-4d43-aea9-163716c82db6
 ---

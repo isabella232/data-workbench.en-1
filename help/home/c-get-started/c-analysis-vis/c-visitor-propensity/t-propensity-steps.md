@@ -1,8 +1,6 @@
 ---
 description: Follow these steps to use the Propensity Scoring visualization.
-solution: Analytics
 title: Setting up Propensity Scoring
-topic: Data workbench
 uuid: afc9aada-3bf9-4ce6-8c43-a955771065b4
 exl-id: e16a7062-636e-44a9-a07d-343d48bf1b4c
 ---

@@ -1,8 +1,6 @@
 ---
 description: Using the Report Server for Data Workbench, you can schedule and automatically generate report sets and distribute to others.
-solution: Analytics
 title: Data Workbench Report Server
-topic: Data workbench
 uuid: eac678de-58bf-46d2-aa09-592696c01fb2
 ---
 

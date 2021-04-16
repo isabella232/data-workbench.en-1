@@ -1,8 +1,6 @@
 ---
 description: You can use the Profile Manager to download files that you want to modify.
-solution: Analytics
 title: Modify local files in the user profile
-topic: Data workbench
 uuid: 839417d1-34db-4b14-a103-8f5297af55b7
 exl-id: 187d67a1-e436-4bfd-87ad-17b6c70dbee4
 ---

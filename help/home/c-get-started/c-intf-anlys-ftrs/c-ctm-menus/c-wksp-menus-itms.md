@@ -1,8 +1,6 @@
 ---
 description: These steps apply only to creating submenus and menu items for the Workspace Window menu.
-solution: Analytics
 title: Create a workspace menu and menu item
-topic: Data workbench
 uuid: 9565fe7a-fa4c-42b6-9aa5-b652a2d62796
 exl-id: 26f2b85c-ab23-41a4-bf4b-9e507952fede
 ---

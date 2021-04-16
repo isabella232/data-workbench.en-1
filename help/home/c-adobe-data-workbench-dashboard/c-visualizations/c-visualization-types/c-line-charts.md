@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Line Charts
 title: Line Charts
-topic: Data workbench
 uuid: 6f525c49-6679-4234-886b-52a3c7df98ff
 exl-id: 75532aff-15ff-4be8-8000-f503b2bf60a2
 ---

@@ -1,8 +1,6 @@
 ---
 description: Introduces the eight different visualization types.
-solution: Analytics
 title: Visualization Types
-topic: Data workbench
 uuid: f98a6ff5-19c9-46a1-958e-054e1b808c23
 exl-id: 3c0170c8-6b5e-4b8f-9353-a7eb699a37fa
 ---

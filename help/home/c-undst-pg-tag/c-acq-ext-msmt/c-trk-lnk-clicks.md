@@ -1,8 +1,6 @@
 ---
 description: Steps used to facilitate the collection of Link Clicks through the use of the Reference Page Tag.
-solution: Analytics
 title: Tracking Link Clicks
-topic: Data workbench
 uuid: e4c492d2-9c90-4ed7-b997-6c50bdf98f93
 exl-id: 0cb743e6-5c6e-4f80-bc77-83d1e706c92b
 ---

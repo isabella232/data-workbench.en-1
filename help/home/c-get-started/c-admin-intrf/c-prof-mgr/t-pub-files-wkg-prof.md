@@ -1,8 +1,6 @@
 ---
 description: The Profile Manager enables the management of visualizations, segments, metrics, dimensions, and so on.
-solution: Analytics
 title: Publish files to your working profile
-topic: Data workbench
 uuid: c8810e7e-e659-44f6-8175-babefd2a59f6
 exl-id: 7706a5e7-dade-4b50-9167-ed56d1e99273
 ---

@@ -1,8 +1,6 @@
 ---
 description: Information on how to access your account settings and change your password.
-solution: Analytics
 title: User Account Management
-topic: Data workbench
 uuid: 13fab0e2-e2db-442e-b139-e7b576d04dbb
 exl-id: b985a21b-6244-4e7d-86c2-14935c005335
 ---
