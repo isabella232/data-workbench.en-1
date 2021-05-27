@@ -1,8 +1,6 @@
 ---
 description: Page overlays are configured only in the Site application, but they can be configured for other applications.
-solution: Analytics
 title: Configure a page overlay
-topic: Data workbench
 uuid: c4c612ed-5154-4b20-96ab-24b74fba19a2
 exl-id: 4e0dfce8-def2-49f3-93e8-41d82922fb88
 ---

@@ -1,8 +1,6 @@
 ---
 description: Steps to install and configure Report Server software.
-solution: Analytics
 title: Installation Overview
-topic: Data workbench
 uuid: ffc72aa1-98d8-41dc-b4e5-6f70ff43430e
 exl-id: 4ddc0761-a999-49ed-b0e4-12cf34e2688c
 ---

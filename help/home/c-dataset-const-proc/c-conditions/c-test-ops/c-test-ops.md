@@ -1,8 +1,6 @@
 ---
 description: Test operations take input from the available log fields, perform a test based upon their values, and return true if the test succeeded or false if the test failed.
-solution: Analytics
 title: Test Operations
-topic: Data workbench
 uuid: 01b18776-0287-4b07-9e3a-90c01a8acae2
 exl-id: 32ca3ea6-daaf-4e34-85ae-87ddc6d1fb78
 ---

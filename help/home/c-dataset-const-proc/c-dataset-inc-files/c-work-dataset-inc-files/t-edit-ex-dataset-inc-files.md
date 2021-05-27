@@ -1,8 +1,6 @@
 ---
 description: Steps to editing existing dataset include files.
-solution: Analytics
 title: Editing Existing Dataset Include Files
-topic: Data workbench
 uuid: fcce2e46-b4a8-4c53-83bb-32ab410eb89e
 exl-id: f4095871-d004-4e10-af18-bf6c1e47493d
 ---

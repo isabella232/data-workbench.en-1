@@ -1,8 +1,6 @@
 ---
 description: Conceptual information about dataset components.
-solution: Analytics
 title: Dataset components
-topic: Data workbench
 uuid: a5dde039-3b79-4543-9953-995eefc73b5f
 exl-id: 6be625c5-1a2e-4b0d-9c34-5f3baec4ba81
 ---

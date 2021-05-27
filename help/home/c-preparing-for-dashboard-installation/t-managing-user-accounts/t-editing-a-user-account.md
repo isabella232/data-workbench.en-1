@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Editing a User Account
 title: Editing a User Account
-topic: Data workbench
 uuid: 60c79258-bb6e-42fc-9d6b-4381057e3c50
 exl-id: fa80efa0-7af7-4ec9-826c-ea24bb51dae8
 ---

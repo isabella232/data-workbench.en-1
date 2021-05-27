@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Data Workbench Dashboard User Guide
 title: Data Workbench Dashboard User Guide
-topic: Data workbench
 uuid: 1d577535-feb4-4fae-aadd-2ad233e565f7
 ---
 

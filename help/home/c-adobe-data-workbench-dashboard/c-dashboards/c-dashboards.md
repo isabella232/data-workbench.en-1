@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Dashboards
 title: Dashboards
-topic: Data workbench
 uuid: 578d29b2-3609-4f64-b800-4b453f10083d
 exl-id: a668b49a-4c2e-4667-88ac-7e4526ed177a
 ---

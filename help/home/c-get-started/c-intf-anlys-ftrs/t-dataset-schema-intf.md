@@ -1,8 +1,6 @@
 ---
 description: Steps to change the default visualization.
-solution: Analytics
 title: Configure the Dataset Schema Interface
-topic: Data workbench
 uuid: 953909e8-3382-43cf-98c0-d4785c6d1dda
 exl-id: 0227663f-4789-4780-b753-d0deb35f6144
 ---

@@ -1,8 +1,6 @@
 ---
 description: The Copy transformation simply copies the value in the input field to the given output field. If the input field could be a vector of strings, the output field must start with "x-."
-solution: Analytics
 title: Copy
-topic: Data workbench
 uuid: 073f53bf-befb-4fba-a8f8-260ffcdd007c
 exl-id: 04e97006-1e8e-4123-bbbc-b90a5231170f
 ---

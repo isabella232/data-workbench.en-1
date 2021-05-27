@@ -1,8 +1,6 @@
 ---
 description: The Profile Manager displays all of the directories associated with your working profile.
-solution: Analytics
 title: Create a Profile Manager
-topic: Data workbench
 uuid: e16741e2-740b-4f57-861d-e2f57d30abbc
 exl-id: 43b95473-ab3e-4a80-9b91-7c221e74b096
 ---

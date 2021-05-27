@@ -1,8 +1,6 @@
 ---
 description: Information about the transformations that you can use to incorporate lookup data into the dataset.
-solution: Analytics
 title: Defining Lookup Transformations
-topic: Data workbench
 uuid: 4f7358b1-9e6a-4d03-b0c6-411e454fc11e
 exl-id: 7b1504be-8669-4340-8400-e33f9663b602
 ---

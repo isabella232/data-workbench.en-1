@@ -1,8 +1,6 @@
 ---
 description: The Query Status Legend provides detailed information about the queries you are performing.
-solution: Analytics
 title: Query Status Legend
-topic: Data workbench
 uuid: 6a0285c8-3ced-4c12-8f0c-e86d70d9e044
 exl-id: 9580ee7f-3575-4e73-b7df-5b61f6ce8e1e
 ---

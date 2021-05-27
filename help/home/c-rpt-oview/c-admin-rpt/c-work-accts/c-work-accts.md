@@ -1,8 +1,6 @@
 ---
 description: Access to and permissions within your Report Portal are controlled using individual user and group accounts.
-solution: Analytics
 title: Working with Accounts
-topic: Data workbench
 uuid: 0ede26d8-0e35-4a11-a46e-d429e5223733
 exl-id: eaea608a-69e5-4f89-9fcb-0c9d70e761b0
 ---

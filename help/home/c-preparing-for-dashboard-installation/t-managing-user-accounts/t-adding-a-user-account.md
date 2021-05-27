@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Adding a User Account
 title: Adding a User Account
-topic: Data workbench
 uuid: c322eeaa-a3f4-41e8-b38c-dd892ec29a87
 exl-id: c99f3189-4d89-443a-be5b-84352c4ec6e8
 ---

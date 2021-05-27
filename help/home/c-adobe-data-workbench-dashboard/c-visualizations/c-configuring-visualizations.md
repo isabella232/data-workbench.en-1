@@ -1,8 +1,6 @@
 ---
 description: Shows how to configure Title, Profile, Dimension, Metric, Filter, Display Top, Sort By, and Time Period.
-solution: Analytics
 title: Configuring Visualizations
-topic: Data workbench
 uuid: aca77188-8f28-4554-8913-412b252f688c
 exl-id: 153adf94-5689-4917-9d71-625caef49903
 ---

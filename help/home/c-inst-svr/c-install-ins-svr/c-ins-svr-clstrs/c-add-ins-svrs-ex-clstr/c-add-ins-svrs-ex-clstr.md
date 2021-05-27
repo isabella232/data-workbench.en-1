@@ -1,6 +1,5 @@
 ---
 description: In some cases, you may find it necessary to add an Insight Server machine to an existing Insight Server cluster.
-solution: Analytics
 title: Adding Insight Servers to an Existing Cluster
 uuid: 951bd6fe-14e4-4192-917c-342fde7b43ba
 exl-id: 9845c13b-781c-43e9-aaa1-e31418c93ef0

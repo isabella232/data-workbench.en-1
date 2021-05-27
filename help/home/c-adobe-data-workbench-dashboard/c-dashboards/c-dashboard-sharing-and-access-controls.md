@@ -1,8 +1,6 @@
 ---
 description: Dashboards can either be private or shared.
-solution: Analytics
 title: Dashboard Sharing and Access Controls
-topic: Data workbench
 uuid: 8bc64cfb-3cda-4d28-8a34-cbefd38f1b70
 exl-id: 31a73d26-2382-4abe-9e11-22da1dca4e25
 ---

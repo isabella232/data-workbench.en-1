@@ -1,8 +1,6 @@
 ---
 description: The data workbench Server Status profile provides current information about data workbench server health based on the server rather than profile metrics or historical data.
-solution: Analytics
 title: Data Workbench Server Status workspace
-topic: Data workbench
 uuid: d8bba770-86d3-40e6-bae0-8d635891e481
 exl-id: 53f72bbe-9f2c-471c-aea9-575944d299b0
 ---

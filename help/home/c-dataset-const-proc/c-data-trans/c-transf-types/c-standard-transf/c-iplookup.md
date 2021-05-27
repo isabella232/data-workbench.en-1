@@ -1,8 +1,6 @@
 ---
 description: The IPLookup transformation takes IP geo-location or IP geo-intelligence data (provided by any vendor of such data and converted into a proprietary format by Adobe) and transforms the data into geographical information that can be used in analysis.
-solution: Analytics
 title: IPLookup
-topic: Data workbench
 uuid: 6fccee39-761f-4854-a7fd-3f8b453e0698
 exl-id: 3e9dba44-8d31-49af-8ce0-fecaf92edeb7
 ---

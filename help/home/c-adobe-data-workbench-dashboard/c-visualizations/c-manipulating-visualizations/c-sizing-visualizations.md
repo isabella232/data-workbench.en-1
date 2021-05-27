@@ -1,8 +1,6 @@
 ---
 description: In addition to expanding and collapsing a visualization, you can also resize them.
-solution: Analytics
 title: Sizing Visualizations
-topic: Data workbench
 uuid: ba8ceab2-61bc-4996-80cb-7a507e728efa
 exl-id: 23c86123-cdf2-43a8-a473-fd66fe202f8a
 ---

@@ -1,8 +1,6 @@
 ---
 description: The dashboard product requires a license provided by Adobe ClientCare.
-solution: Analytics
 title: Add Dashboard License Key
-topic: Data workbench
 uuid: 51ec87a8-e9cc-4aa1-8d13-a79612a13d17
 exl-id: bf532fb0-9287-4c15-aa4c-07f7bd0fdba7
 ---

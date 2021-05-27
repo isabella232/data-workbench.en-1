@@ -1,8 +1,6 @@
 ---
 description: Steps to change the order of the tabs that appear in the Worktop.
-solution: Analytics
 title: Change the tab order
-topic: Data workbench
 uuid: 6eebc235-20ba-4c3b-8d94-36c0f80869be
 exl-id: 261a81e1-b34c-4789-ac4e-343c25df2e6f
 ---

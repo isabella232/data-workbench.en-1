@@ -1,8 +1,6 @@
 ---
 description: Path browsers can be configured to work with any combination of base dimension, group dimension, level dimension, and metric that makes sense for your application and dataset.
-solution: Analytics
 title: Configure a path browser
-topic: Data workbench
 uuid: 1ba3fb6e-b76f-428f-b6ec-077669c3b305
 exl-id: be6a68f7-e3e3-4207-a112-3a4fdd5c5f57
 ---

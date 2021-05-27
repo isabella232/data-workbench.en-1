@@ -1,8 +1,6 @@
 ---
 description: Steps to editing a .filter file manually.
-solution: Analytics
 title: Edit filter files manually
-topic: Data workbench
 uuid: a4f932b8-dca5-44a1-a2bb-a3c683b661d5
 exl-id: e4c98d61-27f4-456b-a1dd-da69249e5fb1
 ---

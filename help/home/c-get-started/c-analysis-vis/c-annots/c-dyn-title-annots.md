@@ -1,8 +1,6 @@
 ---
 description: Using Report, you can generate reports dynamically for the dimension elements that you specify in a lookup file or for a particular number of the dimension elements, such as for the users with the 10 highest order counts.
-solution: Analytics
 title: Dynamic title annotations
-topic: Data workbench
 uuid: ae01b251-8888-474e-a94e-13badeea0dff
 exl-id: 6644698a-fa8f-468c-b57a-ae5d4365a8bd
 ---

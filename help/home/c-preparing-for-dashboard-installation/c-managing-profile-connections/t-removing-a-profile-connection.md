@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Removing a Profile Connection
 title: Removing a Profile Connection
-topic: Data workbench
 uuid: 47a169f3-2843-4f9e-9ca9-4596491ba07a
 exl-id: 312ace0c-71ea-4216-98e8-0e99bb4f83bd
 ---

@@ -1,8 +1,6 @@
 ---
 description: Steps to open the Report Portal.
-solution: Analytics
 title: Opening the Report Portal
-topic: Data workbench
 uuid: f9a1c213-d500-4408-a621-3af29da63791
 exl-id: 74ac9276-ba76-44ce-a15b-33af0622ab19
 ---

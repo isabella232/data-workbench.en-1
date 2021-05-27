@@ -1,8 +1,6 @@
 ---
 description: Dataset include files provide a flexible way to configure your dataset.
-solution: Analytics
 title: Working with Dataset Include Files
-topic: Data workbench
 uuid: 258226c4-22e5-4d9d-9044-8312709e0460
 exl-id: 94044c85-030c-4912-9546-d4a34b4115e0
 ---

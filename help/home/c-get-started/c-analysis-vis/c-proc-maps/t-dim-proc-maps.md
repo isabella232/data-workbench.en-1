@@ -1,8 +1,6 @@
 ---
 description: Steps to save a dimension from a process map.
-solution: Analytics
 title: Save a dimension from a process map
-topic: Data workbench
 uuid: 9af8e5c5-9c20-47c5-8c30-221583b0b3c2
 exl-id: bd328918-1b5b-4c58-9d14-693f92e88c69
 ---

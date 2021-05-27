@@ -1,8 +1,6 @@
 ---
 description: Query string variables may be added to a JavaScript request to collect additional measurements when a request is made.
-solution: Analytics
 title: Acquiring Additional Information
-topic: Data workbench
 uuid: 0a8075e9-4986-42c4-b505-3985b433cf8e
 exl-id: ad4f5e08-b7b7-4de3-b0c2-71440facb2d1
 ---

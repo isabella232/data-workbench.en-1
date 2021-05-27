@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Editing a User Group
 title: Editing a User Group
-topic: Data workbench
 uuid: a894d320-f6c7-4145-9cce-ca1235090566
 exl-id: 4d810a99-1f40-4cad-8706-3d7f72f359f2
 ---

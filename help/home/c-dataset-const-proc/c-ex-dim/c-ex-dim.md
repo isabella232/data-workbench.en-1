@@ -1,8 +1,6 @@
 ---
 description: Instructions to create extended dimensions and describe the types of extended dimensions that you can define for creation during the transformation phase of data set construction.
-solution: Analytics
 title: Extended Dimensions
-topic: Data workbench
 uuid: 465682c2-5b08-4b94-817f-ff7b405142af
 ---
 

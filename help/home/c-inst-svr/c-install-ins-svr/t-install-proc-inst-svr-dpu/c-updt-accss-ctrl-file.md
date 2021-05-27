@@ -1,6 +1,5 @@
 ---
 description: The Access Control.cfg file manages access to certain features in Insight Server.
-solution: Analytics
 title: Updating the Access Control File
 uuid: f73651e5-6a8b-45fc-8f36-6751304dc53c
 exl-id: 551758c1-f24b-49e6-ab6e-09979511e4f4

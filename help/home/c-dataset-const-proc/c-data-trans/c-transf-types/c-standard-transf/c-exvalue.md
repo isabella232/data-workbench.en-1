@@ -1,8 +1,6 @@
 ---
 description: If you are working with web data, you can use the ExtractValue transformation to extract a value from a query string, cookie, or similarly encoded field in your website data.
-solution: Analytics
 title: ExtractValue
-topic: Data workbench
 uuid: 305827a2-04e6-421f-82cb-923d62b02e70
 exl-id: 5bafe64f-081a-49ec-997e-68e8f6915a71
 ---

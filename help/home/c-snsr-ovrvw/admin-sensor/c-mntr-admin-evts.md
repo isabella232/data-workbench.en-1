@@ -1,6 +1,5 @@
 ---
 description: To detect Sensor errors as soon as possible and repair them before they cause major problems or outages, you should regularly monitor your Event logs.
-solution: Analytics
 title: Monitoring Administrative Events
 uuid: c43d6509-6950-4436-8d6c-be7b00664f05
 exl-id: 70894074-b8aa-4f6c-87d1-d0403f4c3319

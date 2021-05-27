@@ -1,8 +1,6 @@
 ---
 description: Whenever a Report.cfg file has been configured to generate reports from workspaces, the Worktop in data workbench displays information about the particular report, as defined in the Report.cfg configuration file.
-solution: Analytics
 title: Reviewing Report Set Status
-topic: Data workbench
 uuid: bbe00fcd-0ce1-4607-b1a2-002733cf4736
 exl-id: ac78e490-9435-48f9-b5f5-18208896cef1
 ---

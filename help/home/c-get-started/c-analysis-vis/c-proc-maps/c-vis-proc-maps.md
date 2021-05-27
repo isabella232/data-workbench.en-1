@@ -1,8 +1,6 @@
 ---
 description: You can create other visualizations from a process map.
-solution: Analytics
 title: Create a visualization from a process map
-topic: Data workbench
 uuid: b4a86c96-3082-4802-9929-6aafa33fcb8c
 exl-id: 3194a81f-4b25-4fb2-bee4-28c2bd401664
 ---

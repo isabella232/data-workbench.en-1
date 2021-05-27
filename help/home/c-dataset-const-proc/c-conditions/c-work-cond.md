@@ -1,8 +1,6 @@
 ---
 description: Information about adding, removing, or copying a condition.
-solution: Analytics
 title: Working With Conditions
-topic: Data workbench
 uuid: b6f52b40-26aa-429b-9ff5-3f3b9c9d57a9
 exl-id: 0792b308-aa0b-4741-be0c-4f7cc28f3e09
 ---

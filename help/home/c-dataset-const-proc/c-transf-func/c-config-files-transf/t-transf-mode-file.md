@@ -1,8 +1,6 @@
 ---
 description: The configuration file Transform Mode.cfg enables you to pause processing of data into a dataset, specify offline sources, or specify the frequency at which the data workbench server running transformation functionality saves its state files.
-solution: Analytics
 title: The Transform Mode.cfg File
-topic: Data workbench
 uuid: 6e875d02-341a-414c-90e5-aa7fa910ab81
 exl-id: 4faca063-3ca9-4c7c-9f04-ba2dfb647a77
 ---

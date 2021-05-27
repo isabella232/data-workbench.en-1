@@ -1,8 +1,6 @@
 ---
 description: You can change a path browser’s root by either designating a displayed element as the root or adding a new element to the visualization.
-solution: Analytics
 title: Change the path browser's root
-topic: Data workbench
 uuid: 0bb9b004-9736-411b-bd22-cac04f4733a6
 exl-id: 09842b93-af26-42b9-9395-a02b86978b21
 ---

@@ -1,6 +1,5 @@
 ---
 description: After you have set up Transform, you must configure it to export log source data for use by other applications.
-solution: Analytics
 title: Next Steps
 uuid: 359f24da-6367-4992-9153-66d872ed6b21
 exl-id: 316458ab-26a1-4963-9e90-8e8cd7b9881c

@@ -1,8 +1,6 @@
 ---
 description: Data Workbench provides worksheets for creating ad hoc filters and metrics for the current visualization.
-solution: Analytics
 title: Worksheets
-topic: Data workbench
 uuid: 4e498150-3e44-4a19-8d8a-8be0d32693a6
 exl-id: 73f3e400-648c-4659-8e55-d3bd27ccceb6
 ---

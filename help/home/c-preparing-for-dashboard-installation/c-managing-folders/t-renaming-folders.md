@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Renaming Folders
 title: Renaming Folders
-topic: Data workbench
 uuid: 803bad4a-8fe9-48e5-9629-ddc2c5430e2d
 exl-id: 1f40c50f-4af0-41d3-8aa6-b4dd74785ea3
 ---

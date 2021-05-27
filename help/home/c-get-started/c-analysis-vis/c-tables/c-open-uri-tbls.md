@@ -1,8 +1,6 @@
 ---
 description: Open functionality is currently configured only in the Site application and only for opening URIs.
-solution: Analytics
 title: Open a URI from a table
-topic: Data workbench
 uuid: d863e621-96ae-4dc0-80ab-621fa2019c4b
 exl-id: 3e498786-b9c3-40da-9d0e-5337783f782c
 ---

@@ -1,8 +1,6 @@
 ---
 description: You can filter the values displayed in a field viewer by searching for specific text or by filtering out blank rows.
-solution: Analytics
 title: Filter within a field viewer
-topic: Data workbench
 uuid: 3788fa03-c898-4e9d-81a0-ecf90376cac6
 exl-id: 0bb781e7-8c1c-4a74-882f-410470782ad2
 ---

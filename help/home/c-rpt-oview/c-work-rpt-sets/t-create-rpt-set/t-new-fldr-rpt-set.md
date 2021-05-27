@@ -1,8 +1,6 @@
 ---
 description: Steps to create a new report set folder.
-solution: Analytics
 title: Create a New Folder for the Report Set
-topic: Data workbench
 uuid: d48046ef-6ce2-458f-ac9d-d864628b8166
 exl-id: 5e00df9b-6b66-4910-aa5e-a3c8de686650
 ---

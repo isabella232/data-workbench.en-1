@@ -1,6 +1,5 @@
 ---
 description: The Communications configuration file, Communications.cfg, contains Insight Server network settings and the path to the Access Control.cfg file.
-solution: Analytics
 title: Configuring Communications
 uuid: 04d08206-17b1-4348-a945-0c907c9a494c
 exl-id: af5e788e-8904-4c68-b02a-c95b523b076d

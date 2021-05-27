@@ -1,8 +1,6 @@
 ---
 description: Explains the Thumbnail View and the List View.
-solution: Analytics
 title: Dashboard Browser Views
-topic: Data workbench
 uuid: 8e5ef06a-6c5a-4792-a732-fe7574aed8ab
 exl-id: 94da6ee1-30ab-426f-9be3-fd56f172aadb
 ---

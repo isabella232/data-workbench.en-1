@@ -1,8 +1,6 @@
 ---
 description: The Server Files Manager displays all of the directories in the Data Workbench server installation directory, including configuration and look-up files.
-solution: Analytics
 title: Create a Server Files Manager
-topic: Data workbench
 uuid: 9fb2163d-3756-40d2-9817-4a89bd8a38c9
 exl-id: 9e0c8144-0f52-4e46-85d8-c2dcd60ddcb8
 ---

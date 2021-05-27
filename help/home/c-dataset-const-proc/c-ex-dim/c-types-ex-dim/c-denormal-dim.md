@@ -1,8 +1,6 @@
 ---
 description: A denormal dimension has a one-to-one relationship with its parent countable dimension.
-solution: Analytics
 title: Denormal Dimensions
-topic: Data workbench
 uuid: f172fbce-e967-41ce-9958-9062561ecbcc
 exl-id: 0c4fad38-bc7c-4b63-98ec-c9121e576a36
 ---

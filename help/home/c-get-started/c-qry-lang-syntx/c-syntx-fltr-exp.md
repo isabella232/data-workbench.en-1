@@ -1,8 +1,6 @@
 ---
 description: A filter is an expression that defines a subset of the data in a dataset.
-solution: Analytics
 title: Syntax for filter expressions
-topic: Data workbench
 uuid: faeb6847-3295-48ab-9d1c-db00f57647ba
 exl-id: 515c1645-69c8-4990-a913-d2d505c6fe51
 ---

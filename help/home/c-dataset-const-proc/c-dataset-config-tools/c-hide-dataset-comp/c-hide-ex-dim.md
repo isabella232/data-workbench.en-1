@@ -1,8 +1,6 @@
 ---
 description: You can use either the Hidden parameter or the Show parameter to hide extended dimensions so they do not show on the dimension menu in data workbench.
-solution: Analytics
 title: Hiding Extended Dimensions
-topic: Data workbench
 uuid: c32f47ad-0246-4611-b54c-0c9f0eb396bd
 exl-id: 5baccf39-6f3b-40a1-b1c0-a8e5d6a61211
 ---

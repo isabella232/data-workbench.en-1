@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Dashboard to Data Workbench Servers Communication
 title: Dashboard to Data Workbench Servers Communication
-topic: Data workbench
 uuid: 8baa1057-8a03-4a99-a808-db1424342375
 exl-id: 35ad83ed-3fd4-4815-8f4c-e13bb4a3e636
 ---

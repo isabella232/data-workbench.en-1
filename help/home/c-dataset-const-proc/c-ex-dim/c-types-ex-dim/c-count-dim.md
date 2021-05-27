@@ -1,8 +1,6 @@
 ---
 description: A countable dimension's elements can be counted by the system.
-solution: Analytics
 title: Countable Dimensions
-topic: Data workbench
 uuid: 3312f5eb-69b9-43af-b32a-5c40e3050b29
 exl-id: c607c15d-de85-4daf-af76-79b460f51b38
 ---

@@ -1,8 +1,6 @@
 ---
 description: Steps to map the Report Portal to a virtual directory (IIS 6.0).
-solution: Analytics
 title: Mapping Report Portal to a Virtual Directory (IIS 6.0)
-topic: Data workbench
 uuid: e09d23d7-09de-4180-8260-60527f47aa98
 exl-id: 39335705-7391-49af-a63d-c0fe4ca3f8f0
 ---

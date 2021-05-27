@@ -1,8 +1,6 @@
 ---
 description: The final step is to run the dashboard for the first time to allow it to initialize.
-solution: Analytics
 title: Initializing the Dashboard
-topic: Data workbench
 uuid: 847ba63e-29d8-4950-aa74-22d825388e2b
 exl-id: 47098d73-d8c4-4d14-964f-108a731d3733
 ---

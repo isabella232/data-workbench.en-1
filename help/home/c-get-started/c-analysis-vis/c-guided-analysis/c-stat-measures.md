@@ -1,8 +1,6 @@
 ---
 description: To help with the statistics, Data Workbench provides three statistical measures in the guided analysis visualization.
-solution: Analytics
 title: Statistical measures
-topic: Data workbench
 uuid: a8782cd2-d657-4c04-9c5d-8e0af2a3b76e
 exl-id: 166ff98b-d531-4b31-897e-0c7fedbd2f4d
 ---

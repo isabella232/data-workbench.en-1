@@ -1,8 +1,6 @@
 ---
 description: The Sample Bytes parameter in the Server.cfg file specifies the data cache size (in bytes) for data workbench.
-solution: Analytics
 title: Server.cfg
-topic: Data workbench
 uuid: 7e789133-09fc-442d-b643-cca8620f4a97
 exl-id: fb7667f6-4061-4bde-8a48-6489b24e0411
 ---

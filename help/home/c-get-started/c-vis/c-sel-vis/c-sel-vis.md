@@ -1,8 +1,6 @@
 ---
 description: Selecting elements within a visualization dynamically filters the dataset.
-solution: Analytics
 title: Make selections in visualizations
-topic: Data workbench
 uuid: 3900354f-826b-41e8-9bc2-e4856928bad5
 exl-id: bb1dd7e4-a9f8-48b5-a12d-433c601b455b
 ---

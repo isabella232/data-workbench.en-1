@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Removing a User Account
 title: Removing a User Account
-topic: Data workbench
 uuid: 9cbb0e65-2251-420e-bde4-2ca9e8387f58
 exl-id: a2bb2bc1-68f4-4f5d-beec-bbbc57de29e9
 ---

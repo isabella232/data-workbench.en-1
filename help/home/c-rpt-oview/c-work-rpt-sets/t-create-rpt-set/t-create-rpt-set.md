@@ -1,8 +1,6 @@
 ---
 description: Steps to create a new report set.
-solution: Analytics
 title: Creating a Report Set
-topic: Data workbench
 uuid: e6be8d13-d98c-40ef-83c5-af65b667de46
 exl-id: 978178b9-6a49-4cb3-b6af-3d8e78af1278
 ---

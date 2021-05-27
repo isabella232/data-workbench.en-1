@@ -1,8 +1,6 @@
 ---
 description: Capturing activity across third-party website links to enable Exit Target analysis.
-solution: Analytics
 title: Tracking Exits to External Links
-topic: Data workbench
 uuid: 523f5b4c-4600-4d44-82e7-4a8b2db2d266
 exl-id: fd7434e9-cd66-408e-baa9-6a0df4039786
 ---

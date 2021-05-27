@@ -1,8 +1,6 @@
 ---
 description: Information to select the display type.
-solution: Analytics
 title: Change the table display
-topic: Data workbench
 uuid: 45c8fa62-616e-4233-accc-920b4772ef1b
 exl-id: 12210a73-1f13-4742-9701-c4924b2d0f61
 ---

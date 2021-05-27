@@ -1,8 +1,6 @@
 ---
 description: Many of the internal profiles that you received with your Adobe application come with their own dataset configuration files.
-solution: Analytics
 title: About Dataset Include Files
-topic: Data workbench
 uuid: e04d412e-7d73-4a7d-b0b6-0c2347c6201b
 exl-id: a23d3f83-4e92-4787-9f77-ee9914cb8893
 ---

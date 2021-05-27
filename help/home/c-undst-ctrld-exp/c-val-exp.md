@@ -2,7 +2,6 @@
 description: After you have deployed your experiment, you should validate that the experiment is working properly.
 solution: Analytics,Analytics
 title: Validating the Experiment
-topic: Data workbench
 uuid: 59769f5b-4175-479e-ad7d-7226e9c666af
 exl-id: 6dfd01ca-288d-40fd-aad4-75a588902ebd
 ---

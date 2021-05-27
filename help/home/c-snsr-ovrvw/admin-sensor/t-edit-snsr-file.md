@@ -1,6 +1,5 @@
 ---
 description: The Sensor configuration file, txlogd.conf, contains parameters that Sensor uses to establish a connection with the data workbench server.
-solution: Analytics
 title: Editing the Sensor txlogd.conf File
 uuid: e7f41c14-9047-4e1a-be0f-8acc8ecb1160
 exl-id: ed243bb4-cf87-4bcf-89d6-5ff5cec3bc6e

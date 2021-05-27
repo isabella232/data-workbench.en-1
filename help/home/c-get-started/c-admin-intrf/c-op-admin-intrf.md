@@ -1,8 +1,6 @@
 ---
 description: Because your implementation of Data Workbench can be fully customized and, therefore, may differ from what is documented in this guide, exact paths to each visualization are not provided in this guide.
-solution: Analytics
 title: Open administrative interfaces
-topic: Data workbench
 uuid: ff8daa4e-9ac1-40ef-81ca-14a1cee4ded6
 exl-id: e4e7a09e-1f3c-4139-b26f-96b8f863be73
 ---

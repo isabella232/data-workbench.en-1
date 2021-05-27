@@ -1,6 +1,5 @@
 ---
 description: Instructions to upgrade Repeater using Insight or to upgrade by copying files.
-solution: Analytics
 title: Upgrading Repeater
 uuid: 2027ed9e-9dd9-40f5-b7e9-2709f8745b5c
 exl-id: f81fa79e-f660-48fd-b2ff-419961d49c55

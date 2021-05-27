@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Scatter Plot
 title: Scatter Plot
-topic: Data workbench
 uuid: a07efa89-0d1f-4ab9-96fa-d1239c82f16c
 exl-id: 536cc0aa-4f9e-40d0-88a6-a874255de4f0
 ---

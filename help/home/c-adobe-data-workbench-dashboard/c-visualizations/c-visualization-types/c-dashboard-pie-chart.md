@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Pie Chart
 title: Pie Chart
-topic: Data workbench
 uuid: 94387e7f-ce54-44fc-bfb8-b079e59aee02
 exl-id: 7f0876cc-a7f6-4cca-b09e-b6d9836b1cce
 ---

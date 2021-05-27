@@ -1,6 +1,5 @@
 ---
 description: Instructions to uninstall Insight Server, Transform, or Repeater.
-solution: Analytics
 title: Uninstalling Your Software
 uuid: 79cf0db6-0f99-40fa-a7b0-38dd8d7246bd
 exl-id: 3ba5e5e3-c1a2-4ecb-9f88-a3fe923837e7

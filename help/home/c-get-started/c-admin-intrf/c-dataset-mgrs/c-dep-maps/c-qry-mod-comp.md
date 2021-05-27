@@ -1,8 +1,6 @@
 ---
 description: Conceptual information about query model components.
-solution: Analytics
 title: Query model components
-topic: Data workbench
 uuid: 708fab0b-dc10-4306-b410-49268069ac3b
 exl-id: 1f5d0a3a-6647-4762-ab20-9d80e467d48f
 ---

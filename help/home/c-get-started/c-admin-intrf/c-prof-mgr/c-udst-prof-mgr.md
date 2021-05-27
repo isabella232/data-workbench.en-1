@@ -1,8 +1,6 @@
 ---
 description: The folder and file names included in your implementation are displayed on the left side of the Profile Manager.
-solution: Analytics
 title: Profile Manager
-topic: Data workbench
 uuid: c3a19a56-c96b-4661-b656-b845feba4b6f
 ---
 

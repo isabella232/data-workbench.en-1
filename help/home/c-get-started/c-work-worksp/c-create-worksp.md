@@ -1,8 +1,6 @@
 ---
 description: You can customize existing workspaces by adding or modifying existing visualizations or creating new workspaces.
-solution: Analytics
 title: Create a workspace
-topic: Data workbench
 uuid: 8669b70f-5ddf-4424-9269-0e4860eac498
 exl-id: 9c1fb9e6-6cc8-4894-800b-187b047c41d2
 ---

@@ -1,8 +1,6 @@
 ---
 description: The Flatten transformation takes a vector of strings and maps each value into its own field.
-solution: Analytics
 title: Flatten
-topic: Data workbench
 uuid: 00b06a5c-506b-45fe-9773-44d65b8ec233
 exl-id: 63f3e4bc-238f-4e15-8ae5-2f805bd080d3
 ---

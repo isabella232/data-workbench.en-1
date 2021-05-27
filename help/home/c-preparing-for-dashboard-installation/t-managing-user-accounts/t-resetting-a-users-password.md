@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Resetting a User's Password
 title: Resetting a User's Password
-topic: Data workbench
 uuid: a256c5f1-f2c7-4982-a066-248eef5587f4
 exl-id: cd8e9d14-262b-4be8-ab0e-9ffd2efe69fc
 ---

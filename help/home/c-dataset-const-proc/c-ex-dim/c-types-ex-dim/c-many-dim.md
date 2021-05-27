@@ -1,8 +1,6 @@
 ---
 description: A many-to-many dimension has a many-to-many relationship with its parent countable dimension.
-solution: Analytics
 title: Many-to-Many Dimensions
-topic: Data workbench
 uuid: 42c909e8-1228-4210-9406-ffc0d92372fa
 exl-id: 02d1a21c-a5b4-4b58-8089-9b9c68a7b1d1
 ---

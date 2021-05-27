@@ -1,8 +1,6 @@
 ---
 description: By default, graph visualizations display bars, but you can easily display the bars as lines and vice versa.
-solution: Analytics
 title: Change a graph display
-topic: Data workbench
 uuid: 8448afab-a2b0-4f96-a0e5-920013e83905
 exl-id: b8d8d403-0432-42e1-8019-2d2d0a891e55
 ---

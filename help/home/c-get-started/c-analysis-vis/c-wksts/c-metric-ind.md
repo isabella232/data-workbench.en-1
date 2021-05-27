@@ -1,8 +1,6 @@
 ---
 description: You can use worksheets to indicate that a metric has reached a defined threshold.
-solution: Analytics
 title: Create a metric indicator
-topic: Data workbench
 uuid: da304004-ef45-4c89-8c91-dd5158172dd6
 exl-id: 5713f3dd-85ef-407c-b21c-80e9b4390b6d
 ---

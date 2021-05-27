@@ -1,8 +1,6 @@
 ---
 description: Report sets must be configured in a specific way to produce reports that display properly through Report Portal.
-solution: Analytics
 title: Customize the Report Portal User Interface
-topic: Data workbench
 uuid: d1ea88e2-7b9e-4b1e-a826-dbe7c2e75976
 exl-id: 1f7c807d-d896-448f-b9dd-9fe6a68ef27e
 ---

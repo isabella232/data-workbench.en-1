@@ -1,8 +1,6 @@
 ---
 description: After the reports have been generated, Report distributes the reports in the set based on the settings in its Report.cfg file.
-solution: Analytics
 title: Distributing Reports
-topic: Data workbench
 uuid: 0e993635-1aa8-4314-91aa-b4f8f002fa09
 exl-id: ead1d8ef-7319-4307-9155-0101a9c1959d
 ---

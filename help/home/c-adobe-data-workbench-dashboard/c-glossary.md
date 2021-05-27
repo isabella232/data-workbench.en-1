@@ -1,8 +1,6 @@
 ---
 description: The most commonly used terminology and features of Adobe data workbench, including the dashboard.
-solution: Analytics
 title: Glossary
-topic: Data workbench
 uuid: 9c832e10-f518-4a76-b06e-2fd7ea1fd985
 exl-id: 0fcc348a-8963-4473-a19d-0235c993c19a
 ---

@@ -1,8 +1,6 @@
 ---
 description: Table that defines the User Group parameters.
-solution: Analytics
 title: Query Queue User Groups
-topic: Data workbench
 uuid: 90d9058c-1809-4579-a8c6-930a07affc83
 exl-id: e9586ad4-4c0b-48b7-b533-4d23a0f4a216
 ---

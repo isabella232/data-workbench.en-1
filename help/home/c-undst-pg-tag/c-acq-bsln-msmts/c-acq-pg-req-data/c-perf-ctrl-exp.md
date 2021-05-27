@@ -1,8 +1,6 @@
 ---
 description: Sensor enables controlled website experimentation, allowing you to run controlled experiments on random subsets of your visitor population with minimal disruption to your ongoing operations.
-solution: Analytics
 title: Performing Controlled Experiments
-topic: Data workbench
 uuid: 2fe16713-21c8-497a-a765-8cea011d419b
 exl-id: 8cbe9a10-72d8-4964-bd0b-0a262fd7ede2
 ---

@@ -1,8 +1,6 @@
 ---
 description: Select input variables, the number of clusters, and a target population (if desired) to define clusters in your dataset.
-solution: Analytics
 title: Building Clusters
-topic: Data workbench
 uuid: f8462445-b7d2-48ae-aed7-2a3abc491cfb
 exl-id: 60bc75bf-2f89-455b-8be9-aa20bb837752
 ---

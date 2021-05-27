@@ -1,8 +1,6 @@
 ---
 description: The Profile Manager and Server Files Manager display a large number of directories and files.
-solution: Analytics
 title: Customize the profile manager and server file manager
-topic: Data workbench
 uuid: df2408f3-1d2b-4b03-8c68-b57d88e2d3de
 exl-id: b5042f65-c503-420a-97c2-feef610c86b7
 ---

@@ -1,6 +1,5 @@
 ---
 description: Insight Server is licensed per server computer.
-solution: Analytics
 title: Installing Data Workbench Servers
 uuid: d6a64a6e-a463-4980-b836-45017fab6e7e
 exl-id: 5325b7fb-fb2d-479f-ad5f-c5fb520e2b22

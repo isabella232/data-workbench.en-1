@@ -1,8 +1,6 @@
 ---
 description: Steps to register and run Report Server.
-solution: Analytics
 title: Registering Report Server as a Windows Service
-topic: Data workbench
 uuid: 01fc0bbf-9f4a-487e-b1cb-16bf6974a541
 exl-id: 46ea5dd4-7041-451e-91e5-f927873fc7d7
 ---

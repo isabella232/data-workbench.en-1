@@ -1,8 +1,6 @@
 ---
 description: The Format transformation takes a set of inputs and formats them to create an output matching the given structure.
-solution: Analytics
 title: Format
-topic: Data workbench
 uuid: c596902e-21bc-4ce6-9ca4-7ca86dfc0a6c
 exl-id: 842b502e-cd16-45b3-ada8-6f2d899f1d54
 ---

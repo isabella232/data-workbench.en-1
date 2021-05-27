@@ -1,8 +1,6 @@
 ---
 description: The Adobe data workbench dashboard provides these features.
-solution: Analytics
 title: Features
-topic: Data workbench
 uuid: 89f52af1-10a7-4510-838e-3b759f9c7d7b
 exl-id: 2a6bb179-67a0-4b21-a9cc-20b53d960e39
 ---

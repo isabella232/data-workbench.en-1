@@ -1,8 +1,6 @@
 ---
 description: Executives, analysts, and marketing professionals can use the data workbench dashboard for a variety of tasks.
-solution: Analytics
 title: Business Opportunities
-topic: Data workbench
 uuid: 05848be7-6eca-4ed2-928c-5e951bcdafe8
 exl-id: b98ebf0b-abf1-4093-b8b0-93b62cf0e1aa
 ---

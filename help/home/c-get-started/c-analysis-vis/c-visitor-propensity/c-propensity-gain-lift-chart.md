@@ -1,8 +1,6 @@
 ---
 description: The Lift and Gain charts offer visualizations for evaluating the potential performance of a scored model to evaluate performance over defined portions of the audience.
-solution: Analytics
 title: Propensity Gain and Lift Charts
-topic: Data workbench
 uuid: 4f08277e-deea-48d3-ab15-214c43ad6664
 exl-id: 5ac08512-ac9c-4e85-a4f9-ea6d819095d8
 ---

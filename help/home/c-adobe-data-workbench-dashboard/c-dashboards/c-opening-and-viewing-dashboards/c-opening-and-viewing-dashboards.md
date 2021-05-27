@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Opening and Viewing Dashboards
 title: Opening and Viewing Dashboards
-topic: Data workbench
 uuid: 2df829b8-87ea-4230-9887-a348464f1b2b
 exl-id: c481ccff-3a3c-43af-b484-bce295e6a832
 ---

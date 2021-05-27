@@ -1,8 +1,6 @@
 ---
 description: The following are requirements and recommendations for installing the Workstation (Client) in Data Workbench.
-solution: Analytics
 title: Workstation requirements
-topic: Data workbench
 uuid: 3c4ba2e8-efbc-45fe-8ac1-923d070bc710
 exl-id: 35e259e3-3d6d-45c8-a923-2f8de117489d
 ---

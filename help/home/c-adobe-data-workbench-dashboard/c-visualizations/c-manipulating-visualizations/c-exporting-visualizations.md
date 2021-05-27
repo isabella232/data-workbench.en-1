@@ -1,8 +1,6 @@
 ---
 description: Exports data from the current visualization.
-solution: Analytics
 title: Exporting Visualizations
-topic: Data workbench
 uuid: 21ec377c-70a6-4fcb-a3d4-2737f9c358b2
 exl-id: 3da13061-5588-4490-9cdd-23ada6f285c5
 ---

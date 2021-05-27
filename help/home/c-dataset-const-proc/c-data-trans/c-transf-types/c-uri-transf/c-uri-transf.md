@@ -1,8 +1,6 @@
 ---
 description: The URI transformations modify the internal fields used to create the URI dimension provided with the Site application.
-solution: Analytics
 title: URI Transformations
-topic: Data workbench
 uuid: 7e78b63f-5a9d-47d9-839f-20e145b7f931
 exl-id: ce41e4d9-adc1-4430-ba45-8bf2189f5dee
 ---

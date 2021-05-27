@@ -1,8 +1,6 @@
 ---
 description: Steps to make any element point layer available to display on the globe visualization.
-solution: Analytics
 title: Make a new element point layer available
-topic: Data workbench
 uuid: 5f4bad2f-e98d-4224-bba8-285ad5e23da9
 exl-id: 12797335-0788-4103-a581-41bc3bb3dcc9
 ---

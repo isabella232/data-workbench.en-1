@@ -1,8 +1,6 @@
 ---
 description: Follow these steps to build a new funnel visualization
-solution: Analytics
 title: Building a Funnel
-topic: Data workbench
 uuid: 88afa09d-42ff-4e3b-b5cc-d74e01f4fc39
 exl-id: 24b63998-3aad-4ddf-b2d2-78dd0df9a510
 ---

@@ -1,8 +1,6 @@
 ---
 description: Steps to make any terrain layer available to display on the globe visualization.
-solution: Analytics
 title: Make a new terrain image layer available
-topic: Data workbench
 uuid: 8fb98a3e-6335-4922-a1e6-35c92b19e2ec
 exl-id: bf0e6b37-4c8a-4d50-8bc9-eb70ca1cbb23
 ---

@@ -1,8 +1,6 @@
 ---
 description: You can add multiple dimensions to a table to attain a more detailed cross-tabulation of the data.
-solution: Analytics
 title: Add, change, and move a dimension
-topic: Data workbench
 uuid: d8e67374-3b2b-4548-9322-e83c52941331
 exl-id: d2249f39-f4ab-4ec6-a2fb-90f8ecb2e3d1
 ---

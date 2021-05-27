@@ -1,8 +1,6 @@
 ---
 description: The density map visualization displays elements as shaded rectangles within a square map.
-solution: Analytics
 title: Density Map
-topic: Data workbench
 uuid: c13cecee-f322-4757-aa90-12039173ff9f
 exl-id: da37d954-cadb-42a6-a44b-9b38c0354a5d
 ---

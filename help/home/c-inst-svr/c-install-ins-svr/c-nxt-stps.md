@@ -1,6 +1,5 @@
 ---
 description: Instructions to complete installation of your Adobe application.
-solution: Analytics
 title: Next Steps
 uuid: 9707adc2-0618-4e94-baed-80b076d60f29
 exl-id: 5393a0ae-732c-409c-830b-64050f123091

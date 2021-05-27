@@ -1,8 +1,6 @@
 ---
 description: Steps to edit the configuration of a profile component.
-solution: Analytics
 title: Edit profile components
-topic: Data workbench
 uuid: e71adfae-afaa-4cd4-b7c5-a71e6a1b5459
 exl-id: 6a4d9e0f-1536-4d39-a27d-5b6805c19c8e
 ---

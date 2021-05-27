@@ -1,8 +1,6 @@
 ---
 description: Each tab or subtab in the Worktop corresponds to a particular type of information, such as Dashboards, Activity, Acquisition, and so on.
-solution: Analytics
 title: Customize a worktop tab
-topic: Data workbench
 uuid: f1f557c8-f4cb-4789-8162-39cc7c52c943
 exl-id: 529c6d8d-fc42-4c2b-a111-b8eea4665d8b
 ---

@@ -1,8 +1,6 @@
 ---
 description: After a Cluster Dimension is built, you can save it and examine it using the Cluster Explorer.
-solution: Analytics
 title: Exploring Clusters
-topic: Data workbench
 uuid: b0a07525-c586-466a-ac5e-7c7674cb58f8
 exl-id: d144f51c-8103-428d-801c-a12fb3ec5866
 ---

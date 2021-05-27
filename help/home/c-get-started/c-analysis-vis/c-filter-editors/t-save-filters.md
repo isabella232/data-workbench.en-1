@@ -1,8 +1,6 @@
 ---
 description: Steps to saving and loading filters.
-solution: Analytics
 title: Save and load filters
-topic: Data workbench
 uuid: 5312b9c4-0193-4d45-af54-e8f6d2706bf2
 exl-id: ed6cd2dc-c15b-4971-bf54-1b6915fbe181
 ---

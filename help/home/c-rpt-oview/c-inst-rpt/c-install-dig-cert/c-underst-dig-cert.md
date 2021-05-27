@@ -1,8 +1,6 @@
 ---
 description: Adobe uses X.509 digital certificates to identify and authenticate the client and server components that make up an implementation.
-solution: Analytics
 title: Understanding Digital Certificates
-topic: Data workbench
 uuid: a2d84e9a-16aa-4973-85da-303614a4ad7f
 exl-id: 967e9d5b-7972-497e-8902-8db0eb304f27
 ---

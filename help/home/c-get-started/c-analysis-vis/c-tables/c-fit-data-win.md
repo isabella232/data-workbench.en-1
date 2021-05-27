@@ -1,8 +1,6 @@
 ---
 description: The Fit to Window option allows the data columns in a table to automatically expand or shrink to fit the window each time you resize it.
-solution: Analytics
 title: Fit data to a window
-topic: Data workbench
 uuid: a45283e1-56df-4110-a052-2135baeaf709
 exl-id: 79eb1177-11bd-44ad-aafc-4de6f961f78f
 ---

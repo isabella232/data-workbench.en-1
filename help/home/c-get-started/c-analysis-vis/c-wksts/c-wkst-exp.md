@@ -1,8 +1,6 @@
 ---
 description: Conceptual information about worksheet expressions and using cell references.
-solution: Analytics
 title: Worksheet expressions
-topic: Data workbench
 uuid: be57d6bd-3e13-4c90-9034-8e0f2b8315aa
 exl-id: 1ff3ec24-0363-4b6c-8c91-31e49ed0f7c4
 ---

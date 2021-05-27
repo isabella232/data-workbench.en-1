@@ -1,8 +1,6 @@
 ---
 description: Steps to apply a filter to a workspace.
-solution: Analytics
 title: Apply a filter to a workspace
-topic: Data workbench
 uuid: e5108204-8a25-4a36-a5c6-57fc4ac9ba41
 exl-id: e8ed1693-d5af-4902-8761-400c370a81c8
 ---

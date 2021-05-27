@@ -1,8 +1,6 @@
 ---
 description: Collapses/expands the current visualization.
-solution: Analytics
 title: Collapsing and Expanding Visualizations
-topic: Data workbench
 uuid: 16ee5479-e457-4abc-8a40-ed75612318fa
 exl-id: b005fd1e-1704-476f-b220-44ac591b8d15
 ---

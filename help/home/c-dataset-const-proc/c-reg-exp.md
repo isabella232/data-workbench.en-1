@@ -1,8 +1,6 @@
 ---
 description: Regular expressions are used across all data workbench search fields including the query entity panels.
-solution: Analytics
 title: Regular Expressions
-topic: Data workbench
 uuid: f3a0119d-6fac-4f63-8dca-4db32d2a737a
 exl-id: 75841a70-e78a-429b-b00d-ac107b7a87aa
 ---

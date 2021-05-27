@@ -1,6 +1,5 @@
 ---
 description: To detect system and application errors as soon as possible and address them before they cause major problems or outages, you should regularly monitor your event logs.
-solution: Analytics
 title: Monitoring Events for Errors
 uuid: 09bb34db-e24d-4bc5-84d2-7fc37df60681
 exl-id: 88f48594-5c73-4ae3-8014-b8543e689426

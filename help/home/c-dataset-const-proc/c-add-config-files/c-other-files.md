@@ -1,8 +1,6 @@
 ---
 description: The Dataset directory includes additional files that are either required for the operation of the software or provide additional functionality for your Adobe implementation.
-solution: Analytics
 title: Other Files
-topic: Data workbench
 uuid: 87d83fa5-df25-4da1-8b11-16639902d8d7
 exl-id: 0a1fb37c-00ac-46d4-9d0a-904ebd3ccfba
 ---

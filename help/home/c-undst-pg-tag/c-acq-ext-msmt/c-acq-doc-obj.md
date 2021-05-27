@@ -1,8 +1,6 @@
 ---
 description: Using the JavaScript Document Object Model, additional scripting methods can be employed to augment the request for the zig.js file.
-solution: Analytics
 title: Acquiring Document Objects
-topic: Data workbench
 uuid: 7681c337-b147-4937-9d9c-0ff48d9bdd00
 exl-id: eae6609c-be86-44cf-a1a1-69ffb43231fa
 ---

@@ -1,8 +1,6 @@
 ---
 description: Data workbench Geography is a geographical imagery and analysis software product that enables you to display topographical imagery in data workbench.
-solution: Analytics
 title: Data Workbench Geography Overview
-topic: Data workbench
 uuid: 69003cdd-f814-494a-9be8-438a65411cc7
 exl-id: 53e0d736-86fa-4816-91c7-135e9b8b4c31
 ---

@@ -1,8 +1,6 @@
 ---
 description: The following dimensions are available for use in the data workbench Server Status profile.
-solution: Analytics
 title: Dimensions in the Data Workbench Server Status profile
-topic: Data workbench
 uuid: 4cfe882a-2797-4af9-bd6d-75bc31ee909c
 exl-id: 002f6b95-f151-41d9-ae28-9c01c1f621ee
 ---

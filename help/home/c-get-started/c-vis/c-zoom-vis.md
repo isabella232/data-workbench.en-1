@@ -1,8 +1,6 @@
 ---
 description: You can zoom in or out on data in graphs, globes, process maps, and scatter plots.
-solution: Analytics
 title: Zoom in or out in a visualization
-topic: Data workbench
 uuid: bc28f759-c4d3-4340-8ec7-27cf6aaf21e6
 exl-id: 27072e6b-3102-40b2-a617-3cd26bf6e840
 ---

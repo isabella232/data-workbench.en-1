@@ -1,8 +1,6 @@
 ---
 description: To create a segment dimension, you begin by making a selection within a workspace and then adding the segment to a visualization.
-solution: Analytics
 title: Create a segment dimensions
-topic: Data workbench
 uuid: 68dcf3bf-fbc9-4924-a0dd-d112cf366131
 exl-id: 393d544e-e821-49e3-8cfb-5a3496aa7380
 ---

@@ -1,8 +1,6 @@
 ---
 description: Selections can be removed at any time.
-solution: Analytics
 title: Removing Selections
-topic: Data workbench
 uuid: d424ef19-a4f9-4d2c-bd0c-d1cc3ab2f409
 exl-id: 0c715ba0-0025-46e7-9778-e2b8c0da07f1
 ---

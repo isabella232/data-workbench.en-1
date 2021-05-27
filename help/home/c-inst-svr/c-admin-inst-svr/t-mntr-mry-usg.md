@@ -1,6 +1,5 @@
 ---
 description: Information on assessing and monitoring the Address Space Load.
-solution: Analytics
 title: Monitoring Memory Usage
 uuid: e7f1c51b-d874-43f4-a074-1c064b5f298a
 exl-id: b8c0b33b-dbec-4947-911b-11c8a83bbc9c

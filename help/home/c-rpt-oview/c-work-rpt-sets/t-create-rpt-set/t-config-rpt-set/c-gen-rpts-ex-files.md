@@ -1,8 +1,6 @@
 ---
 description: Information to generate reports as Excel files.
-solution: Analytics
 title: Generating Reports as Microsoft Excel Files
-topic: Data workbench
 uuid: 0717a916-93d6-4b8e-a2ff-e9179ba4a66e
 exl-id: 4e644867-db5e-4ca9-a2bf-1193e031f2bf
 ---

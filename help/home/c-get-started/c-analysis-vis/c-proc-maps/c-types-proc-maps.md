@@ -1,8 +1,6 @@
 ---
 description: Information about the different types of process maps.
-solution: Analytics
 title: Types of process maps
-topic: Data workbench
 uuid: 19473b77-13c1-4829-b018-d3316e434ba4
 exl-id: 8bac7036-c7fe-4566-8e59-08e1ddc7ddb7
 ---

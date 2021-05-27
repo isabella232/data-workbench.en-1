@@ -1,8 +1,6 @@
 ---
 description: Defining dependent correlation points that make sense in your market is the essence of correlation analysis.
-solution: Analytics
 title: Correlation Analysis Use Cases
-topic: Data workbench
 uuid: 47328574-6600-44d7-8fff-feff3097488a
 exl-id: d4834350-8756-44b7-ab2d-64f86134100b
 ---

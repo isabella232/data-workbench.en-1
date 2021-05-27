@@ -1,8 +1,6 @@
 ---
 description: Latency table visualizations are tables that include a latency dimension, which is a type of derived dimension that measures the time that has elapsed since a particular event occurred.
-solution: Analytics
 title: Latency tables
-topic: Data workbench
 uuid: 8081540c-f96c-424e-802d-05d1be5a728d
 exl-id: 22f6d52f-e1c2-430a-9e69-3440be0ecdea
 ---

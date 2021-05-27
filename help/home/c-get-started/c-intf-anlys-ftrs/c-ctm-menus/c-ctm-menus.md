@@ -1,8 +1,6 @@
 ---
 description: You can customize the appearance of menus including the workspace window menu (accessed by right-clicking in any workspace) and menus listing metrics, dimensions, and map layers.
-solution: Analytics
 title: Customize a menu
-topic: Data workbench
 uuid: 8c409c50-40b3-4de3-8048-a825ef4d75f5
 exl-id: 7a377d9c-d339-43d8-a71a-a322416b2e60
 ---

@@ -1,8 +1,6 @@
 ---
 description: Steps to install the Report Server program files.
-solution: Analytics
 title: Installing the Report Program Files
-topic: Data workbench
 uuid: 9c250783-7080-4c27-bd8c-add208b2b1bf
 exl-id: 8f871e5c-1267-4564-a168-398f9dc793a4
 ---

@@ -1,8 +1,6 @@
 ---
 description: When you create a subset, you must specify a level.
-solution: Analytics
 title: Select a level
-topic: Data workbench
 uuid: 18c2bee7-a70f-4510-978f-830b56780f47
 exl-id: 39d8407c-e2ec-4080-8918-26cafbf988df
 ---

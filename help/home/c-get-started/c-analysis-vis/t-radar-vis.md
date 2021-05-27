@@ -1,8 +1,6 @@
 ---
 description: Radar charts provide quick focus on the areas that are in most need of attention, by providing a visual view of a set of metrics, and how they relate or differ.
-solution: Analytics
 title: Radar visualization
-topic: Data workbench
 uuid: 39d67743-b6c1-46f1-99fd-7c71dfe07932
 exl-id: 5385d903-422b-4936-bbb3-0d5ee4d286de
 ---

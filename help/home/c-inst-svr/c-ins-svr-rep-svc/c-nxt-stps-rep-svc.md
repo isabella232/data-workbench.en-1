@@ -1,6 +1,5 @@
 ---
 description: You have completed the installation of the Insight ServerReplication Service.
-solution: Analytics
 title: Next Steps
 uuid: 258087cd-4dde-4e47-9285-d411f22e19ed
 exl-id: 673405e9-34f4-434e-865b-c5544725331d

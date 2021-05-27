@@ -1,8 +1,6 @@
 ---
 description: You can open a field viewer as a callout from a dependency map or as a standalone visualization from the Admin menu.
-solution: Analytics
 title: Create a field viewer
-topic: Data workbench
 uuid: df48e728-96f9-4432-82c8-f8047840ffb9
 exl-id: a2563dbb-1d1f-4ed8-b73b-6ac7a2687405
 ---

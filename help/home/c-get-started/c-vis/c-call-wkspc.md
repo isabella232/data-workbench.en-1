@@ -1,8 +1,6 @@
 ---
 description: Callouts are windows that you add to a workspace to bring attention to a particular dimension element by creating a new visualization with a virtual selection of that element.
-solution: Analytics
 title: Adding callouts to a workspace
-topic: Data workbench
 uuid: fb3dd74d-da20-40cb-bc96-e56d25003e48
 exl-id: fcdb9231-d44a-4287-b799-6a66f7f79432
 ---

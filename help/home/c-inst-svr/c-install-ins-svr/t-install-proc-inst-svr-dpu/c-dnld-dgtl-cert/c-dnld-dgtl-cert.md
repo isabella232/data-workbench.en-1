@@ -1,6 +1,5 @@
 ---
 description: General information about digital certificates, and procedures to download and install them.
-solution: Analytics
 title: Downloading and Installing the Digital Certificates
 uuid: ac484e96-21dc-4643-ae74-01ac957e30ee
 exl-id: 8aae9b63-7df0-4725-9833-711246bbe746

@@ -1,8 +1,6 @@
 ---
 description: The Campaign dimension is defined in the Site Marketing profile to provide campaign analysis capabilities.
-solution: Analytics
 title: Marketing Profile Dimensions
-topic: Data workbench
 uuid: 034b4318-58e6-4638-9b13-fac83ff9f826
 exl-id: 93804fba-a44b-4cdc-8d67-d4ec0656e742
 ---

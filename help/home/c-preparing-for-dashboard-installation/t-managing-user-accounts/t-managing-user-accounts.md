@@ -1,8 +1,6 @@
 ---
 description: User account management is performed using the User Manager section within the Administration Console.
-solution: Analytics
 title: Managing User Accounts
-topic: Data workbench
 uuid: 516a152c-e107-4268-8f9d-7e3a7ff05eef
 exl-id: eef40f7e-a509-4089-ab20-77beed9fbc65
 ---

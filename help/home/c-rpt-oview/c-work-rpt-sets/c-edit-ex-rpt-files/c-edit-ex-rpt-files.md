@@ -1,8 +1,6 @@
 ---
 description: Steps to edit existing Report.cfg files using Worktop or a text editor.
-solution: Analytics
 title: Editing Existing Report.cfg Files
-topic: Data workbench
 uuid: 494b9eef-42f3-4ed9-8b43-f5c09af33f2e
 exl-id: 69038c0c-bb01-4e61-aad6-1be0bdec8a6d
 ---

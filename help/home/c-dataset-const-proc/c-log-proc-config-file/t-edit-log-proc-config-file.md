@@ -1,8 +1,6 @@
 ---
 description: Steps to edit the Log Processing.cfg file for a dataset profile.
-solution: Analytics
 title: Editing the Log Processing Configuration File
-topic: Data workbench
 uuid: 2ffae53a-ef2f-4933-821d-13f29dcdb68d
 exl-id: 294063ef-6771-4310-8198-df57fab1e2b4
 ---

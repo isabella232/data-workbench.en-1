@@ -1,8 +1,6 @@
 ---
 description: Transformations enable you to extract information available in your data files and manipulate it into a more useful form.
-solution: Analytics
 title: About Transformations
-topic: Data workbench
 uuid: 9366f607-741d-4512-9e1b-4165f4291246
 exl-id: 9bd533ef-a87e-400a-9bb0-5af1851cca0a
 ---

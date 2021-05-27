@@ -1,6 +1,5 @@
 ---
 description: Information about monitoring event data space and changing the log directory for Sensor data.
-solution: Analytics
 title: Monitoring Event Data Space
 uuid: e514e8fb-e735-4003-ab21-17470c73af37
 exl-id: 1016d00f-e0a0-47f1-a600-528c4811fcf6

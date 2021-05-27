@@ -1,8 +1,6 @@
 ---
 description: A filter editor is a special visualization for building and editing filters.
-solution: Analytics
 title: Filter editors
-topic: Data workbench
 uuid: c4e99e44-1927-4131-92e9-111c76bdc3e2
 exl-id: 9009c760-8726-4234-b85b-727aeae761bd
 ---

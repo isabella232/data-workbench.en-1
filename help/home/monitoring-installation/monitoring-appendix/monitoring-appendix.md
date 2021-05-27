@@ -1,8 +1,6 @@
 ---
 description: This document describes the profiles with their fields, dimensions, and metrics employed by the data workbench Monitoring Profile.
-solution: Analytics
 title: Data Workbench Profile Dimensions and Metrics
-topic: Data workbench
 uuid: 42ef154f-fd8b-4609-8685-96d9dbf32a3d
 exl-id: cfad9897-2ea3-47e4-aa36-416e0fde9358
 ---

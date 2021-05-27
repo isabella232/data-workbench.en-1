@@ -1,8 +1,6 @@
 ---
 description: To configure Report Portal, you must map its application files to virtual directories.
-solution: Analytics
 title: Map the Report Portal Pages to Virtual Directories
-topic: Data workbench
 uuid: 75ca85d5-d526-48f9-b2c4-ca77c903c6af
 exl-id: 13e457d4-7039-491a-a65d-f23ad7e9fe77
 ---

@@ -1,8 +1,6 @@
 ---
 description: You must install and run Sensor on each web server that serves the content for your site to collect all of the requests that are seen by those servers.
-solution: Analytics
 title: How Do I Acquire this Data_
-topic: Data workbench
 uuid: c0d8b01e-a135-4ef7-8159-811766929f62
 exl-id: 1c886f60-eae9-48c2-b641-396c622035d4
 ---

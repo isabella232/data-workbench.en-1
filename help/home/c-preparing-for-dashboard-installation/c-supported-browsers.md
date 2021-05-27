@@ -1,8 +1,6 @@
 ---
 description: Lists all supported browsers.
-solution: Analytics
 title: Supported Browsers
-topic: Data workbench
 uuid: 7add01cc-905f-46e8-8e0d-3e9d458c466c
 exl-id: 5f1dcd53-c0ee-436f-ad7c-8d669008a61c
 ---

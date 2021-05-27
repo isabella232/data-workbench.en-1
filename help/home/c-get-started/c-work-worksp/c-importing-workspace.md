@@ -1,8 +1,6 @@
 ---
 description: You can import a workspace to your worktop.
-solution: Analytics
 title: Import a workspace
-topic: Data workbench
 uuid: 9f9f0da8-0806-45fe-90b4-d5bc635958e7
 exl-id: 8f589540-9f1c-4776-8815-48d4cfbc5aa6
 ---

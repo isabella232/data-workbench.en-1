@@ -1,8 +1,6 @@
 ---
 description: Information about web-specific settings that are defined in Transformation Dataset Include files that are delivered with Adobe profiles for Site.
-solution: Analytics
 title: Web-Specific Settings for Transformation
-topic: Data workbench
 uuid: 282f0f4d-43d7-41cf-bae8-5cac6b4d81a0
 exl-id: 737f5e7a-7ab3-4ff7-8d92-7ccd87c28743
 ---

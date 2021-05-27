@@ -1,8 +1,6 @@
 ---
 description: Conceptual Information about the Geography profile layers, types of imagery layers, and creating new layers.
-solution: Analytics
 title: Understanding Imagery Layers
-topic: Data workbench
 uuid: 8f4618bf-d8bd-4d21-a29e-ab2871d781ca
 exl-id: ffe084ec-db8b-46f4-8266-0f1b771b3349
 ---

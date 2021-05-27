@@ -1,8 +1,6 @@
 ---
 description: By default, newly created tabs display the subfolders within the associated directory as hierarchical, drop-down subdirectories instead of as subtabs.
-solution: Analytics
 title: Display subfolders as subtabs
-topic: Data workbench
 uuid: b4d7c6dd-d5ad-4b93-ba67-65a69e11eefc
 exl-id: 6a05852b-3efc-4e71-9782-d4cc3a687a26
 ---

@@ -1,6 +1,5 @@
 ---
 description: Information about administrative tasks such as configuring access control, monitoring memory usage, and more.
-solution: Analytics
 title: Administering Data Workbench Server
 uuid: 033b34ec-75f6-454f-8e08-c05fb8b2d18d
 exl-id: f19043e8-b3fe-4d71-a374-f4d0b602074f

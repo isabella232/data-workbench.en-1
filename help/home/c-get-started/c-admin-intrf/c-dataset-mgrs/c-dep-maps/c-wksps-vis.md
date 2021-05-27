@@ -1,8 +1,6 @@
 ---
 description: Conceptual information about workspaces and visualizations.
-solution: Analytics
 title: Workspaces and visualizations
-topic: Data workbench
 uuid: dc7fab6c-d8b4-4ed7-bad6-b3df14b9ebbf
 exl-id: a70748dd-8190-4d1b-9ee1-1011b73a1a86
 ---

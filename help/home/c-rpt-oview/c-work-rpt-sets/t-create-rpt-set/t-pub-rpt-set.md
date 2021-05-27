@@ -1,8 +1,6 @@
 ---
 description: The final step in creating a report set is to publish the newly created report set to the data workbench server machine.
-solution: Analytics
 title: Publish the Report Set to the Data Workbench Server
-topic: Data workbench
 uuid: 373323f8-d6d7-4696-b361-ce514f0ccff0
 exl-id: 1cf6ba28-94f0-48d2-b2d0-2de7e38620f7
 ---

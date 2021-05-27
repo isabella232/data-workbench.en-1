@@ -1,8 +1,6 @@
 ---
 description: Data workbench enables you to create new metrics, filters, and dimensions to expand the information available through an application or to easily customize the definitions in the application to meet your needs. The open-ended nature of metrics, dimensions, and filters enables you to answer more questions as you add new metrics and dimensions.
-solution: Analytics
 title: Expanding Metrics, Dimensions, and Filters
-topic: Data workbench
 uuid: eaec0731-1916-4063-9fda-3a92ee325024
 exl-id: 5a7719a3-ba2e-4361-87e0-4d0df23196df
 ---

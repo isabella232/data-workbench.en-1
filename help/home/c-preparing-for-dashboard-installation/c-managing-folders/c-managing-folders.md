@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Managing Folders
 title: Managing Folders
-topic: Data workbench
 uuid: f296cd35-879f-482e-9b0d-8345ab3dda27
 exl-id: 3e55d20e-ce5a-4bfd-8fee-e67c98d51f9f
 ---

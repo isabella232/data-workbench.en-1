@@ -1,8 +1,6 @@
 ---
 description: Information about your Report Server status and report set status.
-solution: Analytics
 title: Reviewing Report Status
-topic: Data workbench
 uuid: 0f78a9fd-83d5-4e05-b7d1-d841033a5616
 exl-id: a986f148-f019-457c-ade8-a4eaecbb1de7
 ---

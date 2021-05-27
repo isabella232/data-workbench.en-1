@@ -1,8 +1,6 @@
 ---
 description: Steps to display information or options for a dimension.
-solution: Analytics
 title: Display the Dimension menu
-topic: Data workbench
 uuid: e2c4fa8d-3559-45bd-8ec5-d064c763b20b
 exl-id: 55b2cb3a-d82e-4e42-b1b6-079ca3667be8
 ---

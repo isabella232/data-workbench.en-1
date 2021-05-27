@@ -1,8 +1,6 @@
 ---
 description: New features introduced in Data Workbench 6.0.4, including bug fixes and known issues.
-solution: Analytics
 title: Data Workbench 6.0 Release Notes
-topic: Data workbench
 uuid: b348425e-3304-4db7-a280-479a34452bdb
 exl-id: be69b3be-24e7-4a8c-9dc8-1360a9b6fb3a
 ---

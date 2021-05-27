@@ -1,8 +1,6 @@
 ---
 description: General information about data services, including installing and updating files.
-solution: Analytics
 title: Working with Data Services
-topic: Data workbench
 uuid: bfa08f6c-7b91-4663-8a7e-2d7cf343dcde
 ---
 

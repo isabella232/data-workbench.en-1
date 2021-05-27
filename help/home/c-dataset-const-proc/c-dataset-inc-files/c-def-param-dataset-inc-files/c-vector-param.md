@@ -1,8 +1,6 @@
 ---
 description: Vector parameters contain multiple values for a single variable.
-solution: Analytics
 title: Vector Parameters
-topic: Data workbench
 uuid: 2ca83502-acc4-4b94-b0e4-a48a596e7623
 exl-id: c6140bdf-dcd9-4fa9-a6e0-34cbc45414d0
 ---

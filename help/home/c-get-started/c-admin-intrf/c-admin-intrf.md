@@ -1,8 +1,6 @@
 ---
 description: Information about the administrative interfaces available to manage and monitor your implementation of Data Workbench. Also information about opening administrative interfaces as well as information about several other interfaces.
-solution: Analytics
 title: Administrative interfaces
-topic: Data workbench
 uuid: bd587f01-7edc-44e8-b4d4-f74f94f5d60f
 exl-id: 109e30da-9ccb-4349-865a-dff9c05fe37a
 ---

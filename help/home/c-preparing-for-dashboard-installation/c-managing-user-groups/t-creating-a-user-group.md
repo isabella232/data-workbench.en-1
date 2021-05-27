@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Creating a User Group
 title: Creating a User Group
-topic: Data workbench
 uuid: 8a474480-81fa-4a86-9937-2fb82e949436
 exl-id: 8af9d635-ff07-486f-845a-44541d577fad
 ---

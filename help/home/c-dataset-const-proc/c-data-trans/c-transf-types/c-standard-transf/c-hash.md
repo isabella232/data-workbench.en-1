@@ -1,8 +1,6 @@
 ---
 description: The Hash transformation creates a nearly unique string representing a 64-bit number from the input values.
-solution: Analytics
 title: Hash
-topic: Data workbench
 uuid: 13bc14e6-75e2-4711-8f98-50fd18802be5
 exl-id: 6912a1d2-9ae8-42ba-94bd-a7a28cbdfae6
 ---

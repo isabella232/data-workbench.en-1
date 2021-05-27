@@ -1,8 +1,6 @@
 ---
 description: Overview of the concepts and features that you need to understand when working with visualizations.
-solution: Analytics
 title: Visualizations
-topic: Data workbench
 uuid: 34ddc55f-a037-45ec-b636-d05b1806442f
 exl-id: 2d600c4b-2923-4a85-8a8b-02771b7dc067
 ---

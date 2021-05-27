@@ -1,8 +1,6 @@
 ---
 description: You can make selections within process maps to create filters that include or exclude data associated with a particular node.
-solution: Analytics
 title: Make a selection from a process map
-topic: Data workbench
 uuid: 7fd00090-c9ab-4bb6-8584-7de7b6f4b68c
 exl-id: 8ede395f-906a-49e0-8ff8-b43a326275e5
 ---

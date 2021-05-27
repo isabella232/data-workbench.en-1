@@ -1,8 +1,6 @@
 ---
 description: The Worktop is where you organize and access all of your workspaces and reports.
-solution: Analytics
 title: Worktops
-topic: Data workbench
 uuid: ae6e475c-fc91-4c76-883b-894c9eb2933c
 exl-id: e714ca25-5e94-408a-9d4e-6e1c13e2a3ef
 ---

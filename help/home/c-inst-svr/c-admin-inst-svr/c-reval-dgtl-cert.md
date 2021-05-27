@@ -1,6 +1,5 @@
 ---
 description: After installation, the digital certificate issued by Adobe acts as a key that enables you to run your Adobe product.
-solution: Analytics
 title: Re-validating the Digital Certificate
 uuid: 8cc6ec17-c565-4276-809a-a7c4fc9919f7
 exl-id: a5a24da2-d28f-402c-82db-f1046c525244

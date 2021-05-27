@@ -1,8 +1,6 @@
 ---
 description: Information about web-specific settings that are defined in Log Processing Dataset Include files that are delivered with Adobe profiles for Site.
-solution: Analytics
 title: Web-Specific Settings for Log Processing
-topic: Data workbench
 uuid: dea861a6-3f78-4cb9-8108-ecf397b37667
 exl-id: abb6e6a7-011f-40d6-b778-16da2332af72
 ---

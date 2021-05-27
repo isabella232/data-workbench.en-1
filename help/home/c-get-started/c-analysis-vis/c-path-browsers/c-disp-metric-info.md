@@ -1,8 +1,6 @@
 ---
 description: Information on displaying metric information in a path browser.
-solution: Analytics
 title: Display metric information
-topic: Data workbench
 uuid: 73d53159-482a-457f-988b-8618dc098fbc
 exl-id: 175beeb2-8790-4638-9d7b-adfba7993d11
 ---

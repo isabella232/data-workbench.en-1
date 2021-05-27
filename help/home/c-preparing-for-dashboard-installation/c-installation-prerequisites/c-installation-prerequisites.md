@@ -1,8 +1,6 @@
 ---
 description: Before beginning the installation, log on to the web server with an admin account with permissions to configure the server and install new software.
-solution: Analytics
 title: Installation Prerequisites
-topic: Data workbench
 uuid: 3f7ee690-ff91-4c4d-8d78-4dfb42856e8c
 exl-id: da9836eb-bbc8-49ae-a9c6-054051708c25
 ---

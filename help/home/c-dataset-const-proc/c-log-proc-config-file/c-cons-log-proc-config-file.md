@@ -1,8 +1,6 @@
 ---
 description: Conceptual information to consider when editing the Log Processing.cfg file.
-solution: Analytics
 title: Considerations for the Log Processing Configuration File
-topic: Data workbench
 uuid: 2ccedf63-12d9-40e9-912a-aee030191b1e
 exl-id: 278a4a10-d382-4d9f-b3f4-bcc4783eb50c
 ---

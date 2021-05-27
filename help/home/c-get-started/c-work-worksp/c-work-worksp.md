@@ -1,8 +1,6 @@
 ---
 description: A workspace is a container for a particular analysis and visualization task.
-solution: Analytics
 title: Display workspaces
-topic: Data workbench
 uuid: 848035e5-7b7f-4e33-b61d-3759335e459b
 exl-id: 18db0cd4-6cb0-4514-9056-1c1e82b2092e
 ---

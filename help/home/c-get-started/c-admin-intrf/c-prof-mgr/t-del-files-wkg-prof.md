@@ -1,8 +1,6 @@
 ---
 description: Steps to delete a file from your working profile.
-solution: Analytics
 title: Delete files from your working profile
-topic: Data workbench
 uuid: e3658085-57c2-4d25-bdc6-6767de1deb3e
 exl-id: 9d464280-b600-4064-bb44-502831ab2920
 ---

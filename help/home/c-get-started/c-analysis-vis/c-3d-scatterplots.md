@@ -1,8 +1,6 @@
 ---
 description: A 3D Scatter Plot graphs the elements of a data dimension (such as Days or Referral Site) on a three-dimensional grid where the x, y, and z axes represent various metrics.
-solution: Analytics
 title: 3D Scatter Plots
-topic: Data workbench
 uuid: 5e23547c-dbb4-490c-94bc-0731deee612e
 exl-id: 18f18cab-a31b-4ffe-89c5-412a5645af2e
 ---

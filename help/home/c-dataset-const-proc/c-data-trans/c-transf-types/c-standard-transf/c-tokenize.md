@@ -1,8 +1,6 @@
 ---
 description: The Tokenize transformation iteratively applies a regular expression against the input string.
-solution: Analytics
 title: Tokenize
-topic: Data workbench
 uuid: f8430e6c-ec14-4ba6-aeae-92c9f2520a63
 exl-id: c1f39b5b-4717-44f6-99c7-4e6a215f3542
 ---

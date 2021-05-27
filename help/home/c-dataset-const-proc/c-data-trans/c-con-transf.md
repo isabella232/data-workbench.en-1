@@ -1,8 +1,6 @@
 ---
 description: Table showing what conventions apply when constructing transformations.
-solution: Analytics
 title: Conventions for Constructing Transformations
-topic: Data workbench
 uuid: 91dddca6-4c17-4107-b78b-0f8b8870ef8d
 exl-id: c2552c52-c6d3-4c9f-8359-b5a58bf1a59f
 ---

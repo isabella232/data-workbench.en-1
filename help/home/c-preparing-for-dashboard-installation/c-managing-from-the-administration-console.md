@@ -1,8 +1,6 @@
 ---
-description: null
-solution: Analytics
+description: Managing from the Administration Console
 title: Managing from the Administration Console
-topic: Data workbench
 uuid: 9837d632-f320-4999-9506-62f87b8522a2
 exl-id: f8fee9f5-cde1-426b-b69c-b2f416d5ce85
 ---

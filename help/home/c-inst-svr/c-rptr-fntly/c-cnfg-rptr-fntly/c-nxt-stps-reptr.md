@@ -1,6 +1,5 @@
 ---
 description: Instructions to complete your installation of the repeater functionality.
-solution: Analytics
 title: Next Steps
 uuid: 74ac9ef3-11c2-4af0-9901-edbbcc8ac0fb
 exl-id: b7caeb55-bd8c-4bf3-8216-3a30c8f3dfed

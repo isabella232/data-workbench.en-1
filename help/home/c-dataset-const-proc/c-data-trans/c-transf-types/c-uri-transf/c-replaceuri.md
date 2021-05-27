@@ -1,8 +1,6 @@
 ---
 description: The ReplaceURI transformation changes the value in the internal URI dimension to a new value.
-solution: Analytics
 title: ReplaceURI
-topic: Data workbench
 uuid: f9fc6d51-6eb6-4ace-8c19-2c0200555363
 exl-id: 03a6f306-5e2e-488c-8d79-a14938dcd635
 ---

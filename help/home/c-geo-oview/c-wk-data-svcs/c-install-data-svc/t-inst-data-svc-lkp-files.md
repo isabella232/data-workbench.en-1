@@ -1,8 +1,6 @@
 ---
 description: Steps to install the IP Geo-intelligence or IP Geo-location lookup files.
-solution: Analytics
 title: Installing the Data Service Lookup Files
-topic: Data workbench
 uuid: a3fe8a14-2c74-4105-bc5b-2298f0f4b61e
 exl-id: b19904f4-ead0-4bed-a79f-864c78bc0e1d
 ---

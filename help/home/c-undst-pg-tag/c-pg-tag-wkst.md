@@ -1,8 +1,6 @@
 ---
 description: Tables containing list of constant and custom variables.
-solution: Analytics
 title: Page Tag Variable Mapping Worksheet
-topic: Data workbench
 uuid: 1ecef047-5a04-401d-b3d5-f31fddb134e1
 exl-id: 647c6a14-58b4-4f87-bccf-fa7ac24811a5
 ---

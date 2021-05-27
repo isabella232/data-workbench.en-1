@@ -1,8 +1,6 @@
 ---
 description: Normally, the Data Workbench server answers incoming user queries as they are received, and continues to provide results and real-time updates until the user is no longer requesting them.
-solution: Analytics
 title: Query Queue
-topic: Data workbench
 uuid: 4d64bc89-b664-4532-9f17-be11812d36d4
 exl-id: 5d9b20bf-9396-4016-beed-cee8f533f3ea
 ---

@@ -1,8 +1,6 @@
 ---
 description: Steps to ensure that reprocessing or retransformation goes smoothly and finishes in time for data workbench users to get back to work
-solution: Analytics
 title: Preparing for Reprocessing or Retransformation
-topic: Data workbench
 uuid: 69a5878e-707a-4100-89ba-bae0b8a16c84
 exl-id: f3746edf-416e-45c2-896c-48a3c875318c
 ---

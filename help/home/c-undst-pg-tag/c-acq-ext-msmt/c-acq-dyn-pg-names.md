@@ -1,8 +1,6 @@
 ---
 description: For some sites, it is necessary to use embedded object requests to pass information to the web server so that details about what page was actually served may be acquired by Sensor and used for reporting and analysis.
-solution: Analytics
 title: Acquiring Dynamic Page Names
-topic: Data workbench
 uuid: eaa35023-bbfa-4eb9-9ab7-3986187e5537
 exl-id: cd94caf0-b0dc-46c1-8f59-3ebb2f703286
 ---

@@ -1,8 +1,6 @@
 ---
 description: The query string (cs-uri-query) is often used by web applications and site developers to pass information from page to page because of the stateless nature of HTTP.
-solution: Analytics
 title: Understanding the Query String
-topic: Data workbench
 uuid: 7403277d-fbce-4e98-bd42-894142e38d0d
 exl-id: b5281e5f-3eb7-4d6a-a7b3-9958cb430621
 ---

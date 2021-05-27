@@ -1,8 +1,6 @@
 ---
 description: Information about the menu options available in the Workspace file menu.
-solution: Analytics
 title: Workspace File menu
-topic: Data workbench
 uuid: abbdb2db-d918-4edf-977c-1daaf8a71721
 exl-id: b2bb7d89-249c-40f5-85aa-02fea0b0fc61
 ---
