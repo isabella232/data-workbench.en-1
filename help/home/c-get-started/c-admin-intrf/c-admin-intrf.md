@@ -13,5 +13,5 @@ Information about the administrative interfaces available to manage and monitor 
 * [Query Queue](c-query-que/c-query-que.md)
 * [Processing Legend](c-pro-lgd.md)
 * [Detailed Status interface](c-det-stat-interf.md)
-* [Profile Manager](https://docs.adobe.com/content/help/en/data-workbench/using/client/ui-analysis-features/cstm-prof-files-mgrs/c-new-prof-mgrs.html)
+* [Profile Manager](https://experienceleague.adobe.com/docs/data-workbench/using/client/ui-analysis-features/cstm-prof-files-mgrs/c-new-prof-mgrs.html)
 * [Dataset managers](c-dataset-mgrs/c-dataset-mgrs.md)

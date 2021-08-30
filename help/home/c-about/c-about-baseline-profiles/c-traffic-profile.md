@@ -90,7 +90,7 @@ The Traffic profile contains the following metrics to identify visitor traffic.
   <tr> 
    <td colname="col1"> Session Duration </td> 
    <td colname="col2"> <p>Formula: <span class="filepath"> (sum (Exact_Page_Duration, Session)*.1/Sessions)[Session_ Duration &lt;= '01:00:00']</span></p> <p>Level: Session </p> </td> 
-   <td colname="col3">The average length of time (MM:SS) a visitor spends in a session. <p><p>Note: You can use this metric with the <a href="https://docs.adobe.com/content/help/en/data-workbench/using/client/t-open-ins.html#Segment_Export" format="http" scope="external"> Segment Export</a> feature. </p></p></td> 
+   <td colname="col3">The average length of time (MM:SS) a visitor spends in a session. <p><p>Note: You can use this metric with the <a href="https://experienceleague.adobe.com/docs/data-workbench/using/client/t-open-ins.html#Segment_Export" format="http" scope="external"> Segment Export</a> feature. </p></p></td> 
   </tr> 
   <tr> 
    <td colname="col1"> Sessions by Page View </td> 

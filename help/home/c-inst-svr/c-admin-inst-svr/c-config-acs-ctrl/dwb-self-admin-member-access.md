@@ -8,7 +8,7 @@ exl-id: 6d2a0f19-a33c-49f6-a470-c95d2c1532c7
 
 Administrators can give workstation users the partial ability to manage access control for custom groups.
 
-**Self-administration of group member access** gives rights to non-administrators to add and delete members in a custom group. The administrator creates a **User List** file and sets up group access in the [Access Control.cfg](https://docs.adobe.com/content/help/en/data-workbench/using/server-admin-install/admin-dwb-server/access-control/c-config-acs-ctrl.html) file for the new group members.
+**Self-administration of group member access** gives rights to non-administrators to add and delete members in a custom group. The administrator creates a **User List** file and sets up group access in the [Access Control.cfg](https://experienceleague.adobe.com/docs/data-workbench/using/server-admin-install/admin-dwb-server/access-control/c-config-acs-ctrl.html) file for the new group members.
 
 **Accessing the Servers Manager**
 

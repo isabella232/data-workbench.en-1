@@ -47,7 +47,7 @@ Follow these steps to update the **[!UICONTROL Server v6.1]** components:
     
     1. Update the [!DNL Server\Scripts] folder to update [!DNL TnTSend.exe].
 
-1. If you employ **[!UICONTROL DeviceAtlas]**, then you will need to [update the bundle](https://docs.adobe.com/content/help/en/data-workbench/using/dataset/trans-config-file/c-deviceatlas-update.html) located in the [!DNL Server\Lookups] folder. 
+1. If you employ **[!UICONTROL DeviceAtlas]**, then you will need to [update the bundle](https://experienceleague.adobe.com/docs/data-workbench/using/dataset/trans-config-file/c-deviceatlas-update.html) located in the [!DNL Server\Lookups] folder. 
 1. Set [!DNL Directories] in the [!DNL Profile.cfg] file to ensure that the vector is updated to reflect the number of items for each profile.
 
    For example, to enable the **[!UICONTROL Predictive Analytics]** profile you will need to update this setting.

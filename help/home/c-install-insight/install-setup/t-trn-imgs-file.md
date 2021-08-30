@@ -8,11 +8,11 @@ exl-id: e73490ff-583a-4d50-9c3f-a289f1e7b209
 
 You install the Terrain Images.cfg file only if you want to make new terrain image layers to display on the globe visualization.
 
-See [Globes](https://docs.adobe.com/content/help/en/data-workbench/using/client/analysis-visualizations/globes/c-globes.html).
+See [Globes](https://experienceleague.adobe.com/docs/data-workbench/using/client/analysis-visualizations/globes/c-globes.html).
 
 **To install the Terrain Images.cfg file on Insight Server** 
 
 1. Copy the [!DNL Terrain Images.cfg] file from the [!DNL .zip] file provided to you by Adobe.
 1. Paste the file in the [!DNL Components] folder in your Insight Server installation directory.
 
-   For information about configuring [!DNL Terrain Images.cfg], see [Terrain image layers](https://docs.adobe.com/content/help/en/data-workbench/using/geography/imagery-layers/terrain-image-layers/c-trn-img-lyrs.html).
+   For information about configuring [!DNL Terrain Images.cfg], see [Terrain image layers](https://experienceleague.adobe.com/docs/data-workbench/using/geography/imagery-layers/terrain-image-layers/c-trn-img-lyrs.html).

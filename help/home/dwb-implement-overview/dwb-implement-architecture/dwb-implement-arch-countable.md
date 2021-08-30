@@ -87,4 +87,4 @@ Perform the following steps to create the Countable in Dataworkbench:
 
    If the Countable is not the top level one, then in the parent field give the name of the Parent Countable. In the example below, Engagement Countable is created and the Parent for this countable is Customer. ![](assets/dwb_impl_arch_5.png)
 
-For additional information on the Data Workbench architecture for schema design, countable structures, and offline data feed configurations, see the [Dataset Schema Interface](https://docs.adobe.com/content/help/en/data-workbench/using/client/admin-ui/c-dtst-sch-intrf.html).
+For additional information on the Data Workbench architecture for schema design, countable structures, and offline data feed configurations, see the [Dataset Schema Interface](https://experienceleague.adobe.com/docs/data-workbench/using/client/admin-ui/c-dtst-sch-intrf.html).

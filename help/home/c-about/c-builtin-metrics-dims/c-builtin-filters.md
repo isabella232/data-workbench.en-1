@@ -45,4 +45,4 @@ entity = derived_filter:
 
 By default, workspaces have the Broken Session filter applied to both their selection and their benchmarks, and it can be toggled by right-clicking in the workspace and clicking Data > Broken Session Filter.
 
-The Broken Session Filter can be referenced in filter expressions as Broken_Session_Filter, even if it is not enabled for the current workspace. See [filter expressions](https://docs.adobe.com/content/help/en/data-workbench/using/client/t-open-ins.html#Syntax_for_Identifiers) for additional information.
+The Broken Session Filter can be referenced in filter expressions as Broken_Session_Filter, even if it is not enabled for the current workspace. See [filter expressions](https://experienceleague.adobe.com/docs/data-workbench/using/client/t-open-ins.html#Syntax_for_Identifiers) for additional information.

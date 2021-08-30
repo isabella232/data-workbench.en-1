@@ -10,7 +10,7 @@ The Profile Manager displays all of the directories associated with your working
 
 You may want to access a subdirectory of the [!DNL Profile Manager] without having to navigate its entire directory structure. For example, the [!DNL Metrics] and [!DNL Workspaces] menu options available on the [!DNL Manage] menu of the workspace window menu enable you to open the Profile Manager Metrics and Workspaces folders, respectively.
 
-For more information about the [!DNL Profile Manager], see [The Profile Manager](https://docs.adobe.com/content/help/en/data-workbench/using/client/ui-analysis-features/cstm-prof-files-mgrs/c-new-prof-mgrs.html).
+For more information about the [!DNL Profile Manager], see [The Profile Manager](https://experienceleague.adobe.com/docs/data-workbench/using/client/ui-analysis-features/cstm-prof-files-mgrs/c-new-prof-mgrs.html).
 
 By default you have access to the following managers:
 

@@ -10,7 +10,7 @@ The Customer Record Service (CRS) export feature lets you export Data Workbench 
 
 >[!NOTE]
 >
->In order for the CRS export feature to work, a visitor's Analytics ID must be based on the Experience Cloud ID Service (ECID). Although ECID may be populated in Data Workbench for a visitor, if the client is in the grace period or the visitor's cookie has not been replaced with ECID, the CRS export will not work for that visitor. For more information, see [Identifying Visitors](https://docs.adobe.com/content/help/en/analytics/export/analytics-data-feed/data-feed-contents/datafeeds-visid.html) and [ID Service Grace Period](https://docs.adobe.com/content/help/en/id-service/using/reference/analytics-reference/grace-period.html).
+>In order for the CRS export feature to work, a visitor's Analytics ID must be based on the Experience Cloud ID Service (ECID). Although ECID may be populated in Data Workbench for a visitor, if the client is in the grace period or the visitor's cookie has not been replaced with ECID, the CRS export will not work for that visitor. For more information, see [Identifying Visitors](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-contents/datafeeds-visid.html) and [ID Service Grace Period](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/grace-period.html).
 
 From a **Detail Table** (right-click **[!UICONTROL Tools]** > **[!UICONTROL Detail Table]** in a workspace), you can set attribute values and the variables required to integrate with Analytics' Reports & Analytics (using Adobe Pipeline Services).
 

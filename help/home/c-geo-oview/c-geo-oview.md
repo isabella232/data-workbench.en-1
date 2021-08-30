@@ -12,6 +12,6 @@ For information about installing data workbench [!DNL Geography], see [Installin
 
 Data workbench [!DNL Geography] consists of the [!DNL Geography] profile, which includes default imagery layers and their related lookup files as well as additional dimensions (City, Coordinates, Country, DMA, and Domain) for use in your analysis.
 
-You also can add other layers and lookup files to expand your imagery capabilities. For more information about imagery layers, see [Working with Imagery Layers](https://docs.adobe.com/content/help/en/data-workbench/using/client/imagery-layers/c-ustd-img-layers.html).
+You also can add other layers and lookup files to expand your imagery capabilities. For more information about imagery layers, see [Working with Imagery Layers](https://experienceleague.adobe.com/docs/data-workbench/using/client/imagery-layers/c-ustd-img-layers.html).
 
 If you have licensed data workbench [!DNL Geography], you can subscribe to an optional data service that enables you to map IP addresses on the globe or create visualizations showing geographically related dimensions of data (such as area code, time zone, and MSA) that are based on IP address. For information about subscribing to these services, please contact Adobe.

@@ -8,7 +8,7 @@ exl-id: 2bc068f1-c32f-4c14-b3fa-6b46e950abc7
 
 You can create multiple workspaces for a single report set directly in the Worktop.
 
-For information about data workbench and using the interface, see the [Data Workbench Client Guide](https://docs.adobe.com/content/help/en/data-workbench/using/client/t-open-ins.html).
+For information about data workbench and using the interface, see the [Data Workbench Client Guide](https://experienceleague.adobe.com/docs/data-workbench/using/client/t-open-ins.html).
 
 **To create a report workspace using the [!DNL Worktop]** 
 

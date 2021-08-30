@@ -33,8 +33,8 @@ New features and fixes in Data Workbench 6.73.
     
        >[!NOTE]
        >
-       >Ensure that the key is placed at the same level as the SSL Port. For details refer to [Communications Configuration Settings](https://docs.adobe.com/content/help/en/data-workbench/using/server-admin-install/config-settings/c-comm-cfg-stgs.html)
+       >Ensure that the key is placed at the same level as the SSL Port. For details refer to [Communications Configuration Settings](https://experienceleague.adobe.com/docs/data-workbench/using/server-admin-install/config-settings/c-comm-cfg-stgs.html)
 
     1. Place the latest trust_ca_cert.pem file on the server 6.61 and older servers. This setting is applicable to all Workstation 6.7x versions.
 
-See [archived release notes](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/release-notes.html) for Data Workbench 5.3 to 5.52.
+See [archived release notes](https://experienceleague.adobe.com/docs/data-workbench/using/release-notes/release-notes.html) for Data Workbench 5.3 to 5.52.

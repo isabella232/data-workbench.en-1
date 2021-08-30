@@ -39,4 +39,4 @@ Within the **[!UICONTROL Search]** field you can perform a search following the 
 
 Additional common regular expressions can also be used to create more complex search strings. Regular expressions are used across all Data Workbench search fields including the query entity panels.
 
-See in-depth information at [regular expressions](https://docs.adobe.com/content/help/en/data-workbench/using/dataset/c-dataset-constr.html#Regular_Expressions).
+See in-depth information at [regular expressions](https://experienceleague.adobe.com/docs/data-workbench/using/dataset/c-dataset-constr.html#Regular_Expressions).

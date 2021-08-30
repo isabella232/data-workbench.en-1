@@ -10,7 +10,7 @@ This is a quick guide giving you the minimum steps required to validate Internal
 
 An Internal FTP is used when a consultant/architect internal to Adobe has to connect to the FTP site for file upload or download, whereas an External FTP is mainly for you as tthe user to upload the required data files.
 
-For additional information on setting up FTP servers, see [File Transfer Protocol](https://docs.adobe.com/content/help/en/analytics/export/ftp-and-sftp/ftp-overview.html).
+For additional information on setting up FTP servers, see [File Transfer Protocol](https://experienceleague.adobe.com/docs/analytics/export/ftp-and-sftp/ftp-overview.html).
 
 ## Validation Steps - External FTP {#section-24428111b5c542ce81a765cd63424b97}
 
