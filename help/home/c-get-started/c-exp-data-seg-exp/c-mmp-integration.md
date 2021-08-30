@@ -10,7 +10,7 @@ Data Workbench lets you export files to integrate with Profiles and Audiences as
 
 <!-- <a id="section_731922BC8628479198A41EF3EA72F2FF"></a> -->
 
-Profiles and Audiences is part of the [Experience Cloud Identity Service](https://docs.adobe.com/content/help/en/id-service/using/home.html), a core service of the [!DNL Adobe Experience Cloud]. The Profiles and Audiences export allows audiences to be shared across the Experience Cloud using a unique Experience Cloud ID (ECID) that is assigned to every visitor and then used by [Audience Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html). The [!DNL ExportIntegration.exe] application ( [!DNL E:\Server\Scripts]) is employed to generate both MMP and Adobe Target exports.
+Profiles and Audiences is part of the [Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html), a core service of the [!DNL Adobe Experience Cloud]. The Profiles and Audiences export allows audiences to be shared across the Experience Cloud using a unique Experience Cloud ID (ECID) that is assigned to every visitor and then used by [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html). The [!DNL ExportIntegration.exe] application ( [!DNL E:\Server\Scripts]) is employed to generate both MMP and Adobe Target exports.
 
 **Configuring the FSU Server to use Profiles and Audiences**
 

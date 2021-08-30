@@ -221,7 +221,7 @@ For other server and operating system combinations, please consult Adobe regardi
 
 ## Report Server Requirements{#report-server-requirements}
 
-Data workbench report server is the component that allows the output of scheduled reporting. The reports that are output can either be in the form of .PNG images or .XLS spreadsheets placed in a file system, or as emails. Its hardware requirements are identical to the [Data Workbench Client](https://docs.adobe.com/content/help/en/data-workbench/using/install/c-data-workbench-client-install.html).
+Data workbench report server is the component that allows the output of scheduled reporting. The reports that are output can either be in the form of .PNG images or .XLS spreadsheets placed in a file system, or as emails. Its hardware requirements are identical to the [Data Workbench Client](https://experienceleague.adobe.com/docs/data-workbench/using/install/c-data-workbench-client-install.html).
 
 The following requirements exist for [!DNL report server]:
 

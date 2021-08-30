@@ -31,7 +31,7 @@ If these requirements are met, [!DNL Report Server] automatically starts Microso
 
 Unless you have specified a [!DNL Custom Title] for the visualization, the type of window (for example, Movie Table) is used as the worksheet name.
 
-For more information about specifying [!DNL Custom Titles] for visualizations, see the [Data Workbench Client Guide](https://docs.adobe.com/content/help/en/data-workbench/using/client/t-open-ins.html).
+For more information about specifying [!DNL Custom Titles] for visualizations, see the [Data Workbench Client Guide](https://experienceleague.adobe.com/docs/data-workbench/using/client/t-open-ins.html).
 
 ## Using a Template File {#section-40ab11916f464b1a88214ab969da6751}
 

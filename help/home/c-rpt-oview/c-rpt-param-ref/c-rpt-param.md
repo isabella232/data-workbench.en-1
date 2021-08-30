@@ -86,7 +86,7 @@ If you need to add additional parameters to a [!DNL Report.cfg] file, you must d
   </tr> 
   <tr> 
    <td colname="col1"> Filter Formula </td> 
-   <td colname="col2"> <p><i>Optional</i>. Filter that is applied to every workspace in the report set. </p> <p>For more information, see the <a href="https://docs.adobe.com/content/help/en/data-workbench/using/client/t-open-ins.html#Syntax_for_Filter_Expressions" format="http" scope="external"> syntax for creating filters </a>. </p> </td> 
+   <td colname="col2"> <p><i>Optional</i>. Filter that is applied to every workspace in the report set. </p> <p>For more information, see the <a href="https://experienceleague.adobe.com/docs/data-workbench/using/client/t-open-ins.html#Syntax_for_Filter_Expressions" format="http" scope="external"> syntax for creating filters </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Gamma Correction </td> 

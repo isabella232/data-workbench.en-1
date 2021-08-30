@@ -64,7 +64,7 @@ The **Finder** includes the following features:
     <ul id="ul_0F6F377E9906472E99008EBE7483F689"> 
      <li id="li_75857895EDB045C8B2960393854B257D"> <p>Pattern matching (simple glob search). Start typing the name of a required dimension, metric, or filter entity in the Search field and only matching strings contained anywhere in the name will be filtered and displayed in the Finders pane. </p> <p>For example, enter: </p> <code><b>Search:</b>click</code> <p>You could get the following results in the Dimensions Finder: </p> <p><img placement="break" id="image_7CBAAABA92BB47658B7F9F5C0263CF20" src="assets/finders_glob_search.png" /> </p> <p>Standard pattern matching lets you use the wildcard characters, such as . (dot), "?" , and "*" (star). </p> </li> 
      <li id="li_044F9EC1399B44CD81E1852F85137704"> <p>Regular expressions. More complex regular expressions are also supported for added search capability. Add the prefix "re:" before your search term (no spaces) to interpret as a regular expression. </p> <p>For example, enter: </p> <code><b>Search:</b>re.*ip</code> <p>You could get the following results in the Dimensions Finder: </p> <p><img placement="break" id="image_F47DB90B36504997AA1C509855B89A47" src="assets/finders_regex_search.png" /> </p> </li> 
-    </ul> <p>For in-depth search information, see <a href="https://docs.adobe.com/content/help/en/data-workbench/using/dataset/c-reg-exp.html" format="http" scope="external"> regular expressions</a>. </p> </td> 
+    </ul> <p>For in-depth search information, see <a href="https://experienceleague.adobe.com/docs/data-workbench/using/dataset/c-reg-exp.html" format="http" scope="external"> regular expressions</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"><b>Dimension Type</b> </td> 

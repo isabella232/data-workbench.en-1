@@ -253,7 +253,7 @@ To use the new SiteCatalyst data feed:
 
 New features introduced in Data Workbench 6.0.4, including bug fixes and known issues.
 
-To view previous features and fixes based for each past release, see the [release note archives](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/release-notes.html).
+To view previous features and fixes based for each past release, see the [release note archives](https://experienceleague.adobe.com/docs/data-workbench/using/release-notes/release-notes.html).
 
 ## New Features {#section-2-1225066ea8f44cf68e42e019d0bca816}
 

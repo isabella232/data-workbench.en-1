@@ -12,4 +12,4 @@ Almost all metrics are defined in the metrics directory of a profile. A few buil
 
 >[!NOTE]
 >
->The log processing phase does not mean that all event data comes from log files. Although it sometimes does, event data can come from another source, such as an ODBC data source. For more information about data sources, see the [Dataset Configuration Guide](https://docs.adobe.com/content/help/en/data-workbench/using/dataset/c-dataset-constr.html).
+>The log processing phase does not mean that all event data comes from log files. Although it sometimes does, event data can come from another source, such as an ODBC data source. For more information about data sources, see the [Dataset Configuration Guide](https://experienceleague.adobe.com/docs/data-workbench/using/dataset/c-dataset-constr.html).

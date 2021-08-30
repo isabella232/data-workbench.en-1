@@ -20,7 +20,7 @@ When you start Insight for the first time, it automatically connects to the Adob
 
 **To configure the connection to Insight Server**
 
-When working in a clustered environment, Insight should be configured to access the master Insight Server to avoid synchronization issues. In Insight you can view information about the processing [!DNL Insight Servers] in your cluster using the [!DNL Related Servers] menu item in the [Servers Manager](https://docs.adobe.com/content/help/en/data-workbench/using/client/admin-ui/c-svrs-mgr.html).
+When working in a clustered environment, Insight should be configured to access the master Insight Server to avoid synchronization issues. In Insight you can view information about the processing [!DNL Insight Servers] in your cluster using the [!DNL Related Servers] menu item in the [Servers Manager](https://experienceleague.adobe.com/docs/data-workbench/using/client/admin-ui/c-svrs-mgr.html).
 
 1. Launch Insight. 
 1. On the [!DNL Worktop], click **[!UICONTROL Admin]**, then **[!UICONTROL First Steps]**. 
@@ -33,7 +33,7 @@ When working in a clustered environment, Insight should be configured to access 
 
    ![](assets/cfg_Workstation_AddChild.png)
 
-1. Complete or modify the server parameters to provide Insight with access to your master Insight Server. For detailed descriptions of the parameters in the Insight.cfg file, see [Configuration parameters](https://docs.adobe.com/content/help/en/data-workbench/using/client/c-insght-config-param.html).
+1. Complete or modify the server parameters to provide Insight with access to your master Insight Server. For detailed descriptions of the parameters in the Insight.cfg file, see [Configuration parameters](https://experienceleague.adobe.com/docs/data-workbench/using/client/c-insght-config-param.html).
 
    ![](assets/cfg_Workstation_AddServer.png)
 
@@ -56,7 +56,7 @@ c_dir_crt_setup.xml
 
 When you select a profile to use, the profile information (including related data and any specific workspaces or visualizations defined for the profile) is downloaded to your computer. As you download each profile, Insight creates a folder within the installation directory using the profile name.
 
-For example, if you select a profile named Sales, a folder named Sales appears in your Insight directory. This folder contains the metrics, dimensions, workspaces, and visualizations defined in the Sales profile. After the initial loading of the profile, the profile can be used when working offline. See [Working offline and online](https://docs.adobe.com/content/help/en/data-workbench/using/client/c-off-on.html).
+For example, if you select a profile named Sales, a folder named Sales appears in your Insight directory. This folder contains the metrics, dimensions, workspaces, and visualizations defined in the Sales profile. After the initial loading of the profile, the profile can be used when working offline. See [Working offline and online](https://experienceleague.adobe.com/docs/data-workbench/using/client/c-off-on.html).
 
 In addition, when you connect to Insight Server for the first time from Insight, Insight Server creates the following directories in the Insight installation directory.
 

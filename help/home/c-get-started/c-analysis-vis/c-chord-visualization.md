@@ -8,7 +8,7 @@ exl-id: d712f7b3-de2f-4ca4-a1bf-a2e4d42a084e
 
 The Chord visualization allows you to show both the proportion and correlation between metrics, displaying larger chords as an indication of a stronger correlation.
 
-The Chord visualization lets you see identify correlations between metrics, allowing you to add and easily evaluate possible correlations. It also provides another view into any previously built [Correlation Matrix](https://docs.adobe.com/content/help/en/data-workbench/using/client/analysis-visualizations/correlation-analysis/c-correlation-analysis.html). Using the Chord visualization, you cannot identify a positive or negative correlation between the metrics—only that a correlation exists. In certain cases, determining a direct or inverse relationship can be identified by applying counter metrics.
+The Chord visualization lets you see identify correlations between metrics, allowing you to add and easily evaluate possible correlations. It also provides another view into any previously built [Correlation Matrix](https://experienceleague.adobe.com/docs/data-workbench/using/client/analysis-visualizations/correlation-analysis/c-correlation-analysis.html). Using the Chord visualization, you cannot identify a positive or negative correlation between the metrics—only that a correlation exists. In certain cases, determining a direct or inverse relationship can be identified by applying counter metrics.
 
 1. **Open the **[!UICONTROL Chord]** visualization**.
 

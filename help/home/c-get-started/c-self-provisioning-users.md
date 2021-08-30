@@ -12,7 +12,7 @@ You can use Workstation to connect to the Data Workbench Server by setting up th
 
 Starting in DWB 6.7, the Workstation supports user authentication through username and password.
 
-While the certificate-based authentication/authorization will still work for your setup, it is highly recommended to migrate to the newer credentials-based authentication. In the newer approach, your Workstation users authenticate themselves through the Adobe Identity Management System (IMS). Before they can use the Workstation, they need to be given access to the features through the [Admin Console](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html) by the administrator of the organization.
+While the certificate-based authentication/authorization will still work for your setup, it is highly recommended to migrate to the newer credentials-based authentication. In the newer approach, your Workstation users authenticate themselves through the Adobe Identity Management System (IMS). Before they can use the Workstation, they need to be given access to the features through the [Admin Console](https://experienceleague.adobe.com/docs/core-services/interface/manage-users-and-products/admin-getting-started.html) by the administrator of the organization.
 
 The new authentication and user provisioning model helps in:
 
@@ -21,7 +21,7 @@ The new authentication and user provisioning model helps in:
 
 ## Getting started
 
-Before you begin, contact Adobe to add your organization in the Admin Console. Depending on the services you have purchased, Adobe will provision the organization for you. For example, organizations can have access to the Attribution service or Beta builds, or both. Once an organization is configured, the organization administrator can add users and groups. See [Manage Experience Cloud users and products](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html) in Experience Cloud for more information. The organization administrator can also configure usage restrictions for different users depending on their roles. For example, non-pre-release users do not need access to the Beta builds.
+Before you begin, contact Adobe to add your organization in the Admin Console. Depending on the services you have purchased, Adobe will provision the organization for you. For example, organizations can have access to the Attribution service or Beta builds, or both. Once an organization is configured, the organization administrator can add users and groups. See [Manage Experience Cloud users and products](https://experienceleague.adobe.com/docs/core-services/interface/manage-users-and-products/admin-getting-started.html) in Experience Cloud for more information. The organization administrator can also configure usage restrictions for different users depending on their roles. For example, non-pre-release users do not need access to the Beta builds.
 
 Each provisioned user added to this organization through the Admin Console will have access to use the Data Workbench. The sub-services can only be enabled or disabled for each user depending on their product access. When a user is upgraded from certificate to IMS, all local data will be copied to the new IMS user directory.
 
@@ -31,7 +31,7 @@ Each provisioned user added to this organization through the Admin Console will 
 
 At least one Product Level Configuration needs to be created in Admin Console by the administrator before giving access to any user.
 
-The boolean flag **Use IMS** can be added to [!DNL Insight.cfg] to fallback to certificate mode. For information on configuring Access Control for IMS users, see [Updating the Access Control File](https://docs.adobe.com/content/help/en/data-workbench/using/server-admin-install/install-servers/insight-server-dpu/c-updt-accss-ctrl-file.html).
+The boolean flag **Use IMS** can be added to [!DNL Insight.cfg] to fallback to certificate mode. For information on configuring Access Control for IMS users, see [Updating the Access Control File](https://experienceleague.adobe.com/docs/data-workbench/using/server-admin-install/install-servers/insight-server-dpu/c-updt-accss-ctrl-file.html).
 
 ## Conflict resolution
 

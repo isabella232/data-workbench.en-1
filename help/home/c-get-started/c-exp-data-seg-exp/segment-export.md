@@ -8,7 +8,7 @@ exl-id: 6f42c5c6-a158-4ddd-8949-4ef55a44ed1c
 
 Export segments using the segment export wizard
 
-The segment export wizard provides a step-by-step process to configure and export segments rather than [exporting segments from a detail table](https://docs.adobe.com/content/help/en/data-workbench/using/client/export-data/c-sgmt-expt.html).
+The segment export wizard provides a step-by-step process to configure and export segments rather than [exporting segments from a detail table](https://experienceleague.adobe.com/docs/data-workbench/using/client/export-data/c-sgmt-expt.html).
 
 ## Export segments using the wizard {#section-b30f2699dbc7490bad18512b91cb0cb3}
 

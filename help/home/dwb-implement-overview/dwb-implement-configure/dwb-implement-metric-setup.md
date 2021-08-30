@@ -42,7 +42,7 @@ Use a Metric Editor to define a new metric by name, formula, and format, which i
 
    >[!NOTE]
    >
-   >Filters must be defined within brackets [ ] in the expression. For additional metric expression syntax rules, see [Syntax for Metric Expressions.](https://docs.adobe.com/content/help/en/data-workbench/using/client/qry-lang-syntx/c-syntx-mtrc-exp.html)
+   >Filters must be defined within brackets [ ] in the expression. For additional metric expression syntax rules, see [Syntax for Metric Expressions.](https://experienceleague.adobe.com/docs/data-workbench/using/client/qry-lang-syntx/c-syntx-mtrc-exp.html)
 
    This table provides sample expressions for extended metrics. ![](assets/dwb_impl_metrics4.png)
 
@@ -67,6 +67,6 @@ Use a Metric Editor to define a new metric by name, formula, and format, which i
 
 Please refer to the documentation for more assistance:
 
-[Syntax for Metric Expressions](https://docs.adobe.com/content/help/en/data-workbench/using/client/qry-lang-syntx/c-syntx-mtrc-exp.html)
+[Syntax for Metric Expressions](https://experienceleague.adobe.com/docs/data-workbench/using/client/qry-lang-syntx/c-syntx-mtrc-exp.html)
 
-[Creating and Editing Derived Metrics](https://docs.adobe.com/content/help/en/data-workbench/using/client/admin-ui/profile-mgr/c-drvd-mtrcs.html)
+[Creating and Editing Derived Metrics](https://experienceleague.adobe.com/docs/data-workbench/using/client/admin-ui/profile-mgr/c-drvd-mtrcs.html)

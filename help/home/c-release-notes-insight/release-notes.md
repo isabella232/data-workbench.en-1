@@ -25,4 +25,4 @@ exl-id: 2b4a20ce-fb27-4343-8f5a-412c25aab028
 * [Data Workbench 6.1 Release Notes](/help/home/c-release-notes-insight/c-release-notes-insight-61/c-release-notes-insight-61.md)
 * [Data Workbench 6.0 and 6.0.4 Release Notes](/help/home/c-release-notes-insight/c-release-notes-previous/c-release-notes-insight-600.md)
 
-[Experience Cloud Release Notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
+[Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)

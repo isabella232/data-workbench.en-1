@@ -18,7 +18,7 @@ New features, fixes, and known issues in Data Workbench 6.7.
 
 Data Workbench Workstation now supports user authentication through username and password. With this new method, administrators can create and manage their own user accounts, eliminating the need to contact Customer Care.
 
-For more information, see [Self-Provisioning of Users](https://docs.adobe.com/content/help/en/data-workbench/using/client/c-self-provisioning-users.html).
+For more information, see [Self-Provisioning of Users](https://experienceleague.adobe.com/docs/data-workbench/using/client/c-self-provisioning-users.html).
 
 **Flat file lookup**
 
@@ -26,11 +26,11 @@ Data Workbench Workstation now supports user authentication through username and
 
 Flat file lookup previously loaded the entire file into in-memory buffers, bloating memory usage and creating performance issues for other subsystems. The files can now be memory mapped and cached in Windows, optimizing memory usage by setting *Memory Mapped Lookup Files* to true in [!DNL MemorySettings.cfg].
 
-For more information, see [Self-Provisioning of Users](https://docs.adobe.com/content/help/en/data-workbench/using/client/c-self-provisioning-users.html).
+For more information, see [Self-Provisioning of Users](https://experienceleague.adobe.com/docs/data-workbench/using/client/c-self-provisioning-users.html).
 
 **Memory usage**
 
-Large Page usage can now be disabled by setting *Use Large Pages* to false in [!DNL MemorySettings.cfg]. See [Monitoring Memory Usage](https://docs.adobe.com/content/help/en/data-workbench/using/server-admin-install/admin-dwb-server/t-mntr-mry-usg.html) for more information.
+Large Page usage can now be disabled by setting *Use Large Pages* to false in [!DNL MemorySettings.cfg]. See [Monitoring Memory Usage](https://experienceleague.adobe.com/docs/data-workbench/using/server-admin-install/admin-dwb-server/t-mntr-mry-usg.html) for more information.
 
 **Security ciphers**
 
@@ -102,4 +102,4 @@ Updated files include:
    
    ```
 
-See [archived release notes](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/release-notes.html) for Data Workbench 5.3 to 5.52.
+See [archived release notes](https://experienceleague.adobe.com/docs/data-workbench/using/release-notes/release-notes.html) for Data Workbench 5.3 to 5.52.
