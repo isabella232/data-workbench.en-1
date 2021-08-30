@@ -8,7 +8,7 @@ exl-id: 35e259e3-3d6d-45c8-a923-2f8de117489d
 
 The following are requirements and recommendations for installing the Workstation (Client) in Data Workbench.
 
- See [Server System Requirements](https://docs.adobe.com/help/en/data-workbench/using/server-admin-install/c-msr-server.html) for additional Data Workbench system requirements.
+ See [Server System Requirements](https://experienceleague.adobe.com/docs/data-workbench/using/server-admin-install/c-msr-server.html?lang=en) for additional Data Workbench system requirements.
 
 >[!IMPORTANT]
 >

@@ -38,7 +38,7 @@ Added support for ECDHE and DHE.
 
 Email support in [!DNL User List.cfg]
 
-Added support for Email attribute in [!DNL User List.cfg]. For more information, see [User Administration of Group Members](https://docs.adobe.com/help/en/data-workbench/using/server-admin-install/admin-dwb-server/access-control/dwb-self-admin-member-access.html).
+Added support for Email attribute in [!DNL User List.cfg]. For more information, see [User Administration of Group Members](https://experienceleague.adobe.com/docs/data-workbench/using/server-admin-install/admin-dwb-server/access-control/dwb-self-admin-member-access.html?lang=en).
 
 **Help Menu**
 
