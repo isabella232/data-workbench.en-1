@@ -13,7 +13,7 @@ This section provides basic information about access control, errors and alerts,
 * For Access Control of User Groups, see [configuring access control](https://experienceleague.adobe.com/docs/data-workbench/using/server-admin-install/admin-dwb-server/access-control/c-config-acs-ctrl.html). 
 * For Access Control of Server Groups, see [server access groups](https://experienceleague.adobe.com/docs/data-workbench/using/server-admin-install/admin-dwb-server/access-control/c-undst-acc-lvls.html). 
 * For Errors and Alerts - Decoder Error Logging, see [Log File Properties](https://experienceleague.adobe.com/docs/data-workbench/using/dataset/log-proc-config-file/c-log-sources.html). 
-* For Errors and Alerts - TnT Integration Autdit Log, see [Master Marketing Profile Export](https://docs.adobe.com/help/en/data-workbench/using/client/export-data/dwb-crs-integration.html) and [Exporting to Analytics Core Services](https://docs.adobe.com/help/en/data-workbench/using/client/export-data/dwb-crs-integration.html). 
+* For Errors and Alerts - TnT Integration Autdit Log, see [Master Marketing Profile Export](https://experienceleague.adobe.com/docs/data-workbench/using/client/export-data/dwb-crs-integration.html?lang=en) and [Exporting to Analytics Core Services](https://experienceleague.adobe.com/docs/data-workbench/using/client/export-data/dwb-crs-integration.html?lang=en). 
 
 * For Errors and Alerts - Administrative Alerts, see [Administrative Alerts](https://experienceleague.adobe.com/docs/data-workbench/using/server-admin-install/config-settings/c-admin-alts-cfg-stgs.html). 
 * For Server Upgrades, see [Upgrading Data Workbench](https://experienceleague.adobe.com/docs/data-workbench/using/install/upgrade-dwb/c-upgrd-ins.html).

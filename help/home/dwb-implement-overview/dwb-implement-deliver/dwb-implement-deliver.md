@@ -16,11 +16,11 @@ After setting up DWB, you can implement these features.
 
 * To implement the **Globe visualization**, see [Globes](https://experienceleague.adobe.com/docs/data-workbench/using/client/analysis-visualizations/globes/c-globes.html).
 
-* To implement **Workspaces for Attribution**, see [Rules-based Attribution](https://docs.adobe.com/help/en/data-workbench/using/client/attribution-reports/c-rules-attrib.html) and [Best Fit Attribution](https://docs.adobe.com/help/en/data-workbench/using/client/attribution-reports/c-attrib-algorithmic.html).
+* To implement **Workspaces for Attribution**, see [Rules-based Attribution](https://experienceleague.adobe.com/docs/data-workbench/using/client/attribution-reports/c-rules-attrib.html?lang=en) and [Best Fit Attribution](https://experienceleague.adobe.com/docs/data-workbench/using/client/attribution-reports/c-attrib-algorithmic.html?lang=en).
 
 * To implement **Predictive Analytics** workspaces, see [Visualizations](https://experienceleague.adobe.com/docs/data-workbench/using/client/visualizations/c-vis.html) and the visualization listed below. 
 
-* To implement **Predictive Intelligence with Clustering visualizations**, see [Clustering](https://docs.adobe.com/help/en/data-workbench/using/client/analysis-visualizations/visitor-cluster/c-visitor-cluster.html). 
+* To implement **Predictive Intelligence with Clustering visualizations**, see [Clustering](https://experienceleague.adobe.com/docs/data-workbench/using/client/analysis-visualizations/visitor-cluster/c-visitor-cluster.html?lang=en). 
 
 * To implement **Predictive Intelligence with Propensity Scoring**, see [Propensity Scoring](https://experienceleague.adobe.com/docs/data-workbench/using/client/analysis-visualizations/visitor-propensity/c-visitor-propensity.html). 
 
