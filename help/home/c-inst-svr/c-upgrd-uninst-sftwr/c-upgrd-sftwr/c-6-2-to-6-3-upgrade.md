@@ -2,7 +2,7 @@
 description: Upgrading server components for Data Workbench 6.3.
 title: DWB Server upgrade  6.2 to 6.3
 uuid: e12b6cc1-070e-4bc7-bc64-203d11cfeae9
-exl-id: 5106d9a3-179a-49f1-915a-c03b36ed5257,fe0ee0a8-54ee-4236-8fd1-f35bddb5f80c
+exl-id: 5106d9a3-179a-49f1-915a-c03b36ed5257
 ---
 # DWB Server upgrade: 6.2 to 6.3{#dwb-server-upgrade-to}
 
