@@ -26,11 +26,11 @@ Follow these steps to update the **[!UICONTROL Server v6.1]** components:
 
     * Download **[!UICONTROL Server Packages]** \ **[!UICONTROL v6.1]** zip folders and extract all files.
 
-      The **[!UICONTROL Server]** package includes **[!UICONTROL Lookup]** and **[!UICONTROL Profile]** folders with the **[!UICONTROL Base]** and **[!UICONTROL Transform]** lookup files to add and replace to update the server. 
-    
-    * Download new **[!UICONTROL Profiles]** folders. 
-    * Download updated **[!UICONTROL Lookup]** folders. 
-    * Download the **[!UICONTROL Report Server]** \ **[!UICONTROL v6.1]** package. 
+      The **[!UICONTROL Server]** package includes **[!UICONTROL Lookup]** and **[!UICONTROL Profile]** folders with the **[!UICONTROL Base]** and **[!UICONTROL Transform]** lookup files to add and replace to update the server.
+
+    * Download new **[!UICONTROL Profiles]** folders.
+    * Download updated **[!UICONTROL Lookup]** folders.
+    * Download the **[!UICONTROL Report Server]** \ **[!UICONTROL v6.1]** package.
     * Download additional **[!UICONTROL Sensor]**, **[!UICONTROL Documentation]**, and **[!UICONTROL Dashboard]** files as needed for your system.
 
 1. Stop the **[!UICONTROL Adobe Insight Server]** service.
@@ -39,25 +39,25 @@ Follow these steps to update the **[!UICONTROL Server v6.1]** components:
 
 1. From the downloaded **[!UICONTROL Server]** package:
 
-    1. Replace the [!DNL Server\Bin] folder to update the [!DNL InsightServer64.exe] and supporting files. 
-    
-    1. Replace the [!DNL Server\Profiles] folder. You can overwrite all files. 
-    1. Update the [!DNL Server\Lookups] folder. You will want to add the newly downloaded files to the custom files already located in the folder. 
-    1. Replace the [!DNL Server\Software] folder to update [!DNL Insight.exe] and [!DNL ReportServer.exe] 
-    
+    1. Replace the [!DNL Server\Bin] folder to update the [!DNL InsightServer64.exe] and supporting files.
+
+    1. Replace the [!DNL Server\Profiles] folder. You can overwrite all files.
+    1. Update the [!DNL Server\Lookups] folder. You will want to add the newly downloaded files to the custom files already located in the folder.
+    1. Replace the [!DNL Server\Software] folder to update [!DNL Insight.exe] and [!DNL ReportServer.exe]
+
     1. Update the [!DNL Server\Scripts] folder to update [!DNL TnTSend.exe].
 
-1. If you employ **[!UICONTROL DeviceAtlas]**, then you will need to [update the bundle](https://experienceleague.adobe.com/docs/data-workbench/using/dataset/trans-config-file/c-deviceatlas-update.html) located in the [!DNL Server\Lookups] folder. 
+1. If you employ **[!UICONTROL DeviceAtlas]**, then you will need to [update the bundle](/help/home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-0-to-6-1-upgrade/c-deviceatlas-update.md) located in the [!DNL Server\Lookups] folder.
 1. Set [!DNL Directories] in the [!DNL Profile.cfg] file to ensure that the vector is updated to reflect the number of items for each profile.
 
    For example, to enable the **[!UICONTROL Predictive Analytics]** profile you will need to update this setting.
 
    ```
-   Directories = vector: 5 items 
-       0 = string: Base\\ 
-       1 = string: Geography\\ 
-       2 = string: Predictive Analytics\\ 
-       3 = string: Adobe SC\\ 
+   Directories = vector: 5 items
+       0 = string: Base\\
+       1 = string: Geography\\
+       2 = string: Predictive Analytics\\
+       3 = string: Adobe SC\\
        4 = string: Profile Name\\
    ```
 
@@ -65,7 +65,7 @@ Follow these steps to update the **[!UICONTROL Server v6.1]** components:
 
    If you want to submit Predictive Analytics jobs to the servers, then you will need to configure the [!DNL Server > Predictive Analytics > Dataset > PAServer.cfg] file to manage server-side clustering submissions.
 
-   The custom profile should inherit the settings from the Predictive Analytics configuration profile, allowing you to configure and save the [!DNL PAServer.cfg] based on your site's implementation. 
+   The custom profile should inherit the settings from the Predictive Analytics configuration profile, allowing you to configure and save the [!DNL PAServer.cfg] based on your site's implementation.
 
 1. Define the **[!UICONTROL Log Source ID]**.
 
@@ -79,7 +79,7 @@ Follow these steps to update the **[!UICONTROL Server v6.1]** components:
    If you do not have the Log Source ID defined, then you will get the following error:
 
    ```
-   Missing Log Source ID in log processing.cfg.  
+   Missing Log Source ID in log processing.cfg.
    Log Source ID must be defined for all log sources.
    ```
 
@@ -98,7 +98,7 @@ The server installation is now complete.
 >
 >Before upgrading to **[!UICONTROL Report Server v6.1]**, you must first upgrade to **[!UICONTROL Server v6.1]**.
 
-1. Using the **[!UICONTROL Software and Docs]** profile, download **[!UICONTROL v6.1]** from the **[!UICONTROL Report Server]** package to a local folder. 
+1. Using the **[!UICONTROL Software and Docs]** profile, download **[!UICONTROL v6.1]** from the **[!UICONTROL Report Server]** package to a local folder.
 1. Copy **[!UICONTROL Report Server 6.1]** from the downloaded package and replace the profile packages.
 
    >[!NOTE]
@@ -110,29 +110,29 @@ The server installation is now complete.
    Data workbench currently supports English (-en-us) and Chinese (-zh-cn). You need to set a font to support single and double-byte characters:
 
    ```
-   Report Server.cfg - Add Fonts 
-      Fonts = vector: 2 items  
-      0 = string: SimSun  
-      1 = string: Arial 
+   Report Server.cfg - Add Fonts
+      Fonts = vector: 2 items
+      0 = string: SimSun
+      1 = string: Arial
    ```
 
-   The Windows operating system must also have the listed fonts installed. 
+   The Windows operating system must also have the listed fonts installed.
 
 1. Configure [!DNL Report Server v6.1].
 
-    1. Stop the **[!UICONTROL Adobe Insight Report Server]** service. 
-    1. Launch a command prompt as an "Administrator". 
-    1. Navigate to the Report Server [!DNL install] folder. 
-    1. Delete the Report Server service using the following command:     
-    
-       ```    
+    1. Stop the **[!UICONTROL Adobe Insight Report Server]** service.
+    1. Launch a command prompt as an "Administrator".
+    1. Navigate to the Report Server [!DNL install] folder.
+    1. Delete the Report Server service using the following command:
+
+       ```
        ReportServer.exe /unregserver
        ```
 
-1. Start the service based on the language settings: 
+1. Start the service based on the language settings:
 
    ```
-   ReportServer.exe -RegServer -Locale -en-us (English) 
+   ReportServer.exe -RegServer -Locale -en-us (English)
    ReportServer.exe -RegServer -Locale -zh-cn (Simplified Chinese)
    ```
 
@@ -146,33 +146,33 @@ The report server installation is now complete.
 >
 >Before upgrading to **[!UICONTROL Client v6.1]**, the administrator must first upgrade to **[!UICONTROL Server v6.1.]**
 
-1. Launch [!DNL Insight.exe] but DO NOT connect to any profiles. 
+1. Launch [!DNL Insight.exe] but DO NOT connect to any profiles.
 1. Edit the [!DNL Insight.cfg] file to not update software automatically.
 
    ```
    Update Software = bool: false
    ```
 
-1. Connect to **[!UICONTROL Software and Docs]** profile (softdocs). 
-1. Download [!DNL Software\Insight Client\v6.10]. 
+1. Connect to **[!UICONTROL Software and Docs]** profile (softdocs).
+1. Download [!DNL Software\Insight Client\v6.10].
 1. (optional) Modify [!DNL insight.cfg] to support double-byte characters.
 
    Data workbench currently supports both English and Simplified Chinese. Select fonts to support both of these languages:
 
    ```
-   Fonts = vector: 2 items  
-   0 = string: SimSun 
+   Fonts = vector: 2 items
+   0 = string: SimSun
    1 = string: Arial
    ```
 
-1. Exit out of the client. 
-1. Copy the files in the downloaded **v6.1** client package to the [!DNL Install] folder. 
+1. Exit out of the client.
+1. Copy the files in the downloaded **v6.1** client package to the [!DNL Install] folder.
 
    >[!NOTE]
    >
-   >The [!DNL Insight.zbin] file in the install folder is a backup file used for localization, and must be present in the install directory. This file or other [!DNL .zbin] files will be used depending on the command-line settings passed when starting up. 
+   >The [!DNL Insight.zbin] file in the install folder is a backup file used for localization, and must be present in the install directory. This file or other [!DNL .zbin] files will be used depending on the command-line settings passed when starting up.
    >
-   >For example, to launch Simplified Chinese, create a shortcut that passes in the command-line setting. 
+   >For example, to launch Simplified Chinese, create a shortcut that passes in the command-line setting.
    >
    >```
    >Insight.exe -zh-cn
@@ -180,23 +180,23 @@ The report server installation is now complete.
    >
    >If you want to launch in English (default), then no command-line change is necessary.
 
-1. Launch [!DNL Insight.exe] for English or the shortcut that you created for another language. 
-1. Connect to your profile and allow the client to synchronize with the server. 
-1. (optional) To employ the IME, make these changes to the [!DNL Insight.cfg] file: 
+1. Launch [!DNL Insight.exe] for English or the shortcut that you created for another language.
+1. Connect to your profile and allow the client to synchronize with the server.
+1. (optional) To employ the IME, make these changes to the [!DNL Insight.cfg] file:
 
    ```
    Localized IME = bool: true
    ```
 
-   The Input Method Editor (IME) allows you to input international characters. 
+   The Input Method Editor (IME) allows you to input international characters.
 
-1. (optional) Edit the [!DNL Insight.cfg] file to automatically update software: 
+1. (optional) Edit the [!DNL Insight.cfg] file to automatically update software:
 
    ```
    Update Software = bool: true
    ```
 
-   See instructions for implementing the IME. 
+   See instructions for implementing the IME.
 1. Restart again after the profile synchronization to employ the most recent [!DNL .zbin] file.
 
 The client installation is now complete.

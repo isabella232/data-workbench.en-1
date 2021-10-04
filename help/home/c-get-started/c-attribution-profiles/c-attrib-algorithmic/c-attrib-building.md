@@ -18,9 +18,9 @@ See an overview of [Best Fit Attribution](../../../../home/c-get-started/c-attri
 
    >[!NOTE]
    >
-   >Best Fit Attribution is an Adobe Analytics Premium feature that requires you to enable Premium in your Profile. It requires you to update your certificate and add the Premium profile to your profile.cfg file. See [DWB Server upgrade: 6.2 to 6.3](https://experienceleague.adobe.com/docs/data-workbench/using/install/upgrade-dwb/c-6-2-to-6-3-upgrade.html) for DWB 6.3.
+   >Best Fit Attribution is an Adobe Analytics Premium feature that requires you to enable Premium in your Profile. It requires you to update your certificate and add the Premium profile to your profile.cfg file. See [DWB Server upgrade: 6.2 to 6.3](/help/home/c-inst-svr/c-upgrd-uninst-sftwr/c-upgrd-sftwr/c-6-2-to-6-3-upgrade.md) for DWB 6.3.
 
-1. Set the **[!UICONTROL Success]** metric. 
+1. Set the **[!UICONTROL Success]** metric.
 
    >[!NOTE]
    >
@@ -28,13 +28,13 @@ See an overview of [Best Fit Attribution](../../../../home/c-get-started/c-attri
 
    Click **[!UICONTROL Inputs]** > **[!UICONTROL Set Success]**. The metric menu will open. ![](assets/attrib_set_success_metric.png)
 
-   Select a metric that identifies a successful conversion. 
+   Select a metric that identifies a successful conversion.
 
 1. (optional) Set the **Revenue** metric.
 
-   Set a metric to evaluate revenue across the conversion process. 
+   Set a metric to evaluate revenue across the conversion process.
 
-1. Set the **Touch** metric. 
+1. Set the **Touch** metric.
 
    >[!NOTE]
    >
@@ -42,11 +42,11 @@ See an overview of [Best Fit Attribution](../../../../home/c-get-started/c-attri
 
    Click the **[!UICONTROL Inputs]** menu and select **Set Touch**, or drag a metric from the Finder. ![](assets/attrib_set_touch.png)
 
-   This will be used to derive channel metrics when dimension elements are used as inputs. 
+   This will be used to derive channel metrics when dimension elements are used as inputs.
 
 1. Set a **Success** window.
 
-   Click [!DNL Inputs > Success Window]. Select a date range from a table and then name the Success window. Click **[!UICONTROL Workspace Selection]** and the selected dates will be assigned as the range of time for the Success metric. 
+   Click [!DNL Inputs > Success Window]. Select a date range from a table and then name the Success window. Click **[!UICONTROL Workspace Selection]** and the selected dates will be assigned as the range of time for the Success metric.
 
    ![](assets/attrib_set_success_window.png)
 
@@ -60,7 +60,7 @@ See an overview of [Best Fit Attribution](../../../../home/c-get-started/c-attri
 
    ![](assets/attrib_set_touch_window.png)
 
-   By default, the **Touch** window will be set to the same time period as the **[!UICONTROL Success]** window. 
+   By default, the **Touch** window will be set to the same time period as the **[!UICONTROL Success]** window.
 
 1. (optional) Set a Training Filter.
 
@@ -80,7 +80,7 @@ See an overview of [Best Fit Attribution](../../../../home/c-get-started/c-attri
 
    Either drag metrics to the visualization, or choose them from the [!DNL Inputs] > [!DNL Add Channel] menu. If you do not already have metrics defined for campaigns or channels, but do have dimensions representing channels, the visualization can build them for you automatically with the specification of a Touch metric.
 
-   For example, with the Touch metric set to [!DNL Hits], and given a [!DNL dimension] called [!DNL Media Type] with elements that include things like [!DNL Email], [!DNL Press Release], [!DNL Print Ad], and [!DNL Social Media], the visualization will generate Channel metrics of the form [!DNL Hits where Media Type = Email] when you drag and drop the element(s) onto the visualization. 
+   For example, with the Touch metric set to [!DNL Hits], and given a [!DNL dimension] called [!DNL Media Type] with elements that include things like [!DNL Email], [!DNL Press Release], [!DNL Print Ad], and [!DNL Social Media], the visualization will generate Channel metrics of the form [!DNL Hits where Media Type = Email] when you drag and drop the element(s) onto the visualization.
 
 1. Press **Go**.
 
@@ -100,56 +100,56 @@ When complete, a graph will display an attribution model calculated per channel,
 
 ## Options menu {#section-22288867f6c8483a8a38410f4b948346}
 
-The **Options** menu provides advanced features to set up and display Best Fit Attribution analysis. 
+The **Options** menu provides advanced features to set up and display Best Fit Attribution analysis.
 
-<table id="table_8F6F517B7DBF4259814BEC6D07A72EAC"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Options menu </th> 
-   <th colname="col2" class="entry"> Description </th> 
+<table id="table_8F6F517B7DBF4259814BEC6D07A72EAC">
+ <thead>
+  <tr>
+   <th colname="col1" class="entry"> Options menu </th>
+   <th colname="col2" class="entry"> Description </th>
   </tr>
  </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"><span class="uicontrol"> Set Training Filter </span> </td> 
-   <td colname="col2"> The Training Filter is used with the Success Window to filter the population when building the attribution model. This will provide a subset of data that includes only the visitors that you want to analyze. <p>Note: Experienced users can also leverage the flexibility of filters to focus beyond the time line of the Success and Touch Windows. For example, in addition to selecting a time range, you can select a set of <i>Referring Domains</i> to only examine the attribution for users from those domains. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"><span class="uicontrol"> Show Complex Filter Description </span> </td> 
-   <td colname="col2"> Displays the filter code for the Training Filter, Success Window, and Touch Window. </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"><span class="uicontrol"> Save Model </span> </td> 
-   <td colname="col2"> Saves the current attribution model for future use. </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"><span class="uicontrol"> Load Model </span> </td> 
-   <td colname="col2"> Opens a previously saved attribution model. </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"><span class="uicontrol"> Presentation View </span> </td> 
-   <td colname="col2"> Hides the top menu bar for presentation. </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p><b>Options &gt; Advanced</b> includes features to set the training set size and specify the approach to take in the case of a class imbalance. </p> </td> 
-   <td colname="col2"> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"><span class="uicontrol"> Advanced &gt; Training Set Size </span> </td> 
-   <td colname="col2"> <p>Sets the training set size. </p> <p>Note:  The default training size is Large for 250,000 visitors. </p> 
-    <ul id="ul_5F17C60227C34A85A2C476A32F2B5DCD"> 
-     <li id="li_A076FC2AD0214ADDBFCFD82AEA5F0880">Tiny = 50,000 </li> 
-     <li id="li_17E77E01D5374068BEBC80B3AD4CCD41">Small = 75,000 </li> 
-     <li id="li_7F6B4834742A4BFCBC3DB214425B88C3">Normal = 100,000 </li> 
-     <li id="li_0BB7F791603745028CFC661EBC94D8B4">Large = 250,00 </li> 
-     <li id="li_34B60233C84F48F1BCB8040C5195411A">Huge = 500,000 </li> 
-    </ul> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"><b>Advanced &gt; Class Balance </b> </td> 
-   <td colname="col2"> <p>Identifies and defines the number of input records to generate for a class imbalance issue based on dataset size. </p> </td> 
-  </tr> 
- </tbody> 
+ <tbody>
+  <tr>
+   <td colname="col1"><span class="uicontrol"> Set Training Filter </span> </td>
+   <td colname="col2"> The Training Filter is used with the Success Window to filter the population when building the attribution model. This will provide a subset of data that includes only the visitors that you want to analyze. <p>Note: Experienced users can also leverage the flexibility of filters to focus beyond the time line of the Success and Touch Windows. For example, in addition to selecting a time range, you can select a set of <i>Referring Domains</i> to only examine the attribution for users from those domains. </p> </td>
+  </tr>
+  <tr>
+   <td colname="col1"><span class="uicontrol"> Show Complex Filter Description </span> </td>
+   <td colname="col2"> Displays the filter code for the Training Filter, Success Window, and Touch Window. </td>
+  </tr>
+  <tr>
+   <td colname="col1"><span class="uicontrol"> Save Model </span> </td>
+   <td colname="col2"> Saves the current attribution model for future use. </td>
+  </tr>
+  <tr>
+   <td colname="col1"><span class="uicontrol"> Load Model </span> </td>
+   <td colname="col2"> Opens a previously saved attribution model. </td>
+  </tr>
+  <tr>
+   <td colname="col1"><span class="uicontrol"> Presentation View </span> </td>
+   <td colname="col2"> Hides the top menu bar for presentation. </td>
+  </tr>
+  <tr>
+   <td colname="col1"> <p><b>Options &gt; Advanced</b> includes features to set the training set size and specify the approach to take in the case of a class imbalance. </p> </td>
+   <td colname="col2"> </td>
+  </tr>
+  <tr>
+   <td colname="col1"><span class="uicontrol"> Advanced &gt; Training Set Size </span> </td>
+   <td colname="col2"> <p>Sets the training set size. </p> <p>Note:  The default training size is Large for 250,000 visitors. </p>
+    <ul id="ul_5F17C60227C34A85A2C476A32F2B5DCD">
+     <li id="li_A076FC2AD0214ADDBFCFD82AEA5F0880">Tiny = 50,000 </li>
+     <li id="li_17E77E01D5374068BEBC80B3AD4CCD41">Small = 75,000 </li>
+     <li id="li_7F6B4834742A4BFCBC3DB214425B88C3">Normal = 100,000 </li>
+     <li id="li_0BB7F791603745028CFC661EBC94D8B4">Large = 250,00 </li>
+     <li id="li_34B60233C84F48F1BCB8040C5195411A">Huge = 500,000 </li>
+    </ul> </td>
+  </tr>
+  <tr>
+   <td colname="col1"><b>Advanced &gt; Class Balance </b> </td>
+   <td colname="col2"> <p>Identifies and defines the number of input records to generate for a class imbalance issue based on dataset size. </p> </td>
+  </tr>
+ </tbody>
 </table>
 
 |  Reset and Remove options  | Description  |
