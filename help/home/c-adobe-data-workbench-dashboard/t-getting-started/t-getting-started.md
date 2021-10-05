@@ -14,10 +14,10 @@ To begin using the Adobe data workbench dashboard, follow these steps.
 
    While many variations of browsers may work, only the following web browsers are officially supported:
 
-    * Google Chrome 15 and above (available at [https://www.google.com/chrome/](https://www.google.com/chrome/)) 
-    * Microsoft Internet Explorer 9 and above (available at [http://www.microsoft.com/windows/ie/](http://www.microsoft.com/windows/ie/)) 
-    * Mozilla Firefox 3.6 and above (available at [http://www.mozilla.org/en-US/firefox/all-older.html](http://www.mozilla.org/en-US/firefox/all-older.html)) 
-    * Safari 5.1 and above (available at [http://www.apple.com/safari](http://www.apple.com/safari))
+    * Google Chrome 15 and above (available at [https://www.google.com/chrome/](https://www.google.com/chrome/))
+    * Microsoft Internet Explorer 9 and above (available at [https://www.microsoft.com/windows/ie/](https://www.microsoft.com/windows/ie/))
+    * Mozilla Firefox 3.6 and above (available at [https://www.mozilla.org/en-US/firefox/all-older.html](https://www.mozilla.org/en-US/firefox/all-older.html))
+    * Safari 5.1 and above (available at [https://www.apple.com/safari](https://www.apple.com/safari))
 
    Beyond a compatible web browser, no additional software needs to be downloaded in order to use the dashboard. 1. Request an account.
 

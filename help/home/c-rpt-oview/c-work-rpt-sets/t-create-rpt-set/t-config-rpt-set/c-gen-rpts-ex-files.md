@@ -10,17 +10,17 @@ Information to generate reports as Excel files.
 
 The following requirements must be met:
 
-* Microsoft Excel must be installed on the same machine as [!DNL Report Server]. 
-* The user account under which the [!DNL Report Server] process is running must have permission to access Microsoft Excel. 
+* Microsoft Excel must be installed on the same machine as [!DNL Report Server].
+* The user account under which the [!DNL Report Server] process is running must have permission to access Microsoft Excel.
 
   >[!NOTE]
   >
   >
-  >    
-  >    
-  >    * When you generate reports as Excel files, you are opening a new instance of Excel. For more information about this process, see [http://support.microsoft.com/kb/257757](http://support.microsoft.com/kb/257757). 
-  >    * Although data workbench supports more than 256 columns and 65,536 rows of data, Microsoft Excel does not. 
-  >    
+  >
+  >
+  >    * When you generate reports as Excel files, you are opening a new instance of Excel. For more information about this process, see [https://support.microsoft.com/kb/257757](https://support.microsoft.com/kb/257757).
+  >    * Although data workbench supports more than 256 columns and 65,536 rows of data, Microsoft Excel does not.
+  >
   >
 
 If these requirements are met, [!DNL Report Server] automatically starts Microsoft Excel and output data from certain visualizations, dimension and value legends, and text annotations to a new Excel workbook with one visualization per worksheet.

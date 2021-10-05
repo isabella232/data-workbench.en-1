@@ -15,28 +15,28 @@ In certain cases, you may not want to append the values entered into forms to th
 Within the processing page of a form, include the following code to append the entered form values to the request data (in addition to writing the submitted form values to an external database or other location):
 
 ```
-var sName= Request.Form("Name"); 
-var sCity= Request.Form("City"); 
-var sState= Request.Form("State"); 
-var sZip= Request.Form("Zip"); 
- 
-Response.AppendToLog("&v_1=" +  sName); 
-Response.AppendToLog("&v_2=" +  sCity); 
-Response.AppendToLog("&v_3=" +  sState); 
+var sName= Request.Form("Name");
+var sCity= Request.Form("City");
+var sState= Request.Form("State");
+var sZip= Request.Form("Zip");
+
+Response.AppendToLog("&v_1=" +  sName);
+Response.AppendToLog("&v_2=" +  sCity);
+Response.AppendToLog("&v_3=" +  sState);
 Response.AppendToLog("&v_4=" +  sZip);
 ```
 
 This process would append the form values as defined to the request data for the [!DNL Form Processing] page. Within the log data, the appended values would be available as query strings of the [!DNL Form Processing] page as illustrated below. For example, v_1, v_2, v_3 and v_4 would now be query strings containing the data entered into the appropriate form fields. The syntax described in the example above can be duplicated for any additional form fields and values that you want to capture.
 
 ```
-http://www.myserver.com/path/to/formprocessingpage.asp?v_1=John+Smith&v_2=Los+Angeles&v_3=California&v_4=90210
+https://www.myserver.com/path/to/formprocessingpage.asp?v_1=John+Smith&v_2=Los+Angeles&v_3=California&v_4=90210
 ```
 
 If you want every form field and value to be captured and available for analysis, you can use the following syntax:
 
 ```
-var formvalues = Response.Form; 
-Response.AppendToLog(formvalues); 
+var formvalues = Response.Form;
+Response.AppendToLog(formvalues);
 
 ```
 

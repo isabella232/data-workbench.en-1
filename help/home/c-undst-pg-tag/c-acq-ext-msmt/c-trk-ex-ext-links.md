@@ -11,37 +11,37 @@ Capturing activity across third-party website links to enable Exit Target analys
  Web pages can contain links to third-party websites, and activity across those links can be captured to enable Exit Target analysis, especially in the case that the third-party site is responsible for paying referral fees when such referrals are received. Because the click event is written to the log files of the third-party system by default, modifications need to be made to the link for the click event to be captured locally. The third-party link present within your website must be modified as follows:
 
 ```
-<A HREF=”http://www.myserver.com/PageExit.htm?v_eurl=http://www.othersite.com”>
+<A HREF=”https://www.myserver.com/PageExit.htm?v_eurl=https://www.othersite.com”>
 ```
 
 The referenced [!DNL PageExit.htm] file must be created and should be structured to contain the following script:
 
 ```
-<html> 
-<head> 
- 
-<script> 
-function getExitURLQuery(variable) 
-{ 
- 
-var query = window.location.search.substring(1); 
-var vars = query.split("&"); 
-for (var i=0; i<vars.length; i++) 
-{ 
-var pair = vars[i].split("="); 
-if (pair[0] == variable) 
-{ 
-return pair[1]; 
-} 
- }  
-} 
-</script> 
- 
-<script> 
-location.replace(getExitURLQuery("v_eurl")); 
-</script>  
- 
-</head> 
+<html>
+<head>
+
+<script>
+function getExitURLQuery(variable)
+{
+
+var query = window.location.search.substring(1);
+var vars = query.split("&");
+for (var i=0; i<vars.length; i++)
+{
+var pair = vars[i].split("=");
+if (pair[0] == variable)
+{
+return pair[1];
+}
+ }
+}
+</script>
+
+<script>
+location.replace(getExitURLQuery("v_eurl"));
+</script>
+
+</head>
 </html>
 ```
 

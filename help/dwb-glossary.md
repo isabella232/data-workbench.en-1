@@ -56,11 +56,11 @@ A common variable that forms a relationship between the rows in two tabular sets
 
 **Confidence Interval**
 
-A range of values that has a specified probability of containing the rate or trend. The 80% (p-value = .20), 95% (p-value = .05) and 99% (p-value = .01) confidence intervals are the most commonly used intervals. (Source: `http://www.nci.nih.gov/statistics/glossary`)
+A range of values that has a specified probability of containing the rate or trend. The 80% (p-value = .20), 95% (p-value = .05) and 99% (p-value = .01) confidence intervals are the most commonly used intervals. (Source: `https://www.nci.nih.gov/statistics/glossary`)
 
 **Confidence Level**
 
-The likelihood that the sampling error in a survey result will fall within a specified range, usually expressed in terms of standard errors (for example, 1 standard error equals 68% likelihood, 2 standard errors equals 95.4% likelihood). (Source: `http://www.magazine.org/research/3410.cfm`)
+The likelihood that the sampling error in a survey result will fall within a specified range, usually expressed in terms of standard errors (for example, 1 standard error equals 68% likelihood, 2 standard errors equals 95.4% likelihood). (Source: `https://www.magazine.org/research/3410.cfm`)
 
 **Conversion Map**
 
@@ -232,7 +232,7 @@ A relationship between two data dimensions in which a single element in one dime
 
 **Ordinal**
 
-Being or denoting a numerical order in a series. (Source: `http://wordnet.princeton.edu/perl/webwn?s=ordinal`) If a dimension is sorted ordinally in data workbench, the elements of the dimension are displayed in the order in which they are represented internally.
+Being or denoting a numerical order in a series. (Source: `https://wordnet.princeton.edu/perl/webwn?s=ordinal`) If a dimension is sorted ordinally in data workbench, the elements of the dimension are displayed in the order in which they are represented internally.
 
 **Outliers**
 

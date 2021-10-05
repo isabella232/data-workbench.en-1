@@ -36,12 +36,12 @@ Tables containing list of constant and custom variables.
 |  v_pe  | Page Error  | v_pe=“Validation_Error”  |
 |  v_c  | Click-through Campaign  | v_c=”Campaign 1”  |
 |  v_ca  | Click-through Campaign Asset  | v_ca=”72890ab”  |
-|  v_cr  | Click-through Campaign Referrer  | v_cr=http://money.cnn.com/markets/&v_cp =CNNMy_Mkt"  |
+|  v_cr  | Click-through Campaign Referrer  | v_cr=https://money.cnn.com/markets/&v_cp =CNNMy_Mkt"  |
 |  v_ic  | Impression Campaign  | v_c=”Campaign 1”  |
 |  v_ica  | Impression Campaign Asset  | v_ca=”72890ab”  |
-|  v_icr  | Impression Campaign Referrer  | v_cr=http://money.cnn.com/markets/&v_cp =CNNMy_Mkt"  |
+|  v_icr  | Impression Campaign Referrer  | v_cr=https://money.cnn.com/markets/&v_cp =CNNMy_Mkt"  |
 |  v_ln  | Link Name  | v_ln=”About%20Us”  |
-|  v_eurl  | Exit URL  | V_eurl=”http://www.offsite.com/  |
+|  v_eurl  | Exit URL  | V_eurl=”https://www.offsite.com/  |
 |  v_1  | custom variable 1  |  |
 |  v_2  | custom variable 2  |  |
 |  v_3  | custom variable 3  |  |

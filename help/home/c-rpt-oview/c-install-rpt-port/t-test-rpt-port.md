@@ -14,13 +14,13 @@ Steps to open the Report Portal and ensure that you can successfully view the re
 
 1. From your web browser, open the [!DNL Report Portal] using the following URI format:
 
-   http://*ServerAddress*/*PortalName*
+   https://*ServerAddress*/*PortalName*
 
-   Example: [!DNL http://localhost/VisualReportPortal] 
+   Example: [!DNL https://localhost/VisualReportPortal]
 
 1. If [!DNL Report Portal] prompts you for log-in credentials, enter an account name and password (for example, account “test” and password “user” for the default account).
 1. When the [!DNL Report Portal] appears, verify that:
 
-    * The portal contains a tab for each report set in the output folder. 
-    * Each tab displays the report set’s summary report. 
+    * The portal contains a tab for each report set in the output folder.
+    * Each tab displays the report set’s summary report.
     * The menu on each tab lists the individual subfolders (if any) for the report set and displays the contents of those folders.

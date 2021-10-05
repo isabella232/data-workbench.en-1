@@ -16,30 +16,30 @@ To open a URI from a visualization, you first must edit the [!DNL Open URI.cfg] 
 
 **To edit Open URI.vw**
 
-1. In the [!DNL Profile Manager], click **[!UICONTROL Context]** > **[!UICONTROL Dimension Element]** > **[!UICONTROL URI]**. 
-1. In the URI folder, right-click the check mark next to the [!DNL Open URI.vw]file and click **[!UICONTROL Make Local]**. A check mark for this file appears in the [!DNL User] column. 
-1. Right-click the newly created check mark and click **[!UICONTROL Open]** > **[!UICONTROL in Insight]** if the file is a [!DNL .cfg] file or **[!UICONTROL Open]** > **[!UICONTROL in Notepad]** if it is a [!DNL .vw] file. 
-1. Click **[!UICONTROL Command]**, then **[!UICONTROL Parameters]** to view the contents of the file. 
+1. In the [!DNL Profile Manager], click **[!UICONTROL Context]** > **[!UICONTROL Dimension Element]** > **[!UICONTROL URI]**.
+1. In the URI folder, right-click the check mark next to the [!DNL Open URI.vw]file and click **[!UICONTROL Make Local]**. A check mark for this file appears in the [!DNL User] column.
+1. Right-click the newly created check mark and click **[!UICONTROL Open]** > **[!UICONTROL in Insight]** if the file is a [!DNL .cfg] file or **[!UICONTROL Open]** > **[!UICONTROL in Notepad]** if it is a [!DNL .vw] file.
+1. Click **[!UICONTROL Command]**, then **[!UICONTROL Parameters]** to view the contents of the file.
 1. Modify the [!DNL Site] parameter and the Template parameter as necessary:
 
-<table id="table_CDB316DB271F476AB9F9B557B86AFD25"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> For this parameter... </th> 
-   <th colname="col2" class="entry"> Provide this information... </th> 
+<table id="table_CDB316DB271F476AB9F9B557B86AFD25">
+ <thead>
+  <tr>
+   <th colname="col1" class="entry"> For this parameter... </th>
+   <th colname="col2" class="entry"> Provide this information... </th>
   </tr>
  </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p>Site </p> </td> 
-   <td colname="col2"> <p>The location of the URIs that you want to open. </p> <p>Example: mysite.com </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Template </p> </td> 
-   <td colname="col2"> <p>The parameters that Data Workbench should use to locate and open the URIs. </p> <p>Example: <span class="filepath"> http://%Site%%URI%</span> </p> <p>The default template shown in the example tells Data Workbench to open a web browser, look for the location defined in the <span class="wintitle"> Site</span> parameter, then locate the URI dimension element you are attempting to open. </p> </td> 
-  </tr> 
- </tbody> 
+ <tbody>
+  <tr>
+   <td colname="col1"> <p>Site </p> </td>
+   <td colname="col2"> <p>The location of the URIs that you want to open. </p> <p>Example: mysite.com </p> </td>
+  </tr>
+  <tr>
+   <td colname="col1"> <p>Template </p> </td>
+   <td colname="col2"> <p>The parameters that Data Workbench should use to locate and open the URIs. </p> <p>Example: <span class="filepath"> https://%Site%%URI%</span> </p> <p>The default template shown in the example tells Data Workbench to open a web browser, look for the location defined in the <span class="wintitle"> Site</span> parameter, then locate the URI dimension element you are attempting to open. </p> </td>
+  </tr>
+ </tbody>
 </table>
 
-1. Save the file. 
+1. Save the file.
 1. To make this change available to all users of the working profile, right-click the check mark for the [!DNL .vw] file in the [!DNL User] column and click **[!UICONTROL Save to]** > **[!UICONTROL working profile name]**.

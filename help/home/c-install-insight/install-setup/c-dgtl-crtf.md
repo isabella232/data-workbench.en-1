@@ -10,7 +10,7 @@ After you have installed the Insight program files, you must download and instal
 
 ## Downloading and Installing the Digital Certificate {#topic-fed3b44e472c4e4ca6dd5852af14cdb9}
 
-After you have installed the Insight program files, you must download and install the digital certificate provided to you by Adobe. 
+After you have installed the Insight program files, you must download and install the digital certificate provided to you by Adobe.
 
 ## Understanding Digital Certificates {#concept-9eed01c8d95440cda6ce29d68e65098c}
 
@@ -50,7 +50,7 @@ If you are installing on a computer that cannot access the Internet, you must re
 
 To request a pre-locked certificate, you must send the node identifier and your certificate number to Adobe Customer Care. To obtain the node identifier for your computer, contact Adobe Customer Care to request the Adobe [!DNL Node Identifier] utility. You also can obtain the node identifier from the alert that Insight issues when it attempts to connect to the License Server and cannot. When you receive the pre-locked certificate, install it as described in the last two steps of [Installing Digital Certificates](../../../home/c-install-insight/install-setup/c-dgtl-crtf.md#task-1dad1e1d86d04100a7bcf87f26303c38).
 
-When the certificate needs to be revalidated, you must download a new, validated certificate from the License Server and reinstall it on your computer (unless your agreement with Adobe states otherwise). 
+When the certificate needs to be revalidated, you must download a new, validated certificate from the License Server and reinstall it on your computer (unless your agreement with Adobe states otherwise).
 
 ## Installing Digital Certificates {#task-1dad1e1d86d04100a7bcf87f26303c38}
 
@@ -58,9 +58,9 @@ When the certificate needs to be revalidated, you must download a new, validated
 t_install_dgtl_crtf.xml
 -->
 
-**To download and install the digital certificate** 
+**To download and install the digital certificate**
 
-1. Open your web browser to [!DNL http:\\license.visualsciences.com].
+1. Open your web browser to [!DNL https:\\license.visualsciences.com].
 
    >[!NOTE]
    >
@@ -71,7 +71,7 @@ t_install_dgtl_crtf.xml
 1. When prompted to save the certificate, click **[!UICONTROL Save]**.
 1. Download the file to the [!DNL Certificates] folder in the directory where you installed Insight.
 
-   This folder contains a certificate file named [!DNL trust_ca_cert.pem]. Both certificate files must always be present for Insight to function. 
+   This folder contains a certificate file named [!DNL trust_ca_cert.pem]. Both certificate files must always be present for Insight to function.
 
 ## Windows Certificate Store {#concept-4acb13b7de9340ea8cde8ad84b93358d}
 
@@ -89,9 +89,9 @@ The Windows Certificate Store for the Client is a new feature that allows you to
 
 ## Prerequisites {#section-69b18600052145ff8e5299b7123e69c5}
 
-1. You must have access to the [!DNL certmgr.msc] file with the ability to import a certificate and key into the **Personal** store. (This should be true by default for most Windows users.) 
+1. You must have access to the [!DNL certmgr.msc] file with the ability to import a certificate and key into the **Personal** store. (This should be true by default for most Windows users.)
 
-1. The user doing the configuration must have a copy of the **OpenSSL** command-line tool. 
+1. The user doing the configuration must have a copy of the **OpenSSL** command-line tool.
 1. The server and client must already be configured to use a custom SSL certificate, giving instructions to store the client certificate in the Windows certificate store rather than storing it in the **Certificates** directory.
 
 ## Configuring the Windows Certificate Store {#section-3629802122e947d4b4f63e8b732cfe27}
@@ -100,12 +100,12 @@ The Windows Certificate Store for Clients is enabled following these steps:
 
 **Step 1: Import the user's SSL certificate and private key into the Windows Certificate Store.**
 
-In [Using Custom Certificates in Data Workbench](../../../home/c-install-insight/install-setup/c-dgtl-crtf.md#concept-ee6a9b5015f84a0ba64a11428b0a72dd) you are directed to put the SSL certificate and key in the following directory: 
+In [Using Custom Certificates in Data Workbench](../../../home/c-install-insight/install-setup/c-dgtl-crtf.md#concept-ee6a9b5015f84a0ba64a11428b0a72dd) you are directed to put the SSL certificate and key in the following directory:
 
 ```
-< 
+<
 <filepath>
-  DWB Install folder 
+  DWB Install folder
 </filepath>>\Certificates\
 ```
 
@@ -113,21 +113,21 @@ The certificate's name is `<Common Name>.pem` such as Analytics Server 1.pem (no
 
 Before the certificate and private key can be imported, they must be converted from . [!DNL pem] format to a [!DNL .pfx] format, such as [!DNL pkcs12.pfx] ).
 
-1. Open a command prompt or terminal and navigate to the directory: 
+1. Open a command prompt or terminal and navigate to the directory:
 
    ```
    <CommonName>.pem c: cd \<filepath>DWB Install folder</filepath>>\Certificates
    ```
 
-1. Run [!DNL openssl] with the following arguments (with the actual [!DNL .pem] file name): 
+1. Run [!DNL openssl] with the following arguments (with the actual [!DNL .pem] file name):
 
    ```
    openssl pkcs12 -in "<Common Name>.pem" -export -out "<Common Name>.pfx"
    ```
 
-   If prompted, hit **Enter** to skip entering an export password. 
+   If prompted, hit **Enter** to skip entering an export password.
 
-1. Run [!DNL certmgr.msc] from the run prompt, start menu, or command line. 
+1. Run [!DNL certmgr.msc] from the run prompt, start menu, or command line.
 1. Open the **Personal** certificate store for the current user.
 
    ![](assets/6_5_crypto_api_0.png)
@@ -140,17 +140,17 @@ Before the certificate and private key can be imported, they must be converted f
 
 1. Click **Browse** and select the `<CommonName>.pfx` file you created previously. You will have to change the file extension dropdown box from an X.509 Certificate to either **Personal Information Exchange** or to **All Files** in order to see it.
 
-   Select the file and click **Open**, and then **Next**. 
+   Select the file and click **Open**, and then **Next**.
 
 1. Do not enter a password, and make sure that only the options **Mark this key as exportable** and **Include all extended properties** are selected.
 
    ![](assets/6_5_crypto_api_3.png)
 
-   Click **Next**. 
+   Click **Next**.
 
-1. Make sure that **Place all certificates in the following store** is selected, and that the certificate store listed is **Personal**. (If you're an advanced user, you can select another store at this point, but you'll have to change the configuration later.) 
+1. Make sure that **Place all certificates in the following store** is selected, and that the certificate store listed is **Personal**. (If you're an advanced user, you can select another store at this point, but you'll have to change the configuration later.)
 
-1. Click **Next** and then click **Finish**. You should see a dialog box telling you that the import was successful and see your certificate in the Certificates folder of the store. 
+1. Click **Next** and then click **Finish**. You should see a dialog box telling you that the import was successful and see your certificate in the Certificates folder of the store.
 
    >[!NOTE]
    >
@@ -160,25 +160,25 @@ Before the certificate and private key can be imported, they must be converted f
 
 The [!DNL Insight.cfg] file must be edited in order to direct Data Workbench to use the Windows Certificate Store feature. Each server entry in this file must have some additional parameters specified. If the parameters are omitted, the workstation will default to using the existing certificate configuration. If the parameters are specified but have incorrect values, the workstation will enter an error state and you will have to refer to the log file for error information.
 
-1. Open the **Insight.cfg** file (located in the **Insight** installation directory). 
+1. Open the **Insight.cfg** file (located in the **Insight** installation directory).
 
-1. Scroll down to the server entry that you wish to configure. If you wish to use the Windows Certificate store for every server, you have to make these modifications to every entry in the vector of [!DNL serverInfo] objects. 
-1. Add these parameters to their [!DNL Insight.cfg] file. You can do this from the workstation, or manually by adding the following parameters to the [!DNL serverInfo] object. (Be sure to use spaces instead of tab characters, and don't make other typographical or syntax errors in this file. ) 
+1. Scroll down to the server entry that you wish to configure. If you wish to use the Windows Certificate store for every server, you have to make these modifications to every entry in the vector of [!DNL serverInfo] objects.
+1. Add these parameters to their [!DNL Insight.cfg] file. You can do this from the workstation, or manually by adding the following parameters to the [!DNL serverInfo] object. (Be sure to use spaces instead of tab characters, and don't make other typographical or syntax errors in this file. )
 
    ```
-   SSL Use CryptoAPI = bool: true  
-   SSL CryptoAPI Cert Name = string: <Common Name>  
-   SSL CryptoAPI Cert Issuer Name = string: Visual Sciences,LLC  
-   SSL CryptoAPI Cert Store Name = string: My 
+   SSL Use CryptoAPI = bool: true
+   SSL CryptoAPI Cert Name = string: <Common Name>
+   SSL CryptoAPI Cert Issuer Name = string: Visual Sciences,LLC
+   SSL CryptoAPI Cert Store Name = string: My
    ```
 
-   The boolean enables or disables the feature. The certificate name matches **Issuer To** in the certificate manager. The certificate issuer name matches **Issued By**, and the **Store Name** must match the certificate store name. 
+   The boolean enables or disables the feature. The certificate name matches **Issuer To** in the certificate manager. The certificate issuer name matches **Issued By**, and the **Store Name** must match the certificate store name.
 
    >[!NOTE]
    >
    >The name "Personal" in the Certificate Manager (certmgr.msc) actually refers to the certificate store named **My.** Consequently, if you import your SSL communication certificate and key (.PFX) into the **Personal** certificate store as recommended, you must set the **SSL CryptoAPI Cert Store Name** string to "My". Setting this parameter to "Personal" will not work. This is a peculiarity of the Windows certificate store.
 
-   A full list of the predefined system stores can be obtained here: [https://msdn.microsoft.com/en-us/library/windows/desktop/aa388136(v=vs.85).aspx](https://msdn.microsoft.com/en-us/library/windows/desktop/aa388136%28v=vs.85%29.aspx). Your system might have additional certificate stores. If you wish to use a store other than "Personal" (such as **My**), you must obtain the canonical name of the certificate store and provide it in the [!DNL Insight.cfg] file. (The system store name "My" is inconsistently referred to as "My" and "MY" by the Windows documentation. The parameter does not appear to be case sensitive.) 
+   A full list of the predefined system stores can be obtained here: [https://msdn.microsoft.com/en-us/library/windows/desktop/aa388136(v=vs.85).aspx](https://msdn.microsoft.com/en-us/library/windows/desktop/aa388136%28v=vs.85%29.aspx). Your system might have additional certificate stores. If you wish to use a store other than "Personal" (such as **My**), you must obtain the canonical name of the certificate store and provide it in the [!DNL Insight.cfg] file. (The system store name "My" is inconsistently referred to as "My" and "MY" by the Windows documentation. The parameter does not appear to be case sensitive.)
 
 1. After you have added these parameters and verified that the values match the list in the Windows Certificate Manager, save the [!DNL Insight.cfg] file.
 
@@ -212,52 +212,52 @@ The following instructions describe the procedures to be followed to use custom 
 
 ## Setting up Custom Client Certificates {#section-2083fd41973e451fa404e7a4ae4da591}
 
-1. Add the certificate of the issuing CA to the [!DNL trust_cert_ca.pem], which is installed in the **Certificates** directory of the client and that of every server in every cluster that is to be accessed using this custom certificate. 
+1. Add the certificate of the issuing CA to the [!DNL trust_cert_ca.pem], which is installed in the **Certificates** directory of the client and that of every server in every cluster that is to be accessed using this custom certificate.
 
 1. Obtain a custom certificate for each server in the cluster with the following conditions:
 
-    1. Certificate is formatted as a [!DNL .pem] certificate. 
+    1. Certificate is formatted as a [!DNL .pem] certificate.
     1. Certificate contains its key and is unencrypted (i.e., it has no password/pass phrase).
 
-       A certificate contains its key with one of the following lines:     
-    
-       ```    
-       BEGIN PRIVATE KEY 
+       A certificate contains its key with one of the following lines:
+
+       ```
+       BEGIN PRIVATE KEY
        BEGIN RSA PRIVATE KEY
        ```
 
        One way to remove the password phrase from a [!DNL .pem] certificate:
 
-       ```    
-       openssl rsa  -in password-protected-cert.pem -out no-password-cert.pem 
+       ```
+       openssl rsa  -in password-protected-cert.pem -out no-password-cert.pem
        openssl x509 -in password-protected-cert.pem >> no-password.pem
        ```
 
-    1. Certificate has the CN, O, OU, etc. as required for this client in the servers' [!DNL Access Control.cfg] file. 
+    1. Certificate has the CN, O, OU, etc. as required for this client in the servers' [!DNL Access Control.cfg] file.
     1. Certificate was issued with a *purpose &#42;&#42;&#42;* of *client* (or both *server* **and** *client*).
 
-       To verify that a certificate has a purpose code of server and/or client, the following commands can be used:     
-    
-       ```    
-       openssl verify -CAfile trust_ca_cert.pem -purpose sslserver -x509_strict custom_communications_cert.pem 
+       To verify that a certificate has a purpose code of server and/or client, the following commands can be used:
+
+       ```
+       openssl verify -CAfile trust_ca_cert.pem -purpose sslserver -x509_strict custom_communications_cert.pem
        openssl verify -CAfile trust_ca_cert.pem -purpose sslclient -x509_strict custom_communications_cert.pem
-       ```    
-    
-       For a server certificates, both commands should yield:     
-    
-       ```    
+       ```
+
+       For a server certificates, both commands should yield:
+
+       ```
        custom_communications_cert.pem: OK
-       ```    
-    
+       ```
+
        For a client certificate, only the second command is required to yield [!DNL OK].
 
-1. Place the certificate in the client's **Certificates** directory. 
+1. Place the certificate in the client's **Certificates** directory.
 1. In [!DNL Insight.cfg] under the *serverInfo* for each cluster that you want to use this certificate, make sure the *custom client cert* is named, such as:
 
    ```
-   Servers = vector: 1 items 
-     0 = serverInfo: 
-       SSL Client Certificate = string:  
+   Servers = vector: 1 items
+     0 = serverInfo:
+       SSL Client Certificate = string:
      <my_custom_client_cert.pem>
    ```
 
@@ -265,47 +265,47 @@ The following instructions describe the procedures to be followed to use custom 
 
 This section assumes that you have a cluster that is up and running, using Visual Sciences issued certificates, and the configuration follows common practices (such as the *Components for Processing Servers* directory on the master gets synchronized to the *Components* directories of all DPUs).
 
-1. Add the certificate of the issuing CA to the [!DNL trust_cert_ca.pem] which is installed on every server in the cluster and every client that needs to communicate with this cluster. 
+1. Add the certificate of the issuing CA to the [!DNL trust_cert_ca.pem] which is installed on every server in the cluster and every client that needs to communicate with this cluster.
 1. Obtain a custom certificate for each server in the cluster with these requirements:
 
-    1. Custom certificate is formatted as a [!DNL .pem] certificate. 
+    1. Custom certificate is formatted as a [!DNL .pem] certificate.
     1. Certificate contains its key and is unencrypted (i.e., it has no password/pass phrase).
 
        A certificate contains its key if it has a line such as:
 
-       ```    
-       BEGIN PRIVATE KEY 
+       ```
+       BEGIN PRIVATE KEY
        BEGIN RSA PRIVATE KEY
-       ```    
-    
+       ```
+
        One way to remove the password phrase from a [!DNL .pem] certificate:
 
-       ```    
-       openssl rsa  -in password-protected-cert.pem -out no-password-cert.pem 
+       ```
+       openssl rsa  -in password-protected-cert.pem -out no-password-cert.pem
        openssl x509 -in password-protected-cert.pem >> no-password.pem
        ```
 
-    1. Certificate has the same CN as the [!DNL server_cert.pem] currently installed on the server. 
+    1. Certificate has the same CN as the [!DNL server_cert.pem] currently installed on the server.
     1. Certificate was issued with a purpose of *server* and *client*.
 
-       To verify that a certificate has a purpose code of server and/or client, the following commands can be used:     
-    
-       ```    
-       openssl verify -CAfile trust_ca_cert.pem -purpose sslserver -x509_strict custom_communications_cert.pem 
+       To verify that a certificate has a purpose code of server and/or client, the following commands can be used:
+
+       ```
+       openssl verify -CAfile trust_ca_cert.pem -purpose sslserver -x509_strict custom_communications_cert.pem
        openssl verify -CAfile trust_ca_cert.pem -purpose sslclient -x509_strict custom_communications_cert.pem
-       ```    
-    
-       For a server certificates, both commands should yield:     
-    
-       ```    
+       ```
+
+       For a server certificates, both commands should yield:
+
+       ```
        custom_communications_cert.pem: OK
-       ```    
-    
+       ```
+
        For a client certificate, only the second command is required to yield [!DNL OK].
 
-1. Install each server's custom certificate in the **Certificates** directory of the server as [!DNL custom_communications_cert.pem]. 
+1. Install each server's custom certificate in the **Certificates** directory of the server as [!DNL custom_communications_cert.pem].
 
-1. Using a text editor, add the following line to **Communications.cfg** file in both the *Components* and *Components for Processing Servers* directories, directly below the first line ( [!DNL component = CommServer]): 
+1. Using a text editor, add the following line to **Communications.cfg** file in both the *Components* and *Components for Processing Servers* directories, directly below the first line ( [!DNL component = CommServer]):
 
    ```
    Certificate = string: Certificates\\custom_communications_cert.pem
@@ -315,13 +315,13 @@ This section assumes that you have a cluster that is up and running, using Visua
 
 **About Certificate Failure Warning**
 
-When the Insight server or client is looking for a **license** certificate in the **Certificates** directory, it tries to validate all the certificates (except [!DNL trust_ca_cert.pem]), against a hard coded copy of the Insight CA certificate, which fails on any custom certificate present in the directory. The server issues this warning: 
+When the Insight server or client is looking for a **license** certificate in the **Certificates** directory, it tries to validate all the certificates (except [!DNL trust_ca_cert.pem]), against a hard coded copy of the Insight CA certificate, which fails on any custom certificate present in the directory. The server issues this warning:
 
 ```
 Certificate failed to verify. Error 20 at 0 depth. Desc: unable to get local issuer certificate. Cert details:
 ```
 
-This warning can be safely ignored. 
+This warning can be safely ignored.
 
 ## String Encryption {#concept-35da0b53650a4d7e82b240ad27f6d45a}
 
@@ -335,12 +335,12 @@ When communicating between the Data Workbench client (workstation) and server, y
 
 * A new folder was added at Server\**EncryptStrings**.
 
-  This is where you set the configuration file to encrypt strings. 
+  This is where you set the configuration file to encrypt strings.
 
 * A new configuration file was added at Server\Component\**EncryptedStrings.cfg**.
 
   ```
-  component = EncryptionComponent: 
+  component = EncryptionComponent:
     Path = Path: EncryptStrings\\*.cfg
   ```
 
@@ -351,25 +351,25 @@ When communicating between the Data Workbench client (workstation) and server, y
 1. Create an **EncryptedStrings.cfg** configuration file for a string with these fields set:
 
    ```
-   Names = vector: 1 items 
-    0 = NameEncryptValuePair: 
-     EncryptValue = EncryptedString: // left empty as input then output will be filled by server 
-     Name = string: // Name for identifier  
+   Names = vector: 1 items
+    0 = NameEncryptValuePair:
+     EncryptValue = EncryptedString: // left empty as input then output will be filled by server
+     Name = string: // Name for identifier
      Value = string: // Value to be encrypted
    ```
 
     * *Value* - This field contains the plain text string that needs to encrypted.
 
-      This is server-side encryption only. The *Value* setting is encrypted only on the server computer. 
-    
-    * *Name* - This field contains a value identifying the encrypted string. 
+      This is server-side encryption only. The *Value* setting is encrypted only on the server computer.
+
+    * *Name* - This field contains a value identifying the encrypted string.
     * *EncryptValue* - This field will be left empty in the input configuration file. The encrypted value will be returned in this field.
 
    You can add multiple **NameEncryptValuePair** values for different fields for encryption.
 
    >[!NOTE]
    >
-   >All empty Value fields will be removed. 
+   >All empty Value fields will be removed.
 
 1. Save the **EncryptedStrings.cfg** file to the Server\**EncryptStrings** folder.
 

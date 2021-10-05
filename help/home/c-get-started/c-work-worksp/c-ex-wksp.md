@@ -30,13 +30,13 @@ When exporting a workspace to Excel, Data Workbench exports data from certain vi
 
 To export workspaces and individual windows to Microsoft Excel, the following requirements must be met:
 
-* Microsoft Excel must be installed on the same machine as Data Workbench. 
+* Microsoft Excel must be installed on the same machine as Data Workbench.
 * The user account under which the Data Workbench process is running must have permission to access Microsoft Excel.
 
 >[!NOTE]
 >
->* When you export data as Excel files, you are opening a new instance of Excel. For more information about this process, see [http://support.microsoft.com/kb/257757](http://support.microsoft.com/kb/257757). 
->* Although Data Workbench supports more than 256 columns and 65,536 rows of data, versions of Microsoft Excel prior to 8.0 do not. 
+>* When you export data as Excel files, you are opening a new instance of Excel. For more information about this process, see [https://support.microsoft.com/kb/257757](https://support.microsoft.com/kb/257757).
+>* Although Data Workbench supports more than 256 columns and 65,536 rows of data, versions of Microsoft Excel prior to 8.0 do not.
 >
 
 If these requirements are met, Data Workbench automatically starts Microsoft Excel and export the data to a new Excel workbook. Data is not exported from the following visualizations: graphs, path browsers, process maps, scatter plots, and globes.
@@ -45,7 +45,7 @@ If these requirements are met, Data Workbench automatically starts Microsoft Exc
 
 Unless you have specified a Custom title for the window on the [!UICONTROL Export] menu, the [!UICONTROL Export title] listed (for example, City Table) is used as the worksheet name.
 
-1. Right-click the top border of the window and click in the **[!UICONTROL Custom title]** field. 
+1. Right-click the top border of the window and click in the **[!UICONTROL Custom title]** field.
 1. Type the title that you want to apply to the window.
 
    ![](assets/mnu_window_TitleBar_Export.png)
@@ -60,7 +60,7 @@ When you export the workspace to Excel, the worksheet containing the data for th
 
 **To export workspace data to a new [!DNL .xls] or [!DNL .xlsx] file**
 
-1. In title bar of the workspace, click **[!UICONTROL Export]** > **[!UICONTROL Export]**. 
+1. In title bar of the workspace, click **[!UICONTROL Export]** > **[!UICONTROL Export]**.
 1. Specify whether to export the workspace, sidebar, or both.
 
 ## Export to a template Excel file {#section-814772929ca64cf6b92b89d3fdd02302}
@@ -79,22 +79,22 @@ Let’s say that you want to use exported campaign data from a table visualizati
 
 **To export workspace data to a template [!DNL .xls] or [!DNL .xlsx] file**
 
-1. Right-click the title bar of the workspace and click **[!UICONTROL Export]** > **[!UICONTROL Export to Excel from Template]**. 
+1. Right-click the title bar of the workspace and click **[!UICONTROL Export]** > **[!UICONTROL Export to Excel from Template]**.
 1. Specify whether to export a workspace, sidebar, or both.
 
-   The [!UICONTROL Select a template worksheet] dialog box opens. 
+   The [!UICONTROL Select a template worksheet] dialog box opens.
 
 1. Complete one of the following steps as appropriate:
 
     * If you are using a `.xls` template file:
 
-        1. Browse to and select the template `.xls` file. 
+        1. Browse to and select the template `.xls` file.
         1. Click **[!UICONTROL Open]**.
 
     * If you are using a `.xlsx` template file:
 
-        1. Browse to the location of the template file. The `.xlsx` file name is not displayed. 
-        1. In the [!UICONTROL File name] field, type `.xlsx` and click **[!UICONTROL Open]**. All `.xlsx` file names display in the file list. 
-        
-        1. Select the template `.xlsx` file. 
+        1. Browse to the location of the template file. The `.xlsx` file name is not displayed.
+        1. In the [!UICONTROL File name] field, type `.xlsx` and click **[!UICONTROL Open]**. All `.xlsx` file names display in the file list.
+
+        1. Select the template `.xlsx` file.
         1. Click **[!UICONTROL Open]**.

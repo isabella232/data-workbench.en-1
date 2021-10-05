@@ -12,12 +12,12 @@ A virtual directory defines the address that browser clients use to locate a phy
 
 The name of the virtual directory that you assign to [!DNL Report Portal] must match the name that you used for the VSVirtualPortalName folder in Step 3 of the previous section. For example, if you want to use “Portal” as the name of your [!DNL Report Portal], you must map the portal’s files to a virtual directory named “Portal.” The following example shows the URI that clients would use to access a [!DNL Report Portal] assigned to the virtual directory [!DNL VisualReportPortal] on a server called myWebServer:
 
-[!DNL http://myWebServer/VisualReportPortal]
+[!DNL https://myWebServer/VisualReportPortal]
 
 The following procedures describe how to map [!DNL Report Portal] to a virtual directory on IIS 5.0, 6.0, and 7.0 or higher.
 
 Follow the set of procedures for the version of IIS that you are using:
 
-* [Mapping Report Portal to a Virtual Directory (IIS 7.0)](../../../../home/c-rpt-oview/c-install-rpt-port/c-virtual-dir/c-map-rpt-port-vdir-7.md#concept-9fc9595bb83147238965be4832df0a08) 
-* [Mapping Report Portal to a Virtual Directory (IIS 5.0)](../../../../home/c-rpt-oview/c-install-rpt-port/c-virtual-dir/c-map-rpt-port-vdir-5.md#concept-402cb33c50d640e480098517140ffc74) 
+* [Mapping Report Portal to a Virtual Directory (IIS 7.0)](../../../../home/c-rpt-oview/c-install-rpt-port/c-virtual-dir/c-map-rpt-port-vdir-7.md#concept-9fc9595bb83147238965be4832df0a08)
+* [Mapping Report Portal to a Virtual Directory (IIS 5.0)](../../../../home/c-rpt-oview/c-install-rpt-port/c-virtual-dir/c-map-rpt-port-vdir-5.md#concept-402cb33c50d640e480098517140ffc74)
 * \ [Edit the Session Configuration File](../../../../home/c-rpt-oview/c-install-rpt-port/t-edit-sess-config-file.md#task-cf11c3a780bd4936afd3f64a6b30afc7)
