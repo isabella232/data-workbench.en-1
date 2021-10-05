@@ -13,20 +13,20 @@ Query string variables may be added to a JavaScript request to collect additiona
 Additional information that can be acquired from a page may be added to the embedded object via script using the following code as an example:
 
 ```
-<!-- BEGIN REFERENCE PAGE TAG--> 
-<script language="javascript"> 
-var vlc = "0" //Capture Link Click  1=TRUE, 0=FALSE 
-var v = {}; 
-v["_pn"] = "Application Form"; 
-v["_1"] = “99.99”; 
-v["_2"] = "visa"; 
-</script> 
- 
-<script language="javascript" src=”http://www.myserver.com/path/to/zig.js" type="text/javascript"></script> 
-<noscript> 
- 
-<img src="/path/to/zag.gif?Log=1&v_jd=1" border="0" width="1" height="1"/> 
-</noscript> 
+<!-- BEGIN REFERENCE PAGE TAG-->
+<script language="javascript">
+var vlc = "0" //Capture Link Click  1=TRUE, 0=FALSE
+var v = {};
+v["_pn"] = "Application Form";
+v["_1"] = “99.99”;
+v["_2"] = "visa";
+</script>
+
+<script language="javascript" src=”https://www.myserver.com/path/to/zig.js" type="text/javascript"></script>
+<noscript>
+
+<img src="/path/to/zag.gif?Log=1&v_jd=1" border="0" width="1" height="1"/>
+</noscript>
 <!-- END REFERENCE PAGE TAG-->
 ```
 

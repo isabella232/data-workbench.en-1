@@ -24,8 +24,8 @@ The Report Portal uses the information in a configuration file called global.asa
 1. Save the file.
 1. To verify that the [!DNL Report Portal] files have been installed correctly and can be reached through their designated virtual directory, open the following page in your browser:
 
-   http://*YourServerAddress*/*YourPortalName*
+   https://*YourServerAddress*/*YourPortalName*
 
-   Example: [!DNL http://localhost/VisualReportPortal]
+   Example: [!DNL https://localhost/VisualReportPortal]
 
    If the [!DNL Report Portal] ASPs have been installed correctly, you should see the portal login page. If you do not see this page, verify that ASPs are enabled on your IIS and double-check your virtual directory mappings.

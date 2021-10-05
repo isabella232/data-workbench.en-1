@@ -11,21 +11,21 @@ Using the JavaScript Document Object Model, additional scripting methods can be 
  Information such as the value of META tags, ID values of DIV tags, and so forth, can be referenced by name and collected as variables for use in analysis. For example, to dynamically capture the information contained within the META element of the HTML document, you can use the following JavaScript syntax:
 
 ```
-<!-- BEGIN REFERENCE PAGE TAG--> 
-<script language="javascript"> 
-var m0 = document.getElementsByTagName('META')[0]; //define the first instance of META 
-var metacontent = m0.getAttribute('content'); //get the ‘content’ value of META 
-var vlc = "0" //Capture Link Click  1=TRUE, 0=FALSE 
-var v = {}; 
-v["_1"] = metacontent; 
-</script> 
- 
-<script language="javascript" src=”http://www.myserver.com/path/to/zig.js" type="text/javascript"></script> 
- 
-<noscript> 
-<img src="/path/to/zag.gif?Log=1&v_jd=1" border="0" width="1" height="1"/> 
-</noscript> 
- 
+<!-- BEGIN REFERENCE PAGE TAG-->
+<script language="javascript">
+var m0 = document.getElementsByTagName('META')[0]; //define the first instance of META
+var metacontent = m0.getAttribute('content'); //get the ‘content’ value of META
+var vlc = "0" //Capture Link Click  1=TRUE, 0=FALSE
+var v = {};
+v["_1"] = metacontent;
+</script>
+
+<script language="javascript" src=”https://www.myserver.com/path/to/zig.js" type="text/javascript"></script>
+
+<noscript>
+<img src="/path/to/zag.gif?Log=1&v_jd=1" border="0" width="1" height="1"/>
+</noscript>
+
 <!-- END REFERENCE PAGE TAG-->
 ```
 

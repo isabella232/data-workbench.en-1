@@ -10,7 +10,7 @@ The AppendURI transformation provides a way to add information to the default va
 
  The transformation places a name-value pair at the end of the internal field used to create the URI dimension. The name-value pair is built using the Query String Key parameter as the name and the value of the identified Input parameter as the value of the pair. The [!DNL AppendURI] command adds any appropriate ? and & symbols necessary to separate the name-value pairs from the [!DNL URI] stem and from any previous [!DNL AppendURI] operations that may have been applied to the URI.
 
-The [!DNL AppendURI] transformation works only when defined in the [!DNL Transformation.cfg] file or a [!DNL Transformation Dataset Include] file. 
+The [!DNL AppendURI] transformation works only when defined in the [!DNL Transformation.cfg] file or a [!DNL Transformation Dataset Include] file.
 
 |  Parameter  | Description  | Default  |
 |---|---|---|
@@ -23,7 +23,7 @@ The [!DNL AppendURI] transformation works only when defined in the [!DNL Transfo
 
 Consider a website that was constructed using a traditional Model-View-Controller approach. In such systems, it is common to have a single web page be the point of access into the system. For such a site, visualizations of traffic patterns in the system would be very uninteresting and would provide no insights into visitor utilization and traffic flow. For example, consider a website that funnels all web requests through a URI of the following form:
 
-* [!DNL http://www.examplesite.com/modelview.asp?id=login&name=bob]
+* [!DNL https://www.examplesite.com/modelview.asp?id=login&name=bob]
 
 The modelview ASP page receives all traffic and determines its actions based on the value of the id field in the query. By default, the URI dimension would contain a single entry:
 

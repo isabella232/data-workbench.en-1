@@ -21,17 +21,17 @@ Each time you want to test a new group, make sure to clear your cookies for the 
 
 To place yourself into a specific group within a specific experiment, request the test page with a query string in the following form:
 
-[!DNL http://] *< [!DNL sitename/?Experiment Name=Group Name]>*
+[!DNL https://] *< [!DNL sitename/?Experiment Name=Group Name]>*
 
 For example:
 
-[!DNL http://www.omniture.com/setcookie.htm?New_Homepage=index2]
+[!DNL https://www.omniture.com/setcookie.htm?New_Homepage=index2]
 
 When the virtual URL request is sent to the server, [!DNL Sensor] identifies you as a member of the specified group within the specified experiment and then redirects you to the root of the website. You now can navigate to the appropriate location on the website to validate whether the correct content displays for that experiment and group.
 
 If you were to type the following into your browser, the browser would display the home page of the website and place you into the index2 group within the New_Homepage experiment:
 
-[!DNL http://www.omniture.com/setcookie.htm?New_Homepage=index2]
+[!DNL https://www.omniture.com/setcookie.htm?New_Homepage=index2]
 
 When visitors in the index2 group request the home page, the “Request a Demo” graphical link displays higher on the page, as in the following graphic:
 

@@ -9,7 +9,7 @@ exl-id: 9c00c87e-e5dd-4806-9338-2336ae68176a
 
 ![Banner](/help/home/assets/doc_banner_workbench.png)
 
-[Data Workbench](http://www.adobe.com/solutions/digital-analytics/data-workbench.html) is part of [Adobe Analytics](http://www.adobe.com/solutions/digital-analytics.html). It has highly-flexible, powerful, multi-channel capabilities designed to collect, process, analyze, and visualize data from online and offline customer interactions across all types of web, CRM, POS, and other data types. Interactive reports in Data Workbench let you analyze and react to pertinent statistical information to monitor activity and predict customer trends.
+[Data Workbench](https://www.adobe.com/solutions/digital-analytics/data-workbench.html) is part of [Adobe Analytics](https://www.adobe.com/solutions/digital-analytics.html). It has highly-flexible, powerful, multi-channel capabilities designed to collect, process, analyze, and visualize data from online and offline customer interactions across all types of web, CRM, POS, and other data types. Interactive reports in Data Workbench let you analyze and react to pertinent statistical information to monitor activity and predict customer trends.
 
 * ![analytics icon](assets/analytics-icon-24.png) [Analytics Documentation](https://experienceleague.adobe.com/docs/analytics/landing/home.html)
 * ![pdf icon](assets/pdf_icon.png) [Download All Data Workbench documentation in PDF](/help/home/assets/data-workbench.pdf)
@@ -18,13 +18,13 @@ exl-id: 9c00c87e-e5dd-4806-9338-2336ae68176a
 
 Data Workbench includes these predictive analytics features, data visualizations, and reports:
 
-* [Best Fit Attribution](/help/home/c-get-started/c-attribution-profiles/c-attrib-algorithmic/c-attrib-algorithmic.md) 
-* [Propensity Scoring](/help/home/c-get-started/c-analysis-vis/c-visitor-propensity/c-visitor-propensity.md) 
+* [Best Fit Attribution](/help/home/c-get-started/c-attribution-profiles/c-attrib-algorithmic/c-attrib-algorithmic.md)
+* [Propensity Scoring](/help/home/c-get-started/c-analysis-vis/c-visitor-propensity/c-visitor-propensity.md)
 * [Decision Trees](/help/home/c-get-started/c-analysis-vis/c-decision-trees/c-decision-trees.md)
-* [Correlation Matrix](/help/home/c-get-started/c-analysis-vis/c-correlation-analysis/c-correlation-analysis.md) 
-* [Clustering](/help/home/c-get-started/c-analysis-vis/c-visitor-cluster/c-visitor-cluster.md) 
+* [Correlation Matrix](/help/home/c-get-started/c-analysis-vis/c-correlation-analysis/c-correlation-analysis.md)
+* [Clustering](/help/home/c-get-started/c-analysis-vis/c-visitor-cluster/c-visitor-cluster.md)
 * [Chord Visualization](/help/home/c-get-started/c-analysis-vis/c-chord-visualization.md)
-* [Attribution Profile](/help/home/c-get-started/c-attribution-profiles/c-rules-attrib/c-rules-attrib.md) 
+* [Attribution Profile](/help/home/c-get-started/c-attribution-profiles/c-rules-attrib/c-rules-attrib.md)
 * [Master Marketing Profile Export and Integration](/help/home/c-get-started/c-exp-data-seg-exp/c-mmp-integration.md)
 
 ## More Analytics user guides
@@ -43,14 +43,14 @@ Data Workbench includes these predictive analytics features, data visualizations
 
 [Data Workbench 6.5](/help/home/c-release-notes-insight/c-6-5.md) is released. Install the latest version of Data Workbench with new features, including:
 
-* [Associations Table](/help/home/c-get-started/c-analysis-vis/associations-visualization.md) and [Associations Chord](/help/home/c-get-started/c-analysis-vis/associations-chord.md) visualizations. 
+* [Associations Table](/help/home/c-get-started/c-analysis-vis/associations-visualization.md) and [Associations Chord](/help/home/c-get-started/c-analysis-vis/associations-chord.md) visualizations.
 * [Regression Tree option](/help/home/c-get-started/c-analysis-vis/c-decision-trees/c-decision-trees-regression.md) and other updates for Decision Trees.
 
 [Data Workbench 6.4](/help/home/c-release-notes-insight/c-6-4/c-6-4.md) includes:
 
 * [Exporting to Analytics Core Services](/help/home/c-release-notes-insight/c-6-4/dwb-crs-integration.md)
-* [Workstation Setup Wizard](/help/home/c-install-insight/install-setup/dwb-client-installer.md) 
-* [Presentation Layer for Annotating Visualizations](/help/home/c-get-started/c-vis/c-present-layer.md) 
+* [Workstation Setup Wizard](/help/home/c-install-insight/install-setup/dwb-client-installer.md)
+* [Presentation Layer for Annotating Visualizations](/help/home/c-get-started/c-vis/c-present-layer.md)
 * [Metric Dim Wizard](/help/home/c-get-started/c-vis/dwb-create-metricdim/dwb-create-metricdim.md)
 
 *Last updated*: **9/30/2019**

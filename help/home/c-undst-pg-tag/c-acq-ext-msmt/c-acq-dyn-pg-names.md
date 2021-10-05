@@ -17,25 +17,25 @@ For [!DNL Sensor] to collect a usable name for the page that was actually served
 In general, the object request embedded in each such HTML page should look like the following:
 
 ```
-<!-- BEGIN REFERENCE PAGE TAG--> 
-<script language="javascript"> 
-var vlc = "0" //Capture Link Click  1=TRUE, 0=FALSE 
-var v = {}; 
-v["_pn"] = "Application Form"; 
-</script> 
- 
-<script language="javascript" src=”http://www.myserver.com/path/to/zig.js" type="text/javascript"></script> 
- 
-<noscript> 
-<img src="/path/to/zag.gif?Log=1&v_jd=1" border="0" width="1" height="1"/> 
-</noscript> 
- 
+<!-- BEGIN REFERENCE PAGE TAG-->
+<script language="javascript">
+var vlc = "0" //Capture Link Click  1=TRUE, 0=FALSE
+var v = {};
+v["_pn"] = "Application Form";
+</script>
+
+<script language="javascript" src=”https://www.myserver.com/path/to/zig.js" type="text/javascript"></script>
+
+<noscript>
+<img src="/path/to/zag.gif?Log=1&v_jd=1" border="0" width="1" height="1"/>
+</noscript>
+
 <!-- END REFERENCE PAGE TAG-->
 ```
 
 [!DNL Log=1] ensures that [!DNL Sensor] logs the request in spite of the [!DNL Sensor] content type filtering rules to the contrary, such as the filtering out of JavaScript and image requests before they are stored. The declared v_pn variable identifies the name of the actual page content being served so that [!DNL Site] knows the name of the page the visitor actually viewed. The v_pn value could be established manually or by other script or application code.
 
-After the value is collected, you can configure the data workbench server to use the contents of the query string variable (name=value pair, for example, v_pn=Application Form) appended to the [!DNL zag.gif] URI (for example, [!DNL http://www.mysite.com/pageserved.asp?v_pn=Application%20Form]), as an augmentation of the [!DNL zag.gif] URI. In addition to the baseline measurements acquired with every HTTP request, an extended measurement would be acquired with this request.
+After the value is collected, you can configure the data workbench server to use the contents of the query string variable (name=value pair, for example, v_pn=Application Form) appended to the [!DNL zag.gif] URI (for example, [!DNL https://www.mysite.com/pageserved.asp?v_pn=Application%20Form]), as an augmentation of the [!DNL zag.gif] URI. In addition to the baseline measurements acquired with every HTTP request, an extended measurement would be acquired with this request.
 
 |  Data Collected  | Explanation  | Example  |
 |---|---|---|
