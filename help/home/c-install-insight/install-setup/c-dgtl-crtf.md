@@ -1,6 +1,6 @@
 ---
 description: After you have installed the Insight program files, you must download and install the digital certificate provided to you by Adobe.
-title: Downloading and Installing the Digital Certificate
+title: Downloading and Installing the Digital Certificate (Insight)
 uuid: 93ab2222-a977-4279-9e1e-71038b1d1cfa
 exl-id: 0dff95ae-880b-45d5-96df-4eb6bea58891
 ---

@@ -1,6 +1,6 @@
 ---
 description: Steps to install the Terrain Images.cfg file on the data workbench server.
-title: Installing the Terrain Images.cfg File
+title: Installing the Terrain Images.cfg File (server)
 uuid: b692bff9-9356-4047-a2f7-f44310bf85fa
 exl-id: 4cc91839-ea36-4476-846a-59af4c5f684c
 ---

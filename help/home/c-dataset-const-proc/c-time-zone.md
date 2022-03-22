@@ -1,6 +1,6 @@
 ---
 description: Information about the Time Zone codes and formats.
-title: Time Zone Codes
+title: Time Zone Codes and formats
 uuid: 5698882a-9682-41d8-88d3-8471578a22cc
 exl-id: 2829c4ca-af6f-4ddb-acce-b33c3b552ba7
 ---

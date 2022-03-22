@@ -1,6 +1,6 @@
 ---
 description: Log (.vsl) files contain the fields of event data that are collected from servers by Sensors and used by the data workbench server in the dataset construction process.
-title: Event Data Record Fields
+title: Event Data Record Fields (.vsl files)
 uuid: ad9e773c-a128-4094-9e20-45a6de025c8f
 exl-id: d48b593f-5a3a-4a4e-9a71-3b91024c9a48
 ---

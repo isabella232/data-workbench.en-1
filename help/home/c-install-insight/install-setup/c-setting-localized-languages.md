@@ -1,6 +1,6 @@
 ---
 description: Set up insight.zbin file to set the language of the client application.
-title: Setting up Localized Languages
+title: Setting up Localized Languages insight.zbin
 uuid: 7735e183-7ba3-4e11-bfe2-7f87e4c55fc8
 exl-id: bb57887f-f213-48a4-9a10-8da7ea33eda5
 ---
