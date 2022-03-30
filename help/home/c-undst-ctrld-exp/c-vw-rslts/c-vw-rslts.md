@@ -1,6 +1,6 @@
 ---
 description: You can view the results of an experiment in a visualization within Insight.
-solution: Analytics,Analytics
+solution: Analytics
 title: Viewing the Results
 uuid: de9b6f34-faf8-43e2-bf93-1078e624b908
 exl-id: de63b09c-7648-49b0-8764-900fc0e56acc

@@ -1,6 +1,6 @@
 ---
 description: Test results must be clear and meaningful so that you can feel confident making large dollar decisions based on those results.
-solution: Analytics,Analytics
+solution: Analytics
 title: What Should I Test?
 uuid: 9dfe3685-885e-4098-ab1d-ac891ccc5199
 exl-id: 0f06ff0f-b385-4614-8007-afdb85191a85

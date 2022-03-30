@@ -1,6 +1,6 @@
 ---
 description: To enable controlled experimentation, someone with administrator access to your web or application servers must modify the ExpFile parameter in the Sensor configuration file (usually named using txlogd.conf) on each web or application server in your web cluster on which a Sensor is installed.
-solution: Analytics,Analytics
+solution: Analytics
 title: Enabling Controlled Experimentation
 uuid: 27d68fad-ae2d-4a2e-b449-fbaf88286cfa
 exl-id: 53c18524-6050-4708-af63-9e8ef8da389e

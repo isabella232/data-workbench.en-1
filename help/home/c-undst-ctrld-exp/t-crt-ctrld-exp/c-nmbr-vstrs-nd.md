@@ -1,6 +1,6 @@
 ---
 description: To create a statistically significant experiment, you must determine how long you need to run the experiment to include enough visitors to effectively evaluate the results of the changes to your website.
-solution: Analytics,Analytics
+solution: Analytics
 title: Determining the Number of Visitors Needed
 uuid: 07fca0aa-031a-4335-bba4-fb00cb90e29d
 exl-id: c23f4c21-21e5-4694-a500-efe1369cd4bf

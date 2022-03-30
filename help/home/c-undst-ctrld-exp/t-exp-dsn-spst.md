@@ -1,6 +1,6 @@
 ---
 description: This file functions not only as a worksheet but also as a record of your decisions about the experiment.
-solution: Analytics,Analytics
+solution: Analytics
 title: Experiment Design Spreadsheet
 uuid: bcb11e39-9cbd-400c-af30-4b1c85e7f218
 exl-id: 554790ab-1182-4481-87b0-e768ea769ddf

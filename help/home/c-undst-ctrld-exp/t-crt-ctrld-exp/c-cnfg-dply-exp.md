@@ -1,6 +1,6 @@
 ---
 description: After you have defined your objective, hypothesis, and experiment details as well as created your test content, you must configure Sensor to deploy the controlled experiment.
-solution: Analytics,Analytics
+solution: Analytics
 title: Configuring and Deploying the Experiment
 uuid: 460d3ea4-a6c8-4ac4-9a3f-eab71f65b096
 exl-id: 957c2ea2-72a5-4bb2-af1d-65187613c26d
